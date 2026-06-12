@@ -1,0 +1,33 @@
+struct ICriterium {
+    @rename("filterType")
+    FilterType filter_type;
+    string value;
+};
+
+@derive(Hash)
+enum TargetPlatform {
+    @rename("win32-x64")
+    Win32X64,
+    @rename("win32-ia32")
+    Win32Ia32,
+    @rename("win32-arm64")
+    Win32Arm64,
+    @rename("linux-x64")
+    LinuxX64,
+    @rename("linux-arm64")
+    LinuxArm64,
+    @rename("linux-armhf")
+    LinuxArmhf,
+    @rename("alpine-x64")
+    AlpineX64,
+    @rename("alpine-arm64")
+    AlpineArm64,
+    @rename("darwin-x64")
+    DarwinX64,
+    @rename("darwin-arm64")
+    DarwinArm64,
+    Universal,
+    Web,
+    Unknown,
+    Undefined,
+};

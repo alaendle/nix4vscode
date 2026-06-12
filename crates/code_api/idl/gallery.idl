@@ -1,0 +1,114 @@
+struct Query {
+    sequence<IQueryState> filters;
+    @rename("assetTypes")
+    sequence<string> asset_types;
+    unsigned long flags;
+};
+
+interface GalleryService {
+    @post(path = "/extensionquery")
+    IRawGalleryQueryResult extension_query(
+        @header @rename("Accept")
+        string accept,
+        @header @rename("Accept-Encoding")
+        string accept_encoding,
+        @flatten
+        Query query
+    );
+};
+
+struct IRawGalleryQueryResult {
+    sequence<IRawGalleryExtensionsResult> results;
+};
+
+struct IRawGalleryExtensionStatistics {
+    @rename("statisticName")
+    string statistic_name;
+    double value;
+};
+
+struct IRawGalleryExtensionPublisher {
+    @optional
+    @rename("displayName")
+    string display_name;
+    @optional
+    @rename("publisherId")
+    string publisher_id;
+    @rename("publisherName")
+    string publisher_name;
+    @optional
+    string domain;
+};
+
+struct IRawGalleryExtension {
+    @optional
+    @rename("extensionId")
+    string extension_id;
+    @rename("extensionName")
+    string extension_name;
+    @optional
+    @rename("displayName")
+    string display_name;
+    @optional
+    @rename("shortDescription")
+    string short_description;
+    IRawGalleryExtensionPublisher publisher;
+    sequence<IRawGalleryExtensionVersion> versions;
+    @optional
+    sequence<IRawGalleryExtensionStatistics> statistics;
+    @rename("releaseDate")
+    string release_date;
+    @rename("publishedDate")
+    string published_date;
+    @rename("lastUpdated")
+    string last_updated;
+    @optional
+    sequence<string> categories;
+    string flags;
+};
+
+struct IRawGalleryExtensionsResult {
+    sequence<IRawGalleryExtension> extensions;
+    @rename("resultMetadata")
+    sequence<ResultMetaData> result_metadata;
+};
+
+struct IRawGalleryExtensionVersion {
+    string version;
+    @rename("lastUpdated")
+    string last_updated;
+    @rename("assetUri")
+    string asset_uri;
+    @rename("fallbackAssetUri")
+    string fallback_asset_uri;
+    @optional
+    sequence<IRawGalleryExtensionFile> files;
+    @optional
+    sequence<IRawGalleryExtensionProperty> properties;
+    @optional
+    @rename("targetPlatform")
+    string target_platform;
+};
+
+struct IRawGalleryExtensionProperty {
+    string key;
+    string value;
+};
+
+struct IRawGalleryExtensionFile {
+    @rename("assetType")
+    string asset_type;
+    string source;
+};
+
+struct MetaDataItem {
+    string name;
+    unsigned long long count;
+};
+
+struct ResultMetaData {
+    @rename("metadataType")
+    string metadata_type;
+    @rename("metadataItems")
+    sequence<MetaDataItem> metadata_items;
+};

@@ -8,12 +8,26 @@ mod query;
 mod request_body;
 mod version;
 
-pub use extensions::*;
+mod generated {
+    use super::IQueryState;
+
+    include!(concat!(env!("OUT_DIR"), "/gallery.rs"));
+}
+
+pub use generated::*;
+
+mod generated_support {
+    use super::FilterType;
+
+    include!(concat!(env!("OUT_DIR"), "/gallery_support.rs"));
+}
+
+pub use generated_support::*;
+
 pub use gallery_extension::*;
 
 pub use enums::*;
 pub use flags::*;
 pub use http_client::*;
-pub use query::*;
 pub use request_body::*;
 pub use version::*;

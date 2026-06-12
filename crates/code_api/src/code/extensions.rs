@@ -1,30 +1,5 @@
-use serde::{Deserialize, Serialize};
-
 // https://github.com/microsoft/vscode/blob/d187d50a482ff80dcf74c35affb09dda1a7cd2fe/src/vs/platform/extensions/common/extensions.ts
-#[derive(Debug, Serialize, Deserialize, Clone, Copy, Hash, Eq, PartialEq)]
-#[serde(rename_all = "kebab-case")]
-pub enum TargetPlatform {
-    Win32X64,
-    Win32Ia32,
-    Win32Arm64,
-
-    LinuxX64,
-    LinuxArm64,
-    LinuxArmhf,
-
-    AlpineX64,
-    AlpineArm64,
-
-    DarwinX64,
-    DarwinArm64,
-    // darwin universal
-    Universal,
-
-    // https://code.visualstudio.com/api/extension-guides/web-extensions
-    Web,
-    Unknown,
-    Undefined,
-}
+use super::TargetPlatform;
 
 impl From<&str> for TargetPlatform {
     fn from(value: &str) -> Self {
@@ -46,22 +21,6 @@ impl From<&str> for TargetPlatform {
             _ => Self::Unknown,
         }
     }
-}
-
-#[derive(serde::Serialize, serde::Deserialize, Debug, Clone, Default)]
-#[serde(default)]
-#[serde(rename_all = "camelCase")]
-pub struct MetaDataItem {
-    pub name: String,
-    pub count: u64,
-}
-
-#[derive(serde::Serialize, serde::Deserialize, Debug, Clone, Default)]
-#[serde(default)]
-#[serde(rename_all = "camelCase")]
-pub struct ResultMetaData {
-    pub metadata_type: String,
-    pub metadata_items: Vec<MetaDataItem>,
 }
 
 #[cfg(test)]
