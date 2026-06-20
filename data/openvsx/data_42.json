@@ -24,6 +24,9 @@
 {"v":"1.1.4","e":"^1.60.0","h":"0lj85pk3xdhkjn02727v2niyfibl8hz758mxn18yp2g52f9yg99x"},
 {"v":"1.1.2","e":"^1.60.0","h":"19swvfn5vjb120bqiclf30855xvahxpava3lf98l0lsh55qxwswy"}
 ],
+"amkrajewski.tdb-highlighter":[
+{"v":"1.3.3","e":"^1.60.0","h":"1gf0piabb5apfcylc0y95p3yfryxq9yifjhcnb2hij9g2yipsry7"}
+],
 "angular-studio.ng-angular-extension":[
 {"v":"21.1.1","e":"^1.74.3","h":"1ygz1ahjdbpp36kiggbiiqbhgwfc16i15074maa9h9lld06k5jbw"},
 {"v":"21.1.0","e":"^1.74.3","h":"12xq498n2r6ymgjnvw4sckif16zxwdydpl3pb1mg4bbiisg8x28x"}
@@ -697,6 +700,14 @@
 {"v":"1.0.0","e":"^1.75.0","h":"0w87yl7kackh5ssmzkidjgsvqni1mcskx7x10r16kcs2mf1j006h"}
 ],
 "nexosqlstudio.nexo-sql-studio":[
+{"v":"1.34.1","e":"^1.120.0","p":"darwin-arm64","h":"18r785409k9syc5pr01dmixrgrcvadz4rmga562y3bh48jpca8xs"},
+{"v":"1.34.1","e":"^1.120.0","p":"darwin-x64","h":"10gmk5vcyj6mnd3nk2a61jl0m45ncxsqf4krwvj98cx22vwlgh1l"},
+{"v":"1.34.1","e":"^1.120.0","p":"linux-arm64","h":"07zmwp5va0zi38q8swnj59dlh6dyizz1yjlf3s2m1qq3rk1rxz8z"},
+{"v":"1.34.1","e":"^1.120.0","p":"linux-x64","h":"1jcb6sxvm7w51m9dasbilw9r031xakqpcqnpakcv8ydk08jw7hvj"},
+{"v":"1.34.0","e":"^1.120.0","p":"darwin-arm64","h":"11pkmbzrlf5s6zh8zpkksf7ywbafs2p81l27hbbzdjn6yqjbcjzc"},
+{"v":"1.34.0","e":"^1.120.0","p":"darwin-x64","h":"1izfyms9l2dgd7bwb7ky89wgvb12j4d0y4n6yid32sah58kpdfdm"},
+{"v":"1.34.0","e":"^1.120.0","p":"linux-arm64","h":"09jib2pf1jz4zkargzvc2njc2hcm306azb3c9lipsmm50pk7qn43"},
+{"v":"1.34.0","e":"^1.120.0","p":"linux-x64","h":"097n5pjbsr4bz4pfqa7wbivkd8phg6bmcx7kdw6d0l6ir69xvr2v"},
 {"v":"1.33.14","e":"^1.120.0","p":"darwin-arm64","h":"1rvbpk5226x7qrv3b7p5lar3ycs0hr9z970i6hgr9vq5vr36jjh4"},
 {"v":"1.33.14","e":"^1.120.0","p":"darwin-x64","h":"19flkqnh2l3a7bm3a8g3fhlxzblvj2dymidf5wfglddxf0vqzr42"},
 {"v":"1.33.14","e":"^1.120.0","p":"linux-arm64","h":"046lcn2imck1zwdjcad8hzavcr57yw3x4z4wmiwn9vaylm8sbk9k"},
@@ -969,6 +980,10 @@
 {"v":"25.3.71","e":"^1.73.0","p":"linux-x64","h":"048iggi7ciyziqbmnli52yqrhmw3q1q01g3zjr64g1hiz2sn7qvq"}
 ],
 "odoo.odoo":[
+{"v":"1.3.3","e":"^1.124.0","p":"darwin-arm64","h":"0n2909q1vy47k5kgv3zipq4dp893qyzrnlh6byls72yrz1ifhf7f","r":true},
+{"v":"1.3.3","e":"^1.124.0","p":"darwin-x64","h":"0n5ndn6q42mg6q3dmpggphkbv4m40ylvl10cwpmny4xx07hvnyw4","r":true},
+{"v":"1.3.3","e":"^1.124.0","p":"linux-arm64","h":"0a6gypi0sxydj45fqvlfsbna15mkjql6vkhkv6wxaz871icvkfdw","r":true},
+{"v":"1.3.3","e":"^1.124.0","p":"linux-x64","h":"19fgmqjnn1gfbrclsik8bp3f3fs3w4dpcd1gjbw4ywqx74fdpkfq","r":true},
 {"v":"1.3.2","e":"^1.78.0","p":"darwin-x64","h":"0zfxlb29g4ivpw50ns6z8pbcniwzmjfliwi1bmvw09wl5ywl9rr7","r":true},
 {"v":"1.3.2","e":"^1.78.0","p":"linux-arm64","h":"1xs6rwb3hx43lq5yhl0f68gdqf77gh8whvwchn51ikzn5j4r9pi8","r":true},
 {"v":"1.3.2","e":"^1.78.0","p":"linux-x64","h":"0l7jxdqqm096407w8sammahw0jyhl61pz7ymh812p1b00c0xwzvr","r":true},
@@ -1122,6 +1137,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1b67165cavslyyvzj2p4nh81prggkmvgs4davw14biizz90srjqb"}
 ],
 "salesforce.salesforcedx-vscode-apex-debugger":[
+{"v":"67.1.0","e":"^1.90.0","h":"1in64lc4n91v0lriq60gryd60s3ssvm4lj4a07vrqpwzdpg9w4xm"},
 {"v":"66.15.0","e":"^1.90.0","h":"1a8zgsccc2xj9fawib3rsq2dhaq09pmj5l8kj788l0l0dgs7cql3"},
 {"v":"66.14.2","e":"^1.90.0","h":"0m704cf0dy0kba1pa5ys02b70scwgk3my2hp700bb4dpc3n7cxg4"},
 {"v":"66.12.3","e":"^1.90.0","h":"0r8pssxaarr0cwl8jv8q9yzq0l7hzba2alkgv3hiyqh48wnh1sf9"},

@@ -21,6 +21,8 @@
 {"v":"0.3.0","e":"^1.85.0","h":"0wm0wfn8xa35cq4gbinh897m0scb8jhwwikqqsdwnqzd6f0c8mbb"}
 ],
 "aleksuix.vastlint":[
+{"v":"0.6.1","e":"^1.85.0","h":"193w268y71wk6d377kvhl66ypw0bmaqfc5s20fhx0jp9r1yb50sa"},
+{"v":"0.6.0","e":"^1.85.0","h":"0y7d60aylv3mpsh1yi4acjsmj351vpsr926j06jjwda53zh6pfh0"},
 {"v":"0.5.0","e":"^1.85.0","h":"1c0x3a8b0rcd3mazdsh00zna2a9rn8whxbzh1p7p5ycscgl84h4s"},
 {"v":"0.4.24","e":"^1.85.0","h":"1k3f660xvry5p16iy3356m4h730cmsg78mb4004ifkb1v46hx4gn"},
 {"v":"0.4.23","e":"^1.85.0","h":"08ys6rrvvlmlpy8813jn60bvhajqfc9c9d1dyabk8yl37vlc2986"},
@@ -46,6 +48,7 @@
 {"v":"0.3.3","e":"^1.85.0","h":"00jav0z3y5whdfymjr2lqgcgxiakb6264hj1swb091qy321n9kcr"}
 ],
 "amazonwebservices.aws-transform-plugin":[
+{"v":"1.1.1","e":"^1.93.0","h":"1v17s3dkq5yvahz60d9x5f7bld6vcmnyx4df8zqca4k23c24izzl"},
 {"v":"1.1.0","e":"^1.93.0","h":"1yrqmssl40bzc9xwx3ckk2h4lw4pl6f0jvhk32yf98p4z328lyx9"},
 {"v":"1.0.3","e":"^1.93.0","h":"09pwys450fwfm8pigwf3jz83b696mzs38r5w2b54hi9frymispwc"},
 {"v":"1.0.2","e":"^1.93.0","h":"1kwx96lkxrbs6m9zbm7bcbz2icgi95sglbvrgssl7mzjwfrl7b7y"},
@@ -123,6 +126,8 @@
 {"v":"0.1.0","e":"^1.90.0","h":"0wivin5fdvx6sq1b1gxj6f1v1385mav17drhv84fng92syzxf1ir"}
 ],
 "bearylabs.doom":[
+{"v":"0.7.1","e":"^1.110.0","h":"19x6ja3zyzhjh7gzicsy8abr06vw2a6ssvrvzp7cqa0l9qpjysyb","r":true},
+{"v":"0.7.0","e":"^1.110.0","h":"0a2f50wlnacnis4dah5ha6f6qbf9xjwn924gz4v03n461v2cyjmc","r":true},
 {"v":"0.6.6","e":"^1.110.0","h":"1hjb7lzg3sf7hg2ssm6ismx0m8ngjxryrp73byasyyll9mjsd69h"},
 {"v":"0.6.5","e":"^1.110.0","h":"0r09q9ad5k34dgh6p8qibf3zj0sb8w64k9wqpgc7l5jwbdalhi0y"},
 {"v":"0.6.4","e":"^1.110.0","h":"0lnv9m7kjasmyp5fbiakn2df31k1sbmr87gcxb9zgdivwgxhipgi"},
@@ -639,6 +644,7 @@
 {"v":"0.7.0","e":"^1.105.0","h":"0wiscqli88yrx3bw6pr21z76qaryxcpi346hspn4jgzrabs5i2ns"}
 ],
 "juliacomputing.dyad-studio":[
+{"v":"3.1.1","e":"^1.101.0","h":"0vbwinnc1jwg0k96l5ylhryphyq2zgvd6s0m22wkks3xg1wbnc5b"},
 {"v":"3.1.0","e":"^1.101.0","h":"1hm7idhkq9p8myawkr7pr1a604k4nfnx2qd6q8w336c1ms8z2mk7"},
 {"v":"3.0.0","e":"^1.101.0","h":"0qi8mflgxnn53l6nffagjjq003m9isg0yxcw7qw2y7bfy5dakdsm"},
 {"v":"2.3.1","e":"^1.99.3","h":"1c78hfqdd7mrzaf6gnxllzcbx9k1hchc4x50a5pxyljssqxly73p"},
@@ -1052,6 +1058,7 @@
 {"v":"1.0.9","e":"^1.104.0","h":"0qhwdcjmc95pjrzh1cm9qj6zxvxxdxm6jnhhcndiczj945c2szii"}
 ],
 "patchwire.patchwire-vscode":[
+{"v":"0.5.2","e":"^1.80.0","h":"0w57k99mx4cg0r5ca23w5hlzsfch908npps4bag43a5wcgc1v55x"},
 {"v":"0.3.18","e":"^1.80.0","h":"1hccicfnmi8lay680rkj03mk8i7z2k106mmfl7afbxib23w6fa7k"},
 {"v":"0.3.17","e":"^1.80.0","h":"1ks4b11s6xqcpcfcgvkx78157bzkiy7j21dsgw62lr6qifivsssq"},
 {"v":"0.3.16","e":"^1.80.0","h":"0djdwdchrs56zrjbn1xbz3fjz0dbp6qxxy56ahy4r5flmwnxc1nr"},

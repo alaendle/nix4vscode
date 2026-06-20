@@ -65,6 +65,7 @@
 {"v":"0.1.0","e":"^1.103.0","h":"0fjyph8jgyfzsfha2vn2g493vczhli7vc13sb1lly4hphhgxijr0"}
 ],
 "budgetary.budgetary-vscode":[
+{"v":"0.1.1","e":"^1.95.0","h":"0lkhvvy3if81j068qb8jilxidnq3rwc7n845p1vihfngrbh96y0d"},
 {"v":"0.1.0","e":"^1.95.0","h":"180vak323nzy2yzz2aihxkdfkn5f0mjz54nry6bi6zx2zvky3xvf"}
 ],
 "candelahq.candela-vscode":[
@@ -218,6 +219,7 @@
 {"v":"1.13.0","e":"^1.66.0","h":"0ch2sxhk634jzjw6cl38pnwz71p39s95r5hjp7lg25qbxbqnqr7w"}
 ],
 "devsense.profiler-php-vscode":[
+{"v":"1.71.18995","e":"^1.63.1","h":"1v2v9kmbl1586dk2hx69ms592h4m62ks9j0cixmsdlkzkqw3a5as","r":true},
 {"v":"1.71.18989","e":"^1.63.1","h":"0jbwlf8fc2v848z8ki6jm0c6pbv9jzb9bckjcl28mc382dj1qrm2"},
 {"v":"1.70.18983","e":"^1.63.1","h":"1k5ayzf3xp2fwfazvlj0h654rjfn8mm9hy1ha5hgxfwk3d59f6pb","r":true},
 {"v":"1.70.18975","e":"^1.63.1","h":"047c6cjsc1y966msr9l5dczcnjnn0vm3hdhf9bvfx15fq9z4sngg","r":true},
@@ -1811,6 +1813,7 @@
 {"v":"0.1.2","e":"^1.69.0","h":"00r9b4fkv2gjll6a83f8dwfnxmp4mj0mjlhdc1i2bh32p9afmvy9"}
 ],
 "gerardfp.escola40-vscode":[
+{"v":"1.0.3","e":"^1.85.0","h":"1g512smjz94z0irjlnp1n7rbbyh3l648asxxbbizh0mqpryaw6is"},
 {"v":"1.0.2","e":"^1.85.0","h":"15yn6d4nkj6k8i7nq63aa0ccbkllskmiip7j4fjfb6l0zl3p9nnp"},
 {"v":"1.0.1","e":"^1.85.0","h":"0iwz8lfg5ysbwpxnjj0slj138dj61aa2x7r4mbr8z2vsqb3cgla7"}
 ],
@@ -2509,6 +2512,11 @@
 {"v":"0.4.6","e":"^1.50.0","h":"0cbpar458fg2d0lx3bd6m60gj8d3wvm60jw44kfm9p6kj3kkbd0s"},
 {"v":"0.4.5","e":"^1.50.0","h":"1vzx9yx5l7lw71pr5z1mfiga88w2gaqnyqv75lgjpfkrnk884qg8"}
 ],
+"redhat.abbenay-provider":[
+{"v":"2026.6.4","e":"^1.99.0","p":"darwin-arm64","h":"1hmprgn31lbq435lsmbnzwk5fxj6argl628284frb9hjmpdhmbgn"},
+{"v":"2026.6.4","e":"^1.99.0","p":"linux-arm64","h":"1i9zxnd8ify1ai080jx75y06jh8a80ykwriavr0d8ki9s383cx3x"},
+{"v":"2026.6.4","e":"^1.99.0","p":"linux-x64","h":"1wjw21cfisyrnd34n080zj7c83z0qs3d6lrpr98vz38rz9wpc0dc"}
+],
 "redhat.apache-camel-extension-pack":[
 {"v":"0.0.19","e":"^1.30.0","h":"0gm7rdy92x8fw5w9x2m2bhlcb8x2522z0q248gg169b1azal4irf"},
 {"v":"0.0.18","e":"^1.30.0","h":"1zm2v1z39chqp55dim0i0w83h0psv1x7yhz9g0c9nwzm11m79vz2"},
@@ -2844,6 +2852,7 @@
 {"v":"1.2.0","e":"^1.30.0","h":"0lwnv3bzx13xrkxxpkd78a26gd9qam8isfa52vryav90alwcsijb"}
 ],
 "s3rgiosan.vscode-wp-theme-json-editor":[
+{"v":"1.4.0","e":"^1.85.0","h":"06x2n9wibbzvpr18h8azcajx93irpzqf5ss2zpfq17y5wyjrvsc1"},
 {"v":"1.3.0","e":"^1.85.0","h":"0xq5mfqv4sn4m6dahi4fmn090rry3z0h9kmgsxd7i7qarxjlrqiz"},
 {"v":"1.2.0","e":"^1.85.0","h":"1wxp8493k5j2sfsfs4pjklq7q63fvfn1dawipq491n383rvzf0xs"},
 {"v":"1.1.2","e":"^1.85.0","h":"1iy6m9xlbppw626c17j36gjlz6fwsffkqc0js7g0d8m2fcg6c9r3"},
@@ -3676,6 +3685,7 @@
 {"v":"3.29.9001","e":"^1.90.2","p":"linux-x64","h":"0w1lwm0mabspl7gnl2m950w1gq4brcyqb5qv5n8lrzxxz41ryzlz","r":true}
 ],
 "zensical.zensical-studio":[
+{"v":"0.1.1","e":"^1.100.0","h":"0vb2qnkw39w9a18s26dhdbqz1f89cylynyb4ycx85j6ml6j73s5x"},
 {"v":"0.1.0","e":"^1.100.0","h":"0b9gp5km9m3laf07ij87z5y7r54q8m7q0i58g1mfhv3jia4lprza"}
 ],
 "zippytechnologiesllc.autoclaw":[

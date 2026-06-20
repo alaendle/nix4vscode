@@ -682,6 +682,7 @@
 {"v":"0.0.1","e":"^1.78.0","h":"1mzfqiggw1f929hmwx1419b4yn2k9r19m8f0n9ibaamdbb9rijan"}
 ],
 "leverai.sand":[
+{"v":"0.0.114","e":"^1.96.2","h":"1syylirq8ql4m9dmv874ncw7sxvcpbb9wm0l8v7lvfj9skbpcyrj"},
 {"v":"0.0.113","e":"^1.96.2","h":"1afdd6z80mkddr2p2by3ayrd37fkfqmi222a9mx6x47jgl09lkgi"},
 {"v":"0.0.112","e":"^1.96.2","h":"09ljydmdgwv41qppyiq4cmk14g7dq4myap8mzkj3s3nl0x44pmav"},
 {"v":"0.0.111","e":"^1.96.2","h":"07fk70lqs160snzv5r5shrlr4apcyqwy1x407a6niy7yb2lbd8jx"},
@@ -819,6 +820,9 @@
 {"v":"2.1.29","e":"^1.90.0","h":"19qnplivqi3a05ybr2b41wbqw1qifpzj5yxb87pvknnp3yh3bh0w"}
 ],
 "neoresearchinc.heyneo":[
+{"v":"1.1.1","e":"^1.85.0","h":"1q5ihrqcy10p4rpaf5d3vx1jfsjdj3lp18w206s7i8v377kiv074"},
+{"v":"1.1.0","e":"^1.85.0","h":"1d0dxslkgwwhbhmc9rhwd95ypb61mws24sawsf9yqcy09qnqf3sc"},
+{"v":"1.0.6","e":"^1.85.0","h":"0hcz3hqn4d0v2mfaihbay7ar4blvx7glszmpga0cffsvjgjm657g"},
 {"v":"1.0.5","e":"^1.85.0","h":"164h7pfa1gmi99j2zj3rv09hxi0gvq6w0qs70z62dgakl5g8zlqx"},
 {"v":"1.0.4","e":"^1.85.0","h":"1l3mxa2zs7a7qf2rfinsxc006cw9msir7qaklvya20ihdxvxdibi"},
 {"v":"1.0.3","e":"^1.85.0","h":"0y5wl7ka39k882vzljlx7xw0p6jvdxcakgfsax6y4h3wml37s9k8"},
@@ -1090,6 +1094,8 @@
 {"v":"0.3.1","e":"^1.0.0","h":"1g94ir5zl2ialhg19cnqqhmw5sgnyb1rcz5gx87asjf7vlbvs97q"}
 ],
 "salesforce.apex-language-server-extension":[
+{"v":"0.6.1","e":"^1.90.0","h":"0zjzixyyh8s1wak5ddq13hix6wfcvd5r40isnii2pxxb0ild8s11"},
+{"v":"0.6.0","e":"^1.90.0","h":"08amdpypl55crd1hzhialrlvxz6wfhq7ry03sv7q881diw4zl3k3"},
 {"v":"0.5.102","e":"^1.90.0","h":"1sj7dcv14swwjnwvyd3kgkadgxlp6q83ka545hsy46wypsgnnsv3","r":true},
 {"v":"0.5.39","e":"^1.90.0","h":"16mg936667x0sgyr0lq85hkkfb5h6wwgv8z8851rx9j8cyn3y15b","r":true},
 {"v":"0.4.0","e":"^1.90.0","h":"08vzb9xh8z68r4llcp6izar455yk3djrwz3h8nzj5ia53zc9vh06"},
@@ -1938,6 +1944,8 @@
 {"v":"0.2.0","e":"^1.80.0","h":"0lc1j97ymbq3lpfvl17asg5gz6px9zs8vd83dvrpzz4p1fk6pa2z"}
 ],
 "vmware.vscode-spring-boot":[
+{"v":"2.3.2026062000","e":"^1.92.0","h":"0ivsw6znjvbkvkbx16sqhaxb5hj11lsijb9ma0fmgbn8p9bdyj1f","r":true},
+{"v":"2.3.2026061800","e":"^1.92.0","h":"1r4vwssw8p6x9i17np3l4abnz41mlnzlk0890rijs44b7c12m4jh","r":true},
 {"v":"2.3.2026061601","e":"^1.92.0","h":"0qjbin2g23a40lnf9cjpnizs3x0rdnqzn3226ic3w1iyp2pqxck4","r":true},
 {"v":"2.3.2026061301","e":"^1.92.0","h":"0kmnxh176841l0pk7nzmfnnm51wpzqqi65h2810ilddn3h2qq3r8","r":true},
 {"v":"2.2.2026061100","e":"^1.92.0","h":"1wacn4v1b54d954p2cq8bpdfzhvwv1xpahmzglxmxgar60cdnyji","r":true},
