@@ -75,6 +75,7 @@
 {"v":"0.2.1","e":"^1.85.0","h":"14344hbm6z55ywbnd92k56rdq2nrv5qqad1pma1xf3wmkkmx5w4w"}
 ],
 "arcane-spark.ubel-vscode":[
+{"v":"0.10.0","e":"^1.85.0","h":"02xfk9aciksp8xjvsgcn6l0mmq8k9f67qmh0jn77iqsxsp7mj6d6"},
 {"v":"0.8.1","e":"^1.85.0","h":"1yrg8izwfjd6pmr0h36339cldi9hsk8m0m2c1qkraah1mxwjmnim"},
 {"v":"0.8.0","e":"^1.85.0","h":"08l5r3spqfxhd1fhpbsciflpcvxa3g9r8195r2biphdcb17pri96"},
 {"v":"0.7.0","e":"^1.85.0","h":"09rd6fhq2bqrdlfjwrmr5awjq3ydb2jzc059hfqydkp94z01nh59"},
@@ -258,6 +259,7 @@
 {"v":"1.0.2","e":"^1.63.0","p":"linux-x64","h":"064hm4wxxbbkqvfjv9b84gs0991kiavxiizp4g9c8a8j93r8wgdh"}
 ],
 "arrterian.nix-env-selector":[
+{"v":"1.3.2","e":"^1.97.0","h":"142rsd43665hxsrwljsjbhp92qpfx8lfvxiim1plsb8z89xz6p62"},
 {"v":"1.3.1","e":"^1.97.0","h":"0c605vs2632bdpcq6fagq0vvvkqv27wdlwl0bciwwy0rzhhg1h5j"},
 {"v":"1.3.0","e":"^1.97.0","h":"08vz049138g332zzwqhfzjwzn10n2k72wwygbj1gnbdsb9938klf"},
 {"v":"1.2.0","e":"^1.97.0","h":"1idrp1lmnxn0mg2h35d0747mg1b4pvm6f272ldwxnshmvz1dgkw3"},
@@ -557,6 +559,9 @@
 {"v":"0.0.2","e":"^1.74.0","h":"124vfsvbd8kz7ix3r4mdlx2j5qkyzsx5mk5a1kq34fxr5a6rqdkm"},
 {"v":"0.0.1","e":"^1.74.0","h":"0pbn598pai9wvcwmkklghv9724hxp1ia0qlk0ihdz02zsx2x82f5"}
 ],
+"gitlore.gitlore":[
+{"v":"0.0.1","e":"^1.85.0","h":"19maqk9n0ddz4xg9jjn0kh455winnccq1zmih2735108hkswix2h"}
+],
 "glebbash.lo":[
 {"v":"0.0.128","e":"^1.88.0","h":"0i14sg50799gc2wj3wci0ck09rp2x7y2kkfnpj137hkz6ma2c7rw"},
 {"v":"0.0.113","e":"^1.88.0","h":"1aq7h3b9249z3dshnbbpvpr9c200q8p90qj520mz0aw7ccan4hqz"},
@@ -742,6 +747,7 @@
 {"v":"1.2.0","e":"^1.98.0","h":"0g956vrmscrk823s603j2r1yphhfgjl8gj4szxjw71rrdy1g7k3w"}
 ],
 "monosans.djlint":[
+{"v":"2026.6.3","e":"^1.105.1","h":"0x6g21ygh1565r3w1b1yhfjm51k70x8aacywdiy6yqbhammn231x"},
 {"v":"2026.6.2","e":"^1.105.1","h":"1ndw17b74a88p3a6qi0p13bgmfsvzx8mw9kai999b12wjgm8a24m"},
 {"v":"2026.6.1","e":"^1.105.1","h":"0yl90s3fv8d2h45fd21lirhy5qsmd21hp9bvvb8ksz70braigjf6"},
 {"v":"2026.6.0","e":"^1.120.0","h":"06fwwg66wxq0ymqh6h1r8agggd7zzn0dyn35sf5xwhn08mjwxs4r"},
@@ -826,6 +832,7 @@
 {"v":"1.0.6","e":"^1.85.0","h":"1c13dp6ji2wr4c8jyy5q8d0i6pgaq66k24pd51a4fgnjgv21as7a"}
 ],
 "paavalipopov.antigravity-notebook-tab":[
+{"v":"0.5.0","e":"^1.96.0","h":"1fg1dncc5y5nj4z43c8511h410vbv99znpilfhbnlqizzs0ch5fw"},
 {"v":"0.4.1","e":"^1.96.0","h":"0zvss5njsj7pyv1qzw0xsbq3gp6rfc984xzgwrc0rc4xnv4qv80i"}
 ],
 "patbenatar.advanced-new-file":[
@@ -6042,6 +6049,8 @@
 {"v":"1.4.0","e":"^1.94.0","h":"1vac82v5nmlqp6inqdjc6kilcvlhm8jbm1gcdnxhxqb1cglmq9j2"}
 ],
 "titusdecali.proser":[
+{"v":"1.4.24","e":"^1.90.0","h":"19vhb2wffwvbr8ldk5bncywp3a25jii7iz9ppc02111bjan993sr"},
+{"v":"1.4.21","e":"^1.90.0","h":"06h91dks5wkf2c0a2klld4pyb28rhhinz5pci4y6iygyvwba992w"},
 {"v":"1.2.6","e":"^1.90.0","h":"0s32319lnj9bxnkh3y2wwck3pkq8rxyai8szri3xw36qvsadm145"},
 {"v":"1.2.5","e":"^1.90.0","h":"0i1ril5qfv6vv34c3x45nqcl6x088mksr42v64rnkq5j53zncbgw"},
 {"v":"1.0.1","e":"^1.90.0","h":"13h2wa7g4qsw9b8jbdal6h8nbi2d7w49642d3q6nw6x1wyzcjnvg"},

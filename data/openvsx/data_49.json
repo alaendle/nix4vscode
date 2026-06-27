@@ -8,6 +8,7 @@
 {"v":"1.1.0","e":"^1.85.0","h":"1wrlrd8b15y9qrfbncqph2rrh8y1v9di4b165r751w9p19ra9mxb"}
 ],
 "ai4you.vscode-openedge-hck":[
+{"v":"0.1.165","e":"^1.101.0","h":"1dpqinv4s9438g0dhsjlibkaysbr3a5q3jz2h0sbl9vgd5xg66ar","r":true},
 {"v":"0.1.163","e":"^1.101.0","h":"0mna75m6yjfgvfq5lkxaila144drmzv7l9538r62rz9s90an3jpn"},
 {"v":"0.1.161","e":"^1.101.0","h":"1fvaicshz4g24d9dmc9acdp2pqhsn2i7f7ayknax7jj2c3i0cbmp","r":true},
 {"v":"0.1.159","e":"^1.101.0","h":"19ssh1ir4bsl951gyxmnvxrignihwrzigq4b48s5dlbi3szwsk83","r":true},
@@ -195,6 +196,7 @@
 {"v":"0.5.0","e":"^1.71.0","h":"1d7ydn4lxpa8zr7ay4dn67v7v0sc02kh0flj687ym1a3ps446g77"}
 ],
 "davissss2.antigravity-account":[
+{"v":"0.2.4","e":"^1.85.0","h":"1bp058k6hc2gk6dxl2ayi9fj79a2p0x97v39ph53i7ph938qka2k"},
 {"v":"0.2.3","e":"^1.85.0","h":"1ymxvflrwm1awd261qbc6sngnndding93k4vrygjf3iw8fa4q7jj"},
 {"v":"0.2.1","e":"^1.85.0","h":"1h3s2sgbc0gyk49fphqxnbbv2567xvrd0qd02q4ah8p18m6mjf9c"},
 {"v":"0.1.9","e":"^1.85.0","h":"18nb55y95jscflikbqy9v7h87r04h8lz935a9a8gvryhz4vg6rw4"},
@@ -215,6 +217,9 @@
 {"v":"0.0.3","e":"^1.74.0","h":"0zr2xg4wvgggyqzhy44kr1sq682ml4ghq44jp0gh523141i7f71s"},
 {"v":"0.0.2","e":"^1.74.0","h":"0jxcvf7awnl96s9fjksgfhqc35srplaangvjvvjmk3r1nvyxmp06"},
 {"v":"0.0.1","e":"^1.74.0","h":"06rd7rfv4djiiibwj3pi7cm6149hk2cdr5i9jzmz1f413zl3fbrk"}
+],
+"dvigo.vscode-package-json-smart-sorter":[
+{"v":"1.0.0","e":"^1.74.0","h":"0bb8i173wbzv3vfhaabxjfmvw142vs08dr7zgm791r5ckpija6a3"}
 ],
 "dwqs.cursor-trace":[
 {"v":"1.0.1","e":"^1.85.0","h":"0k76x613kpg9kaq29ky7y55s7i36s38fws5ks0827781rbypfdrf"},
@@ -284,6 +289,9 @@
 {"v":"0.0.17","e":"^1.43.0","h":"0j6nq8mx1gilkymjhj4d71a6wbav9r5691acqh8v58rnkzv25dyz"},
 {"v":"0.0.16","e":"^1.43.0","h":"1wsxd9rm3gq2bpbdp9j2aq8ycv4mqaklp5gi262613iix6v0d523"},
 {"v":"0.0.15","e":"^1.43.0","h":"13c9ky4ihf20x2q11s2w6vmhaa3ab85pygv20hv6d1w4yyx66wgi"}
+],
+"fallenmax.mithril-emmet":[
+{"v":"0.7.7","e":"^1.21.0","h":"0k07hxbskxax0x006chdncfy0w8c2r47pnn80n29xirbic5nhn5b"}
 ],
 "gabodev.minecraft-plugin-development":[
 {"v":"1.2.0","e":">=1.123.0","h":"15ky2zbq17c4v4xkks7nyhki0dl1nnkab82j9fp2ai9nkjnxqyqw"},
@@ -820,6 +828,7 @@
 {"v":"2.1.29","e":"^1.90.0","h":"19qnplivqi3a05ybr2b41wbqw1qifpzj5yxb87pvknnp3yh3bh0w"}
 ],
 "neoresearchinc.heyneo":[
+{"v":"1.1.2","e":"^1.85.0","h":"18iihf6v7z92p6x9zc0hwn1yw6c6p27x3dv5pdvjjywz4iqv3bwc"},
 {"v":"1.1.1","e":"^1.85.0","h":"1q5ihrqcy10p4rpaf5d3vx1jfsjdj3lp18w206s7i8v377kiv074"},
 {"v":"1.1.0","e":"^1.85.0","h":"1d0dxslkgwwhbhmc9rhwd95ypb61mws24sawsf9yqcy09qnqf3sc"},
 {"v":"1.0.6","e":"^1.85.0","h":"0hcz3hqn4d0v2mfaihbay7ar4blvx7glszmpga0cffsvjgjm657g"},
@@ -888,6 +897,9 @@
 ],
 "pivaszbs.svelte-autoimport":[
 {"v":"1.0.4","e":"^1.17.0","h":"149as4m34appldccrzkvm63kbnsn9xc684j88b5favk6mih5kb1j"}
+],
+"poalrom.codereview-json":[
+{"v":"0.0.1","e":"^1.90.0","h":"12d42haf6gqw33phr3j9j25g3hbylvbkm3yz3gdzcf33qjfrds80"}
 ],
 "portermetricsinc.portercode":[
 {"v":"0.1.4","e":"^1.85.0","h":"0bi0m94ywhixf8wcfjr7048vr8g38gz8aw6xcsfhc4jhhlr1r7q6"}
@@ -1094,6 +1106,8 @@
 {"v":"0.3.1","e":"^1.0.0","h":"1g94ir5zl2ialhg19cnqqhmw5sgnyb1rcz5gx87asjf7vlbvs97q"}
 ],
 "salesforce.apex-language-server-extension":[
+{"v":"0.8.0","e":"^1.90.0","h":"04x6kbh59cnjdhz4svrbcp8jqh327ax836idfrm7j88g36ma8zzp"},
+{"v":"0.7.0","e":"^1.90.0","h":"126l40y9xn03fk0q996v2c08n1073c2vl6vfxcpbjliq4kwsi9ii","r":true},
 {"v":"0.6.1","e":"^1.90.0","h":"0zjzixyyh8s1wak5ddq13hix6wfcvd5r40isnii2pxxb0ild8s11"},
 {"v":"0.6.0","e":"^1.90.0","h":"08amdpypl55crd1hzhialrlvxz6wfhq7ry03sv7q881diw4zl3k3"},
 {"v":"0.5.102","e":"^1.90.0","h":"1sj7dcv14swwjnwvyd3kgkadgxlp6q83ka545hsy46wypsgnnsv3","r":true},
@@ -1944,6 +1958,9 @@
 {"v":"0.2.0","e":"^1.80.0","h":"0lc1j97ymbq3lpfvl17asg5gz6px9zs8vd83dvrpzz4p1fk6pa2z"}
 ],
 "vmware.vscode-spring-boot":[
+{"v":"2.3.2026062700","e":"^1.92.0","h":"07cxh36rig638glqn8caamx1rvsiwdsib8rrycvvmscc2ns1qbpl","r":true},
+{"v":"2.3.2026062500","e":"^1.92.0","h":"1d57rnnr48dfq7k1s6mxplmlhmzzcn9rg67pfva3xfyqgfxp2wd0","r":true},
+{"v":"2.3.2026062300","e":"^1.92.0","h":"1fp04886liy9zi8m7qhwqj84b81sh0jcwsypcrqvkc8lmmariw8m","r":true},
 {"v":"2.3.2026062000","e":"^1.92.0","h":"0ivsw6znjvbkvkbx16sqhaxb5hj11lsijb9ma0fmgbn8p9bdyj1f","r":true},
 {"v":"2.3.2026061800","e":"^1.92.0","h":"1r4vwssw8p6x9i17np3l4abnz41mlnzlk0890rijs44b7c12m4jh","r":true},
 {"v":"2.3.2026061601","e":"^1.92.0","h":"0qjbin2g23a40lnf9cjpnizs3x0rdnqzn3226ic3w1iyp2pqxck4","r":true},
@@ -2089,6 +2106,7 @@
 {"v":"0.0.21","e":"^1.95.0","h":"067wfbzn0ykw19d835lmxnv9zbhhp1hflc77j2mhipz4mi81h8hr"}
 ],
 "xcrystal.overwatch-workshop":[
+{"v":"3.11.31","e":"^1.86.0","h":"1im4112xwrfqapw9fqspdzwdkkmygy4qka4j60ipjn8l4clyyjd8"},
 {"v":"3.11.30","e":"^1.86.0","h":"1hbqrdm4li4bd4pdgiwj65qk1bqfcibqpvzgbv3k0zhjipv1hxz1"},
 {"v":"3.11.28","e":"^1.86.0","h":"0f3k5vgkk6rvkki8gwziw1h7sys7a38hgiin5xprqp0360p19kc9"},
 {"v":"3.11.22","e":"^1.86.0","h":"0qmihnifmcj0q97qfky2accvgly1dbbl1dlbb6s0qgss0q99fcf8"},
@@ -2113,6 +2131,7 @@
 {"v":"1.30.1","e":"^1.74.0","h":"1qryb597832az4k21h2cs1i5241syzhd3j789vvam0550gpbic84"}
 ],
 "yannick-beot-sp.vscode-sailpoint-saas-connectivity":[
+{"v":"0.1.1","e":"^1.96.0","h":"0j8565v2l181kpg79nh6jgc76y0y48pqvh1h4x0qhqfx5rpbbd3c"},
 {"v":"0.1.0","e":"^1.96.0","h":"0dyxxy8p3x4hvrbm64676m4da8pnmkbyq3937ssjsa2lin35zdb6"},
 {"v":"0.0.9","e":"^1.96.0","h":"1smxqi82ll89a3sdjq3iaxdqg46g3r3w3d4b4f5n8ddndgf4m8iv"},
 {"v":"0.0.8","e":"^1.96.0","h":"02f5pyn543m98cxy407gxxap4mba0kp6aj51x7icdvkbwh39lyzc"},

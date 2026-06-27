@@ -32,6 +32,7 @@
 {"v":"2.0.0","e":"^1.70.0","h":"0ylq3jh1jgv4dqfb89qdcw7x38ysk1pvnrjj7d3sg1j3c9fpgsc3"}
 ],
 "alfontal.rmd-notebooks-vscode":[
+{"v":"0.4.1","e":"^1.88.0","h":"0ijv0ljgnjh00nk5ibhma3ig8fjsy3ccqh5w0aw8296iffbsfzda"},
 {"v":"0.4.0","e":"^1.88.0","h":"1yqvdg2d2fzf6i6aac0mz2cra8mij32v1dc4zwkl7raxv24j2iv5"},
 {"v":"0.3.0","e":"^1.88.0","h":"0nbjbbp98m6aim6078z5gb31sqv15whcbkrwam9wdfjmc0sw4w1k"},
 {"v":"0.2.0","e":"^1.88.0","h":"1j8r13djl6nr85mvc4zz4blirpcp1k2mja32xpc1wy3b89zxnilz"},
@@ -49,6 +50,7 @@
 {"v":"1.0.1","e":"^1.85.0","h":"1qk65y17d9q8gl3mac6ffnbcqcaiw79d7ljqh4a6ah8i1zffh5qj"}
 ],
 "awsum-lang.awsum-vscode":[
+{"v":"0.0.7","e":"^1.118.0","h":"1cfsd9ls54aangsg5xwyi3vml61afsy7xhz0cshcqcnbfmjn2jip"},
 {"v":"0.0.6","e":"^1.118.0","h":"1x5kyqv0xwd3p98cd859crx7ng5sallyzgfbgikhbdsjf4xpvmz8"},
 {"v":"0.0.5","e":"^1.118.0","h":"0xnnibhz2x6yw4808cwh4az7k864pj3y5xypymzqmi61if0nqs4z"},
 {"v":"0.0.4","e":"^1.118.0","h":"1mv029ral666p3lhhw3fv6slxm3vfg9snkzx0b0jsvw6iqzibgaw"},
@@ -77,6 +79,7 @@
 {"v":"0.6.0","e":"^1.8.0","h":"1avpmk42w35z6ipg6wv1qkif766f8k1f0cxkcqqdjz5q70bb7dnm"}
 ],
 "bmewburn.vscode-intelephense-client":[
+{"v":"1.18.5","e":"^1.91.0","h":"0676yrzkgcc4i7dfyb81i7x7260cmgb2jmp3d2x55327nz95lkhj"},
 {"v":"1.18.4","e":"^1.91.0","h":"0hzpgi9vis27gbrddn24j2sccn99c6i0p2xg37skk0b528qqmrbm"},
 {"v":"1.18.3","e":"^1.91.0","h":"16x2b51jc7xq6c55089yfsrks5bvb4dgv3w1v55qa6v7k64d9vl1"},
 {"v":"1.18.2","e":"^1.91.0","h":"0nnqxdf9jx8722v6fj41zfnzwg8wb77ij75dhni4ssl40c0lp2pz"},
@@ -164,6 +167,7 @@
 {"v":"0.5.0","e":"^1.85.0","h":"1d109yg66ydscva4p5395bfgc6jkax55n4j9j6mmmsnkdn25fga0"}
 ],
 "cozziresearch.clprompter":[
+{"v":"1.0.16","e":"^1.74.0","h":"02zls0lk7sx37z777bkcgbj1mix9hn9ay94n46fl85hygh46rsk3"},
 {"v":"1.0.15","e":"^1.74.0","h":"00445sn70s8isv8mzyzls5gmn1n1ng0vzc9fj77vdf83lgqnpr0j"},
 {"v":"1.0.14","e":"^1.74.0","h":"14815z1qm2fqgwcdf5m7f0pbg6wcdwlp840bf6l5ipg0f2n5zxw1"},
 {"v":"1.0.12","e":"^1.74.0","h":"1a3v9zpsab9ix8kmccj5m5p7rc4g5db0za6k0dj9lqzkmjyrsbsp"},
@@ -353,6 +357,7 @@
 {"v":"1.0.0","e":"^1.42.0","h":"0i5xwhqgj8mz6sn8b4601iki02qndk7ji6zk22lbfnyai8my6hf8"}
 ],
 "hverlin.mise-vscode":[
+{"v":"1.12.0","e":"^1.85.0","h":"01vdmwhk7gzg7ihgxqb8kibgjp3ph9n0jlxgxpzxm9cvbqhj0rqj"},
 {"v":"1.11.0","e":"^1.85.0","h":"1wn0svskqw1v0f6944flgssmjyb1rhzxryhps4wskjmm4dxqlbqg"},
 {"v":"1.10.0","e":"^1.85.0","h":"1zsi2f8fq3i58zir8502blvv75q9x88mjbzi828kx0xvsph170hk"},
 {"v":"1.9.3","e":"^1.85.0","h":"1swk2rdzb4gjn21djzglprs1pgjv7i8bxfvlrxf3xgv1fdwx04ji"},
@@ -509,6 +514,7 @@
 {"v":"0.0.5","e":"^1.74.0","h":"0f2r9c1fkpg9yq6ja9yqfsg76rscx56m0njpgg5akpvgamy71cib"}
 ],
 "ivov.lisette":[
+{"v":"0.2.3","e":"^1.95.0","h":"11198x9pgkphc3clc0dxysa2w03xn0x50fx7p89wrikmmn966x4q"},
 {"v":"0.2.2","e":"^1.95.0","h":"0l3wdaakiq4j40b1mjmmp8ivv6pyc1ms54zcj0h5mbcyh39hp4wp"},
 {"v":"0.2.1","e":"^1.95.0","h":"13yyic1wij44iaiv448byhs7z45lw74rc4a3246yxdy4ff2wrjjw"},
 {"v":"0.2.0","e":"^1.95.0","h":"10ivq6pg695ivvs5ixflz7i4a7y27mshfhk77l4ls7yk30sn184l"}
@@ -682,6 +688,7 @@
 {"v":"0.0.3","e":"^1.85.0","h":"13hb5l9609r6xc6q7a6brkk88zlxg310sl2jkmp2zpq8xs99jxdb"}
 ],
 "mxz7.kanagawa-vscode-pretty":[
+{"v":"1.1.2","e":"^1.43.0","h":"0ngizm72qdbkr3r9sskhrzj4y7gx2i5p9xnna5paqic1a9npf9vr"},
 {"v":"1.1.1","e":"^1.43.0","h":"0m5lwr1l6c2b1abrg52jhsj1smv61nmqf4mf1jp95vbhdvvdnf6p"},
 {"v":"1.1.0","e":"^1.43.0","h":"1gnl207anifp0k2gmmixwg0ii5z336kb3n04nh1myy4yh5dclhjf"},
 {"v":"1.0.0","e":"^1.43.0","h":"18mk7acl6bh4y7c8n6rxch7m0qzky6wbsjxy27i1fz0ih2ip0g3y"}
@@ -848,6 +855,8 @@
 {"v":"0.0.17","e":"^1.52.0","h":"1hxxai1262dq3jmrm545rhcgs2ck78xn7vmq1kc2zz1cip6cay9q"}
 ],
 "sd-tools.serez-code-formatter":[
+{"v":"1.6.1","e":"^1.74.0","h":"0avp7lgc6ih037i3cjm6g11cyx6bq2x3clmzvyqwg4kd2yjak2jq"},
+{"v":"1.6.0","e":"^1.74.0","h":"09q4paz6ahjbsxbikzl7z6bfdbmjbdral6x4kpkmv26p36gmsy4c"},
 {"v":"1.5.0","e":"^1.74.0","h":"1qrd3zxvfyabq7xhb473pn43g6n1kd52n5h6igydikd5cnnmqbp1"},
 {"v":"1.1.0","e":"^1.74.0","h":"01k6sk7jmw00p4d11mg038dfa0kzy2fsai953mnp4ygppfpp7bys"},
 {"v":"1.0.0","e":"^1.74.0","h":"1ff6pwylb21mzkkjnhfm8byjmc0fggsgz1xk4nrk71cb66k7aa9s"}
@@ -969,6 +978,7 @@
 {"v":"0.0.1","e":"^1.74.0","h":"15ig8zzqccxxi4a80dv5qd0bxv7hh16bm1aaa8m56rj024dxsa2a"}
 ],
 "wolfnepomuk.vscode-ifc":[
+{"v":"0.4.0","e":"^1.93.0","h":"09mp3nnmib26n5skjrz3c0i6bwz3fbl541nxbgzrqdl12f9rwzxn"},
 {"v":"0.3.3","e":"^1.93.0","h":"02jqp56dk4mxjf0h3wqhdqc0b6634za24vdils9y1wdnnjpjwdyy"}
 ],
 "wombat.fancymon":[

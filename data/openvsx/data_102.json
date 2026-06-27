@@ -239,6 +239,7 @@
 {"v":"0.5.5","e":"^1.73.0","h":"1jik9aga69pn544lh60jrrd3pfwm46i0dsrg1bz1xm83w6d7n5sm"}
 ],
 "edwinkofler.vscode-hyperupcall-pack-icons":[
+{"v":"0.7.0","e":"^1.58.0","h":"1bivf032dvmh9bhrinpd1i8kl2c4xxpq7zgc1darmb4qgrl1w45p"},
 {"v":"0.6.0","e":"^1.58.0","h":"12l001zwsckaqvl8jbw5y335p4pxx9p2zf835pckwbblw6bxj39a"},
 {"v":"0.5.4","e":"^1.58.0","h":"06a3c7x1rb0d1wb3l48i87v5g79z8mil8nkliqvb720kzb5v0vxg"},
 {"v":"0.5.3","e":"^1.58.0","h":"1jkgzsdylprlxs48rrjbka36302clz35lmln4skqcqhswkdvrd9f"},
@@ -389,6 +390,8 @@
 {"v":"16.2.0","e":"^1.61.0","p":"linux-x64","h":"0c7iba1j8bnisrx4drp2rz9m1idbqg5sfv0zs2j7l2nmsnyi6xl2"}
 ],
 "gitbybit.gitbybit":[
+{"v":"1.2.14","e":"^1.93.0","h":"02hkam0c4kh24gj16k7yh43bn9amn99lw4kgp239qrjjrii6hbbz"},
+{"v":"1.2.13","e":"^1.93.0","h":"0pzcfv1cap6lj6brnj8b3s9ncdbx58c8s2ajl26r5nvw5rhlqk95"},
 {"v":"1.2.12","e":"^1.93.0","h":"0c4g8mqas54xrm4pn0pjch2y9lfcmqmpk6w9zpkmi7hfjff3jhwx"},
 {"v":"1.2.11","e":"^1.93.0","h":"0z0ls17vzjvws3dr3zg73pyjr081nfdlgi6v2h05qqa85blsdk04"},
 {"v":"1.2.10","e":"^1.93.0","h":"17knpn0frk4sm9s38s61jvshi5r0br7b2i01my120n08ry31dlyy"},
@@ -649,6 +652,8 @@
 {"v":"1.9.0","e":"^1.52.0","h":"1ymig64v1cvsivc8gkjwmsqb9839267aasvgzxx8r5x296qjh165"}
 ],
 "jeduden.mdsmith":[
+{"v":"0.52.0","e":"^1.85.0","h":"09vc2iai232zmdaxq2d6apsipkrqqd3rs5aj8sq8n1lqjpx7ycpj"},
+{"v":"0.51.0","e":"^1.85.0","h":"0knvc4z9pln32ad1fd1izyvfa2mcql7j0nlkbmg0h2sqwdszrhji"},
 {"v":"0.50.0","e":"^1.85.0","h":"1ifnbw1sgnavifxlnbjya0r9s51pvr1a7gmgsxg5y8a5wyrznid5"},
 {"v":"0.49.0","e":"^1.85.0","h":"1pqzfxvs0n46wp4jg93pc8q31dysslac4j901cfhc6b3bcj3rwvb"},
 {"v":"0.48.0","e":"^1.85.0","h":"1hj1pqg644kqq0c1zs25a5kqw7mszwd62hb3am1qmn85vw1ax72f"},
@@ -900,6 +905,7 @@
 {"v":"0.0.3","e":"^1.74.0","h":"0fkm9c97zhgm3wp4walz31hai72s8hya8533cddrhmd68wx491py"}
 ],
 "okahuai.okahu-ai-observability":[
+{"v":"0.6.0","e":"^1.74.0","h":"1p6nwii4jiddan3k3w68q8xy6kjnw2i9hmrb7nblsgs0jsq2c7mj"},
 {"v":"0.5.9","e":"^1.74.0","h":"1qw86yizfjz56fjb66aypxazvv4jli8l1anf8jz8kk9n617x0v85"},
 {"v":"0.5.8","e":"^1.74.0","h":"07b2ja6x4p3jd8w4qwz0fsi7k7zg7d8b555lmdy59jvwgivi46by"},
 {"v":"0.5.7","e":"^1.74.0","h":"0wl6cqz2v4xk68qg8x5g79qhpng39dzi057r88k33kcxwxjxr2zp"},
@@ -1107,6 +1113,9 @@
 "redcapcollective.vscode-quarkus-elite-suite":[
 {"v":"1.21.2025112808","e":"^1.82.0","h":"0wpzj45wx42506zymq7j2yhbz49pc66d4ck8wnhlwvyz7qfsnms6"}
 ],
+"rinesong.process-designer":[
+{"v":"0.0.1","e":"^1.96.0","h":"1w16w8454cw63g9ligdxzzvpfgp7vh7d7jfq2zh1xacnqpr59i64"}
+],
 "s-nlf-fh.glassit":[
 {"v":"0.2.3","e":"^1.40.0","h":"0cpn1cfplg68fmm6g9jiysrk2xnczsi66071q68jhsa0kck74gvr"}
 ],
@@ -1121,6 +1130,9 @@
 ],
 "sigma7863.translation-lint-helper":[
 {"v":"0.0.1","e":"^1.90.0","h":"1g2028d0v5s28b1xnivw8l6zvcc5fil22nlpavakdn84dsnypy7s"}
+],
+"souravahmed.searchdeck":[
+{"v":"0.0.1","e":"^1.90.0","h":"1mzdk57j4hsvxf78ljk7mwp0aqwq4bd56kjqidd4yqi1nq09pg6q"}
 ],
 "streetsidesoftware.code-spell-checker-turkish":[
 {"v":"1.1.4","e":"^1.67.0","h":"11ajd8g1vix7ln84x3cbvhwn5zag1lyzvqp3jjhcamabpd0k1aja"},

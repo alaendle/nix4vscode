@@ -101,6 +101,10 @@
 {"v":"1.0.0","e":"^1.85.0","h":"13lf70iqd5bsjy0b5s9jf9glvgzngpmcx343i49iplr5hgzw1zyq"},
 {"v":"0.1.0","e":"^1.85.0","h":"00r6qrqjld0z739xg6566jf3x64nmadgspn6ws68a2hbcc4jsz7j"}
 ],
+"c0m1c5an5.pre-commit-vscode":[
+{"v":"0.0.2","e":"^1.75.0","h":"0xsgm1fl5yb6adwsvsssrbi1ly12b85dqzbq8ykp98j4sgjcq3na"},
+{"v":"0.0.1","e":"^1.125.0","h":"121vmchv6p8v5sdfr84y5xb8ill2vd2ykdsdny79wh2nf15idjxh"}
+],
 "chandrug0110.fahhhhhhhhhhh":[
 {"v":"0.0.4","e":"^1.74.0","h":"18h0dvqxpff91qbpq8k3khwcmybyi9fmcgjczld2x3bn124mnlw3"}
 ],
@@ -325,6 +329,7 @@
 {"v":"0.4.1","e":"^1.90.0","p":"linux-x64","h":"1rqcnydvfrnb2zxji7wkn88rla54f2fmprmiv0bp8ya1r2idvnpg"}
 ],
 "flsh.git-branch-clean":[
+{"v":"1.0.0","e":"^1.90.0","h":"1pwnk85aql7nacgk4hrjay1avfwnjhrpq8xrw6fzrk6cl9zrlw6m"},
 {"v":"0.1.4","e":"^1.90.0","h":"0lq1yz9wp97mp1igsayhngz5i1xlghzvs93s9w9pimj16ibvsw82"},
 {"v":"0.1.3","e":"^1.90.0","h":"0i8n1k039pizm4wa1ci632v160ifds8zzjrfqlj91m645h55fj58"},
 {"v":"0.1.2","e":"^1.90.0","h":"07anjlvwx0fx122g2r6mg2v2h5n3i5dafjxrjpzk0fwi0j0fpl5d"},
@@ -358,9 +363,11 @@
 {"v":"0.0.1","e":"^1.70.0","h":"0lfc1gq3bv0wj3fbzc9ihj69sh2xih20d168x8mkfj68sgk96b2k"}
 ],
 "iderouter.iderouter-vscode":[
+{"v":"0.1.372","e":"^1.96.0","h":"1hi5qsjwxvqp21ywdz0k8bcy9rrlv6qvxw1s3sn6idl9h5iaarz9"},
 {"v":"0.1.285","e":"^1.96.0","h":"1yp3frjmza7zdvrl671aqi4dgggj610plsdrn6f7c1mq2yk368qc"}
 ],
 "idoexperiences.skylift":[
+{"v":"0.4.2","e":"^1.85.0","h":"0a67sml18rr6gksxpzdgj963zjbfy1mbfz73dq1p4rch5mmqsl56"},
 {"v":"0.4.1","e":"^1.85.0","h":"1bx7dilzii06ayg0r0ivvv02iq4j0qc3nrk2zgw71kadikjjhzi0"},
 {"v":"0.3.6","e":"^1.85.0","h":"045f2qsg8h6byvwh7cv6bvi6iqfwsqx8sqq7k12phwajsyhqw674"}
 ],
@@ -656,6 +663,10 @@
 {"v":"0.2.1","e":"^1.33.0","h":"1jxcpj76wmvpdpskq3p58lrpz4hdpsgysrh06nrdliv1zhylrk71"}
 ],
 "pixelpilotailabs.pixelpilot-copilot":[
+{"v":"3.0.9","e":"^1.105.1","h":"1k2zq4kz4fs279janrvsykb0vdh5qi3r37alxgc5sqdckpgl8vqs"},
+{"v":"3.0.8","e":"^1.105.1","h":"1lrpcx529mz804zmb2g0phgvp3xbsg4501px2r5hnm7hq4xgayd4"},
+{"v":"3.0.7","e":"^1.105.1","h":"0xmdsihvmgs8f13z8wfpi4357b0g0hbdvlc64l92j6lnlj7g8ihf"},
+{"v":"3.0.6","e":"^1.105.1","h":"1d17xsbndx564hc04x8gyqargpiwdmgjlwhrdsffib6qzf5kzgaj"},
 {"v":"3.0.4","e":"^1.105.1","h":"1qrxvq1ib28sxk3zmgr2mnq8xfzp8dy0vxmg8lirswnx2a2p1998"},
 {"v":"3.0.3","e":"^1.105.1","h":"09nr504qrfk0v9bkbrbwxab7kh2az7v6y68f5xchnbpdkfg12f91"},
 {"v":"3.0.2","e":"^1.105.1","h":"1b8f4irijvgx384hwfay3yvaz6r0aibvb8hsiqrphsxr3yl20k3w"},
@@ -688,6 +699,7 @@
 {"v":"0.1.0","e":"^1.68.0","h":"06682f5fjcs1zr1814hzrjkyl2g6s9fwax5jvkczchxnvdmjbwyz"}
 ],
 "salesforce.salesforcedx-vscode-visualforce":[
+{"v":"67.2.0","e":"^1.90.0","h":"0qcrgwl5m0p4rqh8n4d7cj7s1p3p5abfv0zzmmw3bv618cl7q1iy"},
 {"v":"67.1.0","e":"^1.90.0","h":"1b6x4dwffn8k2c74rkgnnq7m8i0mfdphhp2idn8mhvdgkcw94ycd"},
 {"v":"66.15.0","e":"^1.90.0","h":"0i1alq8lvn3pydawrw91p6kww1lqz6vzjya93gbq4xdb230p0j3j"},
 {"v":"66.14.2","e":"^1.90.0","h":"1s5m187wc9jk6cadqqjzznyzkcrzfn33xgb0c056v72p94pjzd84"},
@@ -836,6 +848,7 @@
 {"v":"0.5.2","e":"^1.94.0","h":"1hqm53g1pyxx43val1k4rjbwfzblcwl70zcs5bc1xi88pgnhxh8g"}
 ],
 "shakram02.dbooly":[
+{"v":"0.6.4","e":"^1.70.0","h":"1r8w43yq7klisi530gvkglsmy6zf110s9c4chryfwdhm8j7dpr7r"},
 {"v":"0.6.3","e":"^1.70.0","h":"1kjp824nc1bma62aa2mhwx0m96k0ag6wc5ldw7im75lvxvzap7vj"},
 {"v":"0.6.2","e":"^1.70.0","h":"02m7y6fwcsnv0d6zvx1n185kviyl4m02q5n52lp2k7l5pnzvb9r1"},
 {"v":"0.6.1","e":"^1.70.0","h":"06f9qbvk836y9jczr9bfcw4sfclckqcjrfbl60mzm9f54wnzqxal"},
@@ -1047,5 +1060,8 @@
 {"v":"0.2.0","e":"^1.85.0","h":"1yi32masmbp4c1ilr9wzpzp4l29m4ih85faa199l70g86dj27pbp"},
 {"v":"0.1.2","e":"^1.85.0","h":"1v4y9f99vcpxyzxr4h4yvw35k3f2bhl2v7d0v6h5zn6f2syzy8m2"},
 {"v":"0.1.1","e":"^1.85.0","h":"0kryf6dc36w65wk4gd05i4m9djkzj77aglvkl6f16fkdz3y9b61w"}
+],
+"zoesoft-sky.sky-material-platform-plugin":[
+{"v":"1.0.0","e":"^1.80.0","h":"108mprypchcxmdiyl6sw83dnbvrdk95bbyica5l17y0lw0x21l85"}
 ]
 }

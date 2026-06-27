@@ -135,6 +135,15 @@
 "bluebird1111.daily-note-calendar":[
 {"v":"1.0.1","e":"^1.74.0","h":"18b0h3acsil5fjhnsmd6cpb9c06h60rn9cpmqchrky1zqx2y19w4"}
 ],
+"bortolabs.claude-code-usage-bar":[
+{"v":"0.25.1","e":"^1.84.0","h":"1vm3xzaakybn2w20fzm2rl97m0iygrs8m5779ywvrk6g7l5k18z1"},
+{"v":"0.25.0","e":"^1.84.0","h":"11mayvqac9y74x72khd5j1477b4wy5kpjj4m4cb5mm8zzjjnml1m"},
+{"v":"0.24.0","e":"^1.84.0","h":"1zh2mgf6jjk4aqw8k0jqp7aa7ijs6xfj1mng0xmhbqz5i485fbhn"},
+{"v":"0.23.1","e":"^1.84.0","h":"16mh45ckdw6ahrlnsbby0lqd50kf4pi6v0wp30816madxq5grksm"},
+{"v":"0.23.0","e":"^1.84.0","h":"079hm41gfd4mqxvx1l0vmi3jxmrq7d0d9zmz5kc80lvvylz24rmf"},
+{"v":"0.22.0","e":"^1.84.0","h":"185aczw8dszj0x1khzx2l8q2bwyhc067460a99fp988i7d278ln0"},
+{"v":"0.21.3","e":"^1.84.0","h":"0rcip530icvlcm7zqyy0s3fqlvjzn8fmkd0zk24hcspj5cshzavn"}
+],
 "buildway.buildway":[
 {"v":"0.0.4","e":"^1.104.0","h":"1fsk49as5s2snxlgb10mrza0z6d426jryqcnxsngm6l6bh3vbchq"},
 {"v":"0.0.3","e":"^1.104.0","h":"1ifmqvjmh6g53xhkqrazqbk3ayjcg9wgya8lgww2ngqal827bvp0"},
@@ -468,6 +477,7 @@
 {"v":"0.0.1","e":"^1.95.0","h":"10w2rwvbj3gjjrs7sf55xlv5pz5z8ygzzif1dnr5gqc836wkl10m"}
 ],
 "designliquido.designliquido-vscode":[
+{"v":"0.27.3","e":"^1.80.0","h":"1arf0jh6mk3r13g4agrdh689z272aab0iv1api01d66x88r21anm"},
 {"v":"0.27.2","e":"^1.80.0","h":"0vpy4p5i0aw8ac8s6dz93mcyjsrm311h0cpwfg9kafmr79hs6zlv"},
 {"v":"0.27.1","e":"^1.80.0","h":"1q1masvmd81jjacqrdga59z7kmf1ba29mjm4dsraqs0pymbm37m1"},
 {"v":"0.27.0","e":"^1.80.0","h":"0xpry3p4ahgp7w17ns5qwmf3qfc479kfzki3lbk7d8z4239a8fnf"},
@@ -1170,6 +1180,7 @@
 {"v":"1.0.0","e":"^1.94.0","h":"0a88icd29pp65mmh7ipfva7wlyi46vbg51y0zdjbln0vn85l1n1d"}
 ],
 "salesforce.salesforcedx-vscode-org":[
+{"v":"67.2.0","e":"^1.90.0","h":"019nljvxh3k3kpvavlggqla437h9sl38fh93lxm8ihr7h900i79a"},
 {"v":"67.1.0","e":"^1.90.0","h":"1mx06bzdm4dd2dy7zm62ipvnfgws1k9lwncb8cfckdha1r3syxm8"},
 {"v":"66.15.0","e":"^1.90.0","h":"15lm550nngfk0ydy8fklbg7axsqxp943vg86zl7gq74y42ddzf76"},
 {"v":"66.14.2","e":"^1.90.0","h":"1bnkbn0ps8b77n4nj2zqlbzcfrx48x3j0r0im5aqm2x61a7pxfws"},
@@ -1204,6 +1215,7 @@
 {"v":"0.3.2","e":"^1.105.0","h":"00givg8zv9jw523w5xacdj89j0zdqnrf8drd00ml27vm3i4nyv3p"}
 ],
 "semsevens.commit-history-graph":[
+{"v":"0.9.0","e":"^1.85.0","h":"06w93406hn9ggmc1jv6w4cgrrsfv7ing0rwpv6j4ylcly2mwg8iw"},
 {"v":"0.8.0","e":"^1.85.0","h":"13gyvrqnfhm6njzw0llcpahsg064a0590azmyp2jjynkirgar3p5"},
 {"v":"0.7.0","e":"^1.85.0","h":"01yvrhmw64q07n8ffqx87cq3s1s1293a9whljn7wpi0yy13fkmqj"},
 {"v":"0.6.0","e":"^1.85.0","h":"15s4bianfjkh8f442wgr4f7rxyjkc9p1spbhp3mmc34yzqc6k0y5"},

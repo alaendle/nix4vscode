@@ -769,6 +769,7 @@
 {"v":"0.1.0","e":"^1.74.0","h":"0wv71qafv0x89742vb60hsnf8zdidzv2mfnr7cqskxxvwqy8vs43"}
 ],
 "haphazarddev.oil-code":[
+{"v":"0.2.0","e":"^1.96.2","h":"14b3jmbic7rp8j9g5cgdf1nhif05c49gn9ds8yq8hrg50ky99bap"},
 {"v":"0.1.1","e":"^1.96.2","h":"06fr7siljh7ffa31slcjm8kav2lg4pf58sn8cc9nxyx3ccc145r3"},
 {"v":"0.1.0","e":"^1.96.2","h":"0v1axc6b95v0fz54lwgrp8l61c7j9aaa13bszwvkbibbh4zmcrk8"},
 {"v":"0.0.33","e":"^1.96.2","h":"0ddzl58sl0w745ybz9ybqkqz1wy00100s6qprm8fhs1cfhwi4y7w"},
@@ -808,6 +809,7 @@
 {"v":"2.0.0","e":"^1.32.0","h":"0dxkhwmb76lcf0hrlv3yaabjwx477nlawg5g2q8gag2np3dcnx4d"}
 ],
 "hiromitsu.commit-maker":[
+{"v":"0.6.13","e":"^1.94.0","h":"0891px9b39vcq7ik6s34819p4ripfginzbi2s8jaqkndi228ir62"},
 {"v":"0.6.12","e":"^1.94.0","h":"01yxx3g608lhz7fiw2lmm46nb1qaarbik86hxrm3hfr77cm5qh72"},
 {"v":"0.6.11","e":"^1.94.0","h":"0qfpw85dsb7kfyknpq8iqrais6ncydhafdvpz3bgi5m5ls9hhxdh"},
 {"v":"0.6.10","e":"^1.94.0","h":"0jqphs6y40rlpaj0f9b2ygc9m0s8kjjlf4biikflnchfmh2w2wn5"},
@@ -925,6 +927,18 @@
 {"v":"1.0.0","e":"^1.88.0","h":"0y02zx3lhb6hq8z9j80ccad91aahvgqa9pkzpikxd0n17mpn70ly"}
 ],
 "jamesgoppert.rumoca-modelica":[
+{"v":"0.9.9","e":"^1.75.0","p":"darwin-arm64","h":"10kp9zs8ic5hyxgaxdzv31l5y97hp8s6v7a1hfyflvq0jws41kvx"},
+{"v":"0.9.9","e":"^1.75.0","p":"darwin-x64","h":"0wrqz4mmfmgbblhvayb1xzgbqiciw4m4bgvmz1zjysaqnzmb8h6w"},
+{"v":"0.9.9","e":"^1.75.0","p":"linux-arm64","h":"0maq5gn42wg4nz7hkc6fca5a12y0l03sqvbxqvynmxd8vmz0y55x"},
+{"v":"0.9.9","e":"^1.75.0","p":"linux-x64","h":"07mibn4z37w3d7mp9k4jshvk7pqqvsla7052d3jbx3jxrpap3nnv"},
+{"v":"0.9.8","e":"^1.75.0","p":"darwin-arm64","h":"1isha6kjzys5s69ipqhs9sxgcs6sz024l45g9lczvvwxgr7h5xjh"},
+{"v":"0.9.8","e":"^1.75.0","p":"darwin-x64","h":"0g42670kh4jvj33zdrxn6gpp1imka5ha676r4hjfhwr07syjc4iy"},
+{"v":"0.9.8","e":"^1.75.0","p":"linux-arm64","h":"0zsrj6w9i3a4qq1h49q4jyfcxiz7i2vspvgcg3rl0w2hdm26sy16"},
+{"v":"0.9.8","e":"^1.75.0","p":"linux-x64","h":"02qisv35asv32bfqis2wnwbxxrqmcqxm4qrmi3pqk3zj8rizgamd"},
+{"v":"0.9.7","e":"^1.75.0","p":"darwin-arm64","h":"00plqyk2j8ywspd87j4jwbfyywh7rzp4wmqhb7xc5pfii8abd314"},
+{"v":"0.9.7","e":"^1.75.0","p":"darwin-x64","h":"0amn10kvyy8r4djdcv9xdnw41ygsigd057bpfb7nri8v4nv04dmj"},
+{"v":"0.9.7","e":"^1.75.0","p":"linux-arm64","h":"192c570x62si2lr4chkxghlg7pg9gf6l4dvcydywsvy8kf7w4r5b"},
+{"v":"0.9.7","e":"^1.75.0","p":"linux-x64","h":"0j45gvnzrj1d7g8kn865scn8q5m0dyah4slxn1kxbc6r3q5vwcq5"},
 {"v":"0.9.6","e":"^1.75.0","p":"darwin-arm64","h":"1d41zsjdzndh988ixbcpw961j91z98gnp6wk6b34xpjm0hiymnrf"},
 {"v":"0.9.6","e":"^1.75.0","p":"darwin-x64","h":"1jszq2li3678x37r5j4njd39crw5q8p1a9bd9yymbzfbld1jp356"},
 {"v":"0.9.6","e":"^1.75.0","p":"linux-arm64","h":"01a6g6ksidrc689m1zsjpwapi3cwh1l6gk47wvw3b2y7fbdf50lz"},
@@ -1455,6 +1469,7 @@
 {"v":"1.0.3","e":"^1.49.3","h":"1w9mj7h9fmx8fwzfysnbn5mp1wkrpqvaaivgww29m6kv0iljf7bc"}
 ],
 "ripple-ts.ripple-ts-vscode-plugin":[
+{"v":"2.0.36","e":"^1.97.0","h":"0mm7wdcdxvwpgxakhajcp20y6mx8p1n0sf1bcc5nh4nyf65sskgv"},
 {"v":"2.0.35","e":"^1.97.0","h":"0bzzixlhamwr4kxppx6l865i88bnjxaz8anvvlsddly56yggfm1y"},
 {"v":"2.0.34","e":"^1.97.0","h":"1snwnlb8702jbdzfzsa1rc3w3gp0k31f875k7705n8dhvmpr75hv"},
 {"v":"2.0.33","e":"^1.97.0","h":"02l8mvpml3vcxspbqm032lsfw1wrlbsrcr184cxnx18hz41d38ps"},
@@ -2038,6 +2053,7 @@
 {"v":"0.1.2","e":"^1.55.0","h":"0kk9l71b4knslxkyn3m76hbwj97sgdq969x94fl1lsg2nwqvfh0f"}
 ],
 "txahub.txamcp-vscode":[
+{"v":"3.4.22","e":"^1.80.0","h":"00ffxj4xc8hxb8bxzwvdidsg3rzh85153snr1bsvzrsrqa674cry"},
 {"v":"3.4.21","e":"^1.80.0","h":"1sb0hprvqzrfnam0b4sgkby3nq47rzwf1xv0fcyx16ih2gcfjyfq"},
 {"v":"3.4.20","e":"^1.80.0","h":"0d6lb5c69ib26ljp2afdv3kpp8vrk54isr1p8kjfcvyzdxvz6rsb"},
 {"v":"3.4.19","e":"^1.80.0","h":"1fl7xmpnd5v10qjmi0cc0306rxdz8phpf9zh853ibkxj9j57k1lw"},
@@ -2045,6 +2061,9 @@
 {"v":"3.4.17","e":"^1.80.0","h":"0frkcpab5v6xfrzxz8fa5jgh5ixa2rln2pf08p4yz0ly01xj25hs"},
 {"v":"3.4.16","e":"^1.80.0","h":"1v3m7qmwxc7z6jjnjhrad4qnywnm7n48byny0f77c0cndmqbb8y9"},
 {"v":"3.4.15","e":"^1.80.0","h":"0d5lzarpv4g5nxzvqp7g7ry166nsl940li2z1hkw3xj90s7z1vl2"}
+],
+"vctors.voltcode":[
+{"v":"0.1.0","e":"^1.105.1","h":"1w1a7vvisjmxzj6866lssxbn3zdkbgq4z3nksbnwdq804wmv9awv"}
 ],
 "vibeco-emy.vibeco":[
 {"v":"0.1.22","e":"^1.85.0","h":"07zvg5bg7hrxlnfld6qg8ylq3wbl5inf152cpl296xalc5zfq23d"},
