@@ -158,6 +158,7 @@
 {"v":"12.15.0","e":"^1.82.0","h":"00zpq2nry20csicvgglyqsmzc1v7gqy6mpi339f9zrmn8x8grxd3"}
 ],
 "bradlc.vscode-tailwindcss":[
+{"v":"0.16.0","e":"^1.67.0","h":"0hhrimh90rv83ly013vbsr7v2gbv1qj5zjf307gx320anawcxmrz"},
 {"v":"0.14.28","e":"^1.67.0","h":"15pjp6bick8czyrjskybzkjsyxsa3l6sr27wwbwc29i2wg5nf2pj"},
 {"v":"0.14.27","e":"^1.67.0","h":"0x96aj5hf6ppj8w4kph23545xg4wvh650gsn57xr9q9npjhwvd89"},
 {"v":"0.14.26","e":"^1.67.0","h":"10mk1qdrq0d6lkpbjfznhxplhx4mr31qnbvhw2ll3al0ssn8xil7"},
@@ -243,6 +244,9 @@
 {"v":"0.1.4","e":"^1.96.0","h":"1klz755gqyrbjczx4w0zfiyhy5k587005lbipckj2kqf9xgf6xm2"},
 {"v":"0.1.3","e":"^1.96.0","h":"1gmwwq1caraj06k2pp0d9b4wa6rknhr50hn9fa1366phzvhigfwr","r":true},
 {"v":"0.1.2","e":"^1.96.0","h":"0aap1m1wy81rb92kly56xnp6nwkv720cc7v0kc56ba9yq79cyn3s"}
+],
+"clusome.alembic-viz":[
+{"v":"0.2.0","e":"^1.85.0","h":"0cz4qr6bpixl0fb7kdi3jp8ay99js3z0hx6ll4zfs2qba07z2zxi"}
 ],
 "codeprosorg.geode-vscode":[
 {"v":"1.3.4","e":"^1.75.0","p":"darwin-arm64","h":"05a906j6wyjwy2pq1lhc9h74p4ripv0s1fvl8v58w5zj3y6iynik"},
@@ -691,6 +695,7 @@
 {"v":"1.0.5","e":"^1.74.0","h":"0mhmyqczy5a4c41jqygscgkmnplmlvpc7alpcz1vh2w0bzyfl3d8"}
 ],
 "marp-team.marp-vscode":[
+{"v":"3.6.0","e":"^1.101.0","h":"0j24k6z3algxy6b1hamn7casdx5fdjdf434lj9ksrgchv7zfgfkg"},
 {"v":"3.5.2","e":"^1.101.0","h":"1qd0hd6fmhkxkiphk7gcb8qb0aw0q1nzg1vm7c090pglzz04p11q"},
 {"v":"3.5.1","e":"^1.101.0","h":"1j39yh5zvm3dlps5g19yknpvfgkhs9l4ddcr472v62hf0aph9qjp"},
 {"v":"3.5.0","e":"^1.101.0","h":"0c52gfya7lxhn444i8vgn0dsqx6i5qd3bxq7238z34vrvqam0l1n"},
@@ -949,6 +954,10 @@
 {"v":"21.5.0","e":"^1.51.1","h":"0v9ydm0sl01aaf0wxpv2lgdkcb7q7jh1zgnn1fb11xjnvabszzza"}
 ],
 "oscarlevin.pretext-tools":[
+{"v":"1.1.0","e":"^1.89.0","h":"1nh1h9agka2bpigmlnymrjmynhqqa00xsz81j7xamjmdkfrn6rfm"},
+{"v":"1.0.2","e":"^1.89.0","h":"0wijk7r98rvbcp2giw4sm3502327f4brbzdgvifgq86yn7llsx8f"},
+{"v":"1.0.1","e":"^1.89.0","h":"00z1zdccc0rz7zvksvp4p8g6r5pxshmqvv29ay0zfs1c3h8v4xsf"},
+{"v":"1.0.0","e":"^1.89.0","h":"02ax1p16ddi9bjhkibp8ajzpsf2s024jkq3llmzzx76zr8511hfb"},
 {"v":"0.40.0","e":"^1.89.0","h":"1h192z3k4kwnq3wan6dyl581qjz81n7i20kxbzrszk4p3k1yrq41"},
 {"v":"0.39.0","e":"^1.89.0","h":"171z3d8awakq35ya5vg4vzd2k829qqx06fi2g2s4jjz7pkx71fzj"},
 {"v":"0.38.1","e":"^1.89.0","h":"1kwqsqagq2vr1z9pa2vlnjgfc6vymm57zx3sqswkbkb89bkgb0yw"},
@@ -1356,6 +1365,8 @@
 {"v":"0.0.417","e":"^1.93.0","h":"1iqk7pwvynigf8mi5v3w3plvdqv9fjna9296mvwf0aas2iyxfmpz"}
 ],
 "texra-ai.texra":[
+{"v":"0.39.7","e":"^1.125.0","h":"1dsandpz7aclpr4ara5nwhpws4nr9wrzmcsa4fghc6d323rhj22f"},
+{"v":"0.39.6","e":"^1.125.0","h":"08mflpcy90d6dlgzk85hyjn9nv1a1lkrbyp2klj2g6b8fjg614f6"},
 {"v":"0.39.5","e":"^1.125.0","h":"1a003rxn8smfncnhq5bavz5x4l5w123m8dwifi3lydqgw56c09c0"},
 {"v":"0.39.4","e":"^1.125.0","h":"1w5blwq7cs2h51c3746lq0wwwjwaiy41p8nhryxy4pzpmb51irm5"},
 {"v":"0.39.3","e":"^1.106.0","h":"1qycfy1bnxdf6cqis67ngam4701rvafk147d1bmd4rn1bghajnwj"},
@@ -1470,6 +1481,10 @@
 {"v":"1.0.2","e":"^1.85.0","h":"1i3w5f72z5jifhqm4k2vnq0p06ybrm9v59g7ay3bcmgvfnw3jcc7"}
 ],
 "tooltitudeteam.tooltitude-pb":[
+{"v":"1.27.2","e":"^1.82.0","p":"darwin-arm64","h":"0ywskvbcdpxiisnr0r4y678qlflgrznhincqkh2rfjizvl8pxx8g"},
+{"v":"1.27.2","e":"^1.82.0","p":"darwin-x64","h":"1zax3937c43kpwckndwdw1nxw61d93qav53r4rhd266gmc1vh7lq"},
+{"v":"1.27.2","e":"^1.82.0","p":"linux-arm64","h":"0gylay55nwd3b2lyj056zv0xj0s88ib6ldiqaba8kx9mdjj1schl"},
+{"v":"1.27.2","e":"^1.82.0","p":"linux-x64","h":"1350rx2haqa2jrczxsn44r2g92d73ybjpcnrmdiqfa89d279d2s3"},
 {"v":"1.27.1","e":"^1.82.0","p":"darwin-arm64","h":"1gjj9cdpvjgm2pfw6bwbf5bjswcnqbd5c0p5xna2s1hpas4h3m0l"},
 {"v":"1.27.1","e":"^1.82.0","p":"darwin-x64","h":"0am5523zqrbh1q6ab89xrcw5hmyv6z01rlvlb3c1727v1sbfxnn2"},
 {"v":"1.27.1","e":"^1.82.0","p":"linux-arm64","h":"0j1a46khhcz5pdphv5mlfv55lsl7283sxm8c0kqx17c32qix6sym"},
@@ -2089,6 +2104,7 @@
 {"v":"0.0.9","e":"^1.90.0","h":"1vk5pi1h0fvbw29r99nz6v45dk4hdm10d6ffk2kak06hr40hpspq"}
 ],
 "yusu79.vscode-markdown-clip":[
+{"v":"1.1.1","e":"^1.107.0","h":"1j78w7h69pj79pvd1hi3w7j8f4k7zz7l9fwv8vh1wy85irnlaawf"},
 {"v":"1.1.0","e":"^1.107.0","h":"17prnssr2jm4d4lif27vsn8s29s782h37a1hsj7kbc194b0bcaz6"}
 ],
 "yutengjing.vscode-colorize-plus":[

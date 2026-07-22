@@ -378,6 +378,7 @@
 {"v":"0.0.1","e":">=1.100.0","h":"16yvs71vcrh8kcszwymh60cbs461hzz8798kqxhj454ksfqsqmn2"}
 ],
 "handy2233.nowcoderac-plus":[
+{"v":"1.1.5","e":"^1.96.0","h":"09lvpk5x6bnyys3qkxbgxi1avmaaq3ay96mg3s64cy0gnapk7lkk"},
 {"v":"1.1.4","e":"^1.96.0","h":"18qsdx0y23agw8b979mgqn8f2j2wpkjcix06q6i8nzyh715hn3f2"},
 {"v":"1.1.3","e":"^1.96.0","h":"0n9dsw01374nbssai7d96v0mdmjw0lhqb478qql0f89rind8zzsm"},
 {"v":"1.1.2","e":"^1.96.0","h":"12sjlvj4pc8k16r5b4r9cfr727vlgg9rq79m6gl4qd5908sh3yns"},
@@ -562,8 +563,12 @@
 {"v":"1.0.0","e":"^1.75.0","h":"172mgl6blswm1svnwjw5g778k7mgkzgayyaqlab3jkxkffw4hkam"}
 ],
 "johnrdorazio.vscode-phpcs":[
+{"v":"1.3.0","e":"^1.106.3","h":"1926nxbb9r6r0gz8a285i59gc22qxkcqj0w3qwg9f1kg5x4g4w6x"},
 {"v":"1.2.3","e":"^1.106.3","h":"0bg6gsfxzy00yvym33szhd2pa1jv99rsy4cxliaz027dkaspizim"},
 {"v":"1.2.2","e":"^1.106.3","h":"11gl9ci0zlylhh7xhkw6ii393bpw930gzxb63xxghsv91yh5ay68"}
+],
+"josegrabelha.remoteedit":[
+{"v":"1.8.11","e":"^1.90.0","h":"0yxk69mxvrwsagvv13m1alcfrzc9g3nvyafpmi5n4qixxhqydy7m"}
 ],
 "jurybu.antigravity-ls-tools":[
 {"v":"0.2.22","e":"^1.85.0","h":"1crkf3gn48vqas7habrg77vivwndxxjkpjx0qdh896imi6ffrfr8"},

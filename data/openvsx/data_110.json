@@ -1,4 +1,6 @@
 {"ac6.devicetree-manager-for-zephyr":[
+{"v":"1.2.0","e":"^1.80.0","h":"0qb0idkxz0rf6vhjqq45gaqnb4nwkxgfmxvr3k9qrl9ksp63arrd"},
+{"v":"1.1.0","e":"^1.80.0","h":"0hcrbgivkdzdkfy01jb50xajxh2q31pq3yi234sa1659105jwk3a","r":true},
 {"v":"1.0.14","e":"^1.80.0","h":"0khi33wxh8y3r4b5y95zwivl87yyad75hcdqn81kwis7wf7glszj"},
 {"v":"1.0.13","e":"^1.80.0","h":"0cx27ma360mh4r6jzifj4ymhp71lf7q5x1fny5pma9c7rb7lh1cf"}
 ],
@@ -236,6 +238,7 @@
 {"v":"0.1.5","e":"^1.88.0","h":"0w38afh8xdzlhdpyh6952qrzqrfmjf6l5hivlxrhhzvdmyqscavk"}
 ],
 "debabrata100.reactcanvas":[
+{"v":"0.3.0","e":"^1.90.0","h":"1jawiq7yxkkc56rcdgs1ls3j6k57l4kfnxmvfkxj3kbgfghj2n84"},
 {"v":"0.2.0","e":"^1.90.0","h":"0agbwa1wf8qpj9ma9pn9l4wibv8llz5fzxm4lzrb8z7zw3cy7xp2"},
 {"v":"0.1.0","e":"^1.90.0","h":"0gg17bq0njxkmnibkd4k33nf8j89hbgb16lkgvvqa56xcwbza0h6"}
 ],
@@ -719,6 +722,7 @@
 {"v":"0.0.1","e":"^1.34.0","h":"0m35g7yh73nhyszj7igvaajlf6yz1n5s97p1zyx2mm4l7f76a0xa"}
 ],
 "notifyx.gitpeak":[
+{"v":"4.0.0","e":"^1.90.0","h":"0kc0r27ir87hg0yk1d1q6ilsfsf8z8wcpp0k39vim1nlx0ifk4c8"},
 {"v":"3.9.9","e":"^1.90.0","h":"1alprspngn0hqnx7hi9bi44d87l1cihd2g726wx925nf6znzvk5a"},
 {"v":"3.9.8","e":"^1.90.0","h":"0gwiclxp0x6g76lczg96hphiai0jl1x34vmc5g76pldp74sil6d9"},
 {"v":"3.9.7","e":"^1.90.0","h":"05dc6nxn329jgzd1nw6rkksja5w9rxw5xrgp9a9sqpsxvmn1rmkd"},
@@ -980,6 +984,7 @@
 {"v":"0.0.13","e":"^1.18.0","h":"039qd00f8g16l2lq7lb13cibvqilnfxhwlymprhhyqylb8y693n2"}
 ],
 "sumitkumarsingh.free-repo-agent":[
+{"v":"0.8.10","e":"^1.85.0","h":"1smb1m9nj55snl4n979hd1295jc2dqnj85bb38gazcxzlrsnd43y"},
 {"v":"0.8.8","e":"^1.85.0","h":"01dxmyfs6ncp69irbzr32c7p34gmfg71g8s211q1vyyzwf6wfdrw"},
 {"v":"0.8.5","e":"^1.85.0","h":"1wfii3xdkj3ynbaxzriv123zmjxcxciwni8ifs35w8ghpmxnlmsh"},
 {"v":"0.8.4","e":"^1.85.0","h":"0nddfjh80w8awcbc8filnvhyx18n9qq9fg4py9y9kjm4wynm9d6h"},

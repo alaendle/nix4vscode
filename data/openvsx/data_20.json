@@ -514,6 +514,8 @@
 {"v":"1.2.0","e":"^1.46.0","h":"1vxqzarmx9nbas5ymnlismkyx0br5ypz05sdfp92v96yp2v3zf2l"}
 ],
 "fallow-rs.fallow-vscode":[
+{"v":"3.7.1","e":"^1.96.0","h":"19y5v8d000j27s8767icasndfwavf3pyy54gr9rh702yyaqvsq43"},
+{"v":"3.7.0","e":"^1.96.0","h":"0hd84l5izj3n904czl3kz44nrqry0z5cjgqi0lh1vxj562sd0wy1"},
 {"v":"3.6.0","e":"^1.96.0","h":"0zs22n6vp8qyg31lcvx3mqkf7wlg73dxgflq63s4dx1ycqmy59jm"},
 {"v":"3.5.1","e":"^1.96.0","h":"1n31vl3bcg0j24w8kaagxy7ri7bmfq1apmx5kp02h9npq552cjqc"},
 {"v":"3.5.0","e":"^1.96.0","h":"0kil767w5d67fcs45zpkbrz9v0cqlpbpnziva1y9gmrsgivdvq4c"},
@@ -735,6 +737,7 @@
 {"v":"1.0.1","e":"^1.33.0","h":"1zizb8471i2fd6jvj98l63k0shvacjhi7js1s0g7fqvr3k24gahm"}
 ],
 "ggml-org.llama-vscode":[
+{"v":"0.0.53","e":"^1.109.0","h":"1n9sgklsai0yv2xpkid0dl53kw1qhh5zmhm017yhbqwldsakg8p3"},
 {"v":"0.0.52","e":"^1.109.0","h":"1rkiwfrz3wflj8rhjqkhk4pjbmjali2pkv9pa69sham0sc49idyq"},
 {"v":"0.0.51","e":"^1.109.0","h":"0lrv03k7rawwzgsf81ancxs5d6ld9mw85ba3fs8h0jp9w2vbffgm"},
 {"v":"0.0.50","e":"^1.109.0","h":"0045cbjgdacb9s1lx0cf7pfzd9qw706f7ybq2jfrf3yxjsy9hmdd"},
@@ -1204,6 +1207,14 @@
 {"v":"0.0.9","e":"^1.85.0","h":"1vsgcqv4a0nyy29zx3997ns775qxky223gy84vmnvcj3qdv0001l"}
 ],
 "robertpiosik.gemini-coder":[
+{"v":"1.988.0","e":"^1.96.0","h":"1lsrw89qifkdxm88yh84n3z62jrpd09x6ignjpc1sijr53943486"},
+{"v":"1.987.0","e":"^1.96.0","h":"025wrlcmi493nyv60i8gs19h47add70rjgxb6j2gqj0l717cxg55"},
+{"v":"1.986.0","e":"^1.96.0","h":"0slqy89imx1aiyj90qsypw7mfgnzmb12gs24sl9pb8vdzh5vwdid"},
+{"v":"1.985.0","e":"^1.96.0","h":"0y27dy2j1hkgyxjsvcjz3gpjfjb8iqkilwmz9fkxv6b78axb2i97"},
+{"v":"1.984.0","e":"^1.96.0","h":"0jmpqapnzzk2b3wxycrkiins0rlg79yqfnyla7g7fhndsjgvzrcd"},
+{"v":"1.983.0","e":"^1.96.0","h":"091hfms04r9f29bq3scjspa2vdgwx0wnlnw4z3nvzprn4da815dx"},
+{"v":"1.982.0","e":"^1.96.0","h":"1nzllxiyhm7c5227sskgdzfj46lagijp8wli0gq0pfxh9rilgv7k"},
+{"v":"1.981.0","e":"^1.96.0","h":"1f5fwj9pf149aff12fm8yfzqj332dzb72kqjqs1qxc9da3f7f8jj"},
 {"v":"1.980.0","e":"^1.96.0","h":"1qhssrirc2zmjqf38cw45vdx3qwg0d2y7gzdcpfsam56nayca28z"},
 {"v":"1.979.0","e":"^1.96.0","h":"1861zlhfmfswf2pq62qh9nnhjqd7g151yfxznb0r0qinhdf03l3y"},
 {"v":"1.977.0","e":"^1.96.0","h":"1hilixdbd0p1kbcykn8w5dqlsqb85jjymkv7ayy1krazn52f0vrp"},
@@ -2430,6 +2441,9 @@
 {"v":"0.0.64","e":"^1.97.0","h":"1g2v6imh47al1w894bfkqnskrfk2z58002m32wfcxpyp81v27jq2"}
 ],
 "stephanzlatarev.vscode-starcraft":[
+{"v":"1.20260717.11538","e":"^1.74.0","h":"1ps4z0mshkbrgaiwnd2qk67qx8fipv9iycy5y8zjjn54vmyx3xn7"},
+{"v":"1.20260717.11518","e":"^1.74.0","h":"0s0ih3gsxmaxpslqr0pd8yr1y4wcq9vspvm9wzw2cngyrhs2x4n3"},
+{"v":"1.20260717.10532","e":"^1.74.0","h":"0i8vkj08lzpxy8yir75hjci9ws48cnhcmjkzhwsy1vwsk2slf5pj"},
 {"v":"1.20260318.11659","e":"^1.74.0","h":"1x98ygdi225i0p7p0p0fcrpp36hcadcb8k9d01hhc9fywxaljm3c"},
 {"v":"1.20260211.11634","e":"^1.74.0","h":"1cc0jw3712801ss3vqak6jwck8yy019klwq40ms57w7wf65g9jfp"},
 {"v":"1.20260131.11246","e":"^1.74.0","h":"0yqlvsqbplw7rqc36q5k0cnnkxbysh15xkw77vzw136fsbzpdz4i"},

@@ -224,6 +224,7 @@
 {"v":"2.5.21","e":"^1.90.0","h":"0z5040sgnv0pafscijgvy3klcgcq9rbrhd6gzflq9sxipc1hidp5"}
 ],
 "baiducomate.internal-remote-development":[
+{"v":"0.4.13","e":"^1.99.0","h":"0dqs1njlp6mfpbs2azphpisch9q3m8cmsw6by5n37i4pilildqn7"},
 {"v":"0.4.12","e":"^1.99.0","h":"0p2hh6q9fb9w1m2v2fg4x05sczvg68wcwgcz2hznpxxgaxc2gidh"},
 {"v":"0.4.11","e":"^1.99.0","h":"09mj3bmr6pnflzf6ksl3z27sfwhvhx7qfx02nwx08hcvz14y4am6"},
 {"v":"0.4.10","e":"^1.99.0","h":"0mwl51vw22fsjwfxfgpw6qaxmr1s2ri7851c9cqb87ahp4miyn0c"},
@@ -626,6 +627,7 @@
 {"v":"0.3.5","e":"^1.125.0","h":"1h5p6hh5j0c2l6dhx74hykfp5x861xf9v31ix0irdpqdy62chb90"}
 ],
 "maiwulanjiangmaiming.niftispy":[
+{"v":"2.2.0","e":"^1.85.0","h":"139w400nkfhj98fvwfa76zxhz4ziqjas070lc15camdvllzvg1nb"},
 {"v":"2.1.4","e":"^1.85.0","h":"1748c9h5p634dd0gsk2l177s1siv3k9awp5krs2gg26jgjnq3vdi"},
 {"v":"2.1.3","e":"^1.85.0","h":"1294vzx0pjcnc033j51aw0pzbwi2j9cq3pk7xnwb1dg0gj78wv6l"},
 {"v":"2.1.2","e":"^1.85.0","h":"0idcdcgjibz40mxh7ph2dpg6zs90ikbagk86l4z6wmqahrqx69v7"},
@@ -676,6 +678,13 @@
 {"v":"1.13.1","e":"^1.76.2","h":"1y77c2x193xiqvqqm29j81s83v10hp9zmd3ydizjifqib8vd79jf"}
 ],
 "matterai.axon-code":[
+{"v":"6.6.3","e":"^1.84.0","h":"1nl4n3qc3g11a5r8rjni4g4shm1dyaikdvy6ligsy0xs5200xs4l"},
+{"v":"6.6.2","e":"^1.84.0","h":"197ril3qj1hb3yl52533mbnbgrhc9hs2jf8c551cbznz6vnfqvwg"},
+{"v":"6.6.1","e":"^1.84.0","h":"0700vmjfa4mzp3d8bcn2drirlvkfc8ibdgzjvs16mq8ral5nzjpi"},
+{"v":"6.6.0","e":"^1.84.0","h":"1jbdxb6psy4l38b731ji4373zz29cdgfqarpll69n7qzjgias114"},
+{"v":"6.5.8","e":"^1.84.0","h":"1l5w28fazjia67vxv42lnf0f94cpm27x6z80xnmfi3ri3r9y9x5y"},
+{"v":"6.5.7","e":"^1.84.0","h":"1zghs9iq2hwgv7xh30li33lay0k2508g0n574imm4rppyfv4g7s4"},
+{"v":"6.5.6","e":"^1.84.0","h":"04wd74lnnv5iadz5igb60r16y6vljbw2g69ajyn2fd5r891h65l9"},
 {"v":"6.5.5","e":"^1.84.0","h":"1szq0d2i43g4h6xgjswaq0jqwcvxs0qm0fdjz1r2dk96m2m07hwc"},
 {"v":"6.5.3","e":"^1.84.0","h":"0r25xi6wr53dr79w5s4v37d47qn0xlf8772bayybwxyvcx62r34n"},
 {"v":"6.5.2","e":"^1.84.0","h":"0bm133ccncja1i1sng66b99rvl5b4b595qpr19ggf4yqqkadwjn8"},
@@ -744,6 +753,7 @@
 {"v":"0.1.1","e":"^1.45.0","h":"04xgqgk398bahvmz3wv9d5xm6riv1zb5asf7mlvwfn6jivzgwd58"}
 ],
 "miragon-gmbh.wardley-mapping-modeler":[
+{"v":"0.5.0","e":"^1.96.0","h":"0pai5zqvfla5mk643k75w7v1wq4ayy110nfvhjrdr6w8f0r600nb"},
 {"v":"0.4.0","e":"^1.96.0","h":"0pnrrlnf6nnqy4hcb5nwva5pbn3z5cv6ai5qxww10ghqwgv2g14r"},
 {"v":"0.3.0","e":"^1.96.0","h":"0a0ia535g0db6b6iyp28yx1a85pqa8v2p45fr36xbgcvxga1i556"}
 ],
@@ -784,6 +794,8 @@
 {"v":"0.1.0","e":"^1.60.0","h":"0cy39w4paxvb0g1n8k5bd6xxl3jlmxb3qdjkngzzwp0dnjx9favz"}
 ],
 "neosyn.neosyn-cg":[
+{"v":"2.9.0","e":"^1.85.0","h":"14nrsspc22x3704h889msc46vg78lypmddl5m36ccghfa6qc9phk"},
+{"v":"2.8.1","e":"^1.85.0","h":"0is0a5p5nmazg5acmlfy51f89b0vcmk68mc3b5xjj2wnr7yvihc0"},
 {"v":"2.8.0","e":"^1.85.0","h":"0g4pcjlds43dbs2nf1afi49dzs81mf15ac7q3vyllxfh847h63q4"},
 {"v":"2.7.0","e":"^1.85.0","h":"0kx7504sc6jyymrrg985rmrkdapxg865n1a304dy8y2wf0cjcf7l"},
 {"v":"2.6.12","e":"^1.85.0","h":"11pi1v1dyw7qb55cly87qkl3z2z2h2aziysk35fkdsmf23dcd6iv"},

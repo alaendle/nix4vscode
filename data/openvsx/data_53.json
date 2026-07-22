@@ -143,6 +143,8 @@
 {"v":"0.0.2","e":"^1.74.0","h":"0375chplzi8q5n6qyx5gkacwp91hj0vh2x64m4ypf4iq2xc4wcah"}
 ],
 "christianlarsen.rpg-structure":[
+{"v":"1.3.0","e":"^1.75.0","h":"01pf69x2l1q65j889nbsgbwhmlx6bdm3b4kr1890piwb1ij6x2ym"},
+{"v":"1.2.3","e":"^1.75.0","h":"05fam1k93snqciq0xc6fwqv4w3l28m15yyw4j8ajiq250953phzq"},
 {"v":"1.2.2","e":"^1.75.0","h":"1dk4x079przxykz09s3bnmw1y7p3x0rbyv4rfn5cgs4ksx2sn1s0"}
 ],
 "cl-coraje.foyg":[
@@ -309,6 +311,13 @@
 {"v":"0.0.8","e":"^1.85.0","h":"1b7xb7g27rr73vybh827m36405w83qd9m3l9an9qhgi8wwcimsg4"},
 {"v":"0.0.7","e":"^1.85.0","h":"1i28ps26z8hghc4d7xnzzwp30phlq7mr948kk7xpdpziqqd13l3l"}
 ],
+"georgyia.surrounded-by-slop":[
+{"v":"0.1.4","e":"^1.96.0","h":"1jzy453anjbkv050a4dfd6z8h23k7myn2gwp38mncixrvpnczvp7"},
+{"v":"0.1.3","e":"^1.96.0","h":"0d0wyrlm36k468r3h8mz2fzxy8brn982nkbm8lbw5paaxjggdqim"},
+{"v":"0.1.2","e":"^1.96.0","h":"0zlqpbdgc69sfwyi1fnl4w1r0wffv1q96ivj5lh329g722c8w6cn"},
+{"v":"0.1.1","e":"^1.96.0","h":"0k89aawfisi2j25cfx2sqys7iiygi7x9hs4s54zc6szfl0zq8kxn"},
+{"v":"0.1.0","e":"^1.96.0","h":"15924aj85xv9603rv4in1kvk98y9x6p90vvs3748rd9q04b7rhgn"}
+],
 "gobernai.dotagents":[
 {"v":"0.8.4","e":"^1.85.0","h":"18r5xk2crx6dnf4pf5c64bxvddyn8vh4ha52hihrq55ijng9z23m"},
 {"v":"0.8.2","e":"^1.85.0","h":"02k7igvhhh1qv44s4vyfscww3cdvmg95s40cwbkxlcfhyj40bxaz"},
@@ -381,6 +390,7 @@
 {"v":"0.0.2","e":"^1.34.0","h":"1awrdkv1l6njih5hfhm40nxf79cx0jbz22bvd27w815x8kl8c5hk"}
 ],
 "ibm.zopendebug":[
+{"v":"5.6.7","e":">=1.88.0","h":"12xhks78yknv9qa3ndbd4a25afk0xzadw8zd6l46wkq889qdqvd7"},
 {"v":"5.6.6","e":">=1.88.0","h":"1x6fir9y5vpr1np4iniqvc82359q9fvy66z9fi7nkxmf2p0njn9h"},
 {"v":"5.6.5","e":">=1.88.0","h":"0b34qy7zmfk3jgs09mv47ilp4inr9a7n2m9pqaws6maazca9vpll"},
 {"v":"5.6.4","e":">=1.88.0","h":"1r0s2ijimppznz6gz3fzp7in6dy0d4ahz518i8ah54wn6g162gag"},
@@ -553,6 +563,7 @@
 {"v":"7.1.0","e":"^1.80.0","h":"1wdciib1m4h5jz79k4jd8pmjpsa299ndcm2kxq9xhhy8xa49iivb"}
 ],
 "morse-code.code-to-play":[
+{"v":"0.0.3","e":"^1.95.0","h":"1wm45c8ll3g1hn205lmyxngg0zpjf9i8ycs66yc1l2lb6fv89sny"},
 {"v":"0.0.2","e":"^1.95.0","h":"17vg3plnd143yjvph3qkb92ia1s6xq9493wa6lk3lqy901pmigjv"},
 {"v":"0.0.1","e":"^1.95.0","h":"083gs69hcxjrfj38gh9d9rjndxrrvcjac58p5n1jcc4qawxyslj7"}
 ],
@@ -572,6 +583,8 @@
 {"v":"0.0.1","e":"^1.73.0","h":"1gzmqn483jqmfaz1j0sj5cs86a3sj28hfv4f2dnb39njsjb50v5w"}
 ],
 "openimagedebugger.openimagedebugger-vscode":[
+{"v":"1.3.1","e":"^1.85.0","h":"0ikd3j0xgj7imvrpw5ghqy8k2i55jxdk4y1yga4hngdlrmv1rnxy"},
+{"v":"1.3.0","e":"^1.85.0","h":"1qjq9pczkvxmfgks1d7ifv0639fpkzg9dwrp9r8jzc7bv387isyd"},
 {"v":"1.2.0","e":"^1.85.0","h":"0dqi8hyp4h025yr939dh0802hgrxvv904r80bicrszw6byh6d7wj"},
 {"v":"1.1.0","e":"^1.85.0","h":"0k3vi9k524jbwlih6kkvkvz1y8pykr9y81svqrp6hkfl2a52gl6s"},
 {"v":"1.0.12","e":"^1.85.0","h":"07p56kssyibjka8j0vqh39x7n69ihjc53gwrzgw8zchmvg1lkww6"},
@@ -722,6 +735,7 @@
 {"v":"1.1.1","e":"^1.75.0","h":"0vfbh4yvpgw6ws7zqnsrmhw2s12p6r9iv9xgphy9kq481a9wkhw8"}
 ],
 "sapse.sap-ux-application-modeler-extension":[
+{"v":"1.29.0","e":"^1.106.3","h":"0apk64lkfnkmg859gqi1kr3b0dgz32j9dz7rqxwz0fkzf5cgmgl0"},
 {"v":"1.28.0","e":"^1.106.3","h":"0qfphj6ff96grb6y791fb5pp10r2qwvhz77jaa1qbnscdghq0spf"},
 {"v":"1.27.0","e":"^1.106.3","h":"1jigy5zlp2zms5kld2y42avqvp1pafccfa27nz8qcxqn2glj51ih"},
 {"v":"1.26.2","e":"^1.106.3","h":"077li5xdi4lpcwz46h2aj1ssfa21i126h3n2w4957k3bfp7hjyxl"}

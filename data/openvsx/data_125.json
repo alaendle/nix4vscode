@@ -11,6 +11,11 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0aykiqv5bydihhyi5njzphkfxvqkdi6dm2zl3y72ybclr2nyxk3d"}
 ],
 "aibcmedia.aibc":[
+{"v":"0.1.24","e":"^1.85.0","h":"0a4i2lrfq73npszlrnddyqpydclf29zk3qqzfw7i4423386jqd3p"},
+{"v":"0.1.23","e":"^1.85.0","h":"083scd1nngrwd4swikqc76k0nwq6ms4rflvijzal0y3zrf92swhh"},
+{"v":"0.1.22","e":"^1.85.0","h":"0yqnj7b1nmm720f5ag42mcawwr2c3rdpfmnny1958pcdqn5mac64"},
+{"v":"0.1.19","e":"^1.85.0","h":"1d8vn8wqkvl59y85rx1wqgsrfg1yydlhn5xpz52yzh5z4mp4g1ln"},
+{"v":"0.1.18","e":"^1.85.0","h":"1ki08nxybvab3xmhdbwqj01pga0q6vdfq8pg2bywaaiq8ng4s6vi"},
 {"v":"0.1.16","e":"^1.85.0","h":"1b0rfjrrbkqq5w4203fxfgp8zbzy4jf0ibkc3kjh9617d9p1mv3a"},
 {"v":"0.1.15","e":"^1.85.0","h":"0apx48avq8m9w246j70ndyxc87rjb9cy8rnxkjjc9r83xa8jqvzr"},
 {"v":"0.1.14","e":"^1.85.0","h":"02d41gs2dwcbknyf63lp2vnss0grj5kvqhwlxai23hdkqkslapf0"},
@@ -343,6 +348,9 @@
 {"v":"0.0.11","e":"^1.90.0","h":"1c6b76fax3k7wpbffnfgn41zd8dj6ayzdi6k3cki1ay3zg0fcz9c"}
 ],
 "gawk-dev.mcpgawk":[
+{"v":"0.1.6","e":"^1.85.0","h":"1bv2qlwvl1rpqfkbfsyx7s7b33ifc65ckk78pi5h7fyrfqqcm54q"},
+{"v":"0.1.5","e":"^1.85.0","h":"1qc64jvvjvmmln87y1g4hjsi3fgr9vi71xih6bd04jsvd2a3j5rm"},
+{"v":"0.1.4","e":"^1.85.0","h":"16d4g33gnc22nrimk8gmai645cmnsaml75nr8v0dy3ycfi4sy0g0"},
 {"v":"0.1.3","e":"^1.85.0","h":"10063g4p6084xj5x0484n78mrsc0vjp5z606j2hwy33xy7x8anww"},
 {"v":"0.1.1","e":"^1.85.0","h":"0h42lk4i8078hav9f2dmmhjn2qdrq702c2x9ph5jp9649xgxjwrs"},
 {"v":"0.1.0","e":"^1.85.0","h":"0ssq0khd8k7w1k9wm6iiwwmdgvrlffxhgbsd4rw6ix342wcjz66v"}
@@ -444,6 +452,7 @@
 {"v":"1.0.1","e":"^1.96.0","h":"1742iaac9qad20lp9sddpmpvl1x61sjd083m6ma5h1kaq01ljhjl"}
 ],
 "magnusopera.terrabuild":[
+{"v":"0.0.49","e":"^1.80.0","h":"0s5ml9m7qxq7nij5k7qh5vv8lk0jcvbqwpikwvfnv43vx0kbqqwi"},
 {"v":"0.0.48","e":"^1.80.0","h":"0f0xwxqn6blqqrpwfqfi7as54laiqjfk4dip7nj9id9madfk98ss"},
 {"v":"0.0.47","e":"^1.80.0","h":"0qv9b1vsb3qd82qg362d331yccp1msfh2l9b40fd3rdhijbgd37q"},
 {"v":"0.0.46","e":"^1.80.0","h":"197xf0a8zzd2z01rwmvsr61c95g79kjr41xlara74qyygsy8nm4d"},
@@ -715,6 +724,8 @@
 {"v":"0.23.0","e":"^1.74.0","h":"0rnkbm39vglyny7l99wkbv3ngi5ijhz5pc257dqlg583wgk0g57c"}
 ],
 "semiherdogan.local-commit-ai-cli":[
+{"v":"0.9.0","e":"^1.95.0","h":"1xjrwszf6p7334kyjvrg7hfabhi55m4b71may7yg3iyj7yw2f50m"},
+{"v":"0.8.0","e":"^1.95.0","h":"1jnbplp36wgizkv50k3k9b69cksw8dhwmw22lpgj382n6zk66ag0"},
 {"v":"0.7.1","e":"^1.95.0","h":"1kwm92p9k9781frb190x9plkznl0ddf3ci3lnisarbmrk9qvxrxb"},
 {"v":"0.7.0","e":"^1.95.0","h":"0fzgxlk5rsdscdxskh7jszd3c24qwk1a41yay89l8yfi84v6rz7h"},
 {"v":"0.6.1","e":"^1.95.0","h":"00fv82l6lnbqsv2hgcsv4imzw7ipyfrm8n86n73abspn9bw4ydfj"},
