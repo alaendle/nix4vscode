@@ -181,6 +181,8 @@
 {"v":"0.0.0","e":"^1.78.0","h":"10ihgwbsb5hwsrmw5h5p7wf6f49f3dsi03mgq82g4nh1mj3lpc9p"}
 ],
 "editor-code-assistant.eca":[
+{"v":"0.51.6","e":"^1.75.0","h":"1kchj1s3bqx7lxapsy7gpp57zyks0a21lw9c9p4wyc69f5mb2y3b"},
+{"v":"0.51.5","e":"^1.75.0","h":"0jzmf7w8na68yadgk3d5l4mrgn3m62lq01rcad40d1wds6g2fl0f"},
 {"v":"0.51.4","e":"^1.75.0","h":"08rvbxibgwg4s7yh0kkhn40qm5ch7iisgw6x1yfnw802i2acxwkw"},
 {"v":"0.51.3","e":"^1.75.0","h":"0anph0ffi2pfyy8dib3p2k01f10nxaym6wjsdd2pg06ckfxzxsfm"},
 {"v":"0.51.2","e":"^1.75.0","h":"0pnmd59md9cywsdasxrszyxfrbg9nw83aqpdl41ml8l7afh1zzi8"},
@@ -1164,6 +1166,10 @@
 {"v":"1.4.0","e":"^1.52.0","h":"1hhx5wdkh7f1yzy75s7dg3v6q8hm1lnad896hawa8b78nn019vd8"}
 ],
 "riversidesoftware.openedge-abl-lsp":[
+{"v":"1.35.3","e":"^1.97.0","h":"0q350z4iqvhjp9nizgcyjlsqr7c77l9k0xh28dq4nxwqhmb5biif","r":true},
+{"v":"1.35.3","e":"^1.97.0","p":"linux-x64","h":"0p9w1ib3j7qx44kf8y3f7iah63hr41p572789vsy0i0ygk78x3hq","r":true},
+{"v":"1.35.2","e":"^1.97.0","h":"1ckf7w6b9a1x82rz8i35cf3xn39kcnsryv7v59vw3rr475ganahg","r":true},
+{"v":"1.35.2","e":"^1.97.0","p":"linux-x64","h":"1l8lrm1xhy8ynicd7fsp6mj9ah39d5xahp3hclwypxg8akp9f4l7","r":true},
 {"v":"1.35.1","e":"^1.97.0","h":"00jf7xq3cb2n374hmnx8bhrdg445l3drxj6zdfl44m3bs6jka8zq","r":true},
 {"v":"1.35.1","e":"^1.97.0","p":"linux-x64","h":"1932m74x8xfj7klz76pzkvqmlkf9mvw1j7nfn2aqj40gfx0p4vbv","r":true},
 {"v":"1.34.0","e":"^1.97.0","h":"01lwanhxq2l4cp29dndi0j8k5k02yvmv6x8c85zwyd8rrgfmfbjv"},
@@ -1385,6 +1391,8 @@
 {"v":"0.15.0","e":"^1.45.0","h":"0jc334jksfhd4pa9qpki6xqsn6hlbi7a8rxrjc5lnr1w21vhdlsb"}
 ],
 "tokiwa-software.fuzion-lang":[
+{"v":"0.98.1","e":"^1.67.0","h":"19hgd814d4al5cj8hmcla8wvxd8wxc24yir4cqwif9xxfd2q4436"},
+{"v":"0.98.0","e":"^1.67.0","h":"1a4cdi6bgzavi5dq8x1lvq3fn2m3j510xiahj8vfhy7visqnc47l"},
 {"v":"0.96.1","e":"^1.67.0","h":"0ynghr8ys78hgsdcj6bpx69aq9yczvmx74rgxm3f5ab9awpc0l0g"},
 {"v":"0.96.0","e":"^1.67.0","h":"1144bkwsgh4p9rw473fhjpdjncczwmn26bvb7j36w99yyzbj6cm3"},
 {"v":"0.95.9","e":"^1.67.0","h":"0j2xxh37z02g0r3h703ifqiapdch1s9a97w24k6j0gsxwj7kqkha"},
@@ -1528,6 +1536,17 @@
 {"v":"2.1.2","e":"^1.95.0","h":"1lr95hrir4ir28czbl6hla5d692r4vns64b45rcfapg70155anp9"},
 {"v":"2.1.1","e":"^1.95.0","h":"1fy68vjs71iq24fw33j1qs67qdfjrg5hqibdg0r5q1zh38nlcvvm"},
 {"v":"2.1.0","e":"^1.95.0","h":"06lbyzajryva6n45pssx712cyfsppafa8fpdpglp5iyz87w8kkyy"}
+],
+"w0zro.datum":[
+{"v":"0.1.8","e":"^1.70.0","h":"1dvxx36gmis52pv2z0sf5361fy98wnahsvdpziwrfx2yiafgpxx0"},
+{"v":"0.1.7","e":"^1.70.0","h":"1vd5d4gfgjjf5ms9jdczhj2ncgdi7pqzdgvk33h2zldzpd2qw8c9"},
+{"v":"0.1.6","e":"^1.70.0","h":"17yghqmkql12njhxnkbpp91a4fsyni7m1wk176iwmylxl78akzm4"},
+{"v":"0.1.5","e":"^1.70.0","h":"0fhqnycqassm1hqjhxipn1dn40rczq8hz0biba2fxrg6b2ilmdj2"},
+{"v":"0.1.4","e":"^1.70.0","h":"0ra386bvr4pwzwjacxyp2f0d45ml8wzqss12ps8n5z8wmclnyhv0"},
+{"v":"0.1.3","e":"^1.70.0","h":"0jy4yz05jp3si1ldag52cjrhm0blx87qb3bclpsgn7glfn6353pp"},
+{"v":"0.1.2","e":"^1.70.0","h":"105h48vhan88vaz9p35zw2qhprk0cjmpswriw2l7y3r59i3a4r3s"},
+{"v":"0.1.1","e":"^1.70.0","h":"14s5clqcw8w9di7vi91iab3mxw4n9xl5441qkazk1h1i0ys8y4h0"},
+{"v":"0.1.0","e":"^1.70.0","h":"18wj9d37j02hhcmdngslsp405mzq80sbmzsl4c2m3jvfshfg0s4v"}
 ],
 "webjiangh.smart-project-manager":[
 {"v":"0.0.3","e":"^1.101.0","h":"1azavkmv319kn8ricvnzrs0waysna9wazx9wdaydkwin5wp3nd14"}

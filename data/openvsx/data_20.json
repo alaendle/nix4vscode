@@ -514,6 +514,9 @@
 {"v":"1.2.0","e":"^1.46.0","h":"1vxqzarmx9nbas5ymnlismkyx0br5ypz05sdfp92v96yp2v3zf2l"}
 ],
 "fallow-rs.fallow-vscode":[
+{"v":"3.9.1","e":"^1.96.0","h":"19jfhnpjhrzfdsny1bg2qwb5dqxy4v093mp11061p0jrhyvvzkvp"},
+{"v":"3.8.1","e":"^1.96.0","h":"1nvqwljdaxlv03ypmdcqj5wj19zvy888l0c94nd6ffp3sgj2kgap"},
+{"v":"3.8.0","e":"^1.96.0","h":"07p7x95nqlyl5rhq027w0rd5dd21fzhy8c4sj9sgrcr909kddd8k"},
 {"v":"3.7.1","e":"^1.96.0","h":"19y5v8d000j27s8767icasndfwavf3pyy54gr9rh702yyaqvsq43"},
 {"v":"3.7.0","e":"^1.96.0","h":"0hd84l5izj3n904czl3kz44nrqry0z5cjgqi0lh1vxj562sd0wy1"},
 {"v":"3.6.0","e":"^1.96.0","h":"0zs22n6vp8qyg31lcvx3mqkf7wlg73dxgflq63s4dx1ycqmy59jm"},
@@ -1057,6 +1060,9 @@
 "mzjagirdar10.pycharm-find-in-files":[
 {"v":"1.0.0","e":"^1.85.0","h":"1lisms7x4g5f7xbg8ci9ycg6pg0ihfhp9y80jb9b7a5ihkdn9n4v"}
 ],
+"obsidianlabs.obsidian-code-by-obsidian-labs":[
+{"v":"0.1.12","e":"^1.100.0","h":"19zi8k8xp7cra1dgwq31830zv0wy1am540lcpcrf0h5aw0697vdr"}
+],
 "ocamllabs.ocaml-platform":[
 {"v":"2.3.0","e":"^1.86.0","h":"0j2x5ybcqq73rgj7zkg2k3xh9n34cd0sjl9nzm2njij7sx7avgdx"},
 {"v":"2.2.1","e":"^1.86.0","h":"0b64xd8sjgcs5ms71i770gr786a5lcfaq7bs3axhwpbih6rkggsx"},
@@ -1135,6 +1141,7 @@
 {"v":"0.9.0","e":"^1.43.0","h":"08yv0kf7v1gs069r76wdi4axhqlh03f9dskpcwsc30252fd51b9s"}
 ],
 "orcateam.tswagger":[
+{"v":"2.6.0","e":"^1.77.0","h":"180waczhw8fv5249h3kv5irbl5qh37zsjafnwjq23lwacn4nd7df"},
 {"v":"2.5.0","e":"^1.77.0","h":"0xnchjzamzjnsg4fzmlk840s1xilhd3zvz2dx49aw2s7dc2h14pa","r":true},
 {"v":"2.5.0-0","e":"^1.77.0","h":"1p2j262y0kb4fxxwckl0i830iip6baypdsif9gpvxarhw4sg5djp"},
 {"v":"2.4.0","e":"^1.77.0","h":"0y803lc75n8pp6qisbl6f0fzrmknc4l3hym620kr5jgm972mxli5"},
@@ -1207,6 +1214,12 @@
 {"v":"0.0.9","e":"^1.85.0","h":"1vsgcqv4a0nyy29zx3997ns775qxky223gy84vmnvcj3qdv0001l"}
 ],
 "robertpiosik.gemini-coder":[
+{"v":"1.997.0","e":"^1.96.0","h":"1li1lacn097hm2640yk7i0inkppywmcj0zlzswma03ha1g1sqxf7"},
+{"v":"1.996.0","e":"^1.96.0","h":"0vdfbcl5ycl53cp61gd1nnp6wjnawm5zmcb2cw50fqd5k1fa3ikv"},
+{"v":"1.995.0","e":"^1.96.0","h":"1ay0ixdfvav37zq62jpbfywgdsplcvj0qb843d8q60zb0zj1rzx3"},
+{"v":"1.994.0","e":"^1.96.0","h":"0cjbqm6asrlz60hlcadnik1mwqzbzai2malj3pjg9yvxv44xx4yg"},
+{"v":"1.993.0","e":"^1.96.0","h":"0639wjw4d5wfdsjzasiral1k4dxaq7rxcdd9m4jfcpanxrhjklmg"},
+{"v":"1.992.0","e":"^1.96.0","h":"0zpra7lpwizlbsrmvya57rhlicd32qmw8s0ag2kay5lip365jd6w"},
 {"v":"1.988.0","e":"^1.96.0","h":"1lsrw89qifkdxm88yh84n3z62jrpd09x6ignjpc1sijr53943486"},
 {"v":"1.987.0","e":"^1.96.0","h":"025wrlcmi493nyv60i8gs19h47add70rjgxb6j2gqj0l717cxg55"},
 {"v":"1.986.0","e":"^1.96.0","h":"0slqy89imx1aiyj90qsypw7mfgnzmb12gs24sl9pb8vdzh5vwdid"},

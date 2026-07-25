@@ -531,6 +531,7 @@
 {"v":"0.2.1","e":"^1.85.0","h":"0iid7sz07rfk6vmi0vf348a32hrz1fb2il3i6a8xi88a0kyy3hq1"}
 ],
 "grinev.boardown":[
+{"v":"0.5.1","e":"^1.90.0","h":"0cpbh9f75s1byk512qkflya8yxxdmhbq257lq7b9sg8x34k5f95p"},
 {"v":"0.5.0","e":"^1.90.0","h":"162ksbcrwik5qhva96kn422z926446c2ns6l1ry8lvip5dgshy9c"},
 {"v":"0.4.0","e":"^1.90.0","h":"0n3p1nqn8zcxqcf6f2hqxvbfbi1cs8vryihvd3g20hm6i5za7iqg"},
 {"v":"0.3.0","e":"^1.90.0","h":"06vk8lv587ss55npkanqmvsh616fd7pnsjiz7wn3kczvaw1yplpy"}
@@ -1007,6 +1008,16 @@
 {"v":"0.2.2","e":"^1.85.0","h":"0da95fqnrp33iyw8zhxr6prgak78fi1f1xgg1gc5d5pyshlwnab3"},
 {"v":"0.2.1","e":"^1.85.0","h":"1yfmb0w57b7bg9p60k4vjjsixn33fw59qi9hfjv4xl7yjiypjncr"}
 ],
+"shaneyu.stationeers":[
+{"v":"0.2.0","e":"^1.107.0","p":"darwin-arm64","h":"0gbdwvqd6x2abjjw83jsw78yy6r17c28dhzihvdswbg56m8qrn9f"},
+{"v":"0.2.0","e":"^1.107.0","p":"darwin-x64","h":"0v603szmm2yrv5pw1xjwxqc46qlvna9jyqsn4fhzc5pfksyg6ak4"},
+{"v":"0.2.0","e":"^1.107.0","p":"linux-arm64","h":"1fdhynlrr4cpfjiz0yps1aqcr5xzh8k5xf1qjl3fgslaj3sj1xh4"},
+{"v":"0.2.0","e":"^1.107.0","p":"linux-x64","h":"0iy8n2ikkfzblmnnr5a2jcs5gay07088fdap6wv615j6g4aa9iy0"},
+{"v":"0.1.2","e":"^1.105.0","p":"darwin-arm64","h":"0v6acidczhs2pw9p16kg824lr4hrsnfkvjx9a6phy6ifliv37pvl"},
+{"v":"0.1.2","e":"^1.105.0","p":"darwin-x64","h":"04051pdzv4pdnvjrb4wrl9nj538s729a6sfwdf89gz33ifpvf4nx"},
+{"v":"0.1.2","e":"^1.105.0","p":"linux-arm64","h":"1grf9ga3wa3q0g5nxkc7214wqx0c63767lxr2w36kimbkfjvydr7"},
+{"v":"0.1.2","e":"^1.105.0","p":"linux-x64","h":"1d2c9c36zrbqdqs4p9rnqkhchl2h0hk9wcjmi8ibh7hsayimqhwl"}
+],
 "shebinmohank.grove-pilot":[
 {"v":"0.6.0","e":"^1.85.0","h":"0fi8a9w9l1v6sgic3scccy5qy4jbsv8iad1yfj1j4s32asn5ksm1"},
 {"v":"0.5.0","e":"^1.85.0","h":"1s71wj47qck9wxk4mdab9y2ip62pmsxpqbw3h779g4mv68nxazqi"},
@@ -1060,6 +1071,7 @@
 {"v":"1.0.0","e":"^1.67.0","h":"1p83yg20z6sayaf51pkv43qpb6isaqxc7idvpwhrhmk3awn6hlx4"}
 ],
 "sumai-odoo.odoo-codepad":[
+{"v":"1.0.1","e":"^1.80.0","h":"00rnjqmhdb0bfqhbcnrf8jqls6ps56351cvbf23ncp8vcd478gdd"},
 {"v":"1.0.0","e":"^1.80.0","h":"14dgngg1dr7vaq8m5pqibml02486d7v2v5ar6w7jdfs9awmhiw1k"}
 ],
 "superfit.payment-tracker":[

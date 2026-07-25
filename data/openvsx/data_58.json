@@ -168,6 +168,7 @@
 {"v":"2023.0.1","e":"^1.75.0","h":"0ncd8kk305pcbq6z51hsci8s4p3f4228ygrggbkqd5xh6qck88y0"}
 ],
 "asamarts.alint":[
+{"v":"0.14.1","e":"^1.85.0","h":"01y8vkilp6bzr1nisj3yqrk6p070hfppby6xv3pz8yn8swyf1q83"},
 {"v":"0.14.0","e":"^1.85.0","h":"1hz32fm59ia6hjsdq8fkanxyrgkgdly6fv5a9dhpc8nk3a82nr8j"},
 {"v":"0.13.0","e":"^1.85.0","h":"1kcfzhqhdcc5sfvbk0qzxx0ps420qqcpksc9k3v41g0ddwca5w6i"},
 {"v":"0.12.0","e":"^1.85.0","h":"1d88zzgim7nj8fh04r5yyrfyy802s2x4g8kn1049sjqr5sjpq6xx"},
@@ -395,6 +396,7 @@
 {"v":"0.1.1","e":"^1.75.0","h":"018ldcign2hpls31xg3b35kfqfd94m27nlfckgqjqa3l2x7cwqhd"}
 ],
 "google.geminicodeassist":[
+{"v":"2.93.0","e":"^1.97.0","h":"0avwlqxm8gl6jkhnl0ix6z8qv1707a2zjy5rxsckrd6y680kxg33"},
 {"v":"2.92.0","e":"^1.97.0","h":"1x414irshqqdb89mf5kqr34z5xkjm2l5w8v8z1hb6v4rsgphk585"},
 {"v":"2.91.0","e":"^1.97.0","h":"1pq7zk2mq48imhy8f9z40vkbv826ch4zzmqaccjmnqqsv28gwc6y"},
 {"v":"2.86.0","e":"^1.97.0","h":"11yq9h4pw6caa96dy8c79a6712paqvdgkjfnmg53xzpm71bwjcq9"},
@@ -723,6 +725,7 @@
 {"v":"0.0.22","e":"^1.74.0","h":"1h5a7b8q2a58y1hsr0a2n8rh9qvpf48dbvzwsn7sk290k7ffhym6"}
 ],
 "modexai.modex-vscode":[
+{"v":"0.1.10","e":"^1.125.0","h":"0d95qb24ly0nl2ryvx113rpnwflq37wjlhl1fbdxv8ag505hkskg"},
 {"v":"0.1.9","e":"^1.125.0","h":"0fvvhbvsjqlz2c9mdh3qshhxksbz19zprap0iyayj42fsf03wiyq"},
 {"v":"0.1.8","e":"^1.125.0","h":"0jma9m1hq3ifx560mgqsmll1984rpwdd1bpyzs87469nayx936hj"},
 {"v":"0.1.7","e":"^1.100.0","h":"0g4x68rm3dk8qa6cb10mznnkv6iawvn43n5cs8jkxk1yp4n1b6cm"},
@@ -919,6 +922,7 @@
 {"v":"0.4.3","e":"^1.60.0","h":"1la0alrlzw2iv4xlai63ar52jssqb03dh9r8czvm3nj6nnn3ii3b"}
 ],
 "rufat.cursor-ai-chat-click-redirect":[
+{"v":"0.6.16","e":"^1.85.0","h":"1a47mnyhdmj02zzc4m79hjmg6h9s58jqah042sxgxx85y91j2af2"},
 {"v":"0.6.8","e":"^1.85.0","h":"1jifcq87gbhrvrzys7mq2qncmbdz8m6qh89d18si5jlkhdjsi9d7"},
 {"v":"0.6.7","e":"^1.85.0","h":"1hbi55qn84jnxkqwni2cj41msw2gh24mln9y7fja316gbmpc9d60"},
 {"v":"0.6.6","e":"^1.85.0","h":"0g5myw93jmsyz6kdnd1x5ncxqz3bja6z5l8g3ych0zl60xxvfpdi"},
@@ -1305,9 +1309,11 @@
 {"v":"0.3.3","e":"^1.54.0","h":"0a5rly6kxf8bszvwliza230cn6qwp9yzg5dkzidjrvcrdyk8b7v8"}
 ],
 "wix.vscode-wix-data-view":[
+{"v":"0.0.8","e":"^1.91.0","h":"13bjdcn4k00i2s7f43mcwx0202xz9p914ji538b70544kb8765bh"},
 {"v":"0.0.7","e":"^1.91.0","h":"0pfy1z8mxc97gvim94vg93adn8svhmqppyvdgch5lq6qavdnrjjq"}
 ],
 "y-ysss.cisco-config-highlight":[
+{"v":"0.8.2","e":"^1.63.0","h":"03hifmqfs143ifmmcgk8kwanbavp49kl74ki5a4gp09ii0fz4bqs"},
 {"v":"0.8.1","e":"^1.63.0","h":"12kvb83n2skyrk3mrrb4mms61yy00d6jizvyhz4rmgf5i70rb32l"},
 {"v":"0.8.0","e":"^1.63.0","h":"0493j55837fpyipwwkcfj1hqdv75mjrhcamb2hr4zgm9bm1s8gx2"},
 {"v":"0.7.1","e":"^1.63.0","h":"1hr7zhkmwb1557h1n8w2mp6ysgy3pa2yxmcrs2zddmjhw7rd9y8k"},

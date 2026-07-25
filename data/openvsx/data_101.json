@@ -686,6 +686,9 @@
 {"v":"2.0.1","e":"^1.75.0","h":"1d2q8n0617ifjhf861ich5qi6kldpc4dwjlq7l8588j63ahxz94c"},
 {"v":"2.0.0","e":"^1.75.0","h":"1mg6jzdzvhy4w5vcm0a4w3anrfcpr3wr3sga2j2g1nrgn3fdi6lb"}
 ],
+"luyandalia.reviewflow":[
+{"v":"0.1.0","e":"^1.85.0","h":"01a5zb15zhq572m294b55irs38wg8dkz5yls3bz2sr6bcs41r1m2"}
+],
 "lvdn.s3x-explorer":[
 {"v":"1.0.9","e":"^1.75.0","h":"1rj8nqf5sws96ph8i9f5sjc59yz9gr8nh79ydn6hi80f56vpalbp"},
 {"v":"1.0.8","e":"^1.75.0","h":"1h0x2plgs2pjscvnv3jmpcz36al3i70li3srl7divx4n1qjqgwwf"},
@@ -769,6 +772,7 @@
 {"v":"0.4.0","e":"^1.85.0","h":"158d70wcacmlaljnvqz90xwpws4pi15ir8cfmiqriq0k5d6iw9y7"}
 ],
 "matthew-khouzam.gpu-thermal-monitor":[
+{"v":"0.2.2","e":"^1.85.0","h":"04j4dprgydj5f7gj0mykffwjvrfx0nrck7vj5l00zrbhh1nf48km"},
 {"v":"0.2.1","e":"^1.85.0","h":"01yp52dx4pj31r04jphf1gk00mpaqf4p152m7i33hs30fzsddahq"},
 {"v":"0.2.0","e":"^1.85.0","h":"1mz7ldiwkalqd3aqd3kmcd2cm8cwqcwkyqcsa6hiqgxrc08mn824"},
 {"v":"0.1.0","e":"^1.85.0","h":"18iidn8irq65fvnwzdkjcmd8272i579vl7hax8pgzizvxi79s66b"}
@@ -1218,6 +1222,7 @@
 {"v":"0.1.1","e":"^1.93.0","h":"1gafyy5nmrmbfcscd9ansr0vxicdjv10lmr6yajgwcbjm8kda24s"}
 ],
 "vansharora21.tokencap":[
+{"v":"1.6.0","e":"^1.88.0","h":"1lf2z5dydsrcgvvpn61q7dk641hfp362dfbqrrzfsl7ni6sdfbwh"},
 {"v":"1.5.0","e":"^1.88.0","h":"1m0nvkbm2bm6ampd0vxpdlx4pqm4kzssnykmqbpj2zc6sa8waz1z"},
 {"v":"1.4.0","e":"^1.88.0","h":"0mc4y6pqfhqfnpip23pa54q9k04xd9bbidbvwdzkmqf9bg0b7w67"},
 {"v":"1.3.0","e":"^1.88.0","h":"1m4c7mnhb75yr1qn17ij6qq08b5zskj65wnv3y8k631krvg9r83l"}

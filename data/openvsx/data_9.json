@@ -513,6 +513,8 @@
 {"v":"0.2.126","e":"^1.85.0","h":"1xmy61850r22935gm310rpdrvqaqi4fy5cjlwv4lwpm4pv41g26n"}
 ],
 "frowningdev.django-orm-lens":[
+{"v":"0.9.0","e":"^1.85.0","h":"0b8hyl5mxwhw257hq5lspg21gih7qsgsbmqsg3yb8q17hdyfbnx8"},
+{"v":"0.8.0","e":"^1.85.0","h":"010r2kg3jsfwyqnhwq2wkmi9s0si7rdcm5zs5jax5l511lzdpisx"},
 {"v":"0.7.8","e":"^1.85.0","h":"1p9xdqawmgsflckv28s9qvjnjm15bgsndmk0avripv40jfnar964"},
 {"v":"0.7.7","e":"^1.85.0","h":"09f0f2wskwpnxihmrk48y5m9dly9vch8hbd31lxbigbj3dkgfpkg"},
 {"v":"0.7.6","e":"^1.85.0","h":"1jn51hndp1jmjgkhzs9cx1vx18b8z0vbdxpmp30bcqmmrffdw8fk"},
@@ -903,6 +905,7 @@
 {"v":"1.0.1","e":"^1.92.0","h":"0cqzas7zg388pb42z926xk5vk5y3manp99gns7s1pgz5q6s32glw"}
 ],
 "omniainc.alembic-graph":[
+{"v":"0.0.3","e":"^1.90.0","h":"18y55q8iq95plbn09y3y74pzxnrm6wawl27ryp4i2xsm7z4zhg10"},
 {"v":"0.0.2","e":"^1.90.0","h":"1qs41zqj3ji941bca351nhl4y87c8rzcnhy15pcm6iga925vnszx"},
 {"v":"0.0.1","e":"^1.90.0","h":"00pz479k9hg2dix6jb968vxzvi2ys6npz6lvjqk56f5gb7a25wg3"}
 ],
@@ -932,6 +935,7 @@
 {"v":"26.3.100","e":"^1.109.0","h":"0nzp2xa31n00frzn69fzcjnwh8pakgk9rdzmcjzy123hp9ids3ml"}
 ],
 "owenpkent.markcopy":[
+{"v":"0.4.0","e":"^1.90.0","h":"06jgmpv1wy88k3f1hfyr31866wd29cgh178dba20ibbwz93qgw2x"},
 {"v":"0.3.0","e":"^1.90.0","h":"1w6jd0lcpnig0405r96inwq9pc671jjhirjrjjpdl7zjrnz15szk"},
 {"v":"0.2.2","e":"^1.90.0","h":"0v4vkasbf5rvjhal97gis9jp31pgkj9l42mc0s7b34zz49g9lhxc"},
 {"v":"0.2.1","e":"^1.90.0","h":"0bdshf6yz1jg6znfx20iq45ff4n2a3p3xqs5sp399nhxcxadg1pr"}
@@ -1044,6 +1048,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"0ffs5wr4v6002znsvizmli2kpzavz8k8g1z2lvm6hdnhg8zglsa5"}
 ],
 "safeguard-sh-inc.safeguardshideextension":[
+{"v":"5.1.1","e":"^1.85.0","h":"0vd0jbj7vqw0skh0c99w4vpz0qj1glfanhy2gv07jj2h3h2c493q"},
 {"v":"5.0.1","e":"^1.85.0","h":"0aqcjqi6i7mrv3c3dxpd1n2j9zhf4k9z1a679jnrl3gyx2hdy4y6"},
 {"v":"5.0.0","e":"^1.85.0","h":"1xgz5vkcwjnkxjkcdgxz8lz7j1qyn8g240idpx1lslyvll0dilvd"},
 {"v":"4.0.26","e":"^1.85.0","h":"16knj4aw8q56km6xgikp0ga5amgkmrx918jdmnivp8rpqmlh3ibp"},
@@ -1192,6 +1197,7 @@
 {"v":"0.0.1","e":"^1.48.0","h":"0ag29sdqkfavg9i1d05n89w5sv4rfjsqam2lla040mm0sayb1mcx"}
 ],
 "snyk-security.snyk-vulnerability-scanner-preview":[
+{"v":"2026.7.2213","e":"^1.76.0","h":"1a2wb4lw4msggb3k3xjglqf1a31h5rmjf2krsy1gvdvbgz7gyrnd"},
 {"v":"2026.7.1511","e":"^1.76.0","h":"1p27s0m5qp7d6d1w42xbs2ipipdlsr3wg6q9w2c2zzwwn590rxfz"},
 {"v":"2026.7.606","e":"^1.76.0","h":"083n0836qn176dlzmzkcc3nsfmz661rdz6dqdzg6wdqc3yd7rgg6"},
 {"v":"2026.7.210","e":"^1.76.0","h":"08zcdk8yxz7ma07j8xgsap5i01b2nvzdda81by1mj2z3swhwswim"},

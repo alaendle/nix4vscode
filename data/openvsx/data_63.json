@@ -718,6 +718,7 @@
 {"v":"0.0.14","e":"^1.94.0","h":"03sdfg8g52p7kqmxpw8z1in2cgxj5i8y93fwmxx47hnqj0j8g9rv"}
 ],
 "paularlott.scriptling":[
+{"v":"0.5.12","e":"^1.85.0","h":"084p39h5nf435d7fhdnqfvjmqp1dg0lsahizdsrxq9v9j7vzgwc6"},
 {"v":"0.5.11","e":"^1.85.0","h":"0ly8d59qg0sdc8lksqdr6m59w7477rlw1p1wk1039chdv18hp4bi"},
 {"v":"0.5.10","e":"^1.85.0","h":"183gxhjgy0clzijq84gzpj2zikgddll3c5nc9laj34i4i6nm90kj"},
 {"v":"0.5.9","e":"^1.85.0","h":"0rm88jb5azpkp5vf9bxhd9ksgd66mmdy3njb6zd1sffc46zflw2i"},
@@ -774,6 +775,14 @@
 {"v":"1.0.0","e":"^1.89.0","h":"1b4jl3hck77j41f8lfgbdrglwg64112788awkfviac5ha6rbiz0i"}
 ],
 "salesforce.salesforcedx-einstein-gpt":[
+{"v":"4.19.0","e":"^1.101.0","p":"darwin-arm64","h":"1lwc458m0l5shwbvigb3ddxmndpvz77srx2dr5aiq700f7bg722p"},
+{"v":"4.19.0","e":"^1.101.0","p":"darwin-x64","h":"0nvsm7853qfsjsc1av11zp0kxjx6gpli2yaghcrb87ifx32hf7hg"},
+{"v":"4.19.0","e":"^1.101.0","p":"linux-arm64","h":"0fgrg1h7fspi3r3xy5mx027jb38v7g6sdvkvy71pw03694j00ym4"},
+{"v":"4.19.0","e":"^1.101.0","p":"linux-x64","h":"1r0yvas6ch2qlqckv7jv2hygn9lnbzn5ks38zx1y2m2iswn1mpmh"},
+{"v":"4.18.0","e":"^1.101.0","p":"darwin-arm64","h":"17kvlhcig0v02srkdcn2p6fcnsyiv6dn84v0xb02f2c0rld1rb97","r":true},
+{"v":"4.18.0","e":"^1.101.0","p":"darwin-x64","h":"0df9ifyn0h9qivffgayz1651b1i5k6rzpr06awmb5qyszfd1284a","r":true},
+{"v":"4.18.0","e":"^1.101.0","p":"linux-arm64","h":"0568dq52zhp5ip5dwgmp14xgk2f0qcnprk11c0q6373pnz2abvg8","r":true},
+{"v":"4.18.0","e":"^1.101.0","p":"linux-x64","h":"14blgrnc4rbhrrj100l50aca1iyrfpbwb08w66xqm72qki9qygmp","r":true},
 {"v":"4.15.0","e":"^1.101.0","p":"darwin-arm64","h":"0diwrcfisc1l3795dh6ga7b9mcrijfxgv4hhjhz8r7c8h0hzzcl5"},
 {"v":"4.15.0","e":"^1.101.0","p":"darwin-x64","h":"1zvr7crjapn1akyhjx8xykm7y64mw9x8f8kqq092jdgwpwj6iy93"},
 {"v":"4.15.0","e":"^1.101.0","p":"linux-arm64","h":"0laxc3m8ipxq00yg7ds2a2qcnmj4ch1dqn9ccm2xbrqc82cnph8k"},
@@ -977,6 +986,7 @@
 {"v":"0.19.1","e":"^1.76.0","h":"0c0j9bi3hral2vm9paqx1hmwjg5bvw0dyb43rf1nxcyr11l6hyfb"}
 ],
 "salesforce.salesforcedx-vscode-apex":[
+{"v":"67.6.0","e":"^1.90.0","h":"1ngsyp2abssi1x1yda10cpg7kzrlr970bxk0gsscci8dswd9drvm"},
 {"v":"67.5.0","e":"^1.90.0","h":"0gwi5xbszs42vn1sj8cd7lv8k6j9qkrr4ijgb0b9zxvdjmj9rzkf"},
 {"v":"67.4.0","e":"^1.90.0","h":"1zm9znjralc3hbjsc1lxrxwcdcqr3hwzzg1bbw4dx8vk8k4a0yv7"},
 {"v":"67.2.0","e":"^1.90.0","h":"0rvdybk7z6k6ha0a2b25avz5w5ppkd7acy9z99sdqpjcyq66y3ib"},
@@ -1097,6 +1107,7 @@
 {"v":"57.14.1","e":"^1.61.2","h":"1r001qrqa1fnp5sf1hg9q2nabjjag5rvmczmdzyzfzp6yvy3via9"}
 ],
 "salesforce.salesforcedx-vscode-metadata":[
+{"v":"67.6.0","e":"^1.90.0","h":"0nsafkklbbdqgwizzybakgwhni3fnc179dg3sr63pv701widn675"},
 {"v":"67.5.0","e":"^1.90.0","h":"079mql57hn6j94hxbc92xy05md26jyplm7ylq2sgmmhyv85b8wzn"},
 {"v":"67.4.0","e":"^1.90.0","h":"1v0y7aq8kp2lk354k76zq1fvbgmifwfzxpsdpww29b7q2diqnxkv"},
 {"v":"67.2.0","e":"^1.90.0","h":"04xmshh27jm274kcf1il3ch2lyc85qj5vc04jlxy55b0yq9yf9ah"},

@@ -49,6 +49,7 @@
 {"v":"0.2.2","e":"^1.37.0","h":"1x8awdvhv0l0g94zfpj4r95shi79nns5v3rplfyqnl3d9bg7b9mw"}
 ],
 "alkera-ai.alkera":[
+{"v":"0.2.0","e":"^1.90.0","h":"0dgqb0wy65jdaz9b8wcxxbc6609c9yqfmy4f5ar9vif1z8j1ca5x"},
 {"v":"0.1.1","e":"^1.90.0","h":"07jxzafy0xhcr7jds1xd80bwmdrrgy6kdll7zrysadldp5wrsm6i"},
 {"v":"0.1.0","e":"^1.90.0","h":"052md20aqzp6r36b5801qfnjsmdv2xbv098v4j65p7a8zlj9lg0v"},
 {"v":"0.0.6","e":"^1.90.0","h":"0akjxxn30knxhsjva9wqv7ndihsm9yjpinnhjiiklhffc7y1csiv"},
@@ -57,6 +58,9 @@
 {"v":"0.0.3","e":"^1.90.0","h":"1jdbh6gi7fyfq28722yv4bczlxszj1wc6n3jgrazi1mzc5gwfaa3"},
 {"v":"0.0.2","e":"^1.90.0","h":"10vfc3ln9m984s8amhfv0321x2hvdzc6saj5pbz7zg1rvc6b6hah"},
 {"v":"0.0.1","e":"^1.90.0","h":"06xr2hqvi72273lvlkr9cww7z511gg3451g6kc9khff388grdaab"}
+],
+"alloutgames.csl-language-tools":[
+{"v":"1.0.2","e":"^1.91.0","h":"041bryl90v0gh4phmhhqns0232alyi4xbwchgky1bbjpkw0r4vfd"}
 ],
 "almightygpt.almightygpt-vscode":[
 {"v":"0.11.1","e":"^1.85.0","h":"037483q4x3qskyr4pbxl0nvqijnyza7mlddzv5gm8xhkc2h3zhjz"},
@@ -474,6 +478,7 @@
 {"v":"0.2.0","e":"^1.85.0","h":"1xq84y9hcfx1v5d27ka0i7nvywwf2jrdv6yzb0mra7pl24w2711f"}
 ],
 "chaselen.v2ex-playground":[
+{"v":"1.19.0","e":"^1.86.0","h":"1lz5jlnpk8qpysq8hp2285a5acc5j8wbd3p32p7yp4b020gjc0ab"},
 {"v":"1.18.0","e":"^1.86.0","h":"1mgsd84ls0788jli4dyy5jk8jlk16y2691q5v3r93bw2nrd687dl"},
 {"v":"1.17.0","e":"^1.86.0","h":"1bldhl3rha0b23wkllg0pca6vgxdx13a8npna207xg3v09q4m20m"},
 {"v":"1.16.0","e":"^1.86.0","h":"027n4pfrnm6q5l9jmg9jh4lbdfkkzwrrlg6cfphg0jgw8g1yg599"},
@@ -1301,6 +1306,7 @@
 {"v":"0.0.26","e":"^1.56.0","h":"14vqmqfprrkdhghf24q841f0ghwd1bkj798h3s1ln05z6wr8r2kq"}
 ],
 "salesforce.salesforcedx-vscode-soql":[
+{"v":"67.6.0","e":"^1.90.0","h":"17jv2hb9bgm5p2970d5qn08nr0a2vz5nchv10f500k38lrxk649b"},
 {"v":"67.5.0","e":"^1.90.0","h":"152j55fwqcasva001npwvpx19cnmji2pwhj287avz0rxn68g2njm"},
 {"v":"67.4.0","e":"^1.90.0","h":"0y3gfsyijqlvkc1wx88nvkc4zlba8fvajnixcglmcaa5jmkybxcj"},
 {"v":"67.2.0","e":"^1.90.0","h":"0qb27z7qb5g7ch7a5yq3qpzmxvxl83mchx3nvqml6nd8dhbj3xda"},

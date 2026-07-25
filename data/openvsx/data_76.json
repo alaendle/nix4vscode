@@ -170,6 +170,7 @@
 {"v":"4.2.6","e":"^1.49.0","h":"0jaqpqf1ln26fja7mxwp69wn2wx9yfkr41bim3gc1h16mp9zydvn"}
 ],
 "cloudpss.mirascript":[
+{"v":"0.1.76","e":"^1.80.0","h":"1c2bw98mfjz0kdqjddb8i7l5hc17snjnfkqim1ghmcvl228ld0nr"},
 {"v":"0.1.74","e":"^1.80.0","h":"1ffz60zh6vpgwglnxjklbq67874qgb0qd222nz69imh7ghb6d088"},
 {"v":"0.1.73","e":"^1.80.0","h":"0ynlizqygzx7b2dgy7ngb9v5fvgh0zbn3rqdmy9kbjr99wnz5lvy"},
 {"v":"0.1.64","e":"^1.80.0","h":"169d89kcgkpbsvfip8alw92i3c1pjzmj8jshj4gds16zmjf8wfd9"},
@@ -190,6 +191,9 @@
 "coccoenterprises.vsocial":[
 {"v":"0.0.11","e":"^1.90.0","h":"173c1wcvjd87c73jvwafn26cc1jlksp2yjvsfsj06ymms2svjb4s"},
 {"v":"0.0.10","e":"^1.90.0","h":"0rypr180fv33q45x0yzgwm1qgr6fjazbj94ibk2z80qp205f8958"}
+],
+"code-fundi.code-fundi":[
+{"v":"0.1.1","e":"^1.94.0","h":"15ql11bw2p7xyp6l1n6qbjma8bwwbfjqwhir9b8lg9l9py175q2y"}
 ],
 "codexdebayan.branch-compare":[
 {"v":"1.4.5","e":"^1.92.0","h":"0g5vdsbrqd41rd4vmc63x5cnza0d8bfz4cx5pqcqd4kdl9x31684"},
@@ -1365,6 +1369,7 @@
 {"v":"0.0.1","e":"^1.74.0","h":"16nm47jya081rrnxbgnqryrbqjr04666ih88676psry9z9hhpl8b"}
 ],
 "tasktrace.tasktrace-tracker":[
+{"v":"0.7.0","e":"^1.89.0","h":"0n1qnxrkgxc6gjh0d7xrylj257lrx92h3v2ghfz0i869rbwpqrw9"},
 {"v":"0.6.0","e":"^1.89.0","h":"06yzv1v45sw20hm0fax19x7cs4v6a237z51cw1mnp378v3j70989"},
 {"v":"0.5.0","e":"^1.80.0","h":"1rbl5l4q3dnbrx34qcsqzafq4pk8v9r3pcdc2p0dz17aj7cxmz2f"},
 {"v":"0.4.3","e":"^1.80.0","h":"1rjyhx3zz6vhfkp71br2fdsvb6v5nwdaj7203npwlcsbcwqicqhr"}
@@ -1402,6 +1407,10 @@
 {"v":"0.5.0","e":"^1.75.0","h":"17xpvav0xbjwvwn47jfyknp8l697s5xbn0lv9cm43z7wi4j2ids3"},
 {"v":"0.4.0","e":"^1.75.0","h":"1yisr67nz59bngyq7nbzrnspg66agnrbpazhm78adibyl4lc4vj8"},
 {"v":"0.2.0","e":"^1.75.0","h":"1rqmyxf1fn7mxgxq2bg9ypj8p644phyw19as3b8sgv283cs8w9km"}
+],
+"ultrakostik.vscode-menthol-theme":[
+{"v":"0.0.3","e":"^1.80.0","h":"1mrjby5m16iw59fp0jx7jqcdy4ny1d5fj7z3vsf8l5pzwjzgf9ha"},
+{"v":"0.0.2","e":"^1.80.0","h":"00bgjlq08vhjdp465mzv0ix392wykaidjx212vgp964cn14va5mp"}
 ],
 "v4run.transpose":[
 {"v":"0.0.6","e":"^1.8.0","h":"1w2gkj6q6z4d03ank4n70pisqkgadzh942s736667b219w1lsxra"}

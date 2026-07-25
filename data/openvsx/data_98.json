@@ -47,6 +47,18 @@
 {"v":"0.3.1","e":"^1.65.0","h":"1vmqdqyjy7vdc7kiiphdy5lylkmjc23p04dn44iwv7aihbs4b0m7"}
 ],
 "anthropic.claude-code":[
+{"v":"2.1.220","e":"^1.94.0","p":"darwin-arm64","h":"0y1r6gw58y07avhfnqr21vnjq07bnzmkgsg66z3v5v4vmc8g4wg6"},
+{"v":"2.1.220","e":"^1.94.0","p":"darwin-x64","h":"0aym3bycm0fmvm7p5q7y8dnm8wlzfkp747a9v5wyzvcil7sn1b7i"},
+{"v":"2.1.220","e":"^1.94.0","p":"linux-arm64","h":"015sgx4zlghajm1swhnk4rmd602iby09w3nalw7s7wk8mphpf4qj"},
+{"v":"2.1.220","e":"^1.94.0","p":"linux-x64","h":"0bn6y333xs8zqk1a6jifm5vm77h0gibw827waw729ksw8br8wjqr"},
+{"v":"2.1.219","e":"^1.94.0","p":"darwin-arm64","h":"0g65g0m0yj37dkpdrmlx5mzbrmac4fnblga8dy6qh4pn2x7wcmvn"},
+{"v":"2.1.219","e":"^1.94.0","p":"darwin-x64","h":"1jggcqwspr4wlmynirjf0nr8kzz8620x1595s88b1yd6c1pzsyc0"},
+{"v":"2.1.219","e":"^1.94.0","p":"linux-arm64","h":"1nigalpkky88yyimxibw21y0bxs22kf4ajlf8h7fl705pmda6qbp"},
+{"v":"2.1.219","e":"^1.94.0","p":"linux-x64","h":"0pb1bgsr91s8zcpdbw0cqlx5z592l94xcgvhj9dwgp3ylpw51yv7"},
+{"v":"2.1.218","e":"^1.94.0","p":"darwin-arm64","h":"0qr3rzcl037vb837ry2wib65l2f49m2bdjhgss33ryyqr21c9a3f"},
+{"v":"2.1.218","e":"^1.94.0","p":"darwin-x64","h":"01hg4id8wrj9snxq8qql5k9lnj3vjf47spjrhw9m61s1x5dglb5s"},
+{"v":"2.1.218","e":"^1.94.0","p":"linux-arm64","h":"1x81p6vvpd6qhnk00hjkpjx93afiz00mzs9f8k9q4jmwpysw6nzi"},
+{"v":"2.1.218","e":"^1.94.0","p":"linux-x64","h":"1vcf3xx1zra6j2pw33nx4irfvyrbqzr908fc83pcr136j261g8v3"},
 {"v":"2.1.217","e":"^1.94.0","p":"darwin-arm64","h":"0q68br25cadavdsv333iwj7pixcdg09jib1azrc0i2z7aj479gmd"},
 {"v":"2.1.217","e":"^1.94.0","p":"darwin-x64","h":"07xhjd4x90jjf7ppcv0cjhchqha2kl96i4hxdp10vfpi20cyky93"},
 {"v":"2.1.217","e":"^1.94.0","p":"linux-arm64","h":"17yif1jc0k3k4pj5wqbzmsp8bspqlbsmzjbvpyx6cfli9qa7d0w0"},
@@ -983,6 +995,8 @@
 {"v":"0.3.0","e":"^1.85.0","h":"046ys35qwsrzzxmwq0qn3lihkzxqgzmr0h2r1hb4v4zm76is3cja"}
 ],
 "archwisesolutionsug.tangleguard":[
+{"v":"0.24.1","e":"^1.105.0","h":"1fc1cgdlzzcwygl8avid0n2zj0mywbl1df0zgki087gyq13m2c67"},
+{"v":"0.24.0","e":"^1.105.0","h":"1braxl6n4iflj5m19bw5bdqxmkvc5fs6xk73z6avxmcvdkli31yj"},
 {"v":"0.23.0","e":"^1.105.0","h":"0q32pbr13dp4p7ns8d3nym1jy1qmn98kb428wjyxp942p8yq6mcp"},
 {"v":"0.22.0","e":"^1.105.0","h":"10j9hss00i2bwmflg99k5plwk6k4r3g2rlh2z939adrpjmc1zj6s"},
 {"v":"0.21.0","e":"^1.105.0","h":"090fjji5959c6bisq6ygl9j95x82zdh48kv97a5y1qmjzq7zqkzs"},
@@ -1654,6 +1668,7 @@
 {"v":"1.0.0","e":"^1.10.0","h":"1bhwsjlf51sqwg8ahhw2s2nzfav7rapqdp19ipl833vhah9f7hkl"}
 ],
 "jeremysu0818.commit-copilot":[
+{"v":"1.17.0","e":"^1.91.0","h":"03ac2y260mjbb7p0dzz56w39n2pi1mkxikxz4ap2g55bpym80k8q"},
 {"v":"1.16.0","e":"^1.91.0","h":"1kqbqmgcv42g409xdmiyzqxkgiigqndq51l8i4fknp8yp7jcqjf6"},
 {"v":"1.15.1","e":"^1.91.0","h":"1nnaklpiwd6agclmqsj8p9y2nj2zi893vlr0gvsgwz0h9qwky1p5"},
 {"v":"1.15.0","e":"^1.91.0","h":"0bs7p4ybjrkwk71ij322s2437vfzvi30yf2l2m0mbaxwqink5lzp"},
@@ -2015,6 +2030,7 @@
 {"v":"0.5.1","e":"^1.75.0","h":"1sxkg6irh11ihsc4yq9fhk3bjr06zid9mnmcf66m1j40sw2cjy51"}
 ],
 "rviscomi.baseline-vscode":[
+{"v":"0.0.19","e":"^1.100.0","h":"0yk77ik49zc0angn76c88ka1ggs1p0d7fn8axvyk4kjqfiv79qf1"},
 {"v":"0.0.18","e":"^1.100.0","h":"1bi675rrblx78w4q0z2437kbk3fpdpbzzn25bxagv6m9vk8zywvd"},
 {"v":"0.0.17","e":"^1.100.0","h":"0iyx56fwz24kj2n6ivrfih02dvg0qxa330b3hsixbldhv6jfsxzw"},
 {"v":"0.0.16","e":"^1.100.0","h":"078i40jzd1g1l1nczb0hazrgvdh1x75x30y2i286vqbhlwz0w1yy"},
@@ -2155,6 +2171,7 @@
 {"v":"0.0.0","e":"^1.88.0","h":"090x01q4alrhlb4lhrw9l6jzvkf87fyi7a0m3wpd3ainllkdawd1"}
 ],
 "tleruitte.open-on-github":[
+{"v":"0.1.2","e":"^1.85.0","h":"1gizqy4g17pj9qnqqvzk9abbn00qh8ycf4291ld465z6d80y8sgj"},
 {"v":"0.1.1","e":"^1.85.0","h":"05dy85bd6g64hmr1pzlvyylwd6342fv9r8cm1vxpd7fjs2n7ly8r"},
 {"v":"0.1.0","e":"^1.85.0","h":"05d5ac2bp2s0r4l67byqfdmhg5gz8v0ql2dkhxwbg6cdmi75vyjl"}
 ],

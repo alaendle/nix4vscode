@@ -238,6 +238,7 @@
 {"v":"0.1.5","e":"^1.88.0","h":"0w38afh8xdzlhdpyh6952qrzqrfmjf6l5hivlxrhhzvdmyqscavk"}
 ],
 "debabrata100.reactcanvas":[
+{"v":"0.4.0","e":"^1.90.0","h":"01n6jk3k6xy5mksx4ap5jqxinb4r0lhqjimj207y3p6d7dgp45km"},
 {"v":"0.3.0","e":"^1.90.0","h":"1jawiq7yxkkc56rcdgs1ls3j6k57l4kfnxmvfkxj3kbgfghj2n84"},
 {"v":"0.2.0","e":"^1.90.0","h":"0agbwa1wf8qpj9ma9pn9l4wibv8llz5fzxm4lzrb8z7zw3cy7xp2"},
 {"v":"0.1.0","e":"^1.90.0","h":"0gg17bq0njxkmnibkd4k33nf8j89hbgb16lkgvvqa56xcwbza0h6"}
@@ -248,6 +249,10 @@
 ],
 "dlesbre.embers-dark-color-theme":[
 {"v":"0.1.0","e":"^1.80.0","h":"08zrq53wl4l4k0ix7jl85sigwklgy3klzhky4qf7fjlf4z0rh7h2"}
+],
+"draftmark-app.draftmark":[
+{"v":"0.1.1","e":"^1.90.0","h":"0fcbi5imw0jf7l0qaj7dpfdhpnikpg1qv1mcr4v6p27fz7kidzvy"},
+{"v":"0.1.0","e":"^1.90.0","h":"0c96am7sj1y4iqvgnyq6xv10dwi3c5p19h8yfq2xp9y5vi8avix0"}
 ],
 "duythong1610.tailwind-group-clean":[
 {"v":"0.0.1","e":"^1.80.0","h":"0ipmgb4mwv2491cl8j8896g5c3x8csisp31scyni939njkrn36pr"}
@@ -293,6 +298,9 @@
 {"v":"0.0.1","e":"^1.125.0","h":"0qyzs10yl4d2dbrz0riq0cv7wyb1wzpk0gwj6d9g0nf4ychg1w06"}
 ],
 "evsyukov.hledger":[
+{"v":"0.5.39","e":"^1.110.0","h":"1cl4fqhf649q8zlzjpvwq7siv7fw2m5pdvfq0csmqws0v0vyszfq"},
+{"v":"0.5.38","e":"^1.110.0","h":"1qkhvm7idkbw2nmv7cyrzn3yvpqmc66njrh6c02pscfppax0v00x"},
+{"v":"0.5.37","e":"^1.110.0","h":"0rjdrdcdpr43zzsinl5lxriq5cf4xa3w486nyhhsj3d8zb7kbnky"},
 {"v":"0.5.36","e":"^1.110.0","h":"037n1b7vlp7qvabwdyqfr6wrwqmndpm978ygzr1ybb2ilh9dk0n1"},
 {"v":"0.5.35","e":"^1.110.0","h":"1n3s76692dfl4q93hqwk0cx30hd7d3vqa5p71dkc4p3yc85wmi2l"},
 {"v":"0.5.34","e":"^1.110.0","h":"1n5n870j28d1pv2n8x9maif4c0xiz0af0fm9gfl1cy01kwdsdxvc"},
@@ -599,6 +607,8 @@
 {"v":"0.8.1","e":"^1.83.0","h":"1klcs9znyz9q3yw292xgg6asgrvh56yhs76klvsrs8k5rzg91fx6"}
 ],
 "mermaidchart.vscode-mermaid-chart":[
+{"v":"2.7.4","e":"^1.77.0","h":"0m2y3f7pwkhl9rm7qkh19l79mrhbfs622634az5kxhjyfbgadbl3"},
+{"v":"2.7.3","e":"^1.77.0","h":"1b0dh765nxz0h7qchsvys5jsiihl6p3yaw7n1n7l15zh8f171hb1"},
 {"v":"2.7.2","e":"^1.77.0","h":"0svvi8s29frv2p327kx15qwwfj6va68licgfw2wri94pz4m4ywl5"},
 {"v":"2.7.1","e":"^1.77.0","h":"1a1ryh5hcxyxcjfhwpawcqg228skw2a6j3jalcsx5axzlhmkrn9q"},
 {"v":"2.7.0","e":"^1.77.0","h":"1kd7l19grjkhn6qj7jbcs2fbga84417qdvwvr4gcirffd0ywmkwp"},

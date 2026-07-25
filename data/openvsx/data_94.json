@@ -181,6 +181,9 @@
 {"v":"1.5.0","e":"^1.74.0","h":"0g08w079wk72dm9pb6sy7nvcw9mvjvcl0bqdi96867i7pi3rzhqc"},
 {"v":"1.4.0","e":"^1.74.0","h":"1nz5x1qjh8mg4387g6va0c36pcs9vxk8zxy96hhnphra6bmm690a"}
 ],
+"arhodes.dspf-language":[
+{"v":"0.0.1","e":"^1.60.0","h":"0z0z6rsswsaqgssr8gx6lnvxg7fmy6mjaxvzb5zvxidd93qks80j"}
+],
 "arm.vscode-cmsis-debugger":[
 {"v":"1.7.2","e":"^1.108.1","p":"darwin-arm64","h":"07nhdhbp7p5hszm3wsd87lfxrx8jp6305gdyjvqj6fvsy02vam2s","r":true},
 {"v":"1.7.2","e":"^1.108.1","p":"linux-arm64","h":"1i3rnf3zl6qsbqzmdrqqcq50vw7r23dm656yagi5yfzghvk2cm0z","r":true},
@@ -957,6 +960,9 @@
 {"v":"0.0.15","e":"^1.74.0","h":"055sy1sc558k18629qjmidqy5w96fzx765vqbv1byq9bcmrnlssn"}
 ],
 "jiniai.jinicode":[
+{"v":"0.1.199","e":"^1.95.0","h":"01bldkljzsljlw8vc95bal9jwy59xzphxcr2rd47wdmcr50qhv9k"},
+{"v":"0.1.198","e":"^1.95.0","h":"1z5yk9r20602z4zrlwv1acp7mvh9ciw78qfkxczwvphxha4c525p"},
+{"v":"0.1.197","e":"^1.95.0","h":"1rvh8b6sf0884zafzw7w6xw1ds9akbjkp6m706mg7vwnp0zrga28"},
 {"v":"0.1.196","e":"^1.95.0","h":"02258lwx55pax8m329px8y3glwz5sr247kn6frk46lp926y3sa9z"},
 {"v":"0.1.195","e":"^1.95.0","h":"0mg598d4pisw87qp4zyk19bd1di64blvnd0lriqz4n4pisjrn9cg"},
 {"v":"0.1.194","e":"^1.95.0","h":"0vs8myxlqmm2mvpib78fvjpirm6p9b26y0ci1sq6y9697yib6l36"},
@@ -1473,6 +1479,9 @@
 {"v":"2.0.33","e":"^1.74.0","h":"0xcvm4kpfzkib3cqh6ds0xpgv2dxlgr044mnya4wqii7z79mn4mc"},
 {"v":"2.0.20","e":"^1.74.0","h":"12gi6khf2qhqrkycmf2ga3ykwq3l933gvky0s7jxnlhrsq3rfdff"},
 {"v":"2.0.19","e":"^1.74.0","h":"1dj17g1nbfr49ghbj5xgy6ddp0vsypifqf2rfp7xc1z7k15i7hqy"}
+],
+"vncsmnl.bigon":[
+{"v":"1.0.2","e":"^1.80.0","h":"1jkmvzq3m5ml8p43dml6s0ljcnzkz834xmqf5709r23mjmwmjiib"}
 ],
 "vuluu2k.vscode-elixir":[
 {"v":"1.1.0","e":"^1.15.0","h":"131q0ajify2nx9yb3wrhdcxsicj20k0yij8dg823xhbs0b2a091a"}
