@@ -27,6 +27,7 @@
 {"v":"0.0.3","e":"^1.104.0","h":"0pxd56kaz17r2v5ss2ync1jjf6rg756a0xmgyprmc2kg39kk3hb5"}
 ],
 "agsoft.claude-history-viewer":[
+{"v":"0.6.1","e":"^1.80.0","h":"1w86ddvfil7g9y27yrr7s082kgmhv5rj54s04vi0gxnjnf6fsd4p"},
 {"v":"0.6.0","e":"^1.80.0","h":"101p8lq0jm1x7sjgzvvmnskjc3g06f6wlsbdshqqc8hz9j8gva74"},
 {"v":"0.5.7","e":"^1.80.0","h":"11p3f9w1x54in5c9x8vm55fahjzgs6fblq97ivcf5gjh8jyryyn6"},
 {"v":"0.5.6","e":"^1.80.0","h":"171vrs1krzlf7wnhwcsnp3fzw4m5c04y5fdy4xpc3fv18bnxkc96"},
@@ -445,6 +446,10 @@
 {"v":"1.1.17","e":"^1.81.0","h":"19c37c62mcxbnyipldj32f2qm8scj90wbqz1hh44a8hshg3hccml"},
 {"v":"1.1.16","e":"^1.81.0","h":"1visv4ka5w1n03q5br1zdw1xvbnwryy0158vk0yxy759w5ki4mjv"},
 {"v":"1.1.15","e":"^1.81.0","h":"1q7z0wh0pjc9b3wzmmfyfspx2lxkb8dwvq5xlpqhah1kqj8dpgw5"}
+],
+"markrobbins.keybindfocus":[
+{"v":"1.0.1","e":"^1.70.0","h":"02vzskr5pgbkng3p59wdld02ppv0jdg6p3hpbml39z69dx0hi0ag"},
+{"v":"1.0.0","e":"^1.70.0","h":"1d7nx5pv8nsfwrn4wy8b4ygxmd07z29gn79h7lih0cfjs6xvbkx7"}
 ],
 "markwylde.relative-from-current":[
 {"v":"1.0.6","e":"^1.50.0","h":"0bca1fj1kjj75mfwwmvvcwvagkd4j7bvm2ads0vcaxz6qyf4dm6i"},
