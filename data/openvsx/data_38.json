@@ -383,6 +383,9 @@
 {"v":"0.38.0","e":"^1.38.0","h":"10fprywv8wyi5qfwhf3098rnq63apzs0xszahjkfhi6vzxn7rhql"},
 {"v":"0.35.0","e":"^1.38.0","h":"1wwndsk6n7fhy4pgz09j9pnw0l1n11l3jig0bmyb99akb4h8r6gc"}
 ],
+"electreefrying.insert-random-text":[
+{"v":"1.0.1","e":"^1.97.0","h":"1z5zigyagrd1m3ap2hanjpwwgspj96cxd1grz0s9w0h68srsihg6"}
+],
 "elong0527.vs-rtf-preview":[
 {"v":"0.1.0","e":"^1.80.0","h":"0mn6k0h6514732swwyzh7plizi5hxx2f47zkkgdvcq98dxbpq536"}
 ],
@@ -742,6 +745,9 @@
 {"v":"1.0.1","e":"^1.105.0","h":"13zf664cysyj393gryqgwpc3jvm2y56wblgbvq73shq876119m0d"}
 ],
 "keyfire.xbsl":[
+{"v":"0.42.0","e":"^1.106.0","h":"1yrshxyz1dd139xnr5xw0lwpsbvfgxs0hv3sqwqmy6v3kqdawwgi"},
+{"v":"0.41.0","e":"^1.106.0","h":"1yfb35bw9yj9awbyl259wji31lcdxd8jb9glvl2hbb492f0vfxr8"},
+{"v":"0.40.0","e":"^1.106.0","h":"1yrr4k0373lbij7hms2fswas9rc78na0a6yga7f4skb0hp31i9hj"},
 {"v":"0.39.0","e":"^1.106.0","h":"1iiy19byzpznf4hibjywj7bgwzmr749j6ja058v2p4b828z47vwi"},
 {"v":"0.38.0","e":"^1.106.0","h":"0sff5rjj1xpjp2qq6lx58yhnghaixjzxwgzssn7gfk8sqhzihdcn"},
 {"v":"0.37.0","e":"^1.106.0","h":"00g5dxy0bx98y9l2lqs35sa2cc85d4d1g8l6il7slq978z5y33qj"},
@@ -1595,6 +1601,8 @@
 {"v":"0.4.0","e":"^1.85.0","h":"02ayyzk1f6nj53fz7gzy2j7azg1i1sh2klrhilxljlx4cbm1yqn5"}
 ],
 "tldraw-org.tldraw-vscode":[
+{"v":"2.303.3","e":"^1.96.0","h":"1nm1ydaiy1pl6inccn15ig6dn4jjb5g0rkcz6kgjp5650306z0w3","r":true},
+{"v":"2.303.2","e":"^1.96.0","h":"0j5zz7fmxs8gjc6crklm74hnz5nqfrfxs7ax1l7md8w15z8rk2fh","r":true},
 {"v":"2.303.1","e":"^1.96.0","h":"1q6c55wgya5ngc2046fn7si3xm33na60ll7vf3phwa106ads7fsm","r":true},
 {"v":"2.303.0","e":"^1.96.0","h":"1lvv6mqflxsgyhd36367nqlk3sa5vwsf870lqbqcn1hszipn5xgy"},
 {"v":"2.302.7","e":"^1.96.0","h":"0cph4cfnchma4rfvr9rxi3x85npqnlf54sr20rsmwy8k0bf7qqkj","r":true},
@@ -2635,6 +2643,7 @@
 {"v":"2.184.1","e":"^1.96.0","h":"1j1bm3zn5w30gzgzgnj8immn2jp285w9h752gx82hxjlgs2ck2ql"}
 ],
 "toem-de.impulse":[
+{"v":"0.9.63","e":"^1.99.0","h":"11dckhc6rfc6wqr5xjiby7rfys4ak7kqq07qky692fqw1inlgfys"},
 {"v":"0.3.5","e":"^1.47.0","h":"04y504p1lrpljlwrb9s48f8l76gdv3yas09fr37lqwfjrpkpyb2h"},
 {"v":"0.3.3","e":"^1.50.0","h":"1kfgvdafzd6g2gb84dh85d1bmcjzfxvnbckgglfsfd3rrxgbprb2"},
 {"v":"0.3.2","e":"^1.50.0","h":"1f03ly68b9x5lxn6363c879w8i81hmnnk05vlacsrqnafxgxpaqf"},

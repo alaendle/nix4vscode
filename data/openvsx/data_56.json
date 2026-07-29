@@ -683,6 +683,9 @@
 "lootjs.drevolootion":[
 {"v":"0.0.14","e":"^1.72.0","h":"112w25d2hk5nq2c6giy6qjw083fpippxf8ig0xd6k2q1v932han1"}
 ],
+"ltns.theme-lens-core":[
+{"v":"1.0.0","e":"^1.114.0","h":"1gx8zdjkbz4l8i8m4x75gg5yydg8pxpb76jjc5h593vhyd2h8398"}
+],
 "mananshah.code-act-tracker":[
 {"v":"1.0.0","e":"^1.80.0","h":"0dy5vs5gljmwblvpv11awvd4rb92gxaksnvldgrdp672wpml4dl8"}
 ],
@@ -699,6 +702,11 @@
 {"v":"0.0.1","e":"^1.85.0","h":"0dlmr56scsabxxx88rj479ns86g4b8qr1am0d1x9xaayj5770wnp"}
 ],
 "microsoft.cursor-pgsql":[
+{"v":"1.27.3","e":"^1.95.2","h":"086627xpi9wab4hflrz995bwyyp8f0qc406rr231s6bhl4gz8knp","r":true},
+{"v":"1.27.3","e":"^1.95.2","p":"darwin-arm64","h":"1q6ppghxgk4f4bqbhavd74yrl8i005fz9ybzx3mpfxkkj5jy4a7k","r":true},
+{"v":"1.27.3","e":"^1.95.2","p":"darwin-x64","h":"1k3890pxam7jhnnvb64fb0w8srm5j46ykzmkarhmvd7a06hvcabp","r":true},
+{"v":"1.27.3","e":"^1.95.2","p":"linux-arm64","h":"1a3sag39vyl4j52pf5ak3p415fmqqin892dmk81jm6iy37j9crhx","r":true},
+{"v":"1.27.3","e":"^1.95.2","p":"linux-x64","h":"1jgnsdqs3p8k9zh2mgrrwg7pj8vzpm1rd0wmv7lasac6bhqh9xps","r":true},
 {"v":"1.27.1","e":"^1.95.2","h":"0b35kp5ndd0yjc9vh7wl7s3msfl4d4f7vjb50m8mvz8m8whqvh7b","r":true},
 {"v":"1.27.1","e":"^1.95.2","p":"darwin-arm64","h":"1znrjvi7nlfx7pkqpkb05gzvzn4jm9h7c482jjwb5ksjjvg1lp01","r":true},
 {"v":"1.27.1","e":"^1.95.2","p":"darwin-x64","h":"1lfdr88fp1jwnywxdvq2v71f7wdka9hljmdn34bq02s7ddksgxvr","r":true},
@@ -786,6 +794,7 @@
 {"v":"0.2.1","e":"^1.80.0","h":"0hhzrq3kkxsczviqkapdsm5077p45b9p78sip4kmpgzwj0bm8ar7"}
 ],
 "orchidfiles.ungate":[
+{"v":"1.7.4","e":"^1.96.0","h":"197a86mvjqv0dfhagj8hy8w2rbr2hrgn0padpi86pd8q4ck9r8lq"},
 {"v":"1.7.3","e":"^1.96.0","h":"0xmfglsw09dbsw3d7jwmxi0j0ja1nn11086fc6j06c1yis80bm3c"},
 {"v":"1.7.2","e":"^1.96.0","h":"1nv60q5zx52wgm10bkffa4yp197l9anhh3m52gxbavf8j1lmz18c"},
 {"v":"1.7.1","e":"^1.96.0","h":"1rd2c3p22ww4g2429nspsdbbnb0p7mj2n2lwkhg1k7krvfxs7my5"},
@@ -817,6 +826,7 @@
 {"v":"0.1.2","e":"^1.60.1","h":"0lddz6xhgplidcax10xr4cagqvhaxjwlq55mgydsxjznngcgqnvy"}
 ],
 "patrickt.hledger-lsp-vscode":[
+{"v":"0.4.8","e":"^1.100.0","h":"1q5n4gyl6vrwmz22v4c551m0d3ljdd1f5cixmpr2qcb5r1fapi0q"},
 {"v":"0.4.7","e":"^1.100.0","h":"0xz2mpnxi8zbma6fcgf43d74ksyxgazapy19y2wpwps1ps8h1f82"}
 ],
 "pinage404.rust-extension-pack":[

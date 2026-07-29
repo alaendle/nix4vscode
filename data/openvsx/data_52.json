@@ -261,6 +261,7 @@
 {"v":"1.0.0","e":"^1.43.0","h":"1wbkjb4p4r4x0iw0x2chf44ljq3zryvkyq003fnssy3c46w96ji3"}
 ],
 "financialforce.lana":[
+{"v":"1.21.20260728","e":"^1.100.0","h":"0ng12qrhzk5b98d10rjr45hivcksfkbvwmf1fqcsjd72nsmcdbrg","r":true},
 {"v":"1.21.20260714","e":"^1.100.0","h":"14d45j52dzi0g0w7gavbxj397fn4s1d6dmzlcjrgzk6d5i1qrsam","r":true},
 {"v":"1.21.20260707","e":"^1.100.0","h":"0wfyyi2gjkxdnrdkk9yk398yaa21cp73dz33qba4q6pskz7ys8m8","r":true},
 {"v":"1.21.20260623","e":"^1.100.0","h":"03z15znhq37qja1d11rvxg9qggyp5n53d6vw2g8iv0z8akszaf4h","r":true},
@@ -617,6 +618,7 @@
 {"v":"0.1.1","e":"^1.75.0","h":"0zxal0jbqkpxl7hin9aay4wxwdpf8fxrcyjwy75kdx8jlaswinhx"}
 ],
 "martian7777.repodeck":[
+{"v":"0.9.9","e":"^1.85.0","h":"1wg59rs5lrxk80m5mrzimq3mgk63lijrxyc5qigcidpnm9xis5kh"},
 {"v":"0.9.8","e":"^1.85.0","h":"0811c77rri3gv1mx5flygkv189a6qx9qccnj9hyzkzshymv0lmdi"},
 {"v":"0.9.7","e":"^1.85.0","h":"1b0jc6xrqxkafcganmfsi82qmgmb12gsw9qp9y0as2hpbkpy6r62"},
 {"v":"0.9.6","e":"^1.85.0","h":"1yapxkb34xdd2v4pviczr8ag045hhp0pbnzdgnpjznwr0qsv3p9q"},
@@ -1477,6 +1479,9 @@
 {"v":"1.0.1","e":"^1.90.0","h":"0y7asvff53kjq3lh26ljgc5147qvbn2iqacpqg65wr3fipi9hwip"}
 ],
 "staqed.staqed":[
+{"v":"6.6.3","e":"^1.101.0","p":"darwin-arm64","h":"1sznlj42zm0fzmxm3k9f7ghy23g38dfli9ry8n0q5rfp9vrnriqb"},
+{"v":"6.6.3","e":"^1.101.0","p":"darwin-x64","h":"1p2m09bsncdrsd71hmlmdvlzf7xf479283h82z2rk1m0i4m18dww"},
+{"v":"6.6.3","e":"^1.101.0","p":"linux-x64","h":"1iwlmhhyyhv9f77f1smf4wvy16hdasyv4qk3wxcymlbd5jv7r2db"},
 {"v":"6.6.1","e":"^1.101.0","p":"darwin-arm64","h":"07hbxsg1qajyv3i6f729l0hyp882fz747ms99b51g8pdqaghcmm6"},
 {"v":"6.6.1","e":"^1.101.0","p":"darwin-x64","h":"0jlfdnszgdj6aw9b1c8cg3skkxl5mi7mbgsgzlzb6bsbq3bjqkl5"},
 {"v":"6.6.1","e":"^1.101.0","p":"linux-x64","h":"1mgjxrfgc7h10x56c085kwz4xwbaqg6169q80iy5wir8z329jr17"},
@@ -1570,6 +1575,9 @@
 "tockn.darcula-port":[
 {"v":"1.0.1","e":"^1.80.0","h":"1hycmm0kinaan4gjzvp6fvgfiwkwzvlbhk3ndidca8asqdf37i5z"},
 {"v":"1.0.0","e":"^1.80.0","h":"0iw3dp0n6ffvw873j60rg71hz3v8p466w6alwzdyq71hw3y2msv9"}
+],
+"toem-de.eda-waveform":[
+{"v":"0.9.63","e":"^1.95.0","h":"16nggzilp78rgwkwpambblbkblhzs4li58sh03g1xjzws1j1jfpz"}
 ],
 "tomiaa.word-dictation":[
 {"v":"1.0.2","e":"^1.74.0","h":"1g1lkxa2sym4h7bfykah2qgqgy4gy570yknaprzkam3f26l9zhr8"},
