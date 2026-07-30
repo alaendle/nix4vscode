@@ -1750,6 +1750,7 @@
 {"v":"1.0.0","e":"^1.80.0","h":"1fr472hsh5y3h11igiiljkwg8iijg74awwdwwzhypi7wcy80qji7"}
 ],
 "crwd.crowdstrike-fcs-cli-plugin":[
+{"v":"4.0.0","e":"^1.82.0","h":"15y9kyvlwvgayhafqdndsis4vssx2fjq5s5whg4b4jcggnj61nsy"},
 {"v":"3.2.1","e":"^1.82.0","h":"0kqg89zcxaaxd77mrwak04srp1q6a10jj6gn2k908hjrxkmiys5d"},
 {"v":"3.2.0","e":"^1.82.0","h":"14k9ls438inklcwcbjbxqmzryp643k821cnisn85082qm73bamad"}
 ],
@@ -1998,6 +1999,7 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1jyhpdjgcpmp3zjj5ipsa983wm3lqiqkdzwmfcwlbfwjlg4xki0z"}
 ],
 "darndestdabbler.dabbler-ai-orchestration":[
+{"v":"0.46.0","e":"^1.85.0","h":"0npdqrv6lj6map7vwfzhkzjcjfbfp77z23n7ivha91xhz48w6zf0"},
 {"v":"0.45.0","e":"^1.85.0","h":"12avxjmvl07yw6mamhafmh3j71qzxl9hsn9azb9g14pbf478pa83"},
 {"v":"0.42.0","e":"^1.85.0","h":"0rx47bggbs0f1z9ikv1afcqwvn32jla91kb5xy6n2q433lyyiaig"},
 {"v":"0.40.0","e":"^1.85.0","h":"0mcfj29drmwarvsglrlcvhfg6b8x2yzqmix0p8ksjahb9yjlj9cq"},
@@ -3112,6 +3114,7 @@
 {"v":"0.1.0","e":"^1.74.0","h":"1pkc2vr04903cjv13dxcxn4zkhk0zfirm9p5pz26fw4klqf74waz"}
 ],
 "elaraai.east-ui-preview":[
+{"v":"1.0.48","e":"^1.85.0","h":"1vpp4p3p6s34np4jyfv1zlf4vrlzcgj88ypllx5g0pahfwvrzf0k"},
 {"v":"1.0.47","e":"^1.85.0","h":"1gbawx7gfyi8qh0m71hkyl2wzcz0dyvws3caflg51n2dns7p4nlr"},
 {"v":"1.0.46","e":"^1.85.0","h":"04rb4qd32zaaxq6fb7fv4z0rnwjlzw81cy82hfy2jxgn0r7cvb4r"},
 {"v":"1.0.45","e":"^1.85.0","h":"06k00xy3dw39j5fdsmarl5p6bsns1qps2f66hn0iqzy4pmaxwgj2"},
@@ -5607,6 +5610,14 @@
 ],
 "jakeglasson.directory-output-generator":[
 {"v":"0.0.1","e":"^1.74.0","h":"1b1bkixx1fgnnzqgj8vb29hmzciy5h9ilpfs3j5b131k2i38w6id"}
+],
+"jakoreilly.archon-analysis":[
+{"v":"0.2.1","e":"^1.85.0","h":"0mqhqzxj6imr4hhz7rvqfl9p2z35lnrx728qv9x74baddh2pp0y2"},
+{"v":"0.2.0","e":"^1.85.0","h":"0c35x3zcvk0ja0qizkw6mjy30nv5m8hvd431qi0nnc06552xr0lw"},
+{"v":"0.1.0","e":"^1.85.0","h":"0cafbgypzaghy02cx9kljs7604lf39cjm610ky2cxihjlm73s56x"}
+],
+"janus-lang.janus-language":[
+{"v":"0.7.6","e":"^1.91.0","h":"1gz7zxz068zxsar6lmpx8606c2q01vhvddm6ky2l5jw4hnh7506c"}
 ],
 "jasonli0616.jason-vscode-theme":[
 {"v":"1.0.0","e":"^1.50.0","h":"1ljhljp378ffw5p4rk60zjkjb59h8r1jy6giqvjvw56hwfxrwy47"},
@@ -11787,6 +11798,7 @@
 {"v":"0.0.3","e":"^1.76.0","h":"11irby5ja3fg5hvwad8c35j7sq3n0mx0ivfka9mfclda4wm3pcaj"}
 ],
 "salesforce.sfdx-code-analyzer-vscode":[
+{"v":"1.21.0","e":"^1.125.0","h":"0qz3kc96zs87dfpvms3i891145bgyhvc0sxspc5ivqfq0ym12563"},
 {"v":"1.20.0","e":"^1.120.0","h":"17gg12q9lf4l2bik8inppahnbsibjkaqhibv2l45c7n4qp318zj5"},
 {"v":"1.19.0","e":"^1.120.0","h":"0fm25r3c6pqwyjfqwgba11g1g25i0l6li08l9rgxsadlbzjwl1n3"},
 {"v":"1.18.0","e":"^1.116.0","h":"16kmn5g1504g7a3lshbzvpc5pl8kd7ijrm8bbjfawvny1rj8p33p"},

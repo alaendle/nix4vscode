@@ -542,7 +542,6 @@
 {"v":"0.1.2","e":"^1.85.0","h":"0jbv5j35cqk7r8nbw0nk4hgb3x2zb85gphh1f8ddw6q756a3n7qm"}
 ],
 "ajiu9.manine-commands":[
-{"v":"0.1.0","e":"^1.103.0","h":"1djigwcyx9r4vkax38vgsnf264q863l85d7dri1ap2fryb0sarfk"},
 {"v":"0.0.2","e":"^1.103.0","h":"00z61jdvb4ykgfwi3yk27zm90nwbryqpw3mr41000nhb354bsi2s"},
 {"v":"0.0.1","e":"^1.103.0","h":"14gwwrgjy7vrnh6nv3k1j8dli176722bw6a4iq0lbj1kh6n9viis"}
 ],
@@ -7344,6 +7343,8 @@
 {"v":"0.9.0","e":"^1.74.0","h":"0lp1pm4af3n2h95gazla2v9cqwpfy8krv90v96mlrilqflii77gd"}
 ],
 "pushpakbadgujar1.codesentinel-ai":[
+{"v":"2.0.2","e":"^1.85.0","h":"077ym9bzpqm3q8qxydlwjh4l227gz16cy9fjxsx4gylzy0y81ps7"},
+{"v":"2.0.1","e":"^1.85.0","h":"1hb5bnhyyx6jrbjl5n6h219i12zxv1jkq1ch9b79lxs6724f5cbs"},
 {"v":"2.0.0","e":"^1.85.0","h":"0wn230786clvrpiivy7p6w80ai7wrjnv8y09k2azrzv9psiqrz35"},
 {"v":"1.0.8","e":"^1.85.0","h":"0i59j9j4x05hcpi4qkvhnlxrvbc27c40kw79i8imcna6c4il1d8k"},
 {"v":"1.0.7","e":"^1.85.0","h":"1jrdnzpkg7m7a3pfyixpd6f1jilg8q2ipii8fbfw1a2dwarif26h"},
@@ -7581,6 +7582,9 @@
 {"v":"0.1.1","e":"^1.89.0","h":"0rgyicyywc8digldi7p91qq2alcz88k3a1yw22ynd3vn1cykd9l1"},
 {"v":"0.1.0","e":"^1.89.0","h":"1mxj4bdsk5z76jrcc8wakwmch0w8qmgxgwdb7ap33nqhzzm4sfzi"},
 {"v":"0.0.1","e":"^1.89.0","h":"1linh6x8irx6h67m06i10hpvrzg58d1g4mas6lx3zwdsmb1yy5gc"}
+],
+"reflexor-app.reflexor":[
+{"v":"0.1.2","e":"^1.80.0","p":"linux-x64","h":"0az5pn8sjr8fbw5zc99p4za90gpc9lnihvhfixxlikzi8q9l72h5","r":true}
 ],
 "regresbot-team.regresbot":[
 {"v":"0.1.0","e":"^1.80.0","h":"0pyzn2ljszgcp0vyr54jg010wmp72f11hgzvxf9dk35p19dymj3h"}
@@ -9144,6 +9148,11 @@
 {"v":"0.0.3","e":"^1.60.0","h":"1fvak38b6yz2kbbk63xkfraqbhb1z92b9zxkqqljg81yppl6x1l3"},
 {"v":"0.0.2","e":"^1.60.0","h":"0k1mvx8rlz5a3j4s7l5yx20993nsglhlprvqrq6kccan8rix3p97"},
 {"v":"0.0.1","e":"^1.60.0","h":"101012daaksxxdh1phcnca5jdx42r0nmqm0qq2wrvih6pmdq2j7r"}
+],
+"viktor-moyseyenko.context-usage-monitor":[
+{"v":"0.3.0","e":"^1.85.0","h":"1v950wxml7b3q1xvmzkmb2hr2rr653h92jc4ql1i4xch1rqy88kc"},
+{"v":"0.2.0","e":"^1.85.0","h":"1ss7v1v16mrbvqvzfqxp5542pnj72l29fcv1ydz8s3rhq0y9gkbp"},
+{"v":"0.1.0","e":"^1.85.0","h":"0w2xvr9ak0fgld4bsfz36k7nr5aq0dklwg5491f75189zjbjzxfp"}
 ],
 "vishalshr.ado-assistant":[
 {"v":"0.0.4","e":"^1.93.0","h":"1b5pzyrkbn7wq8kj168j1vx2qxp6jy8sg49q0pk0v8xxy23wv58s"},

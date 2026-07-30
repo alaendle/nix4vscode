@@ -5529,7 +5529,6 @@
 {"v":"0.0.1","e":"^1.61.0","h":"0fla9fqb2z5blbz2y2zhmc4jybqdd6yq4vq091n72893d7xqwr8g"}
 ],
 "oioxo.oioxo-vscode":[
-{"v":"0.12.7","e":"^1.85.0","h":"1zj157gk29vkixxpx9f46pnglzmysfmg1x90l7yqa3vxk2v1hs8q"},
 {"v":"0.12.6","e":"^1.85.0","h":"0qf9qx6gzdj09zdvzl3dnhp7xbjsgyff02igv448qqlsv02cf09w"},
 {"v":"0.12.5","e":"^1.85.0","h":"0rzp2h16ibpir3b4qhw0kpmg96iyij57mdplwsbnss153sj96n3q"},
 {"v":"0.12.4","e":"^1.85.0","h":"055jjclwxmbdlsidcms86a9kq4la93sg47l3ng5ivcfhd467750b"},
@@ -6181,6 +6180,7 @@
 {"v":"1.0.0","e":"^1.9.1","h":"0nx91hsrv8arnkw6nn14lw8fi6z3scpvqn0va640z9kqf63sdxsq"}
 ],
 "prasertkana.pdf-sidekick":[
+{"v":"0.4.5","e":"^1.85.0","h":"13ci9v3jj98krnj4arhi9g0828791lqgj9hkgcqdls2k2iyfaw5d"},
 {"v":"0.4.4","e":"^1.85.0","h":"07n6klyd1zranfq2r5z4m1ddr23g3y9x5fcqgd16aglwf7ds7m8h"}
 ],
 "praveent.time-complexity-analyzer":[
@@ -8057,6 +8057,10 @@
 "vikasavnish.uno-card-game":[
 {"v":"1.0.0","e":"^1.85.0","h":"02ih3da3yp9njcfx8w65mnhhl0vyrxwyi6n8smfmvivbfa1skbgg"}
 ],
+"vilan-lang.vilan":[
+{"v":"0.18.2","e":"^1.91.0","h":"1xpwk0ba4f2h4h5rmi6byrr811xjvdzj0c4wkm34m6z648cwl4kh"},
+{"v":"0.18.1","e":"^1.91.0","h":"0vckpq72na0238qlqz323vyk0paip4f4fkfqxrx8m0a2p4smkw4g"}
+],
 "vimin-labs.org-context-mapper":[
 {"v":"1.3.0","e":"^1.96.0","h":"1znhqvljz5q2913b24rq6kazk53iyl437akfbz98bp155g1x00l1"},
 {"v":"1.2.0","e":"^1.96.0","h":"0raq0rfkgjjviq71lfkmbl5p791jkazalb3db02qds0bvazs6vii"},
@@ -8394,7 +8398,6 @@
 {"v":"0.1.0","e":"^1.87.2","h":"09y0nkkhx9mrrqkbr6w12rrpwqhcdffwqchrl7si2isnvxy6vb1a"}
 ],
 "yhx6071.nc":[
-{"v":"0.1.2","e":"^1.100.0","h":"040smx4qpfr7yagkjvamd9mfqc4x473zgay9xgqkbh0v758ccgra"},
 {"v":"0.1.1","e":"^1.100.0","h":"0ybb3d8g7qkc5v99807lhq2vmlgy0awxyzp9v7sv745qxncnzkag"},
 {"v":"0.1.0","e":"^1.100.0","h":"00xih1n9mhxrnabfam8m84m7ywdlm5j7cmhl6nh6kxh2a621qvs8"},
 {"v":"0.0.9","e":"^1.100.0","h":"142j6h9m9y6fjrl4l9w00jv2ascwffdr8f365bcn5k70drdzms3f"},
@@ -8578,7 +8581,6 @@
 {"v":"1.0.0","e":"^1.93.0","h":"12gv36myyg7mh8c8i5nfxb9mxq47lxgr6q1sffv35hvgfypak1w6"}
 ],
 "zyk-zhang.zyk-microapp-plugin":[
-{"v":"1.3.0","e":"^1.92.0","h":"1kfx51d0mj91g1z2mip322rnhp8q8qf0av3jyywlmqnwqzcdbdh4"},
 {"v":"1.2.2","e":"^1.92.0","h":"1f20ibm1ih7qzc89flxal2qd8jabqlsgw4p8gh2lkx5ccf2gx53f"},
 {"v":"1.2.1","e":"^1.92.0","h":"1fp8vkgdhf81y53aas1i77g09fix9ilfpdv0kxm94b8anji6vkpr"},
 {"v":"1.2.0","e":"^1.92.0","h":"1p2vswvf4by159f1qjymbysi8kslvriy30p4kcmcclbzw94ncs3y"},
