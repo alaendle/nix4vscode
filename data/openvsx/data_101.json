@@ -413,6 +413,7 @@
 {"v":"3.5.0","e":"^1.85.0","h":"0zpkb2hw42b6faqg4dgkb65vf1lq25rasgp49gc2w9zvnwi1z1j4"}
 ],
 "elliat.xquery-lsp-vscode":[
+{"v":"0.7.1","e":"^1.86.0","h":"0sp15v2k626gx8gxppkxsclx3w9sz6dzinvbkki4a5v23rdym5mz"},
 {"v":"0.6.1","e":"^1.86.0","h":"1avk6k58ljil7ilsbw8nqv2mjc0f7p7zkl3znwr5z4hlp0wg6m3c"},
 {"v":"0.6.0","e":"^1.86.0","h":"10k784qqi8kcajjwqkblv7m3lbnbwnv0vfq8fnd6wf7nnglbl19y"},
 {"v":"0.5.0","e":"^1.86.0","h":"1scmvzmxnifq2bhzzvhak5qph08bwqw7rdkw4684hpx5x3iji8rn"},
@@ -1084,7 +1085,6 @@
 {"v":"2.1.5","e":"^1.41.0","h":"00swmg39040dw0ixp3160848012hh83fb30b70nnn5hwgqgr21q0"}
 ],
 "secunit.caddyfile-syntax":[
-{"v":"0.4.65","e":">=1.75.0","h":"0k82c8i5q1q330xib7qj0yz6xgx8irf7qbaaj8dl3zir42g6xv5b"},
 {"v":"0.4.64","e":">=1.75.0","h":"0lb8rngriwpwqh7gfmkphg4d9pxxijf6gjipjcgdd9wqz210g8fr"},
 {"v":"0.4.63","e":">=1.75.0","h":"08hcl0sl36qjlkqdj6zq3im5pxmgcr04scxcyryn05v5gjwifq0i"},
 {"v":"0.4.62","e":">=1.75.0","h":"0sa070ssdxs7iq51lfgck6ljw6jip9myaxfryp9mjxnf86gdvxwv"},
@@ -1261,6 +1261,11 @@
 ],
 "wilkey.vsisearch":[
 {"v":"0.2.1","e":"^1.85.0","h":"17a16rcwcdvx9rj0vsdhlwrmyz9n2djcb9rwka3yllvk0xxv1hpd"}
+],
+"ylw.touchfish-fund":[
+{"v":"1.1.0","e":"^1.90.0","h":"12zkj8zdlsi4v1q489793ph4nx906r271i0z1kn6z9w1f5p68byh"},
+{"v":"1.0.0","e":"^1.90.0","h":"1hiz833f9hq4jh43b448f6bqi235cvllfikdi5zy6mvfhqfdf1fk"},
+{"v":"0.1.0","e":"^1.90.0","h":"1djjx06sjry7bmb5khfa2c25dc7qnph4kz56lhiycnmhqggkkb9z"}
 ],
 "yongsooim.audioscope":[
 {"v":"1.1.4","e":"^1.100.0","h":"1kycdnd4qcw5hbqjjmmgc6qv3y3nd8f3053ijm07kbr5z5bi2y4n"},

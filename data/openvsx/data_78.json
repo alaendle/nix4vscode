@@ -257,6 +257,10 @@
 {"v":"1.3.0","e":"^1.80.0","h":"1ys7ww62yz3fjfwa6wlmxlq9p0iw0qlh0sy3qm8a6kz56ajncqvy"},
 {"v":"1.2.1","e":"^1.80.0","h":"1x8jpk7jxd1xjh7196l1vhahly1fr7fn1ahwb022rimjnhc81hi7"}
 ],
+"chenjia.rssc-toolbox":[
+{"v":"1.1.0","e":"^1.100.0","h":"18jyaliqrhzxmlvi5icywml0016qdhxixzcml8qahrciki3kcgib"},
+{"v":"1.0.0","e":"^1.100.0","h":"1y73vp3syy0bkacwyfjg015v258hif84c7bylai4hx7r7w1xk2sn"}
+],
 "chrisatcursor.mssql":[
 {"v":"1.39.0","e":"^1.98.0","h":"0ncs0jmidndbcr66k3y02m30piqs9g70wwx84dmrp7jr1ak58ln5"},
 {"v":"1.34.0","e":"^1.98.0","h":"0k0wvn3k0wzr7yfgijnw1dvji0i14hf0z6hk9c8hcim4cfm0pwbp"}
@@ -1082,6 +1086,7 @@
 {"v":"0.2.5","e":"^1.85.0","h":"05qf7vaag05nva618y8yfj5hyisrympwa2jhdwb1i7qlspi5831s"}
 ],
 "pokey.cursorless":[
+{"v":"1.1.1792","e":"^1.98.0","h":"1rrsyann4chb02hdcis4lh6wfg73qzkn4v6vay04f65lr23ynfqg"},
 {"v":"1.1.1791","e":"^1.98.0","h":"0wia6hsykaq4xm9gkc9p3w5ildlxlyachvwyrqm54lwm8bzpazf2"},
 {"v":"1.1.1790","e":"^1.98.0","h":"1rjgw7dannvf4mj950la6j3nf988lsjnf42mj7dnbx6swm072748"},
 {"v":"1.1.1789","e":"^1.98.0","h":"1fc9v9309wi6ynl7grysjaba4zrz4vmb5zw06xx3kh645c7h1xa6"},
