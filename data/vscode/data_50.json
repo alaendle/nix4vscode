@@ -4854,6 +4854,8 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1zxp8z1zynzmpxfydfsq690jnxgvhpw8r8z3gldx3y6ia7fz3845"}
 ],
 "katari-lang.katari-vscode":[
+{"v":"0.1.6","e":"^1.80.0","p":"darwin-arm64","h":"05pdmhj9xkwy6z56bvglk4lhbmy2dr7smfay1iqzcy1hzp861rd2"},
+{"v":"0.1.6","e":"^1.80.0","p":"linux-x64","h":"0aj4yw8npvrfkprvmqpralsbhivxrhbl38p4cd0l2wfx2zdh9nc9"},
 {"v":"0.1.5","e":"^1.80.0","p":"darwin-arm64","h":"091pgqxsr7a7mv0y4ggdss8jw2zn73l16d6jissn40kcrcjacywr"},
 {"v":"0.1.5","e":"^1.80.0","p":"linux-x64","h":"1yc6m3s9gbck0qa5b1xca4mgfxhmmw9yk3c5wk36z13smkwmani7"},
 {"v":"0.1.4","e":"^1.80.0","p":"darwin-arm64","h":"0lm3b3n3cvj3c2sj1xgqi4wx082vshgksjfhyk4rbyi8zvwr2n56"},
@@ -10032,6 +10034,10 @@
 {"v":"0.0.3","e":"^1.93.0","h":"17924jzf349fmlyfwhggpnrlr5962caj2bixxwky82vpr11kgcql"},
 {"v":"0.0.2","e":"^1.93.0","h":"18hfz122y8j3wi2a8mvqxx8l4bhfcydy5gawnxbzhkpra5j0hkwy"}
 ],
+"waynepluto.pi-code-agent-chat":[
+{"v":"0.0.1","e":"^1.90.0","p":"darwin-arm64","h":"1lxr74xbdyc35xky76qzkwbj21wnj8g4fmp7q2p5f4glfmnh4c4l"},
+{"v":"0.0.1","e":"^1.90.0","p":"linux-x64","h":"06clwrbjmmd69n9faks5qpv0r6jh9klmwbvkpy16yx0s3iil6h5y"}
+],
 "wdssmq.z-blog-php-color":[
 {"v":"0.0.3","e":"^1.54.0","h":"09v9nmgy6msfwf46nyzvzyp8sa4db306794nhwxx6nshcrijk3q3"},
 {"v":"0.0.2","e":"^1.54.0","h":"1y78is9qcgy8gglk5zlq7diq6xvfi3alm4dfrb6jqdbg9l6zwvln"},
@@ -10886,6 +10892,11 @@
 {"v":"0.12.2","e":"^1.56.0","h":"01vhx5c8pfnjl9kjch7fagrljdvhjd261lcqaqbibv1821a3xyzp"}
 ],
 "zuban.zubanls":[
+{"v":"0.2.4","e":"^1.74.0","p":"darwin-arm64","h":"0qhiigr8rb84rlkgg9z2l2ryc0mkfdiqjrn9kcwdc55h0w9nk3vs"},
+{"v":"0.2.4","e":"^1.74.0","p":"darwin-x64","h":"0wg5z52wczqk33m0lazb4vida7w7qnb8f6hv7hv9g3m54j79xy0p"},
+{"v":"0.2.4","e":"^1.74.0","p":"linux-arm64","h":"0ch77pqgysj868r26v0i4dxbsdycphdc0xzc1p4wjg8j2zjwyjrq"},
+{"v":"0.2.4","e":"^1.74.0","p":"linux-armhf","h":"02s6922i53aq4r064fz5vpi52c3yp3j6v6jql551ywsipcrbidqy"},
+{"v":"0.2.4","e":"^1.74.0","p":"linux-x64","h":"1dy2wjpazsrgsy8mxgrbwg7wr8x5256pxnggibxnp6f654lmy93r"},
 {"v":"0.2.3","e":"^1.74.0","p":"darwin-arm64","h":"125jc5m7z4cvcxk94x8i1c8w4rmvk07i6sg1nmsgjlxmqjgzkhnd"},
 {"v":"0.2.3","e":"^1.74.0","p":"darwin-x64","h":"151l1lwlq4k5427cigcbc2qi17s4jk30drzw6z014ng756w07in0"},
 {"v":"0.2.3","e":"^1.74.0","p":"linux-arm64","h":"1zsia1hd7y03kvsrq08zranicvvngdw8ib9m8m17ib53qlbh5wb9"},
