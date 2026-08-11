@@ -159,6 +159,9 @@
 {"v":"0.5.0","e":"^1.18.0","h":"1v23iiyld85i3pys7fgwrkv1m3wg1rl2p2vsyarw84y9k17wr77h"},
 {"v":"0.4.0","e":"^1.18.0","h":"0jkpb5f1dbqq9qs86lm2603wlbqp5rd1g69sk025fi63c5zgvw9d"}
 ],
+"cadamsmith.dataform-dag":[
+{"v":"0.1.0","e":"^1.90.0","h":"078m5hxy7zg6plak9mylgvlra0jprlay824rcgswbj7nrsly6bfq"}
+],
 "cadencecode.zcode":[
 {"v":"2.5.0","e":"^1.85.0","h":"199sfdgb8pw079awcyycb9s5qi28jymq33yi5lzkxz2vng3y2bpj"},
 {"v":"2.4.0","e":"^1.85.0","h":"1jywrf0df43vkpxhis8l0675g6ml64xbk82hbsx12xnjvck3f06b"},
@@ -352,6 +355,10 @@
 ],
 "eseom.nunjucks-template":[
 {"v":"0.5.2","e":"^1.19.0","h":"1njgxcrz9yniwzb56gdh9vjl5kyrixwagmlndlgxc216gw47l6yf"}
+],
+"ethml.gds-lens":[
+{"v":"1.4.1","e":"^1.125.0","h":"1a8s4vx1i2pg47zr7m22x27kqs3snzdhblvs1jrplnxbiqpzp25n"},
+{"v":"1.4.0","e":"^1.125.0","h":"0a2y9xjy74308v1662bhn2zhwrsfpl2xmf18agls75v8d223zbza"}
 ],
 "evald24.vscode-extension-profiles":[
 {"v":"1.2.4","e":"^1.57.0","h":"1gvc2v4y7g88pvw4s1abby3cdh4hcxwpcvnvmbm607fngrxmp5kx"}
