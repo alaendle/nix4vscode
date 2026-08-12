@@ -528,6 +528,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"1glvzxrg1p58b1qwsg86z460lsp9zdq7xfbn6d5n01xzh9247cnq"}
 ],
 "cyrus-build.cyrus-missions":[
+{"v":"1.8.2","e":"^1.84.0","h":"1dfjqr7ss59ysw11ifw323jk6iajdf66cfaxgk3y4155x1r5vlsv"},
 {"v":"1.8.0","e":"^1.84.0","h":"0rszmwnhv5y0gp6jzb7m8psplnrwpzcjfw27aj4kn6lk1i1pf74s"},
 {"v":"1.7.6","e":"^1.84.0","h":"1mmmaahv5vp2mdz4mmqfagflna4cd9pzm3hdpns01rxdmi351i0j"},
 {"v":"1.7.5","e":"^1.84.0","h":"0zi5lfiwhc5b9vnwsn542vmjisvgihaz2a2jvxfrlqc0cy3qq8x2"},
@@ -1460,6 +1461,9 @@
 ],
 "sol.solidity-vscode-ext":[
 {"v":"0.0.188","e":"^1.85.0","h":"0r6sj35mx7av4gsny0qnqyk80lwfmssvmbsq1m4zyd35lzh10fdy"}
+],
+"soterai.soterai-ide-guard":[
+{"v":"0.3.0","e":"^1.85.0","h":"0gs5ch219a8fc9s4yswpm08idd40l52ryyzs3xs9i94hb2wa3mbq"}
 ],
 "spacebox.spacebox-fluent-theme":[
 {"v":"0.0.3","e":"*","h":"13bphhar4mwfcgki9dxcpq5c9bm3hcm1fm3h6bjb7j0fm8dh921k"},

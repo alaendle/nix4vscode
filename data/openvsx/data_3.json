@@ -488,6 +488,8 @@
 {"v":"1.1.5","e":"^1.74.0","h":"0kkprzd9n0gg46jqnw6cfvvi4xhzb333bcx4558j7i22zj9p80m3"}
 ],
 "inlinr.inlinr-vscode":[
+{"v":"0.3.1","e":"^1.85.0","h":"06k2gacfs615vg9viskk1hsk1vg4ri1javjxkq2bhlgk59ja20vx"},
+{"v":"0.3.0","e":"^1.85.0","h":"1dz9rwkybvmfbknngq3sd9f4zk1wb4i560l03prmyrr7y44f279v"},
 {"v":"0.2.0","e":"^1.85.0","h":"12pj0cjl2gvp8vq3dj0clhy7n8220kqnk9cljhiviyd660p20vwm"},
 {"v":"0.1.1","e":"^1.85.0","h":"1j6d078fm40dxk6acdvl89v19yrhw1afswbqy4aki1nqzk5lir2w"},
 {"v":"0.1.0","e":"^1.85.0","h":"0izsysshp0i51w8cq3shym1kpfvsiw8k6s5gw2rwbk9gb3072mf1"}
@@ -525,6 +527,7 @@
 {"v":"0.2.0","e":"^1.75.0","h":"0bd3r7am705pgxlw595mim2xl300xxpxs0abv96npxinrr1km1qv"}
 ],
 "joyautomation.vscode-iec":[
+{"v":"0.9.15","e":"^1.82.0","h":"0zphbxlbc9l8rbff2srfq3n849disql6l9rv5avf6cl3l3h5ja57","r":true},
 {"v":"0.3.1","e":"^1.82.0","h":"05flpl3p5i03w448507fz0lswszd5va4chwqxl6bpv8fajqk20pn"},
 {"v":"0.3.0","e":"^1.82.0","h":"02kx8yi19d2cm96771p0angdr4iyswzswcyc8403vfcm7952aqy6"}
 ],
@@ -998,6 +1001,10 @@
 ],
 "nextgencode.ngc-release-pilot":[
 {"v":"1.0.3","e":"^1.85.0","h":"0r077rcsbm7xsn9ips3ifs6igfir7z2znbpgj7lxsd1i5jc1sn8p"}
+],
+"nf3t.nifi-flowfile-extension":[
+{"v":"0.0.5","e":"^1.90.0","h":"009wh2wrs7nazjcnncdgglxfimb7vlj4zkm9j2b3h9fyy65fi0wj"},
+{"v":"0.0.4","e":"^1.90.0","h":"0jdq6z3656zfih1x4r8cyji21jjj781k99iman9m0db14kyv7ffy"}
 ],
 "nikkymen.enjoyer-theme":[
 {"v":"0.0.5","e":"^1.102.0","h":"0wp79678iki4960g8mw29yimcfgrzxswzy7p4xyj7p0kxh1pf7qh"}
