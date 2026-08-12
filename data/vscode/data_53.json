@@ -8870,6 +8870,9 @@
 {"v":"0.3.67","e":"^1.96.0","h":"06i15x42i90wcfw8dhpmv3a3f088556a3c0xm74zybxiwhfp9dmw"}
 ],
 "splunk.observability-studio":[
+{"v":"0.0.16","e":"^1.82.0","p":"darwin-arm64","h":"092il4mcgmchqlic13k2qi24cm8kc58k2n2kj8n6l2pgwspjkscp"},
+{"v":"0.0.16","e":"^1.82.0","p":"darwin-x64","h":"0sa2rp78dgfay7x8b485qhd9yszjgq2n1w4pzf8vlnprr3yn27vl"},
+{"v":"0.0.16","e":"^1.82.0","p":"linux-x64","h":"0qwdjb9xxbc24kvv10vc3w87q95qyxvil75dgsfnwsmd5kcyjh6h"},
 {"v":"0.0.15","e":"^1.82.0","p":"darwin-arm64","h":"14jcxp7981b84w67qymvq0ln9bhzd44h8nifkcbx6aaqg2g7f8s3"},
 {"v":"0.0.15","e":"^1.82.0","p":"darwin-x64","h":"1rijfnnxlrn22gbkcqlb15wn2xkv7z4cpvjj40cpgsqxypgfl1wk"},
 {"v":"0.0.15","e":"^1.82.0","p":"linux-x64","h":"1r0pcmw8smi0d4l8d4v4s6n1v1ybcdyd7n0gjrfw5s5s8zn7ibcj"},
