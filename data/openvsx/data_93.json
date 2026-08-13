@@ -1599,6 +1599,10 @@
 {"v":"0.6.1050226","e":"^1.60.0","h":"19sivm7cip3fw13k11lyz960gllgd5asdjrrbn33d0lkxjj7pfpy"}
 ],
 "rockuen.cli-launcher-for-claude":[
+{"v":"3.20.9","e":"^1.85.0","p":"darwin-arm64","h":"0w14cnbq48l3sqwinwhhj2jxw3554wvw2cyjhsy183d5104lv1l1"},
+{"v":"3.20.9","e":"^1.85.0","p":"linux-x64","h":"1y9hmmg4qwwjm5i06i4cv0w0zjgj03hd98p8fw1n7n7qw7bkq893"},
+{"v":"3.20.8","e":"^1.85.0","p":"darwin-arm64","h":"00wx38jqgk3323xydk5nrqs91cqfqbcvh2ll8wpv240vmwj91d2h"},
+{"v":"3.20.8","e":"^1.85.0","p":"linux-x64","h":"1139r2ynvi46cr2gjsvs688f8l71iq7n864q8iknnayi5mn01hf1"},
 {"v":"3.20.7","e":"^1.85.0","p":"darwin-arm64","h":"1x7pw7a0ziwzhwvcvhal61qlqqi7kymg7h61l53w0llfrx87i0yk"},
 {"v":"3.20.7","e":"^1.85.0","p":"linux-x64","h":"0syvdxhd1syn213qhdybqrb6n5wyiv2jsgy74kq305yf28hky9h2"},
 {"v":"3.20.6","e":"^1.85.0","p":"darwin-arm64","h":"161ngjbhar7f9agdvl0famdvyxx69vc32b2xhn6bnabfp9zqc9xc"},
@@ -1951,6 +1955,7 @@
 {"v":"0.2.0","e":"^1.45.0","h":"09v2hhqq0mhqj902ng59d8lvxlg7yskj6jpaljiarbnhwhhpck37"}
 ],
 "simonhe.env-preview":[
+{"v":"0.0.10","e":"^1.75.1","h":"1za8a1f2gr8g7k390z1y7qwhcviax7bqzx8c54h9zvfhsng5cnqj"},
 {"v":"0.0.6","e":"^1.75.1","h":"1wslaaidrmhf8w7mkfsk25l7cmqm2mcwfymkvypf4nbj2vcf8kcz"},
 {"v":"0.0.4","e":"^1.75.1","h":"17n8fkfdaahnk8p002sj6bkjv759a0p703y7lf7mmgxng2l4x44m"}
 ],

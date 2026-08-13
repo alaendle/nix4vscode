@@ -335,6 +335,7 @@
 {"v":"3.28.0","e":"^1.107.0","h":"14wfpk7bbampdnxbj605lg0pplwssm26a66sddk6qpssxd3hiydz"}
 ],
 "fernandojerez.vector":[
+{"v":"1.5.2","e":"^1.90.0","h":"1ka14zx9xi9ls2rmharwpnpin9ajmkip1r4bdiwqybzs1i5r5i1a"},
 {"v":"1.5.1","e":"^1.90.0","h":"168qavj4c2cmbgm24sh5rf1dxxg7lnvhqzyrinm8mk2nd03ksbwv"},
 {"v":"1.5.0","e":"^1.90.0","h":"0rwh7yjc32d34hxrw5hzvprvqrlyxyqwb1jlxxm6yl77llzgb8ck"},
 {"v":"1.4.5","e":"^1.90.0","h":"1fwzpcrs13zi05757md1nc5q18ny8rmha17nbn9b6gscbfzy5q0j"},
@@ -1180,6 +1181,8 @@
 {"v":"1.4.0","e":"^1.52.0","h":"1hhx5wdkh7f1yzy75s7dg3v6q8hm1lnad896hawa8b78nn019vd8"}
 ],
 "riversidesoftware.openedge-abl-lsp":[
+{"v":"1.35.6","e":"^1.97.0","h":"1d8ywfdz3mkkcr5jj5imnpf3465w42q2kwzf2bpk8vs60b6zbdxi","r":true},
+{"v":"1.35.6","e":"^1.97.0","p":"linux-x64","h":"1q3sa6jvdsk8qj8p09rlxlanw66zsxcw7a6k6v97nr7pmfd5z2wv","r":true},
 {"v":"1.35.5","e":"^1.97.0","h":"0sh15zwq5jnk2zna8xmzm8wkmhaj6yq7xk7h6jd19lbc7v058bp3","r":true},
 {"v":"1.35.5","e":"^1.97.0","p":"linux-x64","h":"160rdhgfhrw3ymwwzsj90a3wz2plbwn9mzf4qz1fqjxz8dj6rnmv","r":true},
 {"v":"1.35.4","e":"^1.97.0","h":"1hrrjgkq2cgsn55i4rairlm114q8631vgk29wz53ds9i11w1fdm3","r":true},

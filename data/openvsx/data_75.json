@@ -59,6 +59,7 @@
 {"v":"1.0.1","e":"^1.100.0","h":"19cgz09wcsf75g7yb5n1fcmrapns3z2dns55a9mc6gg82q9vs267"}
 ],
 "bilalbentoumi.pi-vsc":[
+{"v":"1.0.5","e":"^1.90.0","h":"0pzszx5nqa7iqaj8vdw2150il3sc1v4gkv6x24dikiwg040b592v"},
 {"v":"1.0.4","e":"^1.90.0","h":"05kymq38m2nb175vwl6fxad83wmjlfkc70fpn3g7gy7z2dgb9jch"},
 {"v":"1.0.3","e":"^1.90.0","h":"0d3m5h0i6fhiqw66k23yd57a9wn8wgf14zl97ywbzljgf40k01gf"},
 {"v":"1.0.2","e":"^1.90.0","h":"1qf1hkk9rqdif3yz648wj9r0rhrriz92jf2ggs7j5f6g8c83fz5v"},
@@ -707,6 +708,9 @@
 "nexify.nexfix":[
 {"v":"1.0.1","e":"^1.85.0","h":"1rqkh7c4phklnqikhzyfhq3zi5n89syqqs95cad28i6wr8kp94px"},
 {"v":"1.0.0","e":"^1.85.0","h":"1jmip13vv8bhckzs5s5nxcsz1n5hyfi5vw6v08n4iarg7m51kpd5"}
+],
+"nextgencode.ngc-ts-doc":[
+{"v":"1.0.1","e":"^1.85.0","h":"0sbdxv0iw6p91c07lhyf5h31z1hiyqvnissvgfrja59ir16wlvsp"}
 ],
 "nguyenngoclong.eco-console-log":[
 {"v":"1.1.4","e":"^1.64.0","h":"1ri2hib7vyhkvm91jzvsx6vsw4p59xsn0wp0wdz1w6y8d2pjlw1n"},
@@ -1517,6 +1521,9 @@
 "rti.connext-vc-copilot":[
 {"v":"0.6.2","e":"^1.95.0","h":"0g3hzn978gn4lrlbf4k6zzx287mwcxyqs7ipfpjj95qz9qx0ahzg"},
 {"v":"0.5.0","e":"^1.95.0","h":"0irz8xjnnywrpa2ab8wkywafs6hlq4kakp7bf26667aw2agaj5sy"}
+],
+"sakshamjoshi.sj-azure-theme":[
+{"v":"1.0.0","e":"^1.0.0","h":"0rm9kz78zc645hbf48ik92j16k0ypnf7ivrzjk1nw29ghpcv6g1s"}
 ],
 "salesforce.salesforcedx-vscode-apex-replay-debugger":[
 {"v":"67.7.1","e":"^1.90.0","h":"0gmv1mvmhjsv1wyf0s5zfhsai67jdikp6lw8b9nz6k2wb6m5f5f3"},

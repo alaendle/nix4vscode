@@ -252,6 +252,7 @@
 {"v":"0.0.1","e":"^1.105.0","h":"0s46cpzavfcaf03daba7rc9glcv8yygfks5mp1nnmwc33ks73kg4"}
 ],
 "dotenc.dotenc-vscode-extension":[
+{"v":"0.6.1","e":"^1.96.0","h":"0j37jc6amb7sck016bydwh425nsgyars7cljxyrzjq9cn3j0y2b6"},
 {"v":"0.6.0","e":"^1.96.0","h":"0a44xkzq1qw23rwln47iwg5mgb1ncgkv9iqsdpv4samh0qfcasl5"},
 {"v":"0.5.0","e":"^1.96.0","h":"0z4wa1mdi4vw3db1nph0czdqf71xbcyh0bm1krwzaydjxjwpszcd"},
 {"v":"0.4.0","e":"^1.96.0","h":"1fiqnhq1nfy0qr1cjl0fllami25i0n39b1xw4022ay9yjzd4lp48"},
@@ -463,6 +464,18 @@
 ],
 "kravtsovae88.cody-testing":[
 {"v":"1.149.1773708333","e":"^1.79.0","h":"1b8f5ndydxcp1g1mxkq5aiy4sjkbklij5sx7mcv45p37cqg74fvl","r":true}
+],
+"leolorenzato.pastel-night-theme":[
+{"v":"0.5.8","e":"^1.125.0","h":"18ad7gbl4a0cdnrp0h6rhy3gbchnkqdmkdgklfszaq5xnxavfcvl"},
+{"v":"0.5.7","e":"^1.125.0","h":"0g7zpw90hnha0dxil9x9z4x9524lvfnsf227drhymy342a3bxvrc"},
+{"v":"0.5.6","e":"^1.125.0","h":"17p2s0rl3wawv51gl8m00vw8s17m6l344mznnf3wfi0j6682b3fm"},
+{"v":"0.5.5","e":"^1.125.0","h":"1h6ga1km3nqjsk7fl1j84v5wr201scyzz46nkh3zc76ipj0v5d91"},
+{"v":"0.5.4","e":"^1.125.0","h":"0winlx9nv70cjfik3rshdw12rp5324wxzh9jslglk3zn9gh6liyx"},
+{"v":"0.5.3","e":"^1.125.0","h":"1ayci496d43zwghis5wirq9swn1wwzd6mq9944z2lsrwy74x84fk"},
+{"v":"0.5.2","e":"^1.125.0","h":"15gs0y9j49nzyk6y3a0zdjk2w9zclzlgxx5igfm38v2bmzci7k35"},
+{"v":"0.5.1","e":"^1.125.0","h":"0zl4il8mfsyqxpz3hi87q777j882dfd6564nlca69wcsgpfzvkif"},
+{"v":"0.5.0","e":"^1.125.0","h":"13kran09r6ryyszf7qjsp5vwyn3q2arfsili4cix9padpcy50lnz"},
+{"v":"0.4.0","e":"^1.125.0","h":"1487wx7v1kmn8gq44hi0a3pzg53h5w3jafsdsz7y25f84p0xr9s5"}
 ],
 "lucasprag.folder-projects":[
 {"v":"0.0.3","e":"^1.86.0","h":"17vc3fkzxyz1qkr90i6lj2flbhd1nlfdd5ay737i8x2djh4fqxf3"},
@@ -1076,6 +1089,10 @@
 "xiyeming.java-javadoc-pro":[
 {"v":"1.1.0","e":"^1.100.0","h":"1ns0s2mk3m3ax7c54mhfwzj2fndqwdq8ggk5fi6bcgs9cfvd0jcl"},
 {"v":"1.0.0","e":"^1.100.0","h":"1kk6nnn60nkzg7bww9rzvsynv6dcllvl6sa25ka2v8yaq3vcn8in"}
+],
+"yaoz.copy-filename":[
+{"v":"0.1.2","e":"^1.85.0","h":"0wb2nyw39zw3s4408sjdpbmmw3i84xq5ypqi00r6vsnbm3pxyfpw"},
+{"v":"0.1.1","e":"^1.85.0","h":"0nd6afj43q96qck621vvz21x575c1g8qzmj5pa0hpm36p24s1807"}
 ],
 "yezige.vscode-theme-green-eyecare":[
 {"v":"1.0.19","e":"^1.12.0","h":"1wsrk9p82bj849qwrv5ypv7rbg6jziv3p01sp28sm2zb0bnhawzr"}

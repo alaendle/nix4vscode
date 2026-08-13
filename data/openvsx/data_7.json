@@ -320,6 +320,9 @@
 {"v":"1.0.0","e":"^1.80.0","h":"12dxxk4qfsbhr5d335zpwbih8h628n7rdkq0bjlka7mxikqywr3l"}
 ],
 "ebula.devdiff":[
+{"v":"1.6.1","e":"^1.85.0","h":"1kaga0kd0m0b1vyzvycwf0l6hi7m4m1q6gm2nfvq5s3iazncc7f0"},
+{"v":"1.6.0","e":"^1.85.0","h":"10311l82s4wlly99191s6xm02gxzhq2w7q647vx4rl5v7i43zlbv"},
+{"v":"1.5.0","e":"^1.85.0","h":"1iw652l8yzfm37g428bp8jdh6qpgib6ksqqdni7n7khwamhicv5d"},
 {"v":"1.0.6","e":"^1.85.0","h":"0b2d0sc11z1xz6d9w2nk0hcrb52f32xlnnhcrnh4i4l943y16ngr"},
 {"v":"1.0.4","e":"^1.85.0","h":"1iiznq5i2swmpxy4sjrqlm6qd0p6mf32z1rmkra4zxw9drk4m6fn"}
 ],
@@ -806,6 +809,8 @@
 {"v":"1.0.1","e":"^1.80.0","h":"06x84hc4nxafsvcam8cxzpp3r7r0x1wx3f2cmjb2p9qg1v9p41ky"}
 ],
 "knostic.kirin-openvsx":[
+{"v":"3.52.13","e":"^1.99.0","p":"darwin-arm64","h":"1wmqnrhgvbcka1nizhr443vpmm765idy03xc82y1j1cxcqcb67y7"},
+{"v":"3.52.13","e":"^1.99.0","p":"linux-x64","h":"10y78y13789kvc6j7rl901kv5q7h8nv2wps98pcb08k7drzl33rd"},
 {"v":"3.52.8","e":"^1.99.0","p":"darwin-arm64","h":"1c5jmirdmw4syvvi7siza69pcn67dks4g5j4hdgwa0j5p8i5zrcd"},
 {"v":"3.52.8","e":"^1.99.0","p":"linux-x64","h":"1xkb611mr7hv8bg578szz6r9cvd8x28z3j5k2hzcfknwa9r4c23p"},
 {"v":"3.36.9","e":"^1.99.0","p":"darwin-arm64","h":"1xwjdqdhfxfxd9zy6nw87yxmrmd63ml8wla2hsvldsk4p4fnlf1x"},
@@ -878,6 +883,9 @@
 {"v":"0.2.2","e":"^1.90.0","h":"1m0cp68jjlndxz9jy9q1iwvnqca1gfaphw7nqr920svq02nimfbx"},
 {"v":"0.2.0","e":"^1.90.0","h":"1lfqx6n9wcg51zzs1if7m06v1zj6afb9hb2g0b4b3w8v4743nbmi"},
 {"v":"0.1.8","e":"^1.90.0","h":"0apb80dj7qyarwi3ipg1fl8gny2p5cg201bsq1p4545b5lj4xqk2"}
+],
+"lalitaalaalitah.latex-vertical-comment-formatter":[
+{"v":"1.2.0","e":"^1.90.0","h":"1sa4wiv082w9p9jgiqw1ig2jic30gjj0lkfi056mabi4jdqv5j08"}
 ],
 "lang2hong.l2h-db-client":[
 {"v":"0.0.10","e":"^1.8.5","h":"1dcagd9zn5nd6xzhwlnn2k5hn67nhm2a7nih7vwrw3mhrb53bs10"}
@@ -2138,6 +2146,9 @@
 ],
 "windorai.windor-ai-code-reviewer":[
 {"v":"0.1.2","e":"^1.85.0","h":"0nqwa7xr5skkzzsri5w3ild234jm8ivsiwwyzk02id8vrqn35pc4"}
+],
+"ypdev-kr.claude-codex-usage":[
+{"v":"0.2.2","e":"^1.85.0","h":"1nrl78w7bc0b9l0wggjzv88v12kv2p4zlm7ycv860nzjr333bslc"}
 ],
 "yueliudan.drn-assistant":[
 {"v":"0.0.4","e":"^1.64.0","h":"0r4ghxz5qdsdm4caqpikqnx6n18h1nh9dnj7703ly9y2x7s30l49"}

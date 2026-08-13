@@ -917,6 +917,7 @@
 {"v":"0.2.0","e":"^1.75.0","h":"05nz4g5kphk66659cdr6a08sb4y7656689j834b4ry96zany55hq"}
 ],
 "openubmc.openubmc-mcp-host":[
+{"v":"1.0.3","e":"^1.80.0","h":"1a96maf2xzc8a0lj6xdzyfsc568py2k425dgvv0bgw8yzzyrhll5"},
 {"v":"1.0.2","e":"^1.80.0","h":"0qm279wvpnp7gzcf1nzmd6m4kfc0f1jrkqrhdxidl6c5l5hqr904"},
 {"v":"1.0.1","e":"^1.80.0","h":"0mm9478y57kisxhiy6cpknij3i5h4sqwq7g9w98mpb4ksrvqba7b"},
 {"v":"1.0.0","e":"^1.80.0","h":"1h4x2f54my2hryhvf5mn7gmca1lqw4cscwi5r8kdxwjv0a77lg89"}
@@ -1020,6 +1021,12 @@
 {"v":"3.3.1","e":"^1.42.0","h":"0zvg7az3fxv3h30m2l4zy6vvl4aibsxii8v1qp5w17r2w5ls0vaf"},
 {"v":"3.3.0","e":"^1.42.0","h":"01fckj4f284khpjq9qilqfzg7dldimk9y3l92gqspv94lp4a5qif"},
 {"v":"3.2.16","e":"^1.42.0","h":"0kfdsmxjafvxvqyk6f83czga9swmf6g95x377sccmky96qnabi7v"}
+],
+"segmetriqanalytics.segmetriq-devmind":[
+{"v":"1.0.5","e":"^1.85.0","h":"17ipvcxy65m21k1y7niyaqz5j0vd77xhswpw9026wz86a4p1kz4y"},
+{"v":"1.0.4","e":"^1.85.0","h":"18nzpw3nzsjvqknppj0r14aapdnq9zmwzfk3llda8hnsvgzq83zg"},
+{"v":"1.0.3","e":"^1.85.0","h":"0l4g16aajd97zipc914mmkpslcxkw54nlkzxwc27ay4dwl7m9rw7"},
+{"v":"1.0.2","e":"^1.85.0","h":"0ydbg48dn3n11kp7yxyqakdg0q2sqm50khmg5j6n6w5p18h12vf5"}
 ],
 "shahriarsiddiquegalib.vscode-pong":[
 {"v":"1.0.0","e":"^1.74.0","h":"0imxakg45p2b0jklvnvrmap0g4fwgl7443y8lqbbpa8xil5b01yb"}
