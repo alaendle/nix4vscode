@@ -87,6 +87,10 @@
 {"v":"0.0.1","e":"^1.56.0","h":"0jvmnd288wg8ffbl0knjmlnfz4ykhrh0d3535wmfv7kdd7lfh07x"}
 ],
 "abacusai.abacusai-agent":[
+{"v":"1.37.0","e":"^1.75.0","p":"darwin-arm64","h":"10xsp3wcnxbwchhpsygl6wny9qpisr86sxazckpp7g6wf6dh6x8h","r":true},
+{"v":"1.37.0","e":"^1.75.0","p":"darwin-x64","h":"078chwi47f1gi3hw50nz37ls1l3blncj4l96dfdl78l3nzfnvs6m","r":true},
+{"v":"1.37.0","e":"^1.75.0","p":"linux-arm64","h":"18wd19yb8ccr55wja17xy68ca220ai3nvj56g6dplsx4kksisp7n","r":true},
+{"v":"1.37.0","e":"^1.75.0","p":"linux-x64","h":"0c7barj6f8rxz8w866f721nf8xm97dkkk8xj5pcxllkx2wxp7rwm","r":true},
 {"v":"1.36.0","e":"^1.75.0","p":"darwin-arm64","h":"0mv7ax2c5yg7b2y6lcp2r9k3bkgg5yrh641l6sjlcf4637az3fsw"},
 {"v":"1.36.0","e":"^1.75.0","p":"darwin-x64","h":"0q9m4k4z59sjq7rdns7v348vh7kz2ybsld8b5i9726rx1gcf7n6n"},
 {"v":"1.36.0","e":"^1.75.0","p":"linux-arm64","h":"1mp4wnr8r6ps80n0p59y5xkmijr5v3r9sd0c0yv2qhnxss71kh3z"},

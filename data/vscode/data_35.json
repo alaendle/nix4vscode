@@ -383,6 +383,9 @@
 {"v":"1.0.0","e":"^1.43.0","h":"1m36g4cc2h2wbpfwd4415jb3vi7jpxkdcj7vppz6iwskncxnqykd"}
 ],
 "amploptimizationinc.ampl-plugin-official":[
+{"v":"0.3.6","e":"^1.90.0","p":"darwin-arm64","h":"0zii7c6wkykwy1kd80rdv2af7w84fzq1yllcb6zgq8hprs2m8xyd"},
+{"v":"0.3.6","e":"^1.90.0","p":"darwin-x64","h":"1jvqzahhqhg2brw8skvqihgsqrck9psyxy3sppfl8fv1kxxvv7cv"},
+{"v":"0.3.6","e":"^1.90.0","p":"linux-x64","h":"13flymdv8k8qp8fwifc2y3h3idg2kk3bfmvzagfj5p36q9l96yj3"},
 {"v":"0.3.5","e":"^1.90.0","h":"17sk2452k4xvf269sp0nzrpfgkrkpag779kv6lqljsynshkxj8wj"},
 {"v":"0.3.5","e":"^1.90.0","p":"darwin-arm64","h":"171nv2g6m61xjnpsdz468fgsq1n3vbcb6z16izk5bcawr18claly"},
 {"v":"0.3.5","e":"^1.90.0","p":"darwin-x64","h":"0anwr0ygdrkz3yndbmi83wax58c5qcnqi6rp48nfb53gm306gwhj"},
@@ -1075,6 +1078,7 @@
 {"v":"0.0.1","e":"^1.91.0","h":"0jgk1csm8kvsd523q1anhcspn3spprvzwbshkflpwn7j992g8s3q"}
 ],
 "buildxl.dscript":[
+{"v":"0.1.285915","e":"^1.8.0","p":"linux-x64","h":"0y2xx5rwm7g4fgvybd5ichvyqrhnz0w0yzz7sb3p1nb6ai07nwjm"},
 {"v":"0.1.285210","e":"^1.8.0","p":"linux-x64","h":"0r2bhhrjbjzjb06hrlf5009vfy3mbp9s73nmcz7inilj13znwpwb"},
 {"v":"0.1.284515","e":"^1.8.0","p":"linux-x64","h":"16yzggxjgn9kb0j3xbdcb86bdw00xqpsz591332ms7ik76jrmwlc"},
 {"v":"0.1.283120","e":"^1.8.0","p":"linux-x64","h":"0az5jrkm7wnkjwq4dfrdblflgbkn1nmlls2s06vkbfnm6wvjlwdx"},
