@@ -660,6 +660,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"1xy8rnl8lr6wx66b6xqzc08nnxif93sfikaiw4jhmmrn2m79x8d5"}
 ],
 "miragon-gmbh.miragon-modeler-collection":[
+{"v":"1.2.0","e":"^1.96.0","h":"0bky8xsk9chmnrzb3rq2cy6j4lp0c7wi371zfkmgg7mpnisicq2n"},
 {"v":"1.1.0","e":"^1.96.0","h":"09117z6jhpfrhxc0iglb1jjksb829zrzmsswnwhjqf9hfnll9nan"},
 {"v":"1.0.0","e":"^1.96.0","h":"0mwlm33b4rp4sy1zdj1k28a0f3lr215gyzbks5dlm675qx624ifm"}
 ],
@@ -1126,6 +1127,11 @@
 {"v":"0.86.0","e":">=1.43.0","h":"1jnaazzjsp01n0kifb47fh6lljixjscxm4hqy3pjfqjpd3vnncx5"},
 {"v":"0.85.0","e":">=1.43.0","h":"0zkp1bh5dh6mhj3bgyhsgncw9z42lymx3wvcmajba7mlayaaw26a"},
 {"v":"0.84.0","e":">=1.43.0","h":"0dcx409y5xsrn5505djhycc0r04yl4ghhk2f8smykxc248ds86db"}
+],
+"supconhos.hos-edge-dev":[
+{"v":"0.0.4","e":"^1.85.0","h":"0mmdqs545wp602097f050j38r700v5ddr7iq8rkfc7b8qfp2hscv"},
+{"v":"0.0.3","e":"^1.85.0","h":"0dxa65cm6ijjpydvkqncnyj0fjycjxk3lff8hdi0ynfbznn6v4px"},
+{"v":"0.0.2","e":"^1.85.0","h":"1yc8gs06s0v6a7mak25qjnnmi9pf80rypi1lp7vssvcna518876z"}
 ],
 "tailscale.vscode-tailscale":[
 {"v":"1.1.0","e":"^1.74.0","h":"1kf117qdcnfd2m9jq3zg412m3xmcn009kavjq00mm21yikhw0fwh"},

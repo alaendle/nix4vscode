@@ -555,8 +555,11 @@
 {"v":"0.0.2","e":"^1.85.0","h":"123ma0zmjy7ys3sq4dhka5j04j0g40mhmxwjqjfzv6gd6a1h6z00"}
 ],
 "konveyor.konveyor":[
+{"v":"0.7.2","e":"^1.93.0","h":"0gyg1k4n6y1vazg5gby61yr802ibgzaz1ab2vkcnizard1pnvh3q","r":true},
 {"v":"0.7.1","e":"^1.93.0","h":"1qabzfjc64b8nzzlnsl94kfn66m3jsy3yhfsr2gz2fqiq21xzxrc","r":true},
 {"v":"0.7.0","e":"^1.93.0","h":"01b3jnzrf4z0gmlbfridiyn4jl2wapgdgrj915cvnw63rn0xcp64","r":true},
+{"v":"0.6.4","e":"^1.93.0","h":"08ww8k8vvzq6qmsnxbp6lxpmlpkyyq2wnkigqmmmwydr8vky6327"},
+{"v":"0.6.3","e":"^1.93.0","h":"0z2w7x5fyj55h040cmy8cm8nlngh7n8651qq4npcxrqrd09x31ad"},
 {"v":"0.6.2","e":"^1.93.0","h":"0nya5iv2q8pkfh7hizrwksrckdx65nfwisj3qqdrzr8wmawvv74k"},
 {"v":"0.6.1","e":"^1.93.0","h":"0f4k5w0wspv7pxz8f0syhxcarpdfd8d7qrwclaa9vq96ll6rdgf6"},
 {"v":"0.6.0","e":"^1.93.0","h":"1dpq53lvm7yjs5c6cqq6a94489jkk5j3vq545wcm1zmgg331b337"},
@@ -1372,6 +1375,9 @@
 ],
 "sapegin.reveal-in-ghostty":[
 {"v":"1.1.0","e":"^1.75.0","h":"13c1y2sfpdjig7dgaisz63hrs9ifdvbfprkwa6yg08wmgxw3zk95"}
+],
+"selfresearchinstitute.sci2code":[
+{"v":"1.0.10","e":"^1.95.0","h":"1g64c1920hjbfikvlh6p11ypkwwn4ykiqw4p4zxpg9ki3i1m63g9"}
 ],
 "shalldie.background":[
 {"v":"3.0.1","e":"^1.120.0","h":"14j0ysv8wlh5v6cjzgkr0xs741w2wq2gjxmjkyf0jb8g55kc2pjw"},

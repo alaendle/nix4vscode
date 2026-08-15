@@ -753,6 +753,14 @@
 {"v":"0.3.1","e":"^1.75.0","p":"linux-x64","h":"12zw0b39s3xsp0h4yyp50c1hc76wfplv0zx54bnv7bj7qy5pl2cq"}
 ],
 "jolars.arity":[
+{"v":"0.18.0","e":"^1.91.0","p":"darwin-arm64","h":"1z6jc94czlsi3n635frv385xazymywj7mzgs23lsmkgwvvzhvlrz"},
+{"v":"0.18.0","e":"^1.91.0","p":"darwin-x64","h":"1xv6kyngmwf0xfkvis9fg6vjxm01yhamnmyl0gkbj6wf5pakaxax"},
+{"v":"0.18.0","e":"^1.91.0","p":"linux-arm64","h":"1ar1din2h1rhakr0686dpx2ip9swi0zyz7him14n0f6v4mc45yqg"},
+{"v":"0.18.0","e":"^1.91.0","p":"linux-x64","h":"1k4cnfzqyrcq9h4cb3xpz0pr4v4qjdxhyi2j91ij1nhg0vhl3ddl"},
+{"v":"0.17.0","e":"^1.91.0","p":"darwin-arm64","h":"05ymr72cgs7adzlrnb23l304p1j81aqfzl7a2ranl1qhw85b4x95"},
+{"v":"0.17.0","e":"^1.91.0","p":"darwin-x64","h":"1xkjc8j8x54d6fjv90pra1pbl12pig4516dqhw1hxdbdhnf5q0cz"},
+{"v":"0.17.0","e":"^1.91.0","p":"linux-arm64","h":"07hxgckhdfxxy59wf8j58bl3d0xbk4riwvyfcq33fl7jzsdh9lik"},
+{"v":"0.17.0","e":"^1.91.0","p":"linux-x64","h":"02aihpgbyywvm7bafcg8nmnwjk4kqfni3qp5a4qb3p3xy94r2818"},
 {"v":"0.16.0","e":"^1.91.0","p":"darwin-arm64","h":"1x8rgn612rxnlb8sdwgy131gbfi67vccq6pr4mgap161fbam1l70"},
 {"v":"0.16.0","e":"^1.91.0","p":"darwin-x64","h":"1yz33yjqf9lzhpsyjwihfjgj7i2cf0hz9vwj8xmn2yzimp4r5lp8"},
 {"v":"0.16.0","e":"^1.91.0","p":"linux-arm64","h":"1gs6jwz6405k09hdhzdwb35hybb8q9qw84m07fx60mbdvg09jkw9"},
@@ -1365,6 +1373,7 @@
 {"v":"0.0.4","e":"^1.92.0","h":"1pknnf66gz35qwx4xsiqi6dvykib4spxjas3kv74m7a57scly7la"}
 ],
 "shivansh2703.agent-radar":[
+{"v":"1.1.1","e":"^1.80.0","h":"003l2nprsnx6742nm1mnkbmgxc16nfqipcp199w89v1rlyl5awzs"},
 {"v":"1.1.0","e":"^1.80.0","h":"1dmb47hxngybv7pknbfv0107x9m0c2mhm1d5lzpwin7gbvg2864a"}
 ],
 "shoubhitjamadhiar.to-do-manager":[
