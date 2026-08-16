@@ -407,6 +407,8 @@
 {"v":"0.0.11","e":"^1.90.0","h":"1c6b76fax3k7wpbffnfgn41zd8dj6ayzdi6k3cki1ay3zg0fcz9c"}
 ],
 "gawk-dev.mcpgawk":[
+{"v":"0.1.28","e":"^1.85.0","h":"1i9mc9kddjlk2ddcqlg4sgngqbmgk032d6ng58nysbxbh7sfpc9l"},
+{"v":"0.1.27","e":"^1.85.0","h":"0hpzq8dqr3f46af2c3mj7ni4vw2asxnl1npjf7228jr2dkdc92ki"},
 {"v":"0.1.26","e":"^1.85.0","h":"0m6xs73x64hl0ppnqmwkamgld92bxqg8wcnki7f7b1myn25648kp"},
 {"v":"0.1.25","e":"^1.85.0","h":"0a536rra4kxk2b1z309ad7m4s4bgszx4wcsn744r18g324bx1wbb"},
 {"v":"0.1.22","e":"^1.85.0","h":"1qybxynjzl2k0pwhsj0d5n1lbjii2c9p72h98rg0q16fygqqdikq"},
@@ -500,6 +502,18 @@
 ],
 "kirigaya.mp3-meta-editor":[
 {"v":"0.0.2","e":"^1.85.0","h":"1zcjjwsjj32zm4gn05ys7kd086q7l3cqdrl2hwfp00qc7q32hrlx"}
+],
+"koment.koment-dev":[
+{"v":"3.0.0","e":"^1.100.0","h":"0pl8n1ws9gxrgmf9r1xwyy6akn2pvnd01a8c6c6vn4mlnkj6q4bb"},
+{"v":"3.0.0","e":"^1.100.0","p":"darwin-arm64","h":"0c3n227cpajci04a68cwzwc1i9cyn4k228ckqxz3y6lm4m5ynkxm"},
+{"v":"3.0.0","e":"^1.100.0","p":"darwin-x64","h":"0dygyc18pbwg41wdwhrl44pmfgh9s4srsm9i7c33gk9aygbi9fz3"},
+{"v":"3.0.0","e":"^1.100.0","p":"linux-arm64","h":"0x06ffd0ydm2ilm9zlnn5vgjhb1zfaiqxff8sy2583zjhdja1kwr"},
+{"v":"3.0.0","e":"^1.100.0","p":"linux-x64","h":"10h904w479sz5kaq31bwig3n6d7j9xlbh05mnd64h5h5lq5n1xlj"},
+{"v":"2.2.0","e":"^1.100.0","h":"1k0xxl2jjm4j6zy3pm6jqlisx3nfqvcsq0w0dd9p449c52fhj58l"},
+{"v":"2.2.0","e":"^1.100.0","p":"darwin-arm64","h":"0jdj9rbyrc4w5f2h4bpr7fyj6z2x5kd0vsrrshzprklc7x70q0rw"},
+{"v":"2.2.0","e":"^1.100.0","p":"darwin-x64","h":"0lw597jl2wa1sqpaz35nis4xkp88zy88xmgs30mns163lsmlhsz6"},
+{"v":"2.2.0","e":"^1.100.0","p":"linux-arm64","h":"17sa4gdmz96kdyav42kv3pzys49l1805697i5izam8smp1xn1a95"},
+{"v":"2.2.0","e":"^1.100.0","p":"linux-x64","h":"0niv0vglcq73k1y7bhggrayk8kdsivc98q6ny0gr99hv752q4rhk"}
 ],
 "leakferrethq.leakferret":[
 {"v":"0.1.3","e":"^1.90.0","h":"0ss2rxw44nvyp5qbh14plyjsz1x09bz77n1nmskpn1n7hr3f2lpi"},
