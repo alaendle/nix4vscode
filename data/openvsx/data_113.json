@@ -171,6 +171,10 @@
 {"v":"0.0.3","e":"^1.85.0","h":"0v5s2z5ch7iqfgnkb15v7iy2n81lwnglmvh5iqpi1mr2fvvx4lq6"}
 ],
 "bluerock.bluerock-connector":[
+{"v":"0.2.3","e":"^1.85.0","p":"darwin-arm64","h":"12zcsrvk0i3jfs7pfggb6i2bx4mawli84bqqmlnkzi1yavd7kmy0"},
+{"v":"0.2.3","e":"^1.85.0","p":"darwin-x64","h":"0c3wf3mkwlx7jq98p783za9siix8ya9jp490ywm8b7wb3d4xl5x1"},
+{"v":"0.2.3","e":"^1.85.0","p":"linux-arm64","h":"0q1is0my92hqjz86p5g96ipxj79pvmc0grb9q73j3xm79fmqmbi4"},
+{"v":"0.2.3","e":"^1.85.0","p":"linux-x64","h":"0whb1affqa9rw0lzmrrhsnmzacwyxzyazm84klw5vzwiqh1wm5by"},
 {"v":"0.2.2","e":"^1.85.0","p":"darwin-arm64","h":"1f41gll13ib75w7jyhv4ndhg4g939b96g60adjcf37y9z33byk23"},
 {"v":"0.2.2","e":"^1.85.0","p":"darwin-x64","h":"1snmcjq6q38fim9sd6p1ylaiknczn041jxhv0iyqr3zhjka81nhi"},
 {"v":"0.2.2","e":"^1.85.0","p":"linux-arm64","h":"1f9151pcmhiimpdrk7y2pz64f3h9yly8b9rwqp5sr2d08p03mi5g"},
@@ -918,6 +922,9 @@
 {"v":"0.1.1","e":"^1.120.0","h":"0v9inggb3dw9zcjrrl4rkbp6m0nswq5api6vj583rwnkbqg0afay"},
 {"v":"0.0.1","e":"^1.120.0","h":"024xk9nvlkkg5fv0p1qk19gvl00qzp4qzn3lx17prklkdpzjd992"}
 ],
+"localkeepai.local-keep-ai-cursor":[
+{"v":"1.0.1","e":"^1.85.0","h":"0r4am9rl0i3qaasmgv4q1sfkfrn628jjqwlalks1cvzsfwmqcc04"}
+],
 "lucasprag.dont-git-lost":[
 {"v":"0.1.6","e":"^1.85.0","h":"1z1fr1l2zyfar3r1fpgk7g20z3vgzcl721x3nb2vihbawlzc8vrk"},
 {"v":"0.1.5","e":"^1.85.0","h":"1r89xwhdxfa3apimd3m8l00gi014ymylkl9hy87wl09hnfa8z3wq"},
@@ -1154,6 +1161,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"07xwqd716ravhsfn6mm7wsdhq24l3xf89p9imc8ira4il22y29z1"}
 ],
 "olehplotnikov.remote-vnc":[
+{"v":"1.4.0","e":"^1.84.0","h":"1mp9axsnv39z4pywcdgxdrw4y4fd21ryn25l73bnw3vw1n2rp2qj"},
 {"v":"1.3.0","e":"^1.84.0","h":"0mj5yzy0351ynmfy3zmff8z7rgfdjc8n4hhasjaw1r5dgykpfy4n"},
 {"v":"1.2.2","e":"^1.84.0","h":"0yw6b7pn0lbvk1ljkxm3pq9aswcndk6mghzv9xrhx1jvp077zl6q"},
 {"v":"1.2.1","e":"^1.84.0","h":"02k20slwn82bxsag910bww59jrspdmlkv9s1rc2wn3k3zhin38nq"},
