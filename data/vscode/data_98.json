@@ -444,6 +444,10 @@
 {"v":"0.1.0","e":"^1.65.0","h":"0wbyx93lqcbih0ws1a8pqpfd81gx20yzlm0d20zihlxqwvb9rw4g"}
 ],
 "anthropic.claude-code":[
+{"v":"2.1.236","e":"^1.94.0","p":"darwin-arm64","h":"0j3qfyhn0242jcyhm3fvxp5hr89bfi62h1kbr48az6g2ax72rlpj"},
+{"v":"2.1.236","e":"^1.94.0","p":"darwin-x64","h":"0z6znpwvyy6y7wk8zk1yimshzv7dbznqz47bzs76knq0v0wavs4w"},
+{"v":"2.1.236","e":"^1.94.0","p":"linux-arm64","h":"0anf14l1r1jvqc8plgq5gv9rqkjqn5xqks9qd2rw6jcvbwakmzry"},
+{"v":"2.1.236","e":"^1.94.0","p":"linux-x64","h":"07bq2fv71kqh2bba87lz00izxx8f0y8bb0y6v8y18zyx9w6x9z8g"},
 {"v":"2.1.235","e":"^1.94.0","p":"darwin-arm64","h":"0cqzlqw9sxsazc8bp0s0f65nn1kz8hdlakpdm9ijnqkhl1h9zmn3"},
 {"v":"2.1.235","e":"^1.94.0","p":"darwin-x64","h":"1rxwqrnppmbp58w1ab51rd0wi21knnhm14skrazc596jf452yy2h"},
 {"v":"2.1.235","e":"^1.94.0","p":"linux-arm64","h":"1was3j5fwa6bni5ak0222v4jhr1pwc21fw4764y51a6dcpfnpmjl"},
