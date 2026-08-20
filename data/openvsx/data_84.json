@@ -663,6 +663,9 @@
 "pankajghosh.nexus-dark":[
 {"v":"0.2.4","e":"^1.75.0","h":"0kgj95ja1wb9h6hhqa8xjnyxiwcjd40fxr754nrz78ng8r4k2h9k"}
 ],
+"parasdev.agent-paste-image":[
+{"v":"0.3.0","e":"^1.85.0","h":"18w7p5myqvj8zf98jlddjcmyj3f1vm1y0cdcpjcrvn43bypv5982"}
+],
 "phillip-merritt.vscode-beads-rust":[
 {"v":"0.14.5","e":"^1.85.0","h":"14z4zhmy4v0ih4js8mi80b45nwpkbk85qzvg5g0m1p4fk175hjxj"},
 {"v":"0.14.4","e":"^1.85.0","h":"0xhcnsc6g94hlfij4wfy8jfpnyy8nhybla89di9mq73wcv3vskby"},
@@ -763,6 +766,10 @@
 {"v":"0.0.3","e":"^1.85.0","h":"1d0ligp7z9cw8fmf4g8qx6fnkm3317gx6vq5paiq00rxgyyc46gc"},
 {"v":"0.0.2","e":"^1.85.0","h":"1sw2h8zz4zkk6hzbas52n7b3hpr1abm7drq045biyyhrhhf80rnk"},
 {"v":"0.0.1","e":"^1.85.0","h":"1k83bgr2kxjdncy7iw5gnjrd6k6jrmnmz4am4l7b5spylha3xjv3"}
+],
+"rowai.rowrecall":[
+{"v":"0.8.1","e":"^1.85.0","h":"0w9071ry2lnwkpjb6abxkvq6h5337bmc42gkxfdn36x7f2bdk900"},
+{"v":"0.7.1","e":"^1.85.0","h":"0vcm2ccfdh44xjc3yl461smhpn9pnvgjarp33pmd3kc2ifyxs7i6"}
 ],
 "ryanabx.djot-vscode":[
 {"v":"0.2.3","e":"^1.92.0","h":"10434c2dl69pqr13nphf6nkxzczck5g9jla9m0nchqhsgzfkixvd"}

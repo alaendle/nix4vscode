@@ -272,6 +272,9 @@
 {"v":"1.4.2","e":"^1.41.0","h":"0gnd707jj5z2vfmirc7fygxwb8xpyk8xjkadrnhn5p3kb9rrw3zd"},
 {"v":"1.4.1","e":"^1.41.0","h":"09gwqrgwaamdknd6x7am0xpcvxa3i2cyb9mjblzx7mn0vjfqgnb4"}
 ],
+"eurico-nerd.nerd-deploy-reloaded":[
+{"v":"0.90.2","e":"^1.38.0","h":"1f3hc3a1njmn6kw99fq451jrbbjmbbbn70r890lppgn6d0269a3s"}
+],
 "f1zz4n.taintflow-sast":[
 {"v":"1.1.3","e":"^1.85.0","h":"0pvkqd1bnswb74sv8giyw3ph32g7x7b2mahpr2spiaj38ngfrd66"},
 {"v":"1.1.2","e":"^1.85.0","h":"18df51bshrjfj5cpxbk6ldyfd25vjs07xr42xvws1w089ah8dfwh"},
@@ -1485,6 +1488,7 @@
 {"v":"0.1.3","e":"^1.85.0","h":"03fhlgnx0wn5n8k7yxlw6fhacjsfrbv85ll7ammpcp8b1728d9jc"}
 ],
 "runtimewire.runtimewire":[
+{"v":"0.5.4","e":"^1.80.0","h":"0pzd4sf0gaihkijh8cm69j8hxq7mcqsd1fvc60d51mcvc9i6qas0"},
 {"v":"0.5.3","e":"^1.80.0","h":"01l0af486g2pb1c88gdp01pgzbcaqv32mqgr5dlayfpa2zkfwd7p"},
 {"v":"0.5.2","e":"^1.80.0","h":"13krfak9i9135f16n5sjbw6svmag6lyk993zkhbxkycgmygdm0lp"},
 {"v":"0.5.1","e":"^1.80.0","h":"121d3jfsb5nnbb067npvaqw43cqyhn4zln54sykay1rk7jnci452"},
@@ -1563,6 +1567,9 @@
 {"v":"0.0.3","e":"^1.48.0","h":"09qid41ygxbxdjdl1vynf61ignv5hb1fc4q4l896zwkfmsrnlkw0"},
 {"v":"0.0.2","e":"^1.48.0","h":"1k0xqnbqs1xfr4xry09fkgm1q8fh307ajy9hsra3z4a1rgjbhfk9"},
 {"v":"0.0.1","e":"^1.48.0","h":"0mks71lg9y28ms31nd9gkrypxdfgflyz1vc50dr2dlfkib8pwj38"}
+],
+"sreetamd.karma":[
+{"v":"3.1.1","e":"^1.41.0","h":"0zg197bf7rx8h9xg9lzcaq67dhy2djvycygl3b5ffshg3zgh4c5n"}
 ],
 "stazottest0.auto-run-command-stazottest0-1":[
 {"v":"1.6.1","e":"^1.5.0","h":"1wjd8n6daqvgryd1pkxnpsb8wcmkii66q5873xz26mdbrdjwv0ip"}
@@ -1691,6 +1698,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1055nn6h8p2ak1gkkgypn2gilz0sfppkxlc17xywzzyjlqh78mnh"}
 ],
 "tomosuai.prod-free-tomosu-ai-vscode-plugin":[
+{"v":"1.0.34","e":"^1.98.0","h":"0k2w9rpy24smjv6ba0ql8x7rw52v25sdxd4aa1ilk4di1i9dflsh"},
 {"v":"1.0.33","e":"^1.98.0","h":"1xsc5q9zf05kqw3v6fi03k7a6fs333disi7wnwxjhsai16gn0w6w"},
 {"v":"1.0.32","e":"^1.98.0","h":"1rfsfl1r83gk8ns65dz6vcm6xr3nincx00vr95ccrd90z7lpb8qp"},
 {"v":"1.0.31","e":"^1.98.0","h":"0lp3gp9h56nq350870d41ikm9zn3hkmaqgfr8hzi56hdyppdjps4"},

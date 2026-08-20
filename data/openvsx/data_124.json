@@ -339,6 +339,9 @@
 "errlenscre.error-lens-finder-ex":[
 {"v":"3.28.0","e":"^1.107.0","h":"14wfpk7bbampdnxbj605lg0pplwssm26a66sddk6qpssxd3hiydz"}
 ],
+"feixue.feixue-openvsx-publisher":[
+{"v":"1.0.1","e":"^1.85.0","h":"0cavydzrizf5jd1anpzlaj5v47c4r1534rjjas286wlky4vj0mbx"}
+],
 "fernandojerez.vector":[
 {"v":"1.5.2","e":"^1.90.0","h":"1ka14zx9xi9ls2rmharwpnpin9ajmkip1r4bdiwqybzs1i5r5i1a"},
 {"v":"1.5.1","e":"^1.90.0","h":"168qavj4c2cmbgm24sh5rf1dxxg7lnvhqzyrinm8mk2nd03ksbwv"},
@@ -491,6 +494,10 @@
 ],
 "karacasoft.vscode-llm-extension":[
 {"v":"0.0.1","e":"^1.79.0","h":"0fh6zwpp22is6cmm4g3cq5lqz0pxya979jp6pdlphkihsjdh3bvc"}
+],
+"karthikdasari.port-flow":[
+{"v":"0.1.0","e":"^1.85.0","p":"darwin-arm64","h":"1cf1im4r5qfyg9z25zgjsh9vg2vdn5fkzlnrn0k4nas2ms5hm8qi"},
+{"v":"0.1.0","e":"^1.85.0","p":"linux-x64","h":"1zi2s764wn17kyncp391y7jifzcmnccsqvg1rv4q2j1qn6lvp4wq"}
 ],
 "kevinygc.animalese-typing-sounds":[
 {"v":"1.1.1","e":"^1.40.0","h":"11f47q384vm9sxgsxlisgwwwfsk03vf39cw2b4z8l9nq182jsgf3"},
@@ -1421,6 +1428,7 @@
 {"v":"0.15.0","e":"^1.45.0","h":"0jc334jksfhd4pa9qpki6xqsn6hlbi7a8rxrjc5lnr1w21vhdlsb"}
 ],
 "tokiwa-software.fuzion-lang":[
+{"v":"0.99.0","e":"^1.67.0","h":"00lxb6rxji89p2dxy8rmahffckd6f5rg1xicsgnjv3draa2x99l2"},
 {"v":"0.98.2","e":"^1.67.0","h":"103212a2xf6zldnhzpz5nasndrzp4im16ldgpd0glrdilgghvhhv"},
 {"v":"0.98.1","e":"^1.67.0","h":"19hgd814d4al5cj8hmcla8wvxd8wxc24yir4cqwif9xxfd2q4436"},
 {"v":"0.98.0","e":"^1.67.0","h":"1a4cdi6bgzavi5dq8x1lvq3fn2m3j510xiahj8vfhy7visqnc47l"},

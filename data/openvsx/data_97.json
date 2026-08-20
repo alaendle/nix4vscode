@@ -32,6 +32,11 @@
 {"v":"8.1.0","e":"^1.74.0","h":"09wpripdhbhxyk4k3jmzcardnvxjf6j5z8l82yk1msy30lkyn31s"},
 {"v":"8.0.0","e":"^1.74.0","h":"14dwbn7ln2nwhi6x2qmwx98i6c005s4s6fayr52nsfs008iww5gz"}
 ],
+"ankushlokhande.guardian-virus-scan":[
+{"v":"1.2.0","e":"^1.85.0","h":"1q0myr4xxdqbcb99b3g9xnvh55zk45ybqdj2zksbr72nryxm5wxz"},
+{"v":"1.1.0","e":"^1.85.0","h":"0sdqssdsxykq6c6rdwdmz8z15hfi426djzkcs9d2gxvnd0yhwdxy"},
+{"v":"1.0.2","e":"^1.85.0","h":"0hbhng165i7b68wafx29c8v326a5cmlg8668ydhxx0i8xygz8hjd"}
+],
 "arabic-language.vscode-ar":[
 {"v":"0.0.16","e":"^1.0.0","h":"0fzhz7z4qdnqhjmj1kggvbndp4f75vb6z7a2kqir3lwc1i4qhyrw"},
 {"v":"0.0.15","e":"^1.0.0","h":"0f8agw7xj6pvk221nqhi68xpc2myanas8b3dvxm57hzv8520mnd7"},
@@ -121,6 +126,9 @@
 "build-useful-stuff.alt-navigator":[
 {"v":"0.0.2","e":"^1.80.0","h":"1sm4k9f873pcy8shk62iwf8qbr8xri740dyihx5driym5isf9rq1"},
 {"v":"0.0.1","e":"^1.80.0","h":"0z08jlasrcwsxrk686a5irakjrah3big16gmq4k1cf9qds5nmzlc"}
+],
+"bumkom.dxf-previewer":[
+{"v":"1.0.2","e":"^1.85.0","h":"080hirk83pgpsa485k19hjckap4crx0ishfspq2i9ihvim5zkf0n"}
 ],
 "chrisatwindsurf.csharpextension":[
 {"v":"1.11.1","e":"^1.84.0","h":"1rqd4rplahzzxwinlz4rig8j0kg3k5hzv9fli72k8y0r2hlfa2h4"},
@@ -1056,6 +1064,10 @@
 {"v":"1.0.0","e":"^1.80.0","h":"1h9sjm5xq8nxj57ijkqqqhvws660q2k84jpcbzsix1qk5hqbm0s3"},
 {"v":"0.2.1","e":"^1.80.0","h":"0wkcwzpp44i8xxbp0cp6byppwf7yjvjf6bw83q083gy3j4i4xazf"},
 {"v":"0.2.0","e":"^1.80.0","h":"1l6nmivaqb8c66q9s0b2ksrdcgvnbm51dn1ss5g6c94zfjhd883w"}
+],
+"pkgwarden.companion":[
+{"v":"0.1.1","e":"^1.96.0","h":"0zdsg99ca0k2b28zyvahlafy8af875s93dff0simvmnajiddkhhf"},
+{"v":"0.1.0","e":"^1.90.0","h":"0c47in3wki26fdr7sdf91dh6sz6r08h7fzdr86lpjlm4ywkx2d98"}
 ],
 "polygram.polygram":[
 {"v":"0.5.0","e":"^1.85.0","h":"1q8rp4hx9ysqnj31fwqxc7svcf5q5maj0a9mkm4c57djd1xx9hy9"},

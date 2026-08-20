@@ -502,6 +502,13 @@
 {"v":"2026.1.0","e":"^1.107.0","h":"1sizx7xr92bc31fz4xbz69pflnhzq0lkwsxmz78yaaaisnxc3bi6"}
 ],
 "nimblesite.basilisk":[
+{"v":"0.41.2","e":"^1.99.0","h":"0b04yrwpm5jvszkxi6hjkhglp2inp8bdn1bycyf2qs5fdjl205am"},
+{"v":"0.41.1","e":"^1.99.0","p":"darwin-arm64","h":"13h7l4xskhg0g39i2z76jx8ikda8arxpbi3cllk29sib57m9d3pc"},
+{"v":"0.41.1","e":"^1.99.0","p":"linux-arm64","h":"0vdyrjkfflszc46d0l4xvpw7841jjrlj1y7iy2y68kvb8j5fz60b"},
+{"v":"0.41.1","e":"^1.99.0","p":"linux-x64","h":"0a393ck8rzh8py203r3f64dqz11cxiwmkx8kdv1wzmvr6p9bpjzm"},
+{"v":"0.41.0","e":"^1.99.0","p":"darwin-arm64","h":"0pzlchliyi5c2aw9fqzgqga39mbnclsnp97404vdi5gsdh8dp0la"},
+{"v":"0.41.0","e":"^1.99.0","p":"linux-arm64","h":"1zkrzh2jq078g99wc4yydvlxzgjk6bljaa9d91a612y7mdng2wcq"},
+{"v":"0.41.0","e":"^1.99.0","p":"linux-x64","h":"0kzn09p3dpl6cr5c6zmcf0qq24zvrvrj6j5zlwnzs6np053dsv7i"},
 {"v":"0.39.0","e":"^1.99.0","p":"darwin-arm64","h":"0bjh230chzrifa31wciw6d4ywib5s7x3qjf2b7mnjx78wkci9vvl"},
 {"v":"0.39.0","e":"^1.99.0","p":"linux-arm64","h":"1wx14zh06grl1y7wvr4nzpa93f3csk3brh3gi2x9pi0f1r68xr2l"},
 {"v":"0.39.0","e":"^1.99.0","p":"linux-x64","h":"1pd1znkgxd9fw4596kflf5q0f186xbr5vqc4sa8d9f5x3wqv31kw"},
@@ -651,6 +658,7 @@
 {"v":"0.1.0","e":"^1.99.0","p":"linux-x64","h":"19ym4q9jj54rvrp40ypjsbnzksh5ix5bdxdf08pd9522ypvddbv9","r":true}
 ],
 "novumstartup.novum-tracker":[
+{"v":"1.1.0","e":"^1.85.0","h":"04s34x1zw2r22ch1563y2yfjqxiwaf2sc2r47193i0lyla14mi7a"},
 {"v":"1.0.1","e":"^1.85.0","h":"00k7s3z4v0kqimz2l0nzx0n1qzy7r8qxbjc8mk66risy6xf6bpbg"}
 ],
 "ocamlpro.superbol":[
@@ -721,6 +729,11 @@
 "pkayokay.afterglow-theme":[
 {"v":"1.0.2","e":"^1.74.0","h":"0w9nsn4h7pl1agf42zdn3b10wy81pgavb42b0dz43pcja45cln03"},
 {"v":"1.0.0","e":"^1.74.0","h":"162gxa2w7pfzfh4cbxc09fxm9crqdqyc3r3m69hdykmy10fgy9yd"}
+],
+"pollux.gmod-glua-ls":[
+{"v":"1.2.0","e":"^1.100.0","p":"darwin-arm64","h":"0l99j23jqqlsfma3wdcdi0hnaxpp2c906grvpi05h7qz61dhcywx","r":true},
+{"v":"1.2.0","e":"^1.100.0","p":"darwin-x64","h":"1kb0ypb9253x23icv4svwagv740fxlkvid1k29lb6b543ymbnzay","r":true},
+{"v":"1.2.0","e":"^1.100.0","p":"linux-x64","h":"09lcr9dwlzr1n0phy2vk590wzi6j01z926figqrwa5b3xmbniq32","r":true}
 ],
 "puppet.puppet-vscode":[
 {"v":"1.5.7","e":"^1.38.0","h":"0v8wkl7iaf4ddlvsl8bwx34k3xnqvvxv4dl3mcr4ymybqnpn3w89"},
