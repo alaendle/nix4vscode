@@ -2181,6 +2181,10 @@
 {"v":"1.8.0","e":"^1.80.0","h":"1llhmhgqi2sz5xy2jyp9lfixa3xfnfjsivy31nc34b27jiylwqy7"}
 ],
 "embedder.embedder-enterprise-2f3":[
+{"v":"0.3.178","e":"^1.106.0","p":"darwin-arm64","h":"0kgg3kmabivy62m4j8qb9r0gmrj2jvazcrhymj2l5x2fssr4jr5h"},
+{"v":"0.3.178","e":"^1.106.0","p":"darwin-x64","h":"1m7yhlyq4wr141iyfdccl10qn5ic0ldnf44x3k0xxqg2fqd61gwx"},
+{"v":"0.3.178","e":"^1.106.0","p":"linux-arm64","h":"13gjy6hsxacs9hn36f26xmij0w7855qyndghrcdjs2zl2r8y4167"},
+{"v":"0.3.178","e":"^1.106.0","p":"linux-x64","h":"1x5kb2dya4912gphq93xspyhmrh0hqsw4x763ji9z7rh410i3g7b"},
 {"v":"0.3.177","e":"^1.106.0","p":"darwin-arm64","h":"01vgf74vjj0j7w8d6ax3lap3sf7vhbvqfv5z2nyh5n0r0pghw49g"},
 {"v":"0.3.177","e":"^1.106.0","p":"darwin-x64","h":"06iaadzcji9r94dv9i21mxa6464gi1acmvj53wh79bczsgqbcawr"},
 {"v":"0.3.177","e":"^1.106.0","p":"linux-arm64","h":"0f7nya10059rfgd2bi167shydzk5pgv00gf51w842ayycpccqinr"},
@@ -5859,6 +5863,8 @@
 {"v":"1.0.0","e":"^1.58.0","h":"1dpfsjvf2nhg61rg3p3dylgwm1vrf0j43054q1j3nxa4wlb9g169"}
 ],
 "moglang.vscode-mog":[
+{"v":"0.1.17","e":"^1.85.0","p":"darwin-arm64","h":"1qz82f8kr8h5f1z5k9z4vwnnbvx06b8a78bjdxd1kfl72ygx7ddx"},
+{"v":"0.1.17","e":"^1.85.0","p":"linux-x64","h":"1zd19n3s9zvljb711lhhnnanjp39ql73wjh0xzvy2fh3b2zb171p"},
 {"v":"0.1.0","e":"^1.85.0","h":"1c3jbb64lc5dql8088waspi5h566lgbzyggmayc2xqi4n1wg54cy"}
 ],
 "mohammedhasanfatta.mellow-dusk-theme":[
@@ -8334,6 +8340,10 @@
 {"v":"0.1.0","e":"^1.79.0","h":"0npy2pkjps53xfvdnz43jjda1vjk9d28c75gcsj5xwp4v0zjg0h3"}
 ],
 "tooltitudeteam.tooltitude":[
+{"v":"1.54.0","e":"^1.82.0","p":"darwin-arm64","h":"1vfqkw66mz2hmapd92icyh95jrgxdawkdj5rwlxlhz7kybpxbamv"},
+{"v":"1.54.0","e":"^1.82.0","p":"darwin-x64","h":"003kc8kz1n69i3rr47z68wm5mvzywvxpcnpmvb3nf16bfrvk6q2j"},
+{"v":"1.54.0","e":"^1.82.0","p":"linux-arm64","h":"0pjp95ga9fd42pynm3z3sam98awpl6ivfj5xxpqmzr3x2q7svk75"},
+{"v":"1.54.0","e":"^1.82.0","p":"linux-x64","h":"02n5m6k3lwgipm97w0pn392sg9pp9g6im60a9a2kyp1zk0vl40mf"},
 {"v":"1.53.20","e":"^1.82.0","p":"darwin-arm64","h":"13ydsnkpyixh621d0pygy0lzcv64j6vyxs4qgmqhgbjgfvw0rqk4"},
 {"v":"1.53.20","e":"^1.82.0","p":"darwin-x64","h":"0wazwg6yg9d97y62mfkmw92p5zldprxp1asdk3z3r5mz194csrid"},
 {"v":"1.53.20","e":"^1.82.0","p":"linux-arm64","h":"18rc3ccq43pqgcvc731hzn3cbvs0waqzhm96pxy8jaqn65g2sj34"},

@@ -823,6 +823,10 @@
 {"v":"1.0.0","e":"^1.80.0","h":"0yn28dgy778psla08d93gs0n6jcz0vbldim270p9b9h1ly22lziy"}
 ],
 "bitwisecook.tcl-lsp":[
+{"v":"2.1.22","e":"^1.95.0","p":"darwin-arm64","h":"107yi03na55jc6lxp9702f8m4bwg3a8646svcxhpmm6f7h3ffdqx","r":true},
+{"v":"2.1.22","e":"^1.95.0","p":"darwin-x64","h":"0638cjjaakhhn9irb3kxgbzzpdfzb6q4gp893f9a1wdf9h1l2gk1","r":true},
+{"v":"2.1.22","e":"^1.95.0","p":"linux-arm64","h":"1xpmzf78kr2fbxpx231p2xi2b54md20p8z6ng3mahr6p6dh8v0xn","r":true},
+{"v":"2.1.22","e":"^1.95.0","p":"linux-x64","h":"0ap39b9jf9rhmw9nmamhr6r7x8cq2fvkjayj9ki54553lx3cwgk5","r":true},
 {"v":"2.1.19","e":"^1.95.0","p":"darwin-arm64","h":"1cx7sjnvn9qh653fpqv66c0z46qaimra9mrlsypb72fdy2ppf7zr","r":true},
 {"v":"2.1.19","e":"^1.95.0","p":"darwin-x64","h":"1vmlg2jd5i6dniazh738jcpgm0bxf8kxmqiifbs0f7q2qr5lm0s2","r":true},
 {"v":"2.1.19","e":"^1.95.0","p":"linux-arm64","h":"0b5ihasjm148536s4f3qxlh6j2pi8w6j4byp9s8l5ymd27bd507w","r":true},
