@@ -2,6 +2,7 @@
 {"v":"0.4.1","e":"^1.80.0","h":"1xv6l9dx1ljn8q9ihpp1y3khn5d95fib0frvwmcmggd39dfz7jkz"}
 ],
 "aerio.aerio-code":[
+{"v":"0.0.8","e":"^1.84.0","h":"1xwh5pgd9h7lf274c85bw30zj9x8xqnv9na78lryx5zbzzgx6v23"},
 {"v":"0.0.7","e":"^1.84.0","h":"0bvb5nrqqrbsmjy84s899d992acblswiny1rh113wan5z8m2dxmj"},
 {"v":"0.0.6","e":"^1.84.0","h":"0bbs6j9aqrig62zl9w9dwwrvinzr7j3gmppgigxh282h74lyxa02"},
 {"v":"0.0.5","e":"^1.84.0","h":"0cwk6rnr1ijrqni59fsx1z71nsnh753hyamc31xcg8pw3078k4a2"},
@@ -604,6 +605,9 @@
 ],
 "fiyqkrc.opencode-vscode-client":[
 {"v":"0.1.40","e":"^1.65.0","h":"02k29mkvy1v3v0l9mais4gqxkan1zw5s0x0acw1m0gdbfplkzr89"}
+],
+"fxzer.shiki-markdown-preview":[
+{"v":"1.6.1","e":"^1.100.0","h":"0jyx4fy1nggzfamqnqvisd8vkz1kfsdld19sc762ni0j6b3yxkic"}
 ],
 "gguf.wrap":[
 {"v":"0.1.1","e":"^1.74.0","h":"0s5scpmf4kp80gw68lh0xpgcfmwwq0vpn5sf53i1c8h40w56nkib"},
@@ -6045,6 +6049,7 @@
 {"v":"1.1.0","e":"^1.79.0","h":"0xlwlx3sjp7bn549lawrmlgjy6xs5wrsg0qrb0vhamslfhac7y1h"}
 ],
 "rayeddev.markdown-appealing":[
+{"v":"0.10.1","e":"^1.85.0","h":"1gdy03l3n3zwc5gjljg6yzmvam4yxizqarn3syvn76lgnllv1gw0"},
 {"v":"0.10.0","e":"^1.85.0","h":"176wpv56l9xmjnibhpnrzsd0bjf4ys5bs83gfawg83ks7f9nv50j"},
 {"v":"0.9.1","e":"^1.85.0","h":"0xwzkvrg929scjvyz0v3kf9fx4fgxivl2sfczll5sag2qlc40bp9"},
 {"v":"0.9.0","e":"^1.85.0","h":"1rwa6m6hvv1l0g4zzirw4wmz15wydw1m2abr9hiiqlzr7zwabiid"},
@@ -6080,6 +6085,9 @@
 ],
 "samarth.clean-flutter-bloc-feature":[
 {"v":"1.0.1","e":"^1.107.0","h":"0qqxh71zyc0s8ma0h6ff772nkd6szwygar54kvzaz7g2r7a6m2b4"}
+],
+"sapse.vscode-wing-cds-editor-vsc":[
+{"v":"26.8.1","e":"^1.84.0","h":"0y3kgil0vzi3swjna4rv8jbsmn4vpqhprxzi7g2jxjr0jaz55jnb"}
 ],
 "savchenkoyuliya752.debug-auto-launch":[
 {"v":"1.95.4","e":"^1.5.0","h":"1dsxrhw0sw13w7vmnb1dfilyzp5dqfafxxp8vifid874iamy4qxf"}

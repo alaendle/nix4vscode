@@ -73,6 +73,7 @@
 {"v":"2.8.0","e":"^1.90.0","h":"1qymwxdjhpv2jv7vzgif5yqrgkdvrn3wxhzbh6558n15540xv7gf"}
 ],
 "auaggy.deslop":[
+{"v":"0.1.7","e":"^1.110.0","h":"1j7135rz62xwb5i10s88b526z0jgrmzckk2pac8mp6br726n04a3"},
 {"v":"0.1.6","e":"^1.110.0","h":"1i0r7frhbc5s0a3zncp11awdfkw6g54a5fb1c49zq4v9bxxvh3yf"},
 {"v":"0.1.5","e":"^1.110.0","h":"1wzj3xphd93aq3bbcfxydpya06wrpasjnvfrh46460ai7iwfya3f"},
 {"v":"0.1.4","e":"^1.110.0","h":"1yxb9lqkr4mwhhkks5vsnrpn42ggdismvxxg6rm5p56lq5701g9y"},
@@ -1047,6 +1048,9 @@
 {"v":"1.5.6","e":"^1.74.0","h":"0i479sxvsbbz1xj7lhc0gjap937i5fzw1l0aq0pl443w56ki4rg2"},
 {"v":"1.5.5","e":"^1.63.0","h":"0v8a73s9gx3760z30sfmqc444ak4mc5zjm1kakccp703v9a9mdia"},
 {"v":"1.5.4","e":"^1.74.0","h":"0mqx6n2kqrp49vkialfkj9w495lcvp5jw1yjlciw9dflbydr8gas"}
+],
+"palaso.sql-plan-visualizer":[
+{"v":"0.1.0","e":"^1.79.0","h":"0v45w413y4lnanj0m8pcxjzvwbiplqbcq5aiwgaa3b0xn44gxfd8"}
 ],
 "pcassidy75.tmux-integrated":[
 {"v":"0.3.1","e":"^1.80.0","h":"17vza413izf7vxhp0dmknc1dyhg21hlsfczrv80q4v4z1h1yn805","r":true},
