@@ -2117,6 +2117,10 @@
 {"v":"0.1.1","e":"^1.85.0","h":"0n89ji59vg5jf0z9qazm0bc6axw1x4y0ljg9wmjsvvd5cqflhr5d"}
 ],
 "devsense.phptools-vscode":[
+{"v":"1.72.19202","e":"^1.70.0","p":"darwin-arm64","h":"1hxg8qxwk41291gcr2xdjrihf34x4gj3556amplcc737ldjy7b58","r":true},
+{"v":"1.72.19202","e":"^1.70.0","p":"darwin-x64","h":"0jb0r7dc8vmad9gi3da8b1hc13l0jki71kja9rabqfbwdms9kpky","r":true},
+{"v":"1.72.19202","e":"^1.70.0","p":"linux-arm64","h":"1wd3k2s04hybb8ivd753wfd6jhc9k8m7bwg4ca12yfgg7a5n4846","r":true},
+{"v":"1.72.19202","e":"^1.70.0","p":"linux-x64","h":"0rm77rapcmvzngsl8bi2iyipybar1idwynh75mjh71aj2qcdfxig","r":true},
 {"v":"1.72.19195","e":"^1.70.0","p":"darwin-arm64","h":"0mlrxv7a9222wfxwflczinpn6rjs5kw63h3qywl1xf0acj6d78g4","r":true},
 {"v":"1.72.19195","e":"^1.70.0","p":"darwin-x64","h":"1wxzfkwl0kv56vaw9ndwrfdpgbr04b8aagkrsa123cbd2kgc6h4r","r":true},
 {"v":"1.72.19195","e":"^1.70.0","p":"linux-arm64","h":"06lw29jgdb8f0j4ki1aggpxj69vjw57g0l8a4klsdr0zb4x8cvaz","r":true},

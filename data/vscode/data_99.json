@@ -7642,6 +7642,11 @@
 {"v":"0.0.3","e":"^1.58.0","h":"128bp94gn1m2svza8wpnq30mgigx68rix8y1xpclc0brcv3v19mv"}
 ],
 "rust-lang.rust-analyzer":[
+{"v":"0.4.3026","e":"^1.93.0","p":"darwin-arm64","h":"1gyb03skprvc3zsj0r3h9swxdic23syf0lvxcba74i9vi35rxs6y","r":true},
+{"v":"0.4.3026","e":"^1.93.0","p":"darwin-x64","h":"0ddgzb12zjbasyhs5fp671jjay6rfk2kkjv7bsigiin3i7qpmy3h","r":true},
+{"v":"0.4.3026","e":"^1.93.0","p":"linux-arm64","h":"186137p0z3wq3s06mxf4py4bwskkaq5xza2hbs43gm35n373n9yc","r":true},
+{"v":"0.4.3026","e":"^1.93.0","p":"linux-armhf","h":"0jxf1s8l9p97d78dhg0ngrv2d8cxpw929kwpmcaa4vfy944z32ba","r":true},
+{"v":"0.4.3026","e":"^1.93.0","p":"linux-x64","h":"080jcj8hvl3whamlsdypck9sx6pbpilw7g0r5yxnj80l010jhwi4","r":true},
 {"v":"0.4.3023","e":"^1.93.0","p":"darwin-arm64","h":"1r7f2dlvgc4vg2ha2x7vnjc8a07r9bq8abcgxmgrd7q5061zg2zf","r":true},
 {"v":"0.4.3023","e":"^1.93.0","p":"darwin-x64","h":"0icd1z7rmq3lp08ksssglpjrkryyyscwbsck8446b3y2ass2xb5s","r":true},
 {"v":"0.4.3023","e":"^1.93.0","p":"linux-arm64","h":"0ibm3vsp7jvyzvakyz553pzjjv6vy8xgz62vysz3s9h2i376bp4i","r":true},
