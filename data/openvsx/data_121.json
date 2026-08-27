@@ -222,6 +222,8 @@
 {"v":"1.0.2","e":"^1.75.0","h":"1grl7yawi4q836mwk721ls95scx1lscgmzzpsgsk4rl0vndjdhka"}
 ],
 "edwardkim.rhwp-vscode":[
+{"v":"0.8.4","e":"^1.82.0","h":"0qz84ppq4dx904x1mw11s67jji88wyc83cf4vwhkj456kh8rlwc8"},
+{"v":"0.8.3","e":"^1.82.0","h":"0g07rv749vl56p9n2xfj50ppybry662ynp9f053y757wwpxrdibb"},
 {"v":"0.8.2","e":"^1.82.0","h":"16bg18s69q6f8yh1z4dp56ykssm7cj14f2bcrg4zc9c37gs3pb56"},
 {"v":"0.8.1","e":"^1.82.0","h":"0jcs43rq9qzd7vin82xbjmm6ln78qxd13gjpp975jbx8m824sfg0"},
 {"v":"0.8.0","e":"^1.82.0","h":"1gpr8akdqlsmv51var5fmp0p45cpg69gz28zmkiai8q7a60lxh3k"},
@@ -249,6 +251,7 @@
 {"v":"0.5.1","e":"^1.82.0","h":"0vprax2mqzl2644c9n2nnlfdylcx2bwc2440m0f4ws6d7qjm4a0p"}
 ],
 "eliostruyf.vscode-demo-time":[
+{"v":"2.3.0","e":"^1.104.0","h":"11y6xwf8ax2vf6hj7rsxwrv14lwv22cawyhw813184lrrc0cfjkl"},
 {"v":"2.2.283655576","e":"^1.104.0","h":"0sxjcq9ma59jidkg5lna7xkfdcrakqdx7cpp55c4dfgw4z74vv6w"},
 {"v":"2.2.281791905","e":"^1.104.0","h":"0cdbz4ykaxzzj41y2ggixmqzj88v9vh402ny5ngk7q3j8ba1zbpm"},
 {"v":"2.2.281771807","e":"^1.104.0","h":"19556bliipsdvs1lhx770wp3290j2q6va7bxcqx52a1q6cl01anm"},
@@ -655,6 +658,7 @@
 {"v":"0.0.1","e":"^1.104.0","h":"19ylph7l5393kwmiynblf5vk95y4rj911sm8xq917vc2im8zdikw"}
 ],
 "greenlight.greenlight-vs":[
+{"v":"0.30.48","e":"^1.85.0","h":"10jbgz8y42s231zrff0pvi8lp6y5i8sdv8098dkxfqq2nlh30vp8"},
 {"v":"0.30.45","e":"^1.85.0","h":"00xpzvmccr8r5g3x7k8w25gfky4d4y9v1k8l1p1zza6gybjpq4x3"},
 {"v":"0.30.36","e":"^1.85.0","h":"0dwxzrr7q7vmjggyrbblwpm2dhmykr829z93dnqx6pazh949l45d"},
 {"v":"0.20.20","e":"^1.85.0","h":"17m18gf3b51lc9sfb51rgcmr88acipm2z1yixmdf1l5di8w6r9p9"},
@@ -899,6 +903,11 @@
 ],
 "joshuathinks.primer-ctx":[
 {"v":"0.1.4","e":">=1.85.0","h":"07dmksjyy85l0g0fl9s7bwpxs64jg280d42xqq165nng385qs8qi"}
+],
+"joygqz.vscode-dsh":[
+{"v":"0.2.0","e":"^1.125.0","h":"01cj6h371mr0hbx5s25g5dmk0jr9z60yijiq531zfbla3p5iblc1"},
+{"v":"0.1.1","e":"^1.85.0","h":"0829wg7k93z2vk580lh25162p7339qfl9694zqsaqkvfrfrzayqk"},
+{"v":"0.1.0","e":"^1.85.0","h":"002qwghi1gfm83lm1f7vahmb8ir2zhqkrfa9jlpz5skxgq1gijrx"}
 ],
 "joynulabedinshokal.token-eater-dashboard":[
 {"v":"0.4.3","e":"^1.92.0","h":"0n0krk9m09ayyx2715lz3axpgz6mlifybix2cc16rkyswjil136r"},

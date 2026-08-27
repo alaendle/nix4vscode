@@ -1,4 +1,5 @@
 {"1814784429.wmeimob-aliyun":[
+{"v":"0.18.2","e":"^1.74.0","h":"038iqrq8hmaml56n67w1i3h8273cppj5v8fy0fvhhnfhfxcr4x72"},
 {"v":"0.18.1","e":"^1.74.0","h":"181z12m5c1h1awsv7rjdx15qpr16yh9smxa4zxbsmn2irk1kij7z"},
 {"v":"0.18.0","e":"^1.74.0","h":"174iifkmdf3k5yhgnwh9prnbhv9fldmlzxrnjyw2wf923m3x1fkf"},
 {"v":"0.17.0","e":"^1.74.0","h":"1hpc0kwkz2l4plgfp2rv6zkpxvnvkljwi36a2cy7my06qq8api49"},
@@ -267,6 +268,10 @@
 {"v":"1.21.1","e":"^1.91.0","h":"0lz7zzmsixmg4zr5njdww4211niddqw03a1i5siph4qs7gb23c59"}
 ],
 "codescene.codescene-vscode":[
+{"v":"0.28.0","e":"^1.75.1","p":"darwin-arm64","h":"1w1f7dcmz95nbm5afyacwyy7j4xn5f6hfsb10mdzpg40qs79gdpa"},
+{"v":"0.28.0","e":"^1.75.1","p":"darwin-x64","h":"0z8izz3cvnk9nx91dzyrdbwac9vrj95210fba2yc5p9h6dzchawr"},
+{"v":"0.28.0","e":"^1.75.1","p":"linux-arm64","h":"0y8g6d4i1nsmzxnj18v8nry4rcq4jimxdmkypqfpisisggq3x4jn"},
+{"v":"0.28.0","e":"^1.75.1","p":"linux-x64","h":"1bcgggbdc1b0894nhkambmx77vc6g8jfakls8i8004xiw9zl464x"},
 {"v":"0.27.8","e":"^1.75.1","p":"darwin-arm64","h":"1p6p64b2xsn7r4580n665qfr7w9mcw237l73wl3msacmdpk68i2g"},
 {"v":"0.27.8","e":"^1.75.1","p":"darwin-x64","h":"1kgfnzj00i1b99qpjyph5p0fv3hzwa66179yxw6yrfysbpncdgrv"},
 {"v":"0.27.8","e":"^1.75.1","p":"linux-arm64","h":"0z81rncw8kppn1j3zpkzq2rwiqzqdzlcbdkbkcxcc7c0vgsbnzy2"},
@@ -432,6 +437,8 @@
 {"v":"1.0.0","e":"^1.96.0","h":"0iiqracn4yd6v6jix1gy7qd11ds7m63xc7cax6valy9c3ybr9d6h"}
 ],
 "diabolo-68.openedge-abl-properties":[
+{"v":"1.5.0","e":"^1.85.0","h":"1072z5q1j99hyifjla4nx24912w0nyycdspx3ikhx7phlrkx4sva"},
+{"v":"1.4.0","e":"^1.85.0","h":"1yin7y1qdwifw9d1axf39f7yqbpq77m90h85wd8yzyl4x4y3c6sk"},
 {"v":"1.3.0","e":"^1.85.0","h":"0glh387pdw7kd5m22q8rglir4763bim4d68g1cyivsynbbpi5acm"},
 {"v":"1.2.2","e":"^1.85.0","h":"15d4jhhahaiggmzb833f2bp472bwp387s5yqbk3p5cgmv8cbv9qr"},
 {"v":"1.2.1","e":"^1.85.0","h":"1r7qn70x1plpcc5wchqi8i1lczl14vzasnz9ihnd1r9cyjcpzy9c"},
@@ -1809,6 +1816,7 @@
 {"v":"1.0.0","e":"^1.100.0","h":"0i7gwyp71gg25xdiv125frvjni9rk0s3i7b8fq69kpznl85ls2db"}
 ],
 "xygeni-security.xygeni-scanner-vscode":[
+{"v":"1.2.9","e":"^1.99.2","h":"111lanvlby0m0w73s5ihvl7p913y02kh37gyvbid6sc2yk38iw1s"},
 {"v":"1.2.8","e":"^1.99.2","h":"1jdsh8vyy41c3psd8cw88sjdz548mb3gdcscplzm9a84149ycb5r"},
 {"v":"1.2.7","e":"^1.99.2","h":"0nq3vfd4499l3ijlb51vw3j09bsxjdb901czmaa1pr83lc3i2ig4"},
 {"v":"1.2.6","e":"^1.99.2","h":"11mn7hq66rs2z2543hlhxhzz5zd43cm9b0xg5v69rwihsibxx2zd"},

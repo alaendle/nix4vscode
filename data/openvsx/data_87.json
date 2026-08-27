@@ -496,6 +496,7 @@
 {"v":"0.0.1","e":"^1.74.0","h":"069mxmkrws93pzajzxbnryvzxbhjmpc1rp6nc3cwmqd1lnjlr13s"}
 ],
 "codertesla.wtf-commit":[
+{"v":"1.19.2","e":"^1.75.0","h":"0bghvh0xwla3347l1yss3izbkahr2863152pm6abmma4s8cqdgrh"},
 {"v":"1.19.1","e":"^1.75.0","h":"0cbb7rz0cj3rq5dnilvmls4icah7mybcpvd50zl29yrxlxrn0c8d"},
 {"v":"1.19.0","e":"^1.75.0","h":"0vgfms19bh0b4bqqb4x5rkraar8hdm6dbsdzmhj65gcmgq7qbfsk"},
 {"v":"1.18.0","e":"^1.75.0","h":"13m7vgqg96vai0fcclyqkhj2d1ggzngrrvp61plz2gpsd8a5653h"},
@@ -680,8 +681,10 @@
 {"v":"1.0.0","e":"^1.85.0","h":"0jsbwqxixg50dlm90lg145q09h80s2rdjhwpxxkkbvz0zlfh8iyi"}
 ],
 "epmworkbench.epm-workbench":[
+{"v":"0.3.2","e":"^1.92.0","h":"1z3kf6ggd6k26r5vn1fx98kjwv4ci5qygi6z4ymsa8vr7vk6rrwp","r":true},
 {"v":"0.3.1","e":"^1.92.0","h":"0camq3lkvrfy9nag54llmxnrr9l83grqqg753zfpc9bhz2k3vvrv","r":true},
 {"v":"0.3.0","e":"^1.92.0","h":"0hwswa3jxqygjsqmd65cdw7cg1pvy4c9g9m93ifhdhg4kjb1wnwf","r":true},
+{"v":"0.2.2","e":"^1.92.0","h":"1ah4699h5mvw928y0ll4260pprgwckmw4qaqi2x7v47x92mzq71i"},
 {"v":"0.2.1","e":"^1.92.0","h":"0cyy9yx1ifv9hya79k4ps0lp7w5jn7byv9mbnbz91m6slvhmi448"},
 {"v":"0.2.0","e":"^1.92.0","h":"19iz80iy8xa2g8d3p7rjsr6rlgzz0v3asdx6wml7s5h89k7l6bq5"},
 {"v":"0.1.7","e":"^1.92.0","h":"1w4xgqlnvqkhzasxczds9216ywsyjyz7b7ql674ykkg7ryjs42hv"},
@@ -924,6 +927,7 @@
 {"v":"3.25.3","e":"^1.84.0","h":"06js4fkx0alaak2p75rxrfkdfj2c2yw9d9lsmsv2qbab0kg8qvl6"}
 ],
 "internal.ebike-ai-plugin":[
+{"v":"1.0.55","e":"^1.99.0","h":"0pp43gppiqjyyfwq8wckk8jimvb25xw26kqiys1jq5smxl01qjiy"},
 {"v":"1.0.54","e":"^1.99.0","h":"03lsij75ky6ni4pb8mm0wbg7l8fzjljymdybbafccqixs8i19ngp"},
 {"v":"1.0.53","e":"^1.99.0","h":"1fx1w0wgvnwzfs54vr74csc5jivh36vsk28dgs0xkbrwhbgz526g"},
 {"v":"1.0.52","e":"^1.99.0","h":"0bvahm4b39zyc2zrffgx0hv1kcf4qcklpplsb2d2zy2shkxacs0z"},
@@ -1225,6 +1229,8 @@
 {"v":"1.4.0","e":"^1.105.0","h":"16nv8c37qzmp374sf2iw4gm91b8x0xw7jrjb79b0v5dfqjm1md6g"}
 ],
 "neural-llm.power-claude":[
+{"v":"3.0.140","e":"^1.80.0","h":"0nv9r24sy1mnm1vx8mr4dgl5k8n2fz903xl6x78rdgbsw0x2vl34"},
+{"v":"3.0.139","e":"^1.80.0","h":"1i84xyj11br4xj8nlkc66ivbypp3lhpl5d29p6qqc6n9kj0vn909"},
 {"v":"3.0.116","e":"^1.80.0","h":"0mr4cq6ly86vj8gwgxh0h61w1i16msya91zdz4yr9g8bhpry4hwc"},
 {"v":"3.0.108","e":"^1.80.0","h":"194hy66bs9cqn9ac9ifrghjh2g5i3zi0lrgmi3i14r84jhg34gzq"},
 {"v":"3.0.107","e":"^1.80.0","h":"0wss125hpr59f559wm405zil9p3dd5s13i0z3q7vxdpyqywkb804"},

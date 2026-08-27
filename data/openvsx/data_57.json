@@ -574,6 +574,7 @@
 {"v":"0.0.6","e":"^1.90.0","h":"00vplb9xq7amd6l72aaxdwi8mv4jl62llzyh1fywkqnhvgqyw6k5"}
 ],
 "harehare.mqpad-vscode-extension":[
+{"v":"0.2.0","e":"^1.90.0","h":"02ww3dj2dagpk71v60ak6j4zaz6p1wiqj4jhhgd1jslq0lp3k6si"},
 {"v":"0.1.5","e":"^1.90.0","h":"1hnwh142xkppqkymv5qagn831p6kjzcnqixjjkwl1wx69w3vv1rf"},
 {"v":"0.1.4","e":"^1.90.0","h":"0frh7lz7imiw72q7ljb291l82fi90jhz2q0l02mldkvxb1ckg7l8"},
 {"v":"0.1.3","e":"^1.90.0","h":"13ljf9ph57hw6zzbv4i0cnnp73vcmf1i8fmchpa72lqzpn8677r8"},
@@ -1053,6 +1054,8 @@
 {"v":"0.4.1","e":"^1.104.0","h":"0qrdg409kmzzj5ddda41qm4hd7sgv1c93ccfz34d2431rlhn9za1"}
 ],
 "ms-ceintl.vscode-language-pack-cs":[
+{"v":"1.131.0","e":"^1.131.0","h":"0y94srkbwb96mszd3zrskicn66lpbkfihgcqa2gmw4ihqsggxlyh"},
+{"v":"1.130.0","e":"^1.130.0","h":"1957krilm7wpsw8r8r2amm6a64xbr1h5zn7wlbcs8wdb9kdvnqkz"},
 {"v":"1.129.0","e":"^1.129.0","h":"19fs8r3h1k5xp3953vrc9d0mzc1z66vckfsb8hvnzj61iygd3s2s"},
 {"v":"1.128.0","e":"^1.128.0","h":"0vvcqblk9sina1fivpi02xd4hsmwjihzrlbp6srnjiz1xqgn9mrg"},
 {"v":"1.127.0","e":"^1.127.0","h":"0ah321cdjvxw99096a2wqxdbi3zrh5h6xaq8arym1gjpgzr9hk3x"},
@@ -1235,6 +1238,7 @@
 {"v":"0.0.1","e":"^1.94.0","h":"0yypqwdp2cgsf8ay40y2sv5nhvvgph0ycm7f6b268qqp1g883xg7"}
 ],
 "nex.hive":[
+{"v":"1.1.0","e":"^1.90.0","h":"0a5a7lhzq2yclpqya3phcw1kxa5fzd3mgzfjz2sp965nfr6w47s9"},
 {"v":"1.0.0","e":"^1.90.0","h":"0bb12ndmj9cxwvplx9fbbbsw6x85hk5zc8jfwsp7hzkm7clg2whz"},
 {"v":"0.0.3","e":"^1.90.0","h":"1068p1clkicmy7nnmb7caam6ahbv25h588h7zxs3ky2aa2abpj49"}
 ],
@@ -1556,6 +1560,7 @@
 {"v":"2.14.3","e":"^1.88.0","h":"0yayxnc27mwr01bzh2mhn6q7rq0rz6acg7391nyadlz5p3rgagw3"}
 ],
 "the-long-ride.vscode-extension-markdown-explorer":[
+{"v":"1.6.6","e":"^1.85.0","h":"0l7spmikqhlgpxyrqscpa1mrrjmvrvmn5b30yygyf6d1k47f8b1x"},
 {"v":"1.6.5","e":"^1.85.0","h":"1pqjm78ggih3lhibv1xwc3bvln0hkqaji79q3nkc6z4hfsk8dbsd"},
 {"v":"1.6.4","e":"^1.85.0","h":"07kkk51j7y7ji6pppjgnlr3n9fjg6m530fp0ls5zczb7k157ahkb"},
 {"v":"1.6.3","e":"^1.85.0","h":"0kg8bcprdbgph0i7hyxgzsbv75vfv472r6ysh0gp517ppmz1k8sg"},
@@ -1611,6 +1616,11 @@
 ],
 "visadev.viza":[
 {"v":"0.0.8","e":"^1.105.0","h":"1gsvgf46qima5ilkrr2pnbq37fz5g2n54cv1igl4g477ip53dgl0"}
+],
+"vkrishna04.dev-prune":[
+{"v":"0.3.0","e":"^1.85.0","h":"03lpy6qn53vi5zv94wanji1d0grfb9z2nbw8h3v606rjjqihnvp2"},
+{"v":"0.2.0","e":"^1.85.0","h":"1swzjnx9dsfmhnlr32njhddgpyc88w3fjf2hxhv191v5fyzddj48"},
+{"v":"0.1.0","e":"^1.85.0","h":"1kagvs2rld7i4fv31w7m0jb1kc6n8b19jpi1rdrc1dimjknl2gwr"}
 ],
 "wafer.wevin":[
 {"v":"0.0.5","e":"^1.90.0","h":"07bqmyx285qng0bsk3vgh5wq50x7cnsdczkgb6bc6hwkvwrkplnp"},

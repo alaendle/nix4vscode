@@ -82,6 +82,9 @@
 {"v":"2.2.4","e":"^1.46.0","h":"1jpdbrxqgsg2axdrcsylwy099knfmxikk2hn8plrkr6g6j0s2q4g"}
 ],
 "arisngoy.intelligit-visual-git":[
+{"v":"0.14.0","e":"^1.105.0","h":"0810khp6q4j8b2bc4pnhmvmx7qls96i439ij2m8yskj757jd6w9g"},
+{"v":"0.13.0","e":"^1.105.0","h":"0csqgg6fjyn75bac2wylw4vm2lzfgzx4qiz5b4kc0ql2bmfniapp"},
+{"v":"0.12.0","e":"^1.105.0","h":"0bi191ipic8ldn7xm1bc6580kpvxvmzq9n0v6w7mz7cxjj9a93kn"},
 {"v":"0.11.1","e":"^1.105.0","h":"1saq6pi5bq0pfzjaj6i78d2fnksj1ns9amjg0kakk7hs6fsclh4l"},
 {"v":"0.11.0","e":"^1.105.0","h":"0hjy02qqliqbscm6ar3kkmbsppzjd7swb5zi6r8wis530hhwi4bd"},
 {"v":"0.10.0","e":"^1.105.0","h":"14pbvmd7dy7lxz69gmy505bi4x3hjnng7a92y1q6jn3di9l8cysh"},
@@ -269,6 +272,7 @@
 {"v":"0.1.3","e":"^1.85.0","h":"0ha4b921wwy2d3ga7ivr3vaj719mcxcccy4c30cx4kv6kim1hj2q"}
 ],
 "codigrate.cod-autumn-theme":[
+{"v":"2026.1.20","e":"^1.90.0","h":"1f9wi0j6ry5sckkhp0yvn7vn8v34vs20vk9lrdmkrk0lvm4a0bl4"},
 {"v":"2026.1.18","e":"^1.90.0","h":"1j50kk11yn6scfl2gn9iwln1ys53hn0hjj8h94wdnkzz744wx51p"},
 {"v":"2026.1.17","e":"^1.90.0","h":"17v9pisv7nrfgppif4v7mraji1camgw6581m9npbqcnz4aqlf2vv"},
 {"v":"2026.1.16","e":"^1.90.0","h":"0y1fc7wmv1x5s1p0j8k9gj4zq54rn1x35a9giyvg97dpswvilyb2"},
@@ -506,6 +510,7 @@
 {"v":"25.7.204","e":"^1.73.0","p":"darwin-arm64","h":"0szfgksvshvmwrsaqs4p38nxsc27lpawjfld20v2c2msykdnaw7h"}
 ],
 "ironplc.ironplc":[
+{"v":"0.240.0","e":"^1.75.0","h":"1n2l6pzvbgymx06cz9xm21d0qv27gxqnrz17s9k64l9w564j7qlp"},
 {"v":"0.239.0","e":"^1.75.0","h":"1mxj13k9nwmaf5xdx5g0r12rnihc4gz4zzrdlmcdh8kwil23f48w"},
 {"v":"0.238.0","e":"^1.75.0","h":"0f8hl0303qfhymd4lgl10gg8gzmwk2k8nw4xp6wvzdxh9dh5yzmw"},
 {"v":"0.236.0","e":"^1.75.0","h":"1hcvb2ramci6d6v9lcgkbh70gfinn4nffi8n6fpi4b623y85026b"},
@@ -608,6 +613,11 @@
 {"v":"0.0.6","e":"^1.91.1","h":"1x7gscq50m1zh4ixzwh6aw89v57qwxmfbl40gkxxmk1s298c8h6f"},
 {"v":"0.0.5","e":"^1.91.1","h":"0gw03zcgmryrzqaj1yd1wx27vi9zfcjgjy78ha1z27xy5qq7b3zg"},
 {"v":"0.0.4","e":"^1.91.1","h":"1l2wd3af7pfvvkwhg7c95f6q5cr11jg6gjpvj4c38427sxh0psm0"}
+],
+"leoustc.remote-agent-manager":[
+{"v":"0.2.6","e":"^1.90.0","h":"1c00qw10damizsf93431q42cir18h0jh7rw6bp40b6rdnfv1iahh"},
+{"v":"0.2.3","e":"^1.90.0","h":"0da33n1a55rbrcsq6i6yfhfdggl8ikpp1bl7mkfk3f80dqxwxhvs"},
+{"v":"0.2.1","e":"^1.90.0","h":"00iisrip9gs2k9ym6wzh9cpbxin8xlgbv86hm0pyrl66c2q9m2vj"}
 ],
 "liana1036.vscode-boot-dev-pack":[
 {"v":"0.2.3","e":"^1.26.0","h":"0zy852wzi4sb41bmrmb4sm1z2mnazgqni8z6v5035zjlzms6jbq8"}
@@ -1326,6 +1336,7 @@
 {"v":"0.0.1","e":"^1.75.0","h":"06jnn2f5ylqdaz1dc93rjsy125d8vm1z311di557fc1s96fwyf6s"}
 ],
 "temilolaolowolayemo.prism-vscode":[
+{"v":"0.4.8","e":"^1.85.0","h":"1plrzvm8jb8ryjsdh5s3szgglm0lqigqb99grvibqss216ixpnbx"},
 {"v":"0.4.7","e":"^1.85.0","h":"09lpirarxhz1bynsi6kx1zl3mji12hf46vysvs2wxcx15gph2gmw"},
 {"v":"0.4.6","e":"^1.85.0","h":"07605myiznkszhivjn08xlj804mdzgjv1878dkwdq1s2vikl31qc"},
 {"v":"0.4.5","e":"^1.85.0","h":"0ivyfid7mmi4x4nb0v92dr7mkksygs87lnbxpmpkh88adpkysn65"},

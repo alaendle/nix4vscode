@@ -37,6 +37,10 @@
 {"v":"0.3.4","e":"^1.96.0","p":"darwin-x64","h":"1nbswsgc4lx8wm80jjrw7qpz3h6aqzn1xgdhjfjrlcjl1dbc1439"}
 ],
 "aergic.artizo-trae":[
+{"v":"0.8.1","e":"^1.85.0","h":"0y3q212b6fbgkg9nbbzb0gjvmcqh7bhcfaiiz98rlkiaiz3p98n8"},
+{"v":"0.8.0","e":"^1.85.0","h":"0fyspffqh04lcww6v6lk821zs8462ymb8y05jn9map02cynzf742"},
+{"v":"0.7.1","e":"^1.85.0","h":"17adm9dl1b6a14jsyvnclzbcj3q1kbp6pzkssv0bw3y9xpahh28m"},
+{"v":"0.7.0","e":"^1.85.0","h":"1k91r88z43bpp5lflrrha6d4l1gvz5jxngljpghg7jv2wp6jhxdb"},
 {"v":"0.6.2","e":"^1.85.0","h":"1xvvk6f4nwinbq9pybl0k6jwqb9l8l5raalxajb7albmj830f2ww"},
 {"v":"0.6.1","e":"^1.85.0","h":"1mg87fnsxvphcy0lwg8db0hw238p54d9w6aiajjcva755fkgf253"},
 {"v":"0.6.0","e":"^1.85.0","h":"1fa9ch108p7yx4j10cpgska85yq48i438xppxxw1gp6zdr8j1a8m"},
@@ -264,6 +268,7 @@
 {"v":"0.0.1","e":"^1.74.0","h":"1z93fgj8aw17lr6scgbk9v3ans8j21jqhrvppxwxi79m3ilidq0h"}
 ],
 "giancarloerra.socraticode":[
+{"v":"1.12.0","e":"^1.99.0","h":"0vc9zaqg956cagxz4iqv14w38fq6azfvdfrfkhp0ghwd5xvp8cm3"},
 {"v":"1.11.0","e":"^1.99.0","h":"00f1nvrh1ijv0k5nw7w5l088zsf9kh0rh8acbvvhvzxsdv8c2p5l"},
 {"v":"1.10.0","e":"^1.99.0","h":"063zigm8l2v575z861qsiihpcfgcgakan4ghaj6swvqxvgcfm38l"},
 {"v":"1.9.2","e":"^1.99.0","h":"15yrkhwxa6fzniwjwirl2pcywlpjhlwwm3l0gbb9j33arn6qy31n"},
@@ -1187,6 +1192,8 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1v0f4xf933jrxq2rgxd8cfa5icx8gqi1h4qqp057qy4i1d0kgivq"}
 ],
 "paularlott.knot-vscode":[
+{"v":"0.1.15","e":"^1.85.0","h":"1kwksfwd6brz8fybq1wvbb98flg5ki9npgc7cw0b6mwa8sb4m4rh"},
+{"v":"0.1.14","e":"^1.85.0","h":"0bzv369lw4xsz0kh73jxx8imcpyz5a2n4nq45n90bpgjbr5fpdkd"},
 {"v":"0.1.13","e":"^1.85.0","h":"06n4jal948v669nvlm36fa0nqjk4bgzyp3kjzwcsm15vmxadmpxy"},
 {"v":"0.1.12","e":"^1.85.0","h":"0xryhw97lz211pv6mfx7qspvwyhsxxgfngv77734qnkksm2m7mpi"},
 {"v":"0.1.10","e":"^1.85.0","h":"0w38b0ckmks4237rn0qxdviwszwqsiqc37cl3b9ibpismn1yijfb"},
@@ -1713,6 +1720,7 @@
 {"v":"1.0.4","e":"^1.30.0","h":"0981zn2v8sgn64x9v247q8fha849m0wv1s5dw4z5ain8gwhl2602"}
 ],
 "tuguidragos.qxlint":[
+{"v":"0.3.5","e":"^1.75.0","h":"0hjd3k35a8j9icqinlwagmp3lnhkfjvyzig92jjcdr7licrp1ssm"},
 {"v":"0.3.0","e":"^1.75.0","h":"0i7kg2ki9h0sw854ziav6plmdbik6vs111f3p3syagxd23vznfqa"},
 {"v":"0.2.0","e":"^1.75.0","h":"1xvnkr1rxwkypb6vwv2qhjh9qafcxjrq0dips496faa4amxcmc9g"},
 {"v":"0.1.1","e":"^1.75.0","h":"18khgr1d8chkjxrvhhqnp087r5fxcyg64z8wrh97rxv7q6zwhvqf"}
@@ -1838,6 +1846,8 @@
 {"v":"0.0.3","e":"^1.53.0","h":"0fyivyp55fhr6dkfdzri5aa4s1bvzxjaxadyp8w6lx5mzplvhmw2"}
 ],
 "willbot.orchestrator-vscode":[
+{"v":"5.0.0","e":"^1.99.0","h":"0vwd6gd7mm7m6jr08cr20n8mz1f44r6iv3am67445ds6gicnr13y"},
+{"v":"4.1.0","e":"^1.99.0","h":"1p2z10wg5qqmnpjsqcrgr2qdl933zpv6wi7zw5xihrkdas1x5lmg"},
 {"v":"3.0.0","e":"^1.99.0","h":"0yj16y3dkx0mf7iz62nnk6fwsjxc8vzc6av0xhw0083y5byir8x7"},
 {"v":"2.2.12","e":"^1.99.0","h":"10rdmai2rxj9jkq4a9cpc6zvdfpg4wz5bnrl137jn7hc2cvvcly5"},
 {"v":"2.2.11","e":"^1.99.0","h":"1warzadq86n18v10rgp0cviaingw2iwqlj1abbd1f1da4ypdshnr"},

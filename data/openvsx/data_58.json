@@ -257,6 +257,7 @@
 {"v":"2.216.19","e":"^1.96.0","h":"0ja47kcw02960pzfa2nsbjcd0mkbsh9zrbj8hqk8297cccpfy0p1","r":true}
 ],
 "chromamark.chromamark-vscode":[
+{"v":"0.6.0","e":"^1.75.0","h":"089xpmzsmb0dc1335l9k5mk84b5kr998lr3wm95qbq460vc77rcw"},
 {"v":"0.5.0","e":"^1.75.0","h":"1rinzhl86fy2scvxp4plvgx9i0xa6ic05bf5ml9x4pwvzaa28p6b"},
 {"v":"0.4.1","e":"^1.75.0","h":"03jjw18avdx69v8r7pbwcqz2hvbp2ij6pgijwh3d1c7skrm7d8wh"},
 {"v":"0.4.0","e":"^1.75.0","h":"0jnh7s0jq8p21q55w4m5v32h8ilacwpih5kn2ypznfdlqqxpl54w"},
@@ -411,6 +412,10 @@
 "fengqi-dev.request-inspector":[
 {"v":"0.0.2","e":"^1.95.0","h":"1kbw5n7lhv6kdimblmsx5id5hhrlsyh42hp2xmj8cymf1xvxiyng"}
 ],
+"framedparadox.vsgit-vscode":[
+{"v":"0.0.7","e":"^1.85.0","h":"0xvmxsmx1gmp9jlp9qm59l29ffs1dbc2szlfsaqk0izqr57h4g92"},
+{"v":"0.0.5","e":"^1.85.0","h":"1qylf85y96c5hpzb7y6cp5k6j9r8r2vc7a69kv9zd5g7aphzl1yy"}
+],
 "genieai.chatgpt-vscode":[
 {"v":"0.0.9","e":"^1.73.0","h":"0psx36z4xlv282jlckjgqa3jzq834hk0hdlsv35k2fll3y12wdqp"},
 {"v":"0.0.7","e":"^1.73.0","h":"15nzvyyfzpmiqxq248z3z0fx2fp16pr7kr07nc0yxhakaiqfybji"},
@@ -500,6 +505,7 @@
 {"v":"1.95.4","e":"*","h":"0v8jf3dsa78rf9lzcri6w891g7z07qsmn2h49dg0j8yvrz4vrv25"}
 ],
 "graphene-data.graphene-data-vscode":[
+{"v":"0.0.27","e":"^1.110.0","h":"0wkia7pvzpmj103249ly82ia9mmahgdq85qk6r64l49ls1qxqvzl"},
 {"v":"0.0.26","e":"^1.110.0","h":"0aly92snfjqrqfbba36d0hr3i2d4miv89b83zi4c7h4jn3r8ayfb"},
 {"v":"0.0.25","e":"^1.110.0","h":"130msg8y6ajhg0pdqfj01n38q0wwc639qh77rngqr7pb5w23l19x"},
 {"v":"0.0.24","e":"^1.110.0","h":"0mqqicrqawz35zxpjmskaba5myfsbr5hr2cc3fhp2hlfkmys02qn"},
@@ -580,6 +586,7 @@
 {"v":"0.1.5","e":"^1.104.0","h":"03ywhbyp21yhjbkgsdl56ij7yknzqzwn1gzkx7ybbn5pdfpwxkj1"}
 ],
 "jinvim.vscode-zotero":[
+{"v":"1.4.5","e":"^1.105.1","h":"0vx5hacadcpidbabcqfnvyx12hqdwmkzbdccxq9gvvgavfin521x"},
 {"v":"1.4.4","e":"^1.105.1","h":"16lfhybsfpcci65b8b0pi2dprbhkim3s8sdq76qzxcpaixxkwbdx"},
 {"v":"1.4.3","e":"^1.105.1","h":"0l4zlklphv3kcbqh4jnipgv7hwjsrkf2p18lx045m5wqg8qhvvwg"},
 {"v":"1.4.2","e":"^1.105.1","h":"1rhmph22yb6055gia2kr8646xls02vlqn641pc8l34b0y7hp37lq"},
@@ -807,6 +814,7 @@
 {"v":"0.0.1","e":"^1.74.0","h":"0a2gin2icc0m1sqwi2ik10jyz1524a7p2jd7h14r01i84md6df8q"}
 ],
 "mopsgamer.dracula-highlighting":[
+{"v":"0.3.0","e":"^1.70.0","h":"0vcr0y6z5yrcqh6l8lpq38pygcrr5yqbfzg2292180w8p3mwq062"},
 {"v":"0.2.0","e":"^1.70.0","h":"0cf2nv7fqny0bvkpj0pxvdj5zlbwp49hzhyhay89xiyc0m8g083h"},
 {"v":"0.1.0","e":"^1.70.0","h":"1bz8qmgrlgsngmy503y9y5iypjnfcyrbmadgp5dkdcxv4n823cwp"},
 {"v":"0.0.4","e":"^1.70.0","h":"1jxzbk8jga570l8z9ll2dag6m7hhwbwpwgxkfxrjbfm1nn0mbcj9"},

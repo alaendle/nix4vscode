@@ -104,6 +104,10 @@
 {"v":"0.10.0","e":"^1.66.0","h":"10a7wrp4gxjz83g0fkvsa5mhdli9kk3a9535lr1n1yqpkrmkz5ff"}
 ],
 "boundary.baml-extension":[
+{"v":"0.226.1","e":">=1.63.0","p":"darwin-arm64","h":"0cbh2wamw2gi0mvyhziig12hd6hbyypal165f9vrn6j3d96njcw9"},
+{"v":"0.226.1","e":">=1.63.0","p":"darwin-x64","h":"1jhlzwdai9l4kym89dz8ps3m0pv4zdv7m8m670ljab8bj6hxa8jj"},
+{"v":"0.226.1","e":">=1.63.0","p":"linux-arm64","h":"0n75c2swa44lmhzjzi9kn96f009adz2i754jjg6ypj35n29jc3ag"},
+{"v":"0.226.1","e":">=1.63.0","p":"linux-x64","h":"13b6vw5vmrky0nl5g2ic9plpd0i6ni9xpq3z7ri8vmkn9i3ym9yk"},
 {"v":"0.225.0","e":">=1.63.0","p":"darwin-arm64","h":"1bcqjli2vr4hszfbb91zdk9dvnms2m4377n27h8k37r9bjm46dd2"},
 {"v":"0.225.0","e":">=1.63.0","p":"darwin-x64","h":"1g066q5hry09amq06xz7c4p4ryan4hwimpbx0bq3v3jvpaszllcw"},
 {"v":"0.225.0","e":">=1.63.0","p":"linux-arm64","h":"1lsvry2ycb8l54c2rpdmwidlwak08wz52drkh7688srf815vr3jf"},
@@ -740,6 +744,7 @@
 {"v":"0.23.2","e":"^1.120.0","h":"0fa9r5rak7hmx7q3j36c3rm8irqyz67vx4xpwh39l61bh40a65y2"}
 ],
 "kushagra.flow-wing":[
+{"v":"1.0.10","e":"^1.52.0","h":"1m37qmfzd118yb5nmp3mszl0ccxg9vs4hidh25cvqskhh1cb1imi"},
 {"v":"1.0.9","e":"^1.52.0","h":"1fpsg2fhlphjhaczck39kjv8c938csm05v3gak9h76f3vslc63km"},
 {"v":"1.0.8","e":"^1.52.0","h":"0nqm0kcz66l6w1k30bhdglz1sbgwc1s24j5dk7s360xzdkar42ql"},
 {"v":"1.0.3","e":"^1.52.0","h":"145s7lvnfvk698gri8ynpsymlzxlw79chwmwrzrjwf0b994vf6qw"},
@@ -962,6 +967,8 @@
 {"v":"0.2.2","e":"^1.63.0","h":"061ykavnqzwn492fnqrr2crbl6arm7aqgdd9m4ccd8vysvn1i7k8"}
 ],
 "offensiveedge.scrape-le":[
+{"v":"2.2.6","e":"^1.101.0","h":"0c61599jhr2ir30ic5k9d6a5hd1r0c17pxyy0asrjh4pdpa4627q"},
+{"v":"2.2.5","e":"^1.101.0","h":"16c3ahx9qxizzcp99wsxi0ysdmnn1m6nddlsymcx1kb3cnavlvbz"},
 {"v":"2.2.4","e":"^1.101.0","h":"17z7y3g1irzjzslfmc78y7rpgiwdqv7w0437mraiiwak1h12js76"},
 {"v":"1.8.1","e":"^1.70.0","h":"0cml23d5ybwwhn7qds9afv4h2f7qkq73ycr7ngkyj2qqfz979nkr"},
 {"v":"1.8.0","e":"^1.70.0","h":"1cad5gmv60ads84k0zk6pfj6m3fggnczzlm0j0xr6jf4yy46s70h"},
@@ -1195,6 +1202,7 @@
 {"v":"0.3.0","e":"^1.75.0","h":"1h9rrzfry0kda38xal1sa87bj8524lm8mr4w5m9s6mbs973d9xad"}
 ],
 "saltcoreyan.my-setting-sync":[
+{"v":"0.3.2","e":"^1.90.0","h":"18hdjq956mwmls3xapmiri5wsakq8zvbf5j4md2sjqnllq01xzlr"},
 {"v":"0.3.1","e":"^1.90.0","h":"0x5z8h4mhhk4wv7m0vi4min7pg3679z90s3i9mfh71hzc6ih5w1s"},
 {"v":"0.3.0","e":"^1.90.0","h":"0sxs63wvibj2j6lrx2sfsf4yv34q0yyp44km009nfx4791bb6z55"},
 {"v":"0.2.4","e":"^1.90.0","h":"1yh5z8aygxpp3h5fpkprvh7rx2nmzacmibaxrg1pfrmw72fg0gq3"},

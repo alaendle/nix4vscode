@@ -333,6 +333,7 @@
 {"v":"0.0.2","e":"^1.51.0","h":"0h8bnzjxbg2lbc5y5j0m3d4kj1ckfxnhpr7bsai53phf1c2w0h6y"}
 ],
 "dotenvup.dotenvup":[
+{"v":"0.7.0","e":"^1.85.0","h":"18bp7p0mzh8bykv5rw2s4imf2b1fzng4psv33l0fxyvakjlmj0zh"},
 {"v":"0.6.5","e":"^1.85.0","h":"1awv4gn6racjdkz7q4phik315kjif112qz21i4m1plybc400sd57"},
 {"v":"0.6.4","e":"^1.85.0","h":"1pxxakdly74qxh8yl3gx6hc6ccjc97kpmi664msdh0k9z9jzakhr"},
 {"v":"0.6.3","e":"^1.85.0","h":"0k4hnp7gvbpj3i7miay3s82pm958xmb46c7i6y9wrsdv32shwxij"},
@@ -981,6 +982,7 @@
 {"v":"0.1.0","e":"^1.96.0","h":"0krdwrh3w1g7a43ys4wbxszimcncwjxbjlz5rihkqqmrbf1qwizx"}
 ],
 "nodesource-inc.nsolid":[
+{"v":"1.0.3","e":"^1.91.0","h":"04j1h7g7i9lfwz0y0npiwvh330bcsimfb6pb1jafkwz1v61wdxhf"},
 {"v":"1.0.2","e":"^1.91.0","h":"0c1da63gsamrc79r2i8b86fp8paw3nb75wwrak9q276bkm7zsc5x"},
 {"v":"1.0.1","e":"^1.91.0","h":"127c46k765p7v97i2c3hjnvk9ky45464w62z52g60icclarn1nd9"},
 {"v":"1.0.0","e":"^1.91.0","h":"1rigv6kv12zn9vqnm1r1adwh421cdhd71acvy8c61a9rhzb4mrby"},
@@ -1410,6 +1412,15 @@
 {"v":"0.0.7","e":"^1.80.0","h":"125micz9f04pjzxcd2gri9ny95immclqgixb0wjz1l1rny4hxcvs"},
 {"v":"0.0.5","e":"^1.80.0","h":"0alrnn657kwhwr6g2xlgvwk5m155rdj3k524s2isqwacs8iz6pfb"},
 {"v":"0.0.1","e":"^1.80.0","h":"1k0gfnnl33l7qgi5i4czzvrxa09ws5i889jl1bsmxb0yzn2xqf8d"}
+],
+"tempr.tempr-chat":[
+{"v":"1.0.6","e":"^1.104.0","h":"0vrlcjw91p7myzv7hzsfhq30gknq3azfpy9lrlpw9b8ny2zxf31p"},
+{"v":"1.0.5","e":"^1.104.0","h":"1ymfjgpif868mk23w7cz0nb10c3006hw6py8f68d00hl53cdvfzf"},
+{"v":"1.0.4","e":"^1.104.0","h":"04pmb6vyfdgw6nfhrcrmr3j6jfsw0sp9xbbh2jg38zfj7zjshvpj"},
+{"v":"1.0.3","e":"^1.104.0","h":"15cl4hzab76diqmja3kn2amn2ijh2g6xlrxqqsbzrdpq0kxib8x2"},
+{"v":"1.0.2","e":"^1.104.0","h":"045g8vf4a1ggw820wd1150xaj0rlqd7adais9fsk1hb3sapzxsib"},
+{"v":"1.0.1","e":"^1.104.0","h":"02an4k404b4741n72h629hvdan2wsijxqzcir1vjsxbv9gxd03mi"},
+{"v":"1.0.0","e":"^1.104.0","h":"1sfmamsj9k98c31q3ywnycab98niifvkb0li7yy103izr97akb24"}
 ],
 "tenstorrent.tt-vscode-toolkit":[
 {"v":"0.1.27","e":"^1.93.0","h":"1f6ncg0nq4pa2g6zbslxzmya6drzjy1zlx3rn94rppam76d50ng6"},
@@ -2099,6 +2110,7 @@
 {"v":"0.0.2","e":"^1.80.0","h":"0dbcs5i89q9xs0rz11ncrsszr85j96s3gbh70r8a0spxg7l7v6k7"}
 ],
 "veryation.loglens":[
+{"v":"1.0.0","e":"^1.90.0","h":"1n72d3wjdd8iw6jv3k8ibcs1kbpcf3b8v9qnw9h3zndbqh7x4j3s"},
 {"v":"0.1.1","e":"^1.90.0","h":"11dwc24kgbh78n6hya3ngplnvwv4dx2nky5q30z1sbqvdznfq926"}
 ],
 "vfunction.vfunction":[

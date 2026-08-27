@@ -884,6 +884,11 @@
 {"v":"0.1.0","e":"^1.90.0","h":"1g45pplg2zs75d3k9cgddsvl3rw88s12ygy8nyhb7x7pbqr76yi6"}
 ],
 "elijah-potter.harper":[
+{"v":"2.8.0","e":"^1.96.2","p":"darwin-arm64","h":"13z1pjpwaahvakyg54gpqkvcrkwgy8iv72a2rpwqzr9gyzxmwbl1"},
+{"v":"2.8.0","e":"^1.96.2","p":"darwin-x64","h":"0y0h8bskwch1c42502g9jkfvaqrya9anjn5d95kazkq775fgl7bl"},
+{"v":"2.8.0","e":"^1.96.2","p":"linux-arm64","h":"1ac682lrra98yc0pi4awzyggqgm5ljx1v82m5pb6v6xm55agy9pk"},
+{"v":"2.8.0","e":"^1.96.2","p":"linux-armhf","h":"0p785mgg21s23pzlsy5dgkj4k4sh4yz6kq3dn0mqr91hgacd4d66"},
+{"v":"2.8.0","e":"^1.96.2","p":"linux-x64","h":"0327h2bk667vq2rnhvalpfds26ifmskazp0agx35fmqqdcsmgm7x"},
 {"v":"2.7.0","e":"^1.96.2","p":"darwin-arm64","h":"04bhvzyapq1araahcgdlz16x462a2an2pcnn4l88rip6sgrdps3p"},
 {"v":"2.7.0","e":"^1.96.2","p":"darwin-x64","h":"0xavmd5m8qn87f55xni7pj2smam3hj87mrr3yq3sw9sn8zxk3p4j"},
 {"v":"2.7.0","e":"^1.96.2","p":"linux-arm64","h":"03gqrwqxnblv9qimin5ckn7r56sincr80wg2kpzabyan6frr8pm3"},
@@ -1620,6 +1625,7 @@
 {"v":"0.5.6","e":"^1.84.0","h":"16mnvz08cn5q6zvczvl3i2a2z5qp0d93zv7hsv4qcwg51cpzrgf7"}
 ],
 "inuris.xslt-viewer-vs":[
+{"v":"2.2.36","e":"^1.96.0","h":"1v6af2ka7lrpmxv16gn4z2ma0bw1jh864xgbyy2dikl7mc4rf359"},
 {"v":"2.2.35","e":"^1.96.0","h":"1fjn129ywscrf5qj9flb6f1jj8wisnqiy9mhh78mfhza0j7gs1v3"},
 {"v":"2.2.34","e":"^1.96.0","h":"0da9d81v9v9qi4fkmj4fqj5ha2126qfnryl49ynn5zwqbq7k6lmp"},
 {"v":"2.2.33","e":"^1.96.0","h":"0ylf8p49mbrzwv3y3fd5mihvnag2q331nzai74y57y6j0y68y0ff"},
