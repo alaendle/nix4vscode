@@ -3434,6 +3434,10 @@
 {"v":"0.0.2","e":"^1.54.0","h":"0hdw4q2rijqi0wjfy3mhmnj8d3p0q61wjyk1n5xyicyl723zbwp6"}
 ],
 "databricks.databricks":[
+{"v":"2.15.0","e":"^1.86.0","p":"darwin-arm64","h":"04s86zkrh51rlgcflyy538mh7jnz0ic39xiy8hs14vcw94lf8k12"},
+{"v":"2.15.0","e":"^1.86.0","p":"darwin-x64","h":"1s4a3bj0f24i81jcjmlqjacfz3ybw0f0vay41s29mdiy1kgqzwfr"},
+{"v":"2.15.0","e":"^1.86.0","p":"linux-arm64","h":"10mcbn46l0jhz1x12b983gv2cd7fdikh6pipf4p48mbllk44bls3"},
+{"v":"2.15.0","e":"^1.86.0","p":"linux-x64","h":"0h91x8m9j3qiqijagpxapqykjnd5j1b5zvi4pkdws961n9zh7k30"},
 {"v":"2.14.1","e":"^1.86.0","p":"darwin-arm64","h":"1jzw9dwnkwwm1w6ja6girrqxdn51rzdp0jj84x6iwry666dy9y3z"},
 {"v":"2.14.1","e":"^1.86.0","p":"darwin-x64","h":"0n0czi4l4zxpdmzag76inz6a55hb514xqsfwrp0200an4f82xbag"},
 {"v":"2.14.1","e":"^1.86.0","p":"linux-arm64","h":"1vdbnlkagc1r1xv42vld683hs3698liy2g7c40i7c8m7qfg8ygr9"},
