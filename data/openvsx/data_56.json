@@ -478,6 +478,9 @@
 "gydunhn.nodejs-essentials":[
 {"v":"1.0.0","e":"^1.35.0","h":"071xancbfcklprh4nyg4fvf7qyhjsm3bvgiphza93w4ld71731wk"}
 ],
+"heossi.qnsi":[
+{"v":"0.3.0","e":"^1.96.0","h":"0mwrh16rxvh3yks3b8l41w2fd094fqakn1ckksj2ir3wqhv6zycs"}
+],
 "hiteshshinde.contextshield":[
 {"v":"2.2.0","e":"^1.100.0","p":"darwin-arm64","h":"1n81lqngas47y2xcra0q67yrfh1wn6wlys3h0g5y1v5d1ljd2j2v"},
 {"v":"2.2.0","e":"^1.100.0","p":"darwin-x64","h":"0ish5dykd8dc06048sys5rhhbi7ww8pidh2x8ldq3a2kcgdn8hr9"}
@@ -1455,6 +1458,11 @@
 {"v":"0.0.7","e":"^1.78.2","h":"117d2zfsi7fqbghl19sc7m2klj3m0mdxwjb695qcglmbc523r1hb"},
 {"v":"0.0.6","e":"^1.78.2","h":"0c9q7af7cz19zdgs8fxsv2xqq2cahp4ygxygpd0m34ifawad7zsp"},
 {"v":"0.0.1","e":"^1.79.0","h":"0am5maa6j6csvhjbp0jv7bw3vyvnn3hml6j361pwly2b1724spcv"}
+],
+"virustotal.yara-x-ls":[
+{"v":"1.20.0","e":"^1.102.0","p":"darwin-arm64","h":"10vgisz3fymw7ic7pflm5z19vs21nv2zlfj6n08j5drzd8fj8cji"},
+{"v":"1.20.0","e":"^1.102.0","p":"darwin-x64","h":"0x6n87bf9vgc5fc0j23hxf6cb15axwsdm3vk44sxy7x7lnzvfsj7"},
+{"v":"1.20.0","e":"^1.102.0","p":"linux-x64","h":"0gs1g1lz4af6p9xzi8zgfyvi8yr3jxl9w04lr77myj5jdc02gl7w"}
 ],
 "w88975.code-translate":[
 {"v":"1.0.20","e":"^1.31.1","h":"0bxll7klynkdzca0cm6libsx312hyl7afcc9smhd9wiaadxjkn2q"}

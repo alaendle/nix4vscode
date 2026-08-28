@@ -206,6 +206,9 @@
 {"v":"1.0.3","e":"^1.75.0","h":"1pf8n0662pkdddac265fxpprpyxjkicn5sjizglnxms43b9mks2v"}
 ],
 "davidpine-dev.pink-ink":[
+{"v":"0.0.4","e":"^1.85.0","h":"1wmbj3vxmhf7d2f4v590hxpxhmx31acfmkrhjzvgi5gdc7b0z0ib"},
+{"v":"0.0.3","e":"^1.85.0","h":"0105skx6zy22sgmwvn9il9hsl0kdry6q5709n2abzadbq3qhw0g4"},
+{"v":"0.0.2","e":"^1.85.0","h":"0iadnj0ji6mijsv97sy47lkwy3ax31jhbvv98z9p7hpqn01q1029"},
 {"v":"0.0.1","e":"^1.85.0","h":"1nhigc80xsx86pjncrwdns70kzyc4msyp144m72b9myd611kpqsr"}
 ],
 "debugpyattacher.debugpy-attacher":[
@@ -584,6 +587,9 @@
 {"v":"0.2.4","e":"^1.50.0","h":"0lmyjkwizj7z05i8knaxds2di6kmxlgagmyz00vrypwf0x6pfll2"},
 {"v":"0.2.3","e":"^1.50.0","h":"07mg5l449zbaclm5pwh2j2qjp08a789j9b6ns0h7i7bc9bwcaqpb"},
 {"v":"0.2.2","e":"^1.50.0","h":"01nr10r2ji5mmgkn55aqm1xgknj534s1vhfpmbv7b96q14rvp933"}
+],
+"mh-jsx.frontend-guard":[
+{"v":"0.1.3","e":"^1.85.0","h":"1ia8xfh46cwp8lfrb3bvapkln2m8qp0hz8k0cb4pqwqzsfm5ipq6"}
 ],
 "minhmcpc.pterodactyl-sftp":[
 {"v":"2.0.2","e":"^1.80.0","h":"1sy0qazbj35zbvzx4x0hjinddk2jx8rb0ad8madq08ll3ywib8fs"},
@@ -1768,6 +1774,15 @@
 "yowasp.toolchain":[
 {"v":"0.3.1","e":"^1.82.0","h":"1xq2r1fhnv2lkcj9g66g2pbw6fgfim8j081b585z0mvqbcsgqpm7"},
 {"v":"0.2.5","e":"^1.82.0","h":"0qbjq31l2y509idqb4vdn97bcisr1lyi3myvlmb273avn27hhmxn"}
+],
+"yuuki-sakai.secondary-simulator":[
+{"v":"0.5.0","e":"^1.90.0","h":"1a61kzw0awqcq8czznqgiy4y7w6c1jj4l7j2iwqqf6mmh672vj24"},
+{"v":"0.4.0","e":"^1.90.0","h":"08im37xj1h8l7xy0frlifl986l070qm8jgrp7ash0pcr01b0aalb"},
+{"v":"0.3.1","e":"^1.90.0","h":"1pl9i0yin17rrjxr3k83dvzhdd660szcsfq3kk2yaxflaim2gf8a"},
+{"v":"0.3.0","e":"^1.90.0","h":"0hlc0k2ks6pxd06nr9dzj7x35ad2mch9608s0bfa1mlkdwqcpyx7"},
+{"v":"0.2.0","e":"^1.90.0","h":"1r50vivg2ghs86ky3sb6b4nmz2q7ns62qfvyn5lkiykqwxvfdad9"},
+{"v":"0.1.1","e":"^1.90.0","h":"1c5cwqfjk3kkr2x8j9m48bahwd9wf0g1yv6787vj2hx8kxhf8mw4"},
+{"v":"0.1.0","e":"^1.90.0","h":"1995990c6zaadd6g11m5nfslc4y8963p6rfgf0dvjcgdsi76j82i"}
 ],
 "zardoy.custom-patches":[
 {"v":"0.0.6","e":"^1.80.0","h":"180b8y49gasjlgwyhsjm4d14sgadwsrjcvcbq2aaa9p5kzc5zviz"},

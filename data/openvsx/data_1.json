@@ -57,6 +57,7 @@
 {"v":"0.0.1","e":"^1.80.0","h":"0sqlqdc0qba0m0i6wgk6gdmn05vyajf8ri2fvdaz6jz2vq08k5qi"}
 ],
 "alisexchange.alis-build":[
+{"v":"2.9.5","e":"^1.98.0","h":"0qja0nky0mzpns5kkxd2hz0gdkdwiddbqljwn4zfj6rgnxj3rbdv"},
 {"v":"2.9.4","e":"^1.98.0","h":"1ggx6kmn3s9q9cjbz6ahgcwg4kjp6c0in8fkdmfd8yhg3dr70nfp"},
 {"v":"2.9.3","e":"^1.98.0","h":"0g9b6s1xpjv1n39ysgvwnh0i8d1xa379sj00sx5nqqdmkf9pmj61"},
 {"v":"2.9.2","e":"^1.98.0","h":"00fmsqcrnprr29zlv59p8m6qk938q3124ry5gcxkg6h211s7nmkk"},
@@ -1155,6 +1156,7 @@
 {"v":"0.8.0","e":"^1.85.0","h":"1d743d679d0yr32lxmj1w7fl86hjcslkkn1lfd2hzbfbkkf51if3"}
 ],
 "gemtalksystems.gemstone-ide":[
+{"v":"1.8.14","e":"^1.101.0","h":"037izi5kzfbrw764z029g7yn72gpdk38d1nrmlw9ysxjpha0gbnq"},
 {"v":"1.8.13","e":"^1.101.0","h":"0zqphfj7kb289bmmm2vrdifpksvnkvbcbmmpmpl14ndhi822qrkw"},
 {"v":"1.8.12","e":"^1.101.0","h":"12ssjvinjx41jyid5af22p1a98a9rk9qi119w05x7f50c85dq68g"},
 {"v":"1.8.11","e":"^1.101.0","h":"1hihn9dwrgwnrn1sk8dixjcjvflh72wh7xk36i1f3barslc33rbl"},
@@ -1212,6 +1214,9 @@
 {"v":"0.1.4","e":"^1.85.0","h":"179ghmj4xcylqs9h1zsd08wc5rv9129hqhdnfnfnk0z0m2fnp19q"},
 {"v":"0.1.2","e":"^1.85.0","h":"00a4yxddg1g9pf97qwjkhbbcz43a0hihrr35szfh1q1c5f2xvsls"},
 {"v":"0.1.1","e":"^1.85.0","h":"1msn7jllkby32j7iy7im1bs4g52adcld4nm28a6z3fzkvkkhzd01"}
+],
+"gunnargrosch.durable-viz":[
+{"v":"0.7.0","e":"^1.85.0","h":"1whaw8fpkhi8way9275xgi26zc39wbx0gax5ac3178lc42xavxzx"}
 ],
 "hakato99.sovereign-aether-copilot":[
 {"v":"2.0.0","e":"^1.85.0","h":"024qllylnklimiy3ichdrisw70b8llv48g30w5yh7kdzq1g19hsx"},
@@ -1764,6 +1769,9 @@
 "puremix.puremix-cursor":[
 {"v":"0.1.0","e":"^1.80.0","h":"0s7wpgkjf4xxjynad5hpql582wpxnl0p8ys3z52sj5rxhk5ikgbd"}
 ],
+"pushpendrabansal.promptdeck-for-cursor":[
+{"v":"1.0.0","e":"^1.85.0","h":"0wzbnca0y6arwdf074szqg9pnjsc8r3zmjaz4g80r7q2k6d3nzy2"}
+],
 "r3bl.r3bl-auto-insert-copyright":[
 {"v":"1.3.4","e":"^1.95.0","h":"1shs1s5g7pa5jmd6sishf3a9rl1m53b0zyah4khgpgm63dszppmj"},
 {"v":"1.3.3","e":"^1.95.0","h":"1gi1mwg0r7qm1qdr33k6zwjqdrfkmgyqz0mpcjf966979yxbz1km"}
@@ -1957,6 +1965,7 @@
 {"v":"0.0.2","e":"^1.80.0","h":"04xbxdayj99zjkxd933akagxw3zky18r766s01lx7m4msl8z5nba"}
 ],
 "sebavidal10.photon-rest-client":[
+{"v":"0.2.0","e":"^1.104.0","h":"0d45cwr8q65s0zcdnbs2fmr59wzrbmn3f6g87swia8z3g29ci5my"},
 {"v":"0.0.6","e":"^1.104.0","h":"0wwx45s2qkr7vppc5iz1cz9apglmjxpp1wpxzirgx3866fq5n3x3"},
 {"v":"0.0.5","e":"^1.104.0","h":"1jv7pqm7442pdzdy018w3010y2kmd8p4fa6rfh9fblwqflprgdvn"},
 {"v":"0.0.4","e":"^1.104.0","h":"1mk87vhxv9rqc88jjhig6yydncqc186xmns2ad3yvf3449sjqrzi"},
@@ -2058,6 +2067,9 @@
 {"v":"0.2.1","e":"^1.85.0","h":"1q84zdivq6g9aiqln49bq89kcxgf2c8ybxxmlv1nf651lhsjvrnp"},
 {"v":"0.2.0","e":"^1.85.0","h":"14rknbrx3v46v2nw2yg7g2xx28brw3bxfrzn5jy0n8ac6jzcqrhx"}
 ],
+"t-t-analyse.gekko":[
+{"v":"1.1.2","e":"^1.53.0","h":"0d9jx3806p7mfaz26m0xwjx02xcq2lbj4443kv02yhn7sn81wy96"}
+],
 "thebadking.filequest":[
 {"v":"0.1.1","e":"^1.100.0","h":"0wgir5znss0qpw0qkv8fmshhzd2agnvs911l9xc1p57lnf83r7qa"}
 ],
@@ -2086,6 +2098,7 @@
 {"v":"1.4.0","e":"^1.94.0","h":"06mbq1j67af81sm507cswgmr239hkx25739i78s5ifp7ic5h8bgl"}
 ],
 "three-flatland.fl-tools":[
+{"v":"0.2.5","e":"^1.94.0","h":"01g74n5j2022c008cqf4m2jk09xvyzj7wljhxn0qd6m026pmqxf3"},
 {"v":"0.2.1","e":"^1.94.0","h":"0rwrgx96b6w7kwfjx66n0vkpxc2h9glvsvkpqwnslalca1zn34kg"},
 {"v":"0.2.0","e":"^1.94.0","h":"1dn5xc4iy2cnjrj5gskfhaahsarwc72ax330qdah9qm0bwaz8p8y"}
 ],

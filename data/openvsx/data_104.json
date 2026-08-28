@@ -410,8 +410,14 @@
 {"v":"0.0.11","e":"^1.80.0","h":"13n4waic2zqcfxj9fgvjxf7xpgjrb5sdr3imbig8yksqsy9pvb5a"}
 ],
 "konveyor.konveyor-javascript":[
+{"v":"0.7.4","e":"^1.93.0","h":"1rjr86bzyq4hpajkrg2yab8227hd6sjamk8a1qdki1llwbplc373","r":true},
+{"v":"0.7.3","e":"^1.93.0","h":"0l82rq4c5956f76xdfnhdzz4x4d4hn6kn2izklhpf1gnnszr7n94","r":true},
+{"v":"0.7.2","e":"^1.93.0","h":"1jq37mra5mdpf8jag0mz1zx1vv2493ij1di9qij9b5ad3ar14k99","r":true},
 {"v":"0.7.1","e":"^1.93.0","h":"0p7lvfcn226zni6s2z439wwzcdk39yhqf2bsd4cf6fwxnsvy1f7w","r":true},
 {"v":"0.7.0","e":"^1.93.0","h":"1wxwjlmr8vy26p9dpcsrkblpinwsggba2awm666pkg69vgq7pwg7","r":true},
+{"v":"0.6.5","e":"^1.93.0","h":"1ngwj181dk7ljbw2pmsydyvgk5i8am83p7ifvm3sfpa0g7qgv7k4"},
+{"v":"0.6.4","e":"^1.93.0","h":"0k80ll3gnc843sky1qr8sy2gmgc3x1jikj7m5lvx48nxxgvn1snj"},
+{"v":"0.6.3","e":"^1.93.0","h":"06axj3y9n1hx3bgmnrmfqxfbqaf4sx2dxir3kifrhjd4nss47laf"},
 {"v":"0.6.2","e":"^1.93.0","h":"19gwrk81xipv8kmnhl0phlhgh7zkvkgj8valv4lasq0phlm0ajw3"},
 {"v":"0.6.1","e":"^1.93.0","h":"1xy8wxiwm7zi4v1hj0bdbnpf951idbll5nj3zmv0jprybw2kh285"},
 {"v":"0.6.0","e":"^1.93.0","h":"0kylgrnhdm7x5vblhbcccf782ccswdxm9xxsz9p5as5a247vcvwk"},
@@ -1622,6 +1628,10 @@
 {"v":"1.5.0","e":"^1.101.0","h":"1xza6c9mginwan6xfz581kx6r6l7ksb6sc2abij8djla65x1x3nb"},
 {"v":"1.4.2","e":"^1.101.0","h":"1g9gwpm3s4qska1aj36mg1wk6dswlyz58rbqwaiczdi3d535pg6i"},
 {"v":"1.4.1","e":"^1.101.0","h":"12b9ww66i4ivp265i23xx1izp7d9lhqpvbl71dcbz623hr342lxz"}
+],
+"solvelab.ai-commit-messages":[
+{"v":"1.0.1","e":"^1.100.0","h":"14frzsnnywb3b0qlw9k8jva8rp9bqald37idxdjwwd6qsr3grdxp"},
+{"v":"1.0.0","e":"^1.100.0","h":"0z9rcwr7rg98004lrmraj77sfd57s952z2dzp08lnsam58p3ffj9"}
 ],
 "stephenpaul.ts-rest-nav":[
 {"v":"0.3.4","e":"^1.85.0","h":"1dpl3xqp6rhmxkrz8d9ijfgz20pbylyxxpzpw1lyp6zvr0fys1b2"}

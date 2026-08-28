@@ -63,6 +63,12 @@
 {"v":"0.1.4","e":"^1.84.0","h":"1wrqpk9mqryayd4m7prx0m8bkvz0lq3fyrcjcndbh7d6r83bhrqi"},
 {"v":"0.1.2","e":"^1.84.0","h":"0w39zalfhbil3ayz7md6ahr7zbyyc4rmz0pdf0ni159inalwnpki"}
 ],
+"argalla.costkeeper":[
+{"v":"0.2.1","e":"^1.95.0","h":"1pm8674y0bmvc5rfq5gh11naa12qx9wlbsrh4g2dnj8xn450dpa9"},
+{"v":"0.2.0","e":"^1.95.0","h":"0kpvyv5yqs3wid9r15ibvdzfs8lb71rqwwimh3hnlzwn8y2k1gwh"},
+{"v":"0.1.1","e":"^1.95.0","h":"08952frfaz4s21l7ba253cwymay89kfb9kq8qvzgqpsy9j4f00v8"},
+{"v":"0.1.0","e":"^1.95.0","h":"11plypf66d7z6kg00854y0as94wvd19g8jffvyw7w60a945ppl4v"}
+],
 "argalla.sessionkeeper":[
 {"v":"0.2.2","e":"^1.95.0","h":"0sa06qlhpc9d96cma78z3bza09llyryxza561wpqnybhd1kgxlpg"},
 {"v":"0.2.1","e":"^1.95.0","h":"0l0h3g4px9jln4izz0zmcizfks0967y1i94chn7la1pvffhfjx98"},
@@ -673,6 +679,7 @@
 {"v":"0.1.1","e":"^1.85.0","h":"0z3jr0v2g7f01b2fcjfdwv8p9bg55pm4ajas0h3lj7mh7kfb4g3m"}
 ],
 "hoelzl.jupyter-slide-nav":[
+{"v":"0.3.1","e":"^1.85.0","h":"0a1drfpnj0srhnwvcly3nsqm37m0yh53fx5z6p066c8sl8h90j7y"},
 {"v":"0.3.0","e":"^1.85.0","h":"1yld3zxpczqyrm42np7qk2d86fs28ipvd0vb8ph46wx7avk38l0y"},
 {"v":"0.2.4","e":"^1.85.0","h":"0xy2m0wjm4wp7081n1czbj63l2jhch1233yx387rlkpmm7kbb9gs"}
 ],
@@ -1089,6 +1096,7 @@
 {"v":"1.5.0","e":"^1.90.0","h":"1djmcf00v2lpv0zd8hmmrri84ah60m1ff5ilkjk7ssskv92ai5j7"}
 ],
 "jawa0919.adb-helper":[
+{"v":"0.6.8","e":"^1.88.0","h":"1df2d862w2d8nbaszqxcmma4hn50ppvhv5ry9x9n9n3kgk6wspim"},
 {"v":"0.6.7","e":"^1.88.0","h":"035x2n4wm1vkz6kssdn42igs24pf282b2ww43spr6vjx4wwb2hag"},
 {"v":"0.6.6","e":"^1.88.0","h":"0ga2cshb5rimn7pwkq0mcghv0i4xmib7k5z3vc1fjv402dakgjbw"},
 {"v":"0.6.5","e":"^1.88.0","h":"005vmzm5q15w7yhcawqsns9796810ynbxiqv2ycy0y8qr69l2v11"}
@@ -1957,6 +1965,11 @@
 ],
 "unspecworks.modal-ime-switcher":[
 {"v":"0.0.1","e":"^1.104.0","h":"1zbl7z9mh1790ciwn3c0ffwxp0filyigza0f89g55pbz05j9fnnk"}
+],
+"varunkarli.git-atlas":[
+{"v":"0.1.2","e":"^1.90.0","h":"07h3ivjsf5hrsgkag57sbph34l5b9mrn0l4jbxcn97f937b9fjk9"},
+{"v":"0.1.1","e":"^1.90.0","h":"1gi1j2rcd8hr7h0lqxvm37vdsz4g27qqgmrj5by5gs3xr14ngyrm"},
+{"v":"0.1.0","e":"^1.90.0","h":"13vnyxr6dp9nrrwf1ix6i3mxb8cblh6spasngklacip0znq0q9ks"}
 ],
 "vendrakos.rumdl-pro-kit":[
 {"v":"0.0.221","e":"^1.82.0","h":"1srshij359pnkk0i0dnz33adirnl3clxsxs2yaqi2ykv1rq9fppj"}

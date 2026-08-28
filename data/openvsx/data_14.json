@@ -92,6 +92,16 @@
 {"v":"0.2.0","e":"^1.17.0","h":"0snrx8yrhndvrv21gbyf0zdd3xl233yc5nhnf7hp5ci52r87fnld"},
 {"v":"0.1.0","e":"^1.17.0","h":"0cny17sprjr70wxprdx0jvc1f6bz6s2px425vh8f00j43nj2x7l8"}
 ],
+"argalla.taskkeeper":[
+{"v":"0.8.7","e":"^1.95.0","p":"darwin-arm64","h":"0nr27vfk8z86ndd4q4qr8igz2lq1ghv4r3ryhm6qkb1cf4yb4myw"},
+{"v":"0.8.7","e":"^1.95.0","p":"darwin-x64","h":"0876z8p393njm5x8hzh69qcxsnghj8xkl1kxf29j3wbcqvnps84k"},
+{"v":"0.8.6","e":"^1.95.0","p":"darwin-arm64","h":"0z3vpi3z691q6dy5j9yyi0db64z5xrak92b9g51naxlzkm7jl86y"},
+{"v":"0.8.6","e":"^1.95.0","p":"darwin-x64","h":"0ygw8s5xxqxx7r1wxbf7y3syg2pbz0lmcimbpz6ywvb2sdgx37xd"},
+{"v":"0.8.5","e":"^1.95.0","p":"darwin-arm64","h":"006bxbvr703jgh8zk63zz28607yqm9salri31k777z52arkpl5kc"},
+{"v":"0.8.5","e":"^1.95.0","p":"darwin-x64","h":"1343lcammgc5iycpvvy2bisr15wwaclkwqyzzcgzm1wajnzrgny6"},
+{"v":"0.8.4","e":"^1.95.0","p":"darwin-arm64","h":"0m1nn4ynww1z25nypgxc955qa4s3chiyyip99lpxv3pbr2a32j6n"},
+{"v":"0.8.4","e":"^1.95.0","p":"darwin-x64","h":"08sq3vzxsxl9ljppc0zckb95hz30fm48yi9xlir9ii30a5ikfxb6"}
+],
 "avanserv.avanserv-theme":[
 {"v":"1.1.2","e":"^1.100.0","h":"08b6mn33bkcd1cykpvr2xr95plx73s69ks2ay1x57ymidky6j2f3"}
 ],
@@ -101,6 +111,11 @@
 {"v":"1.0.4","e":"^1.90.0","h":"1cjx32n1d0lhz94zp5xvzif1yzjlcsbmkv1d19qy00s2hd30fwir"},
 {"v":"1.0.3","e":"^1.90.0","h":"0hxqw2vbdlgpxk9pp1bg0a1pmkcdnvlcw020hlx5kjzyg5xpmyii"},
 {"v":"1.0.2","e":"^1.90.0","h":"0fnlxxvmpmr0isnxydzx0jf5498pbf5lgpiwpd8sjj712w1vmadm"}
+],
+"babstudios.extguard-security":[
+{"v":"1.1.3","e":"^1.75.0","h":"0z2xp8d9h026nfql1c2i5iz8wkxw1rfj0wqwa1jnphjsjvrw8cap"},
+{"v":"1.1.2","e":"^1.75.0","h":"0l36ad5y03cz2w2inr8s71c7si4544cwkr3mssj2hisvpryyvjf3"},
+{"v":"1.0.2","e":"^1.75.0","h":"1jvzwncv1wpic2z6kp8hmv6h7z4xlnmj9n2x0q65zajxc2k8wi6h"}
 ],
 "beatcode-studio.react-jsx-wrapper":[
 {"v":"0.0.1","e":"^1.99.0","h":"0wlxm4ks4dkhk4h0cz8k50x3pz103qp3x2avis2ddmlipx6xaaiq"}
@@ -279,6 +294,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"1nkmswdi6dsgr7zsjlalx7rgia3mq6gca56kf3a04wxqm64f6144"}
 ],
 "codigrate.cod-tokyo-theme":[
+{"v":"2026.1.15","e":"^1.90.0","h":"1mqjfadjp2z8cv2v2lfl25fd9720vfcigj06p4dmznx600x5xxq1"},
 {"v":"2026.1.13","e":"^1.90.0","h":"0h8d42fv7ih3yqsb54nc3cs4iqxvb3x7zrgj8jy1afdkiz2ili54"},
 {"v":"2026.1.12","e":"^1.90.0","h":"05c7ks5lzpcskjr06fnmgvpnl7ckjbf6igm4a7ijd4hbac1x4j8h"},
 {"v":"2026.1.11","e":"^1.90.0","h":"041z8gbx6ipcy9zwp08vndnjfkkx1y6yiwr142m04bmz58srysap"},

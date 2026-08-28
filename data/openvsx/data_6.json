@@ -302,6 +302,7 @@
 {"v":"1.0.1","e":"^1.80.0","h":"13pm4dlm2h2qk8pc3ay5sdsjmcfzr2856v85d49n6a5jf84iz0pp"}
 ],
 "dynonguyen.dyno-aio":[
+{"v":"1.16.0","e":">=1.85.0","h":"0wyg5pr8554fr2724j1lmxp47pijdr4jccvv63nym3v1ihi8nx7s"},
 {"v":"1.15.2","e":">=1.85.0","h":"0rf3ypxaarwckn6h8hb4jshc4p0zjk50ra9r63wfkdkychkc58pw"},
 {"v":"1.15.1","e":">=1.85.0","h":"04cmw8058ahlnn27mk3m98193ymir59b1v2b1qy7fhm5dgld1k95"},
 {"v":"1.15.0","e":">=1.85.0","h":"1172g53r0dwslhmib0snyf782mnsccahh21d4zd8g8b8gnnr99l9"},
@@ -519,6 +520,9 @@
 {"v":"2.0.27","e":"^1.120.0","p":"linux-arm64","h":"1l47x6l5wlwr2l8szsf4vbjsaq8r2yqycwxi1dv5w7g6w8zgs9r3"},
 {"v":"2.0.27","e":"^1.120.0","p":"linux-armhf","h":"07v0rczgcgs6q0kjhpk87llp5x4r5l69fbkivqys4jqa7sq271q3"},
 {"v":"2.0.27","e":"^1.120.0","p":"linux-x64","h":"1dyqqihijp0psdc38rp4kf33jivw4qsdnbmpgrcc9c0xkviprm7g"}
+],
+"mcproblem.turtle-editor-theme":[
+{"v":"0.0.1","e":"^1.80.0","h":"0vzharx5ykpkxjf2zwprksz0g4i474r1j521n833cjmwsdm8f60m"}
 ],
 "mehayadav.vine-boom-errors":[
 {"v":"0.0.1","e":"^1.74.0","h":"1ard96yhnqyfv47cbk5fqar5krqcsczqys0nxkhm97npiy4xh8lb"}

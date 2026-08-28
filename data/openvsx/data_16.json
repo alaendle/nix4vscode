@@ -62,6 +62,9 @@
 "anderson-memory-tech.memory-mcp-server-anderson":[
 {"v":"1.6.0","e":"^1.60.0","h":"0kcg6maigffdv37vnspnzbfa6y0zf7ppcxqb6d3fskxkl5xavdgj"}
 ],
+"anindra.omnipilot":[
+{"v":"1.0.0","e":"^1.80.0","h":"0ln2p4vhq2sjpcq1bldcq4c4wd1q1mcg4g56n46ngnjp8vifpc26"}
+],
 "antigravity.antigravity-rpc":[
 {"v":"0.0.14","e":"^1.90.0","h":"076jcbzziaia5bf7ncf7nngcha8dgmsq8hxd2h1pfwyfpx9hywy0"},
 {"v":"0.0.13","e":"^1.90.0","h":"09r2lfhfnnc6sqzr0908xin5lgnz154d24dhyz3rsjr0wjc7lcxs"},
@@ -1798,6 +1801,9 @@
 ],
 "marsie-labs.summarizeme":[
 {"v":"0.8.2","e":"^1.95.0","h":"1flnp2sj96fdv6wiksf68bwdi8m5d46c71qqj4h7893k3cyjrpnw"}
+],
+"matislovas.uniffi-dl-code":[
+{"v":"0.0.1","e":"^1.85.0","h":"07c0j4zg6p7agi7ks8hn3pcg1m8d9bbn1kmi4rpzm35bsbhf7ag6"}
 ],
 "mayank1513.trello-kanban-task-board":[
 {"v":"0.8.0","e":"^1.75.0","h":"1v48lqyii5xj3zw8w4rbzrlw677g24wwj1vychl2js3pc538m840"}

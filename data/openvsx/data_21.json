@@ -135,6 +135,7 @@
 {"v":"1.7.0","e":"*","h":"08ggma8ywig72zsl8jy8b02n27gy9xb1i06kq14g8yik1xb7jhny"}
 ],
 "amanrusia.filechat":[
+{"v":"0.6.0","e":"^1.60.0","h":"1wfazq4db5zc3ayasf18an0l113nk4sxaxmjziph0bfccgddkg11"},
 {"v":"0.5.1","e":"^1.60.0","h":"1zhbs7gd2d8ghsr2k3bbnk4ld3pf1c7h1hh333vn4d3w9hz7a1zv"},
 {"v":"0.5.0","e":"^1.60.0","h":"00vis4zyvqqd1j71i75k0ynf90mf81j9bg5s6cbrjnfvkgr25zr5"},
 {"v":"0.4.5","e":"^1.60.0","h":"029ppci240xmw5sgpz0vxczwbj8hv5llhnfiziw79db8yxwzal44"}
@@ -456,6 +457,9 @@
 {"v":"0.1.3","e":"^1.85.0","h":"1z34i7c888vvma339ibdkwvvlcavf1qgs8n92ybk7z2ihrd36vp0"},
 {"v":"0.1.2","e":"^1.85.0","h":"0ib6xfzlj39vcvv04wnhf1x1p8dd7pj0364fd319khnqdqhwksl8"},
 {"v":"0.1.1","e":"^1.85.0","h":"0jxi4jdykaldic8s42s06ns2wlyq19ns9qjwvwa9ygnxcw4x5z66"}
+],
+"cloudbusting.teamclaude-status":[
+{"v":"0.1.8","e":"^1.85.0","h":"1fgin228qx3wmlhz2vgcavsj050xza3lljs130z9gy33hp6mcldi"}
 ],
 "coatless.quartize":[
 {"v":"0.0.1","e":"^1.94.0","h":"1qdbjy5mhy9gkvx7r3hpsxlajdkwi3ynki2jfpniivd2dv3jhh60"}
@@ -1587,6 +1591,7 @@
 {"v":"0.0.5","e":"^1.50.0","h":"1rj837zgdq0w5nlyffna704cg68jzzcr41q5xjqn6h8wk1xwv3hd"}
 ],
 "rune-task-runner.runefile":[
+{"v":"0.6.0","e":"^1.75.0","h":"1ibv216hsmclyvyqiaqqgkzlvfpxqwwazj8s46xkf5svhssapx74"},
 {"v":"0.5.0","e":"^1.75.0","h":"1azy16llpp5a045531dqdmjvax748c4q9rrmyr17979fn8qgg4c4"},
 {"v":"0.4.4","e":"^1.75.0","h":"15bh34n23kbg62r13ja97q86iga1zdf5d9xzv3ixx08vfza88vnj"},
 {"v":"0.4.3","e":"^1.75.0","h":"0l50z8fggwfn5ljxicm2viljj29x8l59dxp3yyzv5igmdjjlimcr"},
@@ -1810,6 +1815,7 @@
 {"v":"0.1.2","e":"^1.80.0","h":"16mvkvvfpqncrcq0vfc1spwjb7x2j8jxapzhgwnlis7zvm79822k"}
 ],
 "vincent1024.explorer-enhanced":[
+{"v":"1.0.8","e":"^1.85.0","h":"1hm485qwzm5ysap0bsrrm2v1vpjv0k0xksxjd3ng8bkql33877r0"},
 {"v":"1.0.7","e":"^1.85.0","h":"1nvnwpa0c08a3ypy96vvr800vng1zmr1nzc5n68jh8lbwza0w080"},
 {"v":"1.0.6","e":"^1.85.0","h":"0ypwgrdgyvcfrk2vd0nn5zwwbrv2khyk6gjlk9yz673x4sfqv3v3"},
 {"v":"1.0.5","e":"^1.85.0","h":"0x13cmvlbmf8pc9r8nz18zs21p3va6f53r1s6vgsdvxn70hh44k9"},

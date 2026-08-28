@@ -1071,6 +1071,9 @@
 {"v":"1.0.1","e":"^1.85.0","h":"1f3aa45npy8q81igq6zy8775vzpaj8alqkcr7sbakmvv5afidg84"},
 {"v":"1.0.0","e":"^1.85.0","h":"1m9b51c04hh46p3vpflgwiag381q18pzpxzvlq8i4b8zwjvrrx97"}
 ],
+"kuone.rotate-args":[
+{"v":"1.0.3","e":"^1.70.0","h":"0iik57v49wmqgfcn88sfgb304gqyh6f8yw2yqmx2bf5p2bd8bdng"}
+],
 "kylemicallefbonnici.dts-lsp":[
 {"v":"0.11.0","e":"^1.75.0","h":"00bf3spcpvl9z8i4vsgp4plyj30pzzrw0ni4fi52xczwp255ilbd"},
 {"v":"0.10.3","e":"^1.75.0","h":"092yxr31xpwbinsb6mkbgahba84kmwx6l3595qzidsv317wdinmc"},
@@ -1529,6 +1532,9 @@
 "ravgoundar.midnight-candy":[
 {"v":"1.1.1","e":"^1.96.0","h":"02d0pl7k838dpd0kk5fc2paihbnfin7kzp09zi5j870qj5h3v7i3"}
 ],
+"ravisingh727327.vs-ext-ssh":[
+{"v":"1.0.0","e":"^1.80.0","h":"0zzdqv6ydx0jaw2lifl53m94f0qjm9zr5cwm7xiqf87irw4s0i1l"}
+],
 "redjue.git-commit-plugin":[
 {"v":"1.2.0","e":"^1.42.0","h":"0lz14w0rmmwpq32l0y9ji31pd86cxfj4pjcrjy6jn7rwsiwfgdx0"},
 {"v":"1.1.0","e":"^1.42.0","h":"0shnvh24y8z0zf4nw3yaxrxkhixjaala48qaysg6yl2dd459m07m"}
@@ -1560,6 +1566,7 @@
 {"v":"0.5.7","e":"^1.90.0","h":"0r3qcli9najkj929yynrsc1brsfgyqgj2irwq2ry4rp93nafq7vq"}
 ],
 "rokucommunity.brightscript":[
+{"v":"2.68.0","e":"^1.81.0","h":"1aacxc41gnm96i488xnllvsvas14zqimnlnhfhg6gri6ig9p41vk"},
 {"v":"2.67.3","e":"^1.81.0","h":"1njv81mbgrmiyni3d5gwmh081z9df609i46mpd3pphwidqvmsd9z"},
 {"v":"2.67.2","e":"^1.81.0","h":"079imk9bf4yghzss3zwlk3wsqnx882vndv9iy37k21sbw2s18mxx"},
 {"v":"2.67.1","e":"^1.81.0","h":"05qd3g81p77h6mnq5qz8pzlzy7d101rmjln16xx7hd6rf4r74w4l"},
@@ -1908,6 +1915,7 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1alwn7705xmjzbf3fn1qr18jjgp541mbigg7lp059jhc04fx5h05"}
 ],
 "yishifuhua.chuanqi-langsupport":[
+{"v":"2.8.0","e":"^1.60.0","h":"1iswn976bpavlz4pyvr09wincq3gy8qlfzncxwlgzggmz17mfjlm"},
 {"v":"2.7.8","e":"^1.60.0","h":"1kb2aszg1ykgfkg0zcm0fx2q6f929gd9993mpz5nra8f0cipyr4n"},
 {"v":"2.7.7","e":"^1.60.0","h":"1bm7132072mwgc25cqlgcgmmn2v6ih37d8gh2afc3il645z7zp12"},
 {"v":"2.7.6","e":"^1.60.0","h":"15k1kdw9ak7v27l8gbc0ypfanx334qly8801pqzhr5nzf7mm1lz3"},
