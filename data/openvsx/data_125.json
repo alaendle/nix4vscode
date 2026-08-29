@@ -650,6 +650,10 @@
 {"v":"0.1.1","e":"^1.94.0","h":"02gw338kgfy0xwqgclacfz7ngvmvzakk6gq4i6x1q5xpavzgc7pd"},
 {"v":"0.1.0","e":"^1.94.0","h":"16ciq5c6j6nm3kx49akpli9v3s00c2dnkkpljfvx506s5il4akhs"}
 ],
+"mrsandv.spacehole-theme":[
+{"v":"0.1.2","e":"^1.80.0","h":"1q31i72slaqrv07c2z773rk689546k7lyd9k3x125ksw6nmmp5ga"},
+{"v":"0.1.1","e":"^1.80.0","h":"04xq1aq0pgrhfj814fkxjlvixlj2wizs2zxp1njsmckl4zab0a6k"}
+],
 "ms-python.autopep8":[
 {"v":"2026.4.0","e":"^1.74.0","h":"1rc0846alcqialaihlq22i0syx9036s14mqm5ybaqg6cb68kcmfw"},
 {"v":"2025.2.0","e":"^1.74.0","h":"18ma25r0ybs3dw905nif4li784fc958hpcg9g4m7bbaqfvpg0vwx"},
@@ -663,6 +667,13 @@
 "muchiros.attention-theme":[
 {"v":"0.0.4","e":"^1.63.0","h":"15wf0vfmcabz0js8290inmbfryx0l33pp9m98hgzccxzj0qwa3dn"},
 {"v":"0.0.3","e":"^1.63.0","h":"0dn8k9gh6r41hyigar6x0p3605fpsm2rl2npw2fdgpm4jd60fja7"}
+],
+"muhammadyasirismail.coppice":[
+{"v":"0.1.20","e":"^1.85.0","h":"1rw8xhwqs1i26wfr23l0xfvqs4z2awb7x3iiiv2qd2yhfff5mjzn"},
+{"v":"0.1.18","e":"^1.85.0","h":"07wshs6xaq1ic3jls5x7ms6d3c8zi547nhacvgwrly7n5h920g6r"},
+{"v":"0.1.17","e":"^1.85.0","h":"0z8cm2haqyhqin0zyli8hdfcczmf0g9wb3lmx9la2v7dpnhfccyy"},
+{"v":"0.1.16","e":"^1.85.0","h":"0ipbj9k1wfp2a63f2vy2290y6wqs0xwsgkqbildh6n49rw42rzcn"},
+{"v":"0.1.15","e":"^1.85.0","h":"0lss82j646ghm23vxb0k0fqy50i3fwhngrfwvnkw4vd0k64rhxyx"}
 ],
 "naxeris.archyne":[
 {"v":"0.5.2","e":"^1.90.0","h":"0339mk29fnwgpm8gqw30f76vgq236y9mwp1914ak6qz3r8bjchnw","r":true},
@@ -1010,6 +1021,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"00cjc4bv5whwlq2gbkv230xhfwk8zskvwipf2v7d0ar73f1zbard"}
 ],
 "waterproof-tue.waterproof":[
+{"v":"0.12.0","e":"^1.73.0","h":"1q4p29r29rqqvlg8wz4b4rigd4pkq90xf829490aqk1y64w9k74k"},
 {"v":"0.11.0","e":"^1.73.0","h":"1vg1fn7nd9ry0z0xh710l6zj8sw47vkiw19gc1bka1x8svp171hz","r":true},
 {"v":"0.10.1","e":"^1.73.0","h":"1fp1wd7dg9x1fzqh4kk4clahjpln87s298h8gam466bcvvvcdq34"},
 {"v":"0.10.0","e":"^1.73.0","h":"0gk5ac1hkkhxpqm33z377vn98fc67pk14l0c7lf9a6wsp4mlqxd0"},
@@ -1037,5 +1049,9 @@
 {"v":"1.0.2","e":"^1.105.0","h":"0wwwicqjkcngxmclbsmd7k0pdy9vvm0nfih4psfh5zcafa3a39sh"},
 {"v":"1.0.1","e":"^1.105.0","h":"1kqglq3xn4k0cdixb4yxs1spqhdh7v6201c7c7h6qcsvy7q45cry"},
 {"v":"1.0.0","e":"^1.105.0","h":"10fi86vb0w95ql7r5wk1hnhl8xavp839c0gwwc4ywbc815dkad9f"}
+],
+"yukina.alpenglow":[
+{"v":"1.0.1","e":"^1.100.0","h":"1iwh5jd34irjcz02n3ln14nzc71cid4balygn83wyw4pliig9lr6"},
+{"v":"1.0.0","e":"^1.100.0","h":"0c198mjlykils7d33lhzn282b0qbwqzflrvx4d3nl9z1xwb3cdpw"}
 ]
 }

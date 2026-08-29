@@ -47,6 +47,7 @@
 {"v":"1.1.0","e":"^1.42.0","h":"10k046nrnlgzd897g85z7g5m7byfr0p2gryn3l2rw4mvpvhyn61w"}
 ],
 "anan.jetbrains-darcula-theme":[
+{"v":"1.3.6","e":"^1.55.0","h":"0jcica56fx4rr36z1w0lny3mll7wbhzbxxqmh81c7v5x4k6jqi6h"},
 {"v":"1.3.5","e":"^1.55.0","h":"0wiqykl2jfxrmdi2b821ridvihlzk3mm5h49k6jwnqsq3kx85r9r"},
 {"v":"1.3.4","e":"^1.55.0","h":"1mhw5irgizlashj538jkzqy6mxgj885qv2wgw93rfl1gizdly9zi"},
 {"v":"1.3.3","e":"^1.55.0","h":"0kkzyq40kiqwf8xsq98d3w4ylywg9gcbzhkk3ck0akxqz0cgap3p"}
@@ -200,6 +201,10 @@
 {"v":"0.0.9","e":"^1.99.0","h":"0zb4wi7hpmh52hp8p935wi4lwwpabr26aizcmk22ma8wnjk21hji"},
 {"v":"0.0.3","e":"^1.99.0","h":"0y8pi2mkbkyl631iqyapj6sv1s7kmfm7r064a6ri1iqpzwiqv9x2"},
 {"v":"0.0.2","e":"^1.99.0","h":"0yfbiiaw27556izfb2jr79x64bwrnjgcp76s8ay5hh9s0aizhkvq"}
+],
+"eliezerchavez.ec-brand-theme":[
+{"v":"1.0.1","e":"^1.80.0","h":"1vyn6rc2x2zpj4x54m460i989s70zx0dkxcr3zbs20hdq9japi3z"},
+{"v":"1.0.0","e":"^1.80.0","h":"1fhhgd8abg5r7zvkim3bxpvr9x584zgz6y6lr2hq8v4b6rkj5kxv"}
 ],
 "emilhvitfeldt.quarto-extension-helpers":[
 {"v":"0.1.0","e":"^1.85.0","h":"1qkghi01m97zrn7zldxm2yy1gw4z5pk8dxap9dzmvmvqzgvbnhhr"}
@@ -636,6 +641,7 @@
 {"v":"0.1.4","e":"^1.75.0","p":"linux-x64","h":"12vyxix8pgf7m0aq5k6jipas5d3vjsw351r121fwg2xb60s77wii"}
 ],
 "pablodelucca.pixel-agents":[
+{"v":"1.4.1","e":"^1.105.0","h":"1vrv0cdd34dkvddw74gmd725vpaq3aw28vb7m2w1rqdh0gr58drc"},
 {"v":"1.4.0","e":"^1.105.0","h":"0f3kpc131cn955mpvak84ap96l0msxk8wiqs9isqwylx8vk0mp5n"},
 {"v":"1.3.0","e":"^1.105.0","h":"0w5l2xxgn697j390dhkzvr7zcix55pd5q0ylid9a5bvzdx132psc"},
 {"v":"1.2.0","e":"^1.105.0","h":"18gz7mxhdhda7pil1489fzqfx7g4m3hpyw74bb42zzc1n6393qna"},

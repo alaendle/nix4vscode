@@ -404,6 +404,7 @@
 {"v":"0.1.3","e":"^1.74.0","h":"1l0j2vzk0qsad942v7slh58k50pz6fb775mmdin9wrnn096fbd65"}
 ],
 "ibm.zopeneditor":[
+{"v":"6.7.0","e":"^1.102.3","h":"162hcih25r96dwf5kwjr5qx7hzpciqgnz3s8rnifrkxnhkaiv81a"},
 {"v":"6.6.1","e":"^1.102.3","h":"0q0lbymbnqk2lrh80an752hdaqj635i5wlpakk1xqq8j14jjw8hc"},
 {"v":"6.6.0","e":"^1.102.3","h":"1j1v9vdzbbrz2frcs2dg6pqhj5pr022cfr08q9vqwq3mbi0n5k25"},
 {"v":"6.5.1","e":"^1.102.3","h":"11l5rqf05chw75j2xhnngayikcizkkdb98wlpkpv22pkpmhsmqa7"},
@@ -684,6 +685,8 @@
 {"v":"0.2.1","e":"^1.74.0","h":"0l7dpz7lymw89b5fbvvvb26cvmwc8y5c6v9fnddxd9k2wa3jcq64"}
 ],
 "modiqo.rote":[
+{"v":"0.38.5","e":"^1.85.0","h":"1a64f63lrz8i081pl5pvajgxwzacrwqpv6cj8vpdcggwcncjw3vp"},
+{"v":"0.38.4","e":"^1.85.0","h":"1w2g055dcsbzr6a7y8xx87vv0slrais0v4f4hwzx775lpc4rycwy"},
 {"v":"0.38.3","e":"^1.85.0","h":"1yhyybnnk83zw72j28zpdnk3kxsarbn3mz4m1ii2aldd4yyyc5sq"},
 {"v":"0.38.2","e":"^1.85.0","h":"199xijvadp9sp8ac77gcl39gzjgk1igwzyhabclva3f8rx3cmgwk"},
 {"v":"0.38.1","e":"^1.85.0","h":"1hdy904g6pab2jpia6cpxfa1kzjiil8wg6lffjw38s7fn84kzrfc"},
@@ -747,6 +750,12 @@
 {"v":"0.4.0","e":">=1.85.0","h":"0q78nvngip2hm8vgjdys004836lpamprkjvkpc4h7v7xir0b3nk3"}
 ],
 "nicolasvuillamy.vscode-sfdx-hardis":[
+{"v":"8.3.0","e":"^1.95.0","h":"1l1ilggzj8cvccnyc5nqn1sd0zij5gif11wfqpb9by0xp96skydr"},
+{"v":"8.2.0","e":"^1.95.0","h":"0bncsrwdiizilglf829hh6zs0cl65ww9z7i6lq9r1rgb5g25v3hh"},
+{"v":"8.1.0","e":"^1.95.0","h":"1fwhkh9l5vlq83wfa451n13qv8vwvvaamzhv3hi06bs0gbaqi5f0"},
+{"v":"8.0.2","e":"^1.95.0","h":"0ppdsm9yx4i51fscmh4vwacl3wjsqkk58iz2wfqc0dkd8axgk09a"},
+{"v":"8.0.1","e":"^1.95.0","h":"1vy1prz3byia2ydf5nsni33cbvj9bppwixa9prvdki4lnkpphxwn"},
+{"v":"8.0.0","e":"^1.95.0","h":"0scs422ajhkw4qwrxzglg2d0r0yyw19mcp41hcf3hzh71rv31y6d"},
 {"v":"7.18.0","e":"^1.88.0","h":"0b5n1bin7rwdd23zsf9vz06fms8w897hsjb2s0ajmmdmfzqyybnx"},
 {"v":"7.17.0","e":"^1.88.0","h":"0z92s3pkkphl2437cdlp0j05588fmsfwzyvf87nsncabs9xnfs7h"},
 {"v":"7.16.0","e":"^1.88.0","h":"0vc8nxz1h8mrx4y5qavhi0ifgg3zyvbq7qp7i5nhrcpymcy18rf2"},
@@ -1042,6 +1051,9 @@
 {"v":"0.1.0","e":"^1.83.0","h":"027rcqjln6bm9ljg8mf65a9lmwl3808a5snv9as2n6zk4cqg4skq"}
 ],
 "salesforce.salesforcedx-vscode-apex-log":[
+{"v":"67.14.0","e":"^1.90.0","h":"0pwgxs94d1yx3mmrs8ggm0r5mkhmmliy91714cd1vlwby5l9m4pj"},
+{"v":"67.13.3","e":"^1.90.0","h":"0hfj6rrfcxsl9kljbifcsszr7gmchbx3mxlg0gxixxl1k17n5rkk"},
+{"v":"67.10.0","e":"^1.90.0","h":"11wnql6cx1sv63wkxgk9f0nq0mll2pwz84vp17i0cms3wgdj5333"},
 {"v":"67.7.1","e":"^1.90.0","h":"0qfjmbyq8cb87jg08jnrxjnws0l5m71hi0bc42kdw0v88kh3nxsm"},
 {"v":"67.6.0","e":"^1.90.0","h":"1fnknbx0q906wfcn20scgkvzxnp6vsv53nn6igchfckhfiw19655"},
 {"v":"67.5.0","e":"^1.90.0","h":"0lv4csiihap3ly26bd9g17q9j24w9yl2hgilimq17r4f4mxlsl8y"},
@@ -1270,6 +1282,7 @@
 {"v":"0.7.0","e":"^1.85.0","h":"00gqf0x74q5w3gj7gx29d8mcb0vj96jynv7pd79yr189551smjf7"}
 ],
 "thenestruo.hexeditor-with-colors":[
+{"v":"2.1.0","e":"^1.89.0","h":"15mhqh6wq7pczs9ml0bkny2g107wdqm6fv7v2sp177sdyaqsylg7"},
 {"v":"2.0.0","e":"^1.89.0","h":"097pgr07jwyb691b4qajsci8h6aqc6pknbq2215pq2bycpgx0n7v"}
 ],
 "trevsmart.salesforce-org-quick-pick":[

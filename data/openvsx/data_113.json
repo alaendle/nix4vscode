@@ -944,6 +944,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"0sl27w60v89wh9syvn96axsqis9xqbnvrdyqp3c91qj1rfnv7dvz"}
 ],
 "jyaoma.lsl-lsp":[
+{"v":"3.9.2","e":"^1.75.0","h":"12xqzplxndd6hizqa6m2x7y97wj5sy0ayai07prwqwgvvp7akka1"},
 {"v":"3.9.0","e":"^1.75.0","h":"017446scxsnbhixgqm3jqbjcx392h4qj77a2qb4z64fmlk5f1zlh"},
 {"v":"3.7.0","e":"^1.75.0","h":"0h7sigxikxfq537gxgs7ghwcwh39p0a9w5p421y2m012vx7fbzhf"},
 {"v":"3.2.3","e":"^1.75.0","h":"026dl8mcd342yf1cla4vd2j1zq34cjhz841x9bzd89y2rl8zpi4v"},
@@ -976,6 +977,7 @@
 {"v":"0.0.1","e":"^1.120.0","h":"024xk9nvlkkg5fv0p1qk19gvl00qzp4qzn3lx17prklkdpzjd992"}
 ],
 "localkeepai.local-keep-ai-cursor":[
+{"v":"1.0.2","e":"^1.85.0","h":"03xx5lc57ljf6b0ch7xgf4zva3ygaqk43ipf0i7y2cz9s0c7sn6g"},
 {"v":"1.0.1","e":"^1.85.0","h":"0r4am9rl0i3qaasmgv4q1sfkfrn628jjqwlalks1cvzsfwmqcc04"}
 ],
 "lucasprag.dont-git-lost":[
@@ -1512,6 +1514,7 @@
 {"v":"1.9.0","e":"^1.98.0","h":"1wnsw8zynxfklhmvk3kqlasqsjhyarms5fn1cjc4m8qic58ml385"}
 ],
 "streetsidesoftware.code-spell-checker-canadian-english":[
+{"v":"1.1.32","e":"^1.102.3","h":"0xxff2dcf6py3w6279wlnpf20wg4ql18d72rrv8hsaihnlzr0qrg"},
 {"v":"1.1.31","e":"^1.102.3","h":"03hpq1c5gh1lz0mdi0qbfjx80hd990wcg2wpl65s061isw3qjfqg"},
 {"v":"1.1.30","e":"^1.102.3","h":"0830hbsjk009jyxkbj4pq5hjv811vw9jrvlj1kh527da2b9vy3kf"},
 {"v":"1.1.29","e":"^1.67.0","h":"02sh7skbaj6cxawc7pl2253vzbkqkfd6sfinl0paq8kacqywsswb"},
@@ -1554,6 +1557,7 @@
 {"v":"2026.2.2804","e":"^1.95.0","h":"1nzjmj8flww4bpg1scyc94wrqqrlwv53jyzxa1snq5106y6zy99d"}
 ],
 "svelte.svelte-vscode":[
+{"v":"110.3.1","e":"^1.82.0","h":"0qaw7p2zg3jzvvcqcmc8hdbvlrnf8daicsxddcm49db0c1wwk3mg"},
 {"v":"110.3.0","e":"^1.82.0","h":"0mvsw37rmbgnz8yxbz5xb7gqj2g67k0v25j6kjr88xzaqj4f9w4l"},
 {"v":"110.2.1","e":"^1.82.0","h":"0m4gyvglzcm8danfq91gmi4x4b8p4h7370vd252mm2bhi7z6w82w"},
 {"v":"110.2.0","e":"^1.82.0","h":"1p01bd0pbdngrjr5y574g5pa69md9w6x24ps6grisjy96zapzdhs"},
@@ -1999,6 +2003,7 @@
 {"v":"0.23.6","e":"^1.51.0","h":"1ylf4w52dali1q2svn0jw6llf6rqxxihk88nhh16v3n3vmg0gkzd"}
 ],
 "typed-ember.glint2-vscode":[
+{"v":"1.4.0","e":"^1.108.1","h":"0iwnzhxz5dfwvwfja94sah3akw96r5hqxljvazwwn9hzgi31ml5z"},
 {"v":"1.3.1","e":"^1.108.1","h":"094290ymsamcgnjsy6ymwhvhvk9y991ix4wgqdz6gy2sdyliv4hd"},
 {"v":"1.3.0","e":"^1.108.1","h":"186693v6g5x3jyq7k72l30snnzc5daa5lc7rph7ajj9ljsrwn4pp"},
 {"v":"1.2.0","e":"^1.108.1","h":"1i6jppwxgx1ziwbvvy2zwdyf0hfy23f2c85fgrqdma7rxwfcqwxn"},
@@ -2101,6 +2106,12 @@
 ],
 "xxxdeveloper.vscode-wa":[
 {"v":"0.3.1","e":"^1.90.0","h":"1yxzy9mbb668rl46a6lga0mvrsaxixk8g6i4j90nc6wmr06f107d"}
+],
+"xyu-dev.auto-bracket-closer":[
+{"v":"2.0.0","e":"^1.74.0","h":"0hy1p2s66crr3fvyfvwq9bj9p7dbrq8dha576gwyia4rilcficpv"},
+{"v":"1.2.0","e":"^1.74.0","h":"0gs7n7f6b94qffvq18bfrdgjlmxmlw29ni3sdsidrak3bf5zfif5"},
+{"v":"1.1.0","e":"^1.74.0","h":"1hcwyribbawmbz8rkiclr0bbjrhhg9p0jmi71fw1dvmzad4qzdrj"},
+{"v":"1.0.0","e":"^1.74.0","h":"02whdvj7zggr9fmmywjxj0an6l7j0sc93zg796cjfgqkq4n89jqp"}
 ],
 "yanghuiweng.chatgpt-ai":[
 {"v":"0.8.3","e":"^1.73.0","h":"1afh2925yw5hgh4xcrip11b7gg061wgpg21kmr39104wgdi7n0ls"},

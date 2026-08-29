@@ -171,6 +171,7 @@
 {"v":"0.1.7","e":"^1.85.0","h":"0mjx6qh9f43n6pdnh0rn6vxv09facbl2y6268yzgf5ngk63fd3fh"}
 ],
 "calkit.calkit-vscode":[
+{"v":"0.1.10","e":"^1.95.0","h":"1vx6cm30l2kvr2g6i1axkfd4213ypfs1r4n85ax1b0md62m5dx7f"},
 {"v":"0.1.9","e":"^1.95.0","h":"0kd7va3r33zj6pxfjdq79077kyn6arafc73aq0aarq4mgyjpqh4h"},
 {"v":"0.1.8","e":"^1.95.0","h":"1w752adzqg77gy2m0bdhwzamy96zczfqykhiggjk6aqvhn1wzm82"},
 {"v":"0.1.7","e":"^1.95.0","h":"1y57l4357bprwd1g5d8wal52p3xikm1q1xviv0rvgifn0mhr2dqa"},
@@ -468,6 +469,7 @@
 {"v":"1.0.0","e":"^1.27.0","h":"04yrczai5vrfbn207hfvjzwhd5k8wwl3gi6gr4qhb086dcc0pd96"}
 ],
 "ianandhum.protobuf-support":[
+{"v":"1.5.5","e":"^1.60.0","h":"0177w5mhxd10k8rkhvd19apx0zhk325mm8p30n9ln526knhlrlk0"},
 {"v":"1.5.4","e":"^1.60.0","h":"0krmk6pjjr6191pkz1ya1w1rkj37hklp4mxx8wc82780afg16i1d"},
 {"v":"1.5.3","e":"^1.60.0","h":"08s9a0xpbix987svqlg8vbbf71fjv938r7z67pnv20sw1a4wp0kl"},
 {"v":"1.4.2","e":"^1.60.0","h":"1ggs0k1asr6wfc4kk1bnwcnm59dgszhfx17hiv3a32sr1cy0ia66"},
@@ -951,6 +953,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0h3glvs1hr9bp2nq3fa8bs57g5ny5clscpc782ybvj91gyrycxs5"}
 ],
 "openubmc.bmcstudiolocalview":[
+{"v":"0.0.26","e":"^1.107.0","h":"0dvkbdaavyyjlz45gwm4ayfn2gxdz396sb5qx2sxl374jgiwk5dn"},
 {"v":"0.0.25","e":"^1.107.0","h":"1av5m7x5rffx149rm3grj5c31p5njf8pxypycwxxb32a6hryrc52"},
 {"v":"0.0.23","e":"^1.107.0","h":"0a04gqvy29xyh1wnaad7kk30y9wjlxysgr4svbh4wzqwri90sspx"},
 {"v":"0.0.18","e":"^1.107.0","h":"09nbdbs7pgszg4k8yrs0ib53mhbjzh3ndwbkhj251cmxizl348ap"},
@@ -975,6 +978,8 @@
 {"v":"1.0.0","e":"^1.93.0","h":"074rfwpl3si176161zk0bssxvpzy7vcqn7s849j016gvq7j72m59"}
 ],
 "parktaesoo.ltcai":[
+{"v":"12.2.0","e":"^1.105.0","h":"07hfil63615qxvjjnajkvmd8xfwyz9qcy15n0gs1v5al5yskahis"},
+{"v":"12.1.0","e":"^1.105.0","h":"1z039jpp42a7f1pp3803z5x803ccc9fm6wfy2xjqabxvrg51lx6v"},
 {"v":"12.0.0","e":"^1.105.0","h":"122d64l4b783krxznck5a98cx5lkb5sling1pwzdwlfq6xnnlvqd"},
 {"v":"11.9.0","e":"^1.105.0","h":"0cg3vrbqbb27qgb12h4jc52d4r6ab6dz29xypyrckd3bf8bisimk"},
 {"v":"11.7.0","e":"^1.105.0","h":"1jj88j0r7ajkkp7c7himh76wm9v8sgc7ykrlkhdnkak8204jfmwg"},
@@ -1147,6 +1152,8 @@
 {"v":"0.0.1","e":"^1.105.0","h":"0b9vjb6ai63g7f8n2s8hyz5zv0wlh9qg6p2xwdm2wz257qaqb7bp"}
 ],
 "redhat.devspaces-remote-connector":[
+{"v":"0.8.2026082811","e":"^1.107.0","h":"19a75vzar7dg3z5nyjlfnxlz24g2hrfvxspzcw9ffn1ckjqbq04k","r":true},
+{"v":"0.8.2026082508","e":"^1.107.0","h":"1svglbx90xsawwbfrf53vrnn2fhv6x2d5bisikgyj65abl294gmr","r":true},
 {"v":"0.8.2026081308","e":"^1.107.0","h":"1x1iqfrbnlpvr2jcr0rf3bgcwcdpwkq0x7p45wvw0zz20k18lkpm","r":true},
 {"v":"0.8.2026080708","e":"^1.107.0","h":"0hbr5i396qrg68arpyhzl47hnd4ilfgdvrzqy4i20x0kak79lldi","r":true},
 {"v":"0.8.2026080108","e":"^1.107.0","h":"1d1czcdkzb0rp5rx0dkvfzank5z9b19g0l0fxcbhskm4k1ahkfgz","r":true},
@@ -1173,6 +1180,20 @@
 {"v":"1.0.2","e":"^1.75.0","h":"01bba5v1ixky4pnggs3iaa171sgfl9v09zcnh4qyzj20clkrwmvf"},
 {"v":"1.0.1","e":"^1.75.0","h":"0m06svi80c218z2p5g8q9ajrlgz7rcr9g7wcmqmpvngjl6pzjlah"},
 {"v":"1.0.0","e":"^1.75.0","h":"1znj2f77l42x45xshvxsjgswd900xqj2ygcnryydsd0r5vqn6ya9"}
+],
+"ryanlockqr.scratchpad":[
+{"v":"0.1.11","e":"^1.85.0","h":"0v7h4cwb6a6bcn8nzilwlkh8vbxflviwmp6dcll0qj1fvw6kb5vn"},
+{"v":"0.1.10","e":"^1.85.0","h":"0f0p8qg55lx91wpk3byvnqxhw0vr92nqxzdj4w77nvvmzsk8jjmm"},
+{"v":"0.1.9","e":"^1.85.0","h":"0gazh0ihbkca05p9a95bjxj9kz4qf21skkgq8hqk4zz2a7xhv3b9"},
+{"v":"0.1.8","e":"^1.85.0","h":"18m3d6d5281d1dbvzyfqkl67m0gkkljb262394qm19fn1rkbp2kh"},
+{"v":"0.1.7","e":"^1.85.0","h":"0yq46vjvgcikfsl7s7pn6ywgb3ywm9azhifxiw8j85mv027vkriq"},
+{"v":"0.1.6","e":"^1.85.0","h":"0fkyglkj4qnm3x5aq9xck2k2gm10j012a7fdv37p4v7slb8lr2ix"},
+{"v":"0.1.5","e":"^1.85.0","h":"1qjz1wlaf172v6acdbha7g595q4v7sv9hx0gl33bv3dagqyw1nj3"},
+{"v":"0.1.4","e":"^1.85.0","h":"15z24xjrl99skf1hayspnd9b3jh9i75ppqfggxf6q9srk0bvsyrv"},
+{"v":"0.1.3","e":"^1.85.0","h":"1kv87q7m545sh2pnjb81xzqa2sgrcmx60ms7knbz67jh7pjis8qr"},
+{"v":"0.1.2","e":"^1.85.0","h":"0lwspwn65fngzrqwbr0m099z78cz766c1hasjg8cgpnhhh4hv6dk"},
+{"v":"0.1.1","e":"^1.85.0","h":"0i8m71f8r9lawvwjy53nz4xwch82552kfnn1hgaqj0zchacr2ddg"},
+{"v":"0.1.0","e":"^1.85.0","h":"0badhi99gkxjlakwlb08p3sz2qwgj2d0sba6pjwpq8wd46kg79sd"}
 ],
 "sajanrajbanshi.ai-undo":[
 {"v":"1.0.0","e":"^1.80.0","h":"16s1aszkzydrwny91hzr0hqf4ffn17mgij1srwh86b4nj50gnjvg"},

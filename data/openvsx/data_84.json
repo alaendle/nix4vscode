@@ -12,6 +12,8 @@
 {"v":"1.1.0","e":"^1.44.0","h":"00lkq43sb83fy9c05xm8z5z120yhv62km6slwk3899w4q3rqs6xb"}
 ],
 "ahmedhatem.kintsugi":[
+{"v":"0.3.1","e":"^1.85.0","h":"1s7brrhjwsh54dx9rk2xw1cp36zp1zxf0xw7w3lykv60a1r6rapj"},
+{"v":"0.3.0","e":"^1.85.0","h":"16pm11q268sdrk293wncy2l5llvlwnxq04r13sidrb2zgnkgc6j3"},
 {"v":"0.2.1","e":"^1.85.0","h":"0dz2pb3dcflkwk8qyycmc57i507q0m8avb31dskm8fz27a0iq3k0"}
 ],
 "ai-driven-dev.ai-driven-dev":[
@@ -486,6 +488,11 @@
 "karthikdasari.pdf-to-markdown":[
 {"v":"0.1.1","e":"^1.85.0","h":"16h72a47jnq0r1xnv3irsgslny4g2c08fca4mwliniq6ljr6i8w6"}
 ],
+"kethirabalan.quick-api-extractor":[
+{"v":"1.0.2","e":"^1.85.0","h":"097qh8rbkb8asqx97h75g20qfggs7aqjs7dk64h6hcvkd08lkiyj"},
+{"v":"1.0.1","e":"^1.85.0","h":"0nv3am9hp3bjb6vnf0fh1z64vi07w09kzwd4kx24v45pv0fl8rdy"},
+{"v":"1.0.0","e":"^1.85.0","h":"0d1x8m6miqdd1sm0d3k3gzlmasga8jah920awsnn6wjdmml3rz33"}
+],
 "kleinesfilmroellchen.serenity-dsl-syntaxhighlight":[
 {"v":"0.3.2","e":"^1.58.0","h":"10ylg2q0bmimdv4ww8cal0wfx69vdlawyrp9fnlv1zj8vw1ndmgb"},
 {"v":"0.3.1","e":"^1.58.0","h":"1ygknbf0sjnpsj66d5rhd61j7km3cfkn3a6adqr502wxj30gs8gb"},
@@ -497,6 +504,10 @@
 {"v":"0.1.0","e":"^1.58.0","h":"0gpg12c6jsiihybdg9vj6sbszpmw1ds7li3w1p75dqq8r6lw6sf6"},
 {"v":"0.0.3","e":"^1.58.0","h":"0dc6jyrxp5sy8005kv28h946g4zvprhzda7byjqx5z98w5591r5p"},
 {"v":"0.0.2","e":"^1.58.0","h":"1c4grvwd47vk6ca0srb6yzqcr9q7x1nswviz6wdg3wkz5xw8vsyk"}
+],
+"kylemonette.texptxsnips":[
+{"v":"1.1.0","e":"^1.125.0","h":"05cckrksryiz11j3xv4xznjs4454qapjkch7yr7ljm9xmsx994z6"},
+{"v":"1.0.2","e":"^1.125.0","h":"1vxvhj4rp6pxz1lhw6hhqa9bgjqxbn4ksb87sy7q8zv7ncr6nj26"}
 ],
 "laurids.agent-skills-sh":[
 {"v":"0.1.16","e":"^1.85.0","h":"0zxn3cm82y2hi57h2s9ygz1r51rj3svnpvy3mpvkmmf7ibg3kl2f"},
@@ -542,6 +553,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"0hfq0njv66r8r2asa8rckys9628346id4ykmwcwm3vh8k0nx4rra"}
 ],
 "liuxy-cn.preview-everything":[
+{"v":"4.2.0","e":"^1.64.0","h":"11wlyiay691jsspp5kc6lzpg2a7l7pbplalms5jmrlzzcbip4mpq"},
 {"v":"3.7.1","e":"^1.64.0","h":"1njpdg5m3xwwab5lsi59n9wmh213b8xqn5303x174mqv0jw6xkw1"},
 {"v":"3.6.2","e":"^1.64.0","h":"1djxwviysl8dp2jszs48q24n3dp5vd41i2v82mmgqkah466kbwp6"},
 {"v":"3.6.1","e":"^1.64.0","h":"0hbwapcga83pgzb6r4k64m3rd6j0vxyc8kghvvdp35gs930czcdf"},

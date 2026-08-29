@@ -320,6 +320,7 @@
 {"v":"1.0.1","e":"^1.78.0","h":"110r1xn6910shhjfxwvjn4glxlrhp0av7f2i74rdqx9lh5hhx00l"}
 ],
 "auaggy.markdown-pdf-revived":[
+{"v":"3.0.1","e":"^1.109.0","h":"0rcqqcjdk5lnsbkqg5hn83qhwb2bp8d7p5qz6hwnlf5f0hddh7lx"},
 {"v":"3.0.0","e":"^1.109.0","h":"1pdm5fhridybh1bi11hjd0b9r2ns3n7knv0abiwvbnjyzvm7a637"},
 {"v":"2.1.0","e":"^1.109.0","h":"19ac69r38psh4pihg72y3r2760hc067n8m7n5zlbgwah3fhjw462"},
 {"v":"2.0.1","e":"^1.109.0","h":"0b0fij12kfrqmwclh0dvfhr82kf2mag60mdrblw3y1r31xmi5jjd"},
@@ -493,6 +494,7 @@
 {"v":"0.10.21","e":"^1.26.0","h":"0x0fwx0jivkrxqg7w7w131cbav40zkjjxihih3hh9dmmdnkyfh9s"}
 ],
 "dbdiagram.dbdiagram-vscode":[
+{"v":"0.4.0","e":"^1.95.0","h":"0sn8rddimzsxzagw3sir6r93h8fzj2bd6afhiq3lpn5z7ailg7wv"},
 {"v":"0.3.4","e":"^1.95.0","h":"0m0kfw8qr6kq5jainxi06x9yxgn7w213wdnm396man66vblb40m5"},
 {"v":"0.3.3","e":"^1.95.0","h":"1vy2497v4i05x1i115vipnsjq7n6m148j31k78yc72rws3bnsc35"},
 {"v":"0.3.2","e":"^1.95.0","h":"09m2sy7q1mc6q6vl9kpy0h6qp4f4a8z0r4v60mq6ahxhnrjkhpha"},
@@ -838,6 +840,19 @@
 {"v":"1.2.0","e":"^1.77.0","h":"1rrjd8bal2026s2zwawdvj52f26hy3qkywazw6vxq130yjw4vhky"}
 ],
 "jakubkozera.csharp-dev-tools":[
+{"v":"1.10.15","e":"^1.100.0","h":"14lj3avw9y2fz5k6sd0wcyjnfhc61140395mq8djjnd93y05563j"},
+{"v":"1.10.12","e":"^1.100.0","h":"0pawdvah4ispi6anmjk5zcgmsq7z4cm1rjjl8qa5x5y2axlpriin"},
+{"v":"1.10.9","e":"^1.100.0","h":"0fbnlk8h3czxh0x3h1n6f681l3gr1f13pg9wj55fh74v2v4rs12i"},
+{"v":"1.10.3","e":"^1.100.0","h":"1vajjw6al5rwravlwh5250k6324iriscagjbz3zfgyj2ihfrkvic"},
+{"v":"1.10.1","e":"^1.100.0","h":"0vi37qgn4w7rca4ny8cpi3vldgjr0195p6kcxjdzjd53l10zl8sr"},
+{"v":"1.10.0","e":"^1.100.0","h":"049xrrg0ns7slxxyhlvn5xjmdfd0k727p67mrpp2d8rrw0p6l6ng"},
+{"v":"1.9.11","e":"^1.100.0","h":"0z2i2w3zxvlii9rh57gbiyi2k4cn6fgj1mrvyaqyjbjz1lkc4qq0"},
+{"v":"1.9.9","e":"^1.100.0","h":"1jx1w6g5b9kicdkryki89kqbfl2l3blimwk3c5gl0xirknhxf12s"},
+{"v":"1.9.8","e":"^1.100.0","h":"16fb3mr40593gpdykc9zmmf1xhyjcwd5pq14qmmgdx99b8cbhi80"},
+{"v":"1.9.3","e":"^1.100.0","h":"12mr04m7bqv5adbgxkddksjpg4wi81nagk1s2c07091pjfaarnr2"},
+{"v":"1.9.2","e":"^1.100.0","h":"1maln3qia0sjlk9bl1qbjq8f2hi6asy2y00kh62220iwli63sjas"},
+{"v":"1.9.0","e":"^1.100.0","h":"1qj9hm15yyz04201fzikjjrzy7awrjgz4yy2h6aficfvm2z17mxp"},
+{"v":"1.8.5","e":"^1.100.0","h":"0chjxkzmp3w8hsyy2r8yr46kzv23v2rj1pkrrr51pmhv3199ga4k"},
 {"v":"1.8.3","e":"^1.100.0","h":"1zfyhr172c3dhmjp6g5y5yn25azcr6i9bgqh56mmizyy08nxgm3j"},
 {"v":"1.8.1","e":"^1.100.0","h":"1sbdzibvhrjna980jxxrpwdmbkppi42dhhbf3cyjxln8z59y6659"},
 {"v":"1.8.0","e":"^1.100.0","h":"1j0dhwqadh0rb4bv7ldy2ja7cjciz5si45cq88x6av9vg1q52k2w"},
@@ -4319,6 +4334,12 @@
 {"v":"0.0.6","e":"^1.107.0","h":"1jlarvb8i11a03ic6iibfjjc104v0ycqlya0cyx0irb3hfxml2cb"}
 ],
 "markdown-collab.markdown-collab-plugin":[
+{"v":"0.34.86","e":"^1.80.0","h":"0w4d677xmizi6k1vbhafzw470659my90nz039pipcv1925zwwibp","r":true},
+{"v":"0.34.85","e":"^1.80.0","h":"0jc1jx5ss3vrvf80bljgs0m7vv476dsslj69d7zgwmyvpn4wi3v5","r":true},
+{"v":"0.34.84","e":"^1.80.0","h":"14ikhlg627q53g397q6qfmny3q9h9bxjz7izzycgs8b21v4ynqgl","r":true},
+{"v":"0.34.83","e":"^1.80.0","h":"01h9cb3jbc8kachinlnwj3vc9p2aamj4grj38m61xq7m4yv67vn0","r":true},
+{"v":"0.34.82","e":"^1.80.0","h":"111czg11cfsikivmwfrhr5pkfrnwvda9255q79i58djgn628bwsk","r":true},
+{"v":"0.34.80","e":"^1.80.0","h":"0p1hn6gp196plmwiwiihpx05b0y5qb7lx09lqf3y2jpziaqsygq4"},
 {"v":"0.34.39","e":"^1.80.0","h":"0d0aclrv7bc96pvxijvpkhysffw67s5k3gaz1f0fsj2ndy05xfcq"},
 {"v":"0.34.37","e":"^1.80.0","h":"10w3f4a4hzqqc1r8hmrzg88bp4ilgsyb4fjx5ag8wnkk3rnxmpbb"},
 {"v":"0.34.28","e":"^1.80.0","h":"1rcn67zs822pv8cfc2r552x5pqfm3db84jwp8v9svfy96mn3k1il"},
@@ -4417,6 +4438,7 @@
 {"v":"0.5.0","e":"^1.80.0","h":"0vps93iw3sg1blr81c0c12ydkmq8czvmc0jjkmxdz71wn1q0adg7"}
 ],
 "oryontechnology.oryon":[
+{"v":"2.2.5","e":"^1.93.0","h":"01zzb6ix9zcsb6lz9zxzd2h9b4jq2scz92my6hffd1a6rv1m8qq6"},
 {"v":"2.2.4","e":"^1.93.0","h":"1a6zxa5kyvdaglqqjwcns4lbdkp66bdb69h3xni9vshwalxl1v90"},
 {"v":"2.2.2","e":"^1.93.0","h":"0vcq51svahy6pca3kxbh2431nngd412ibhbhpgazc4dbqvcgb4nc"},
 {"v":"2.2.1","e":"^1.93.0","h":"0xv6ps49r6h0gg2qsk8w3nw34yhslpvarx45cr1p25cn3wvsrrqr"},

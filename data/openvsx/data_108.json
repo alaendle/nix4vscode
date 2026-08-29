@@ -79,6 +79,8 @@
 {"v":"1.64.0","e":"^1.70.0","h":"1v8ydiqfyp8lx1kxx2lcnr8m7rjjxc48j49mc4mrvk0wsbi4z07w"}
 ],
 "banlify.sugar-vscode-theme":[
+{"v":"0.27.1","e":"^1.40.0","h":"1szy4z24z9h766xvky68z5b36nlifsk7hzx7sc327g82dw8xdg90"},
+{"v":"0.27.0","e":"^1.40.0","h":"1b0x9nlclmdigzd345iabsqfa8fqm4qmga18687x5lnggnypccdw"},
 {"v":"0.26.4","e":"^1.40.0","h":"06s08jrx91jj7j6ma55ln47iakbh6svpqlwcknca6d3q7p1ma9ij"},
 {"v":"0.26.3","e":"^1.40.0","h":"1a3sayijnxy41xqhxyk4n9anahwxyy9c4ddwl4z3kzmv8fx0magn"},
 {"v":"0.26.2","e":"^1.40.0","h":"08czs01z02rn1l240gmsr4kiri1cqwfk3zhmkr2607dih5sh8sjh"},
@@ -150,6 +152,8 @@
 {"v":"0.1.0","e":"^1.85.0","p":"linux-x64","h":"012wyb9qh5f744xfnyrmx9x6dh496795c0h1zxhnch4v4hsbcv8a"}
 ],
 "crsx.ag-usage":[
+{"v":"2.0.0","e":"^1.107.0","h":"0hvqzsadca0g90c2rjik52i6kd9ijzqm02bi3scy67cj2c0hn116"},
+{"v":"1.9.3","e":"^1.107.0","h":"1iazibydgnblha703iya0f08lx113i946vm3gdii1gwn2s46phd9"},
 {"v":"1.9.2","e":"^1.107.0","h":"1wl2489i28lv4airf0g1p7q4ms0n6kk7shrj28d1ssji4q0ssrpm"},
 {"v":"1.9.1","e":"^1.107.0","h":"1l35pvmzv0g334z5a73dklr321i4r8b6nnj70qklla8mcs72gw22"},
 {"v":"1.9.0","e":"^1.107.0","h":"11h0bb28pakq7q8vs0r72c7x7wl4hvxly0irfx2swls3zq45vnja"},
@@ -171,6 +175,11 @@
 {"v":"1.2.0","e":"^1.104.0","h":"035gl7a2wi8n81jydl58hdac15p2y86nn96x8kna8wfav81s72xq"},
 {"v":"1.1.0","e":"^1.104.0","h":"1plw7i4v8n43dl5nvzgmzfg6xz3xkmlai84l16yhkwbrcw18990k"},
 {"v":"1.0.0","e":"^1.104.0","h":"1zbpmr9vwj9y6ahvr2zkz8pi8vg6wzi767h9xwamswnvpdp0ya22"}
+],
+"ctrllens.ctrllens":[
+{"v":"0.6.4","e":"^1.108.0","p":"darwin-arm64","h":"113svsvlrf449120qs3k4wnplparjm1zbhdg5nh2in3b49x6c6bx"},
+{"v":"0.6.4","e":"^1.108.0","p":"darwin-x64","h":"0zg4qgjz70jwkgk1ldg2363v8jsj6wpi7ylwi0r16n6m19vgnfj6"},
+{"v":"0.6.4","e":"^1.108.0","p":"linux-x64","h":"0pbsyl5ab6130js8sd8fa4w9k49n0a61aw4dg6jlf99sxfkcdbs0"}
 ],
 "danielfry.lume-color-theme":[
 {"v":"0.3.2","e":"^1.60.0","h":"1vln6hw2dp0fc9x9i096c9h3rj0m4prjs2jc8v88vc4h2a61ayrv"},
@@ -354,6 +363,7 @@
 {"v":"0.2.1","e":"^1.85.0","p":"linux-x64","h":"1d858a7z4w6fzh0bxpdvsdy5m9n3h751x9j2q2f354xk97g2jgs8"}
 ],
 "epochix.epochix":[
+{"v":"0.6.2","e":"^1.92.0","h":"16p5i46w49rmb3fh6iw5y00nrac6wdzv4yrlrbhyh125s8g6m8cw"},
 {"v":"0.6.1","e":"^1.92.0","h":"1yrfvc3pmvk6zh7i21mywkm8wxn0symjrvrxfwgz6pnxlp5aqvsl"},
 {"v":"0.6.0","e":"^1.92.0","h":"1izs82p2qc4pnxc3l1kxhs6v9kahnswi7677v2bc3l5qzcaa1cdk"},
 {"v":"0.5.99","e":"^1.92.0","h":"1m5arbg5xyqb2vrbh4lj7gmdaxnsxgp6jhxi6g4qn275yk0fszwp"},
@@ -883,6 +893,8 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0lzv64n0y7g1jfac0xh3wpqyd0d6d1qxvj6nvx8x7arh1hxp32qn"}
 ],
 "ms-ceintl.vscode-language-pack-pt-br":[
+{"v":"1.131.0","e":"^1.131.0","h":"1rsnf99qlcqp8vmcm6q4z4y4wkpy06ygg0pq0pxhrwg6g97ngk9i"},
+{"v":"1.130.0","e":"^1.130.0","h":"0gdan69svv9zwp4bf5dgr3wv691619lp84z129jb903hjx6wqrix"},
 {"v":"1.129.0","e":"^1.129.0","h":"00hmia4jxk1q30iqvrqsf4vh4psxiy6hxfllr5703pic16wb7278"},
 {"v":"1.128.0","e":"^1.128.0","h":"0v6n6mmy30zpglm6k949519x5cmp8n2kixicanp4mn29r0g7qw9n"},
 {"v":"1.127.0","e":"^1.127.0","h":"0azz6vhwl5gabjqsk6cw98kw3chawnrl2izb223s6rlc0mzhk9pi"},
@@ -1467,6 +1479,9 @@
 {"v":"2023.508.0","e":"^1.54.0","h":"15xngdhs7jcb202wxl9zs20rdi4m36mh9vdk3s3dri2kvp02kvjf"},
 {"v":"2023.506.0","e":"^1.54.0","h":"1mwfyms3k76mw7wyd4zpf3fs2wgkni4mv3z7nidrj11pfykbwmm9"}
 ],
+"preproom.prep-room-coding":[
+{"v":"0.1.6","e":"^1.85.0","h":"1921qpxfjhngzd9zi5rzw219g0zlwvdawx60dvh8r07wif4wlamh"}
+],
 "prisma-risk.cg-lang":[
 {"v":"25.1.5","e":"^1.75.0","h":"0pmr8lcz3zmbmvsy7bgi3ygggpi4qkydpl26kv0k54hh06iyr62d"},
 {"v":"25.1.4","e":"^1.75.0","h":"1i3374h5kvl9yv0g6jpg34akn7iz3mgz9f14pis3bfbh2d0l491p"},
@@ -1768,6 +1783,12 @@
 ],
 "stanislavyv.veles-dark":[
 {"v":"0.1.3","e":"^1.65.0","h":"0bfda438m10ic7gdc5ccw9r404w7fpg9593l5i7xjswbg476acsp"}
+],
+"stevevillardi.lmda-composer-vscode":[
+{"v":"0.1.3","e":"^1.85.0","h":"1kcicdz6v7p8n710nisxjswqdzmk694c8a464gwzymn55904z794"},
+{"v":"0.1.2","e":"^1.85.0","h":"0awygilnh3rkg8jwgvvp8cvjnhdj9bb37d5vdjjcxh2752bv78q9"},
+{"v":"0.1.1","e":"^1.85.0","h":"11g9q1kq2w4c2yni7d1qnp6z702xfifdk12ld65plcz0gsc18wpi"},
+{"v":"0.1.0","e":"^1.85.0","h":"0m7f2ii56kk0cnkzkqrz153shrjbzplhvcmggvmd60k8dblrc7v0"}
 ],
 "subhankar-patra.ai-readme-generator-pro":[
 {"v":"1.0.5","e":"^1.85.0","h":"14whyz4msirx7bla58wvfrharc0x8vpklqwivlh0hpfy5fx046j7"}
