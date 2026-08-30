@@ -506,6 +506,9 @@
 "eve-shouye.eve-shouye":[
 {"v":"0.3.0","e":"^1.85.0","h":"0daxa22hcwzhbcx4s8gh0pb1fmg07l5adrsrgyirj55msp01b1pz"}
 ],
+"ewc3labs.excel-power-query-editor":[
+{"v":"0.7.1","e":"^1.101.0","h":"12wfxbgqs03mly98kd5ijlvgkjchw27rmh3a6imhavnvxqxbzwd5","r":true}
+],
 "fcx.ai-lesson-chinese-preview-plugin":[
 {"v":"1.1.6","e":"^1.90.0","h":"0v4lz5ic7fd2z1fr4yam3dgi08fvky48s7yhrq43rzjydk00ks1l"},
 {"v":"1.1.5","e":"^1.90.0","h":"16dyimssw2cpxcf8m6h2zrqxr3p6m9d1ycbrvf2cd4z2kxakjq32"},
@@ -1606,6 +1609,9 @@
 {"v":"1.0.2","e":"^1.74.0","h":"1bgak2ddsmklhxrmx8jwh7iir7h9xv76cl45i0fpi5nv1hrr9ckv"},
 {"v":"1.0.1","e":"^1.90.0","h":"1bkl872j3xhv73d6442ccy23djiv3wlvk1xqvrb7p5z5g1aq82qs"},
 {"v":"1.0.0","e":"^1.90.0","h":"1x2mcpx5lw6xlg6k7ax7pc31dnvas4wmm4bpcvi1ylp3iic9jns0"}
+],
+"ray-language.raylang":[
+{"v":"0.17.0","e":"^1.75.0","h":"1b5ya1rcf893a5w9i5hcy64jajc1m3s8rac9h2b1p4kb17kgfr05"}
 ],
 "rconsole.vsc-r-console":[
 {"v":"0.4.4","e":"^1.85.0","p":"darwin-arm64","h":"160bznwwd18kplmqgz0s75gkynkw2a9vkw7pakndjpskpas2am22"},
