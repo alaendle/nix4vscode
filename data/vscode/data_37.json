@@ -353,6 +353,8 @@
 {"v":"0.0.1","e":"^1.74.0","h":"19wpkfqy0sr6bqbyszcf4fcynrbnzh5yy9sfipsnxqq7zxvm4j6k"}
 ],
 "analysis-services.powerbi-modeling-mcp":[
+{"v":"0.5.13","e":"^1.80.0","p":"linux-arm64","h":"01gf62hhcsrmmbdmcd50jprjnai7wf6s9pcwyffbpblvxxkh1ap5"},
+{"v":"0.5.13","e":"^1.80.0","p":"linux-x64","h":"0ki6wjk2aq4cvpnsa0zz42crvhsb0mbib7kg7mr5hz6wwzk644x9"},
 {"v":"0.5.12","e":"^1.80.0","p":"linux-arm64","h":"0skm1b7bwc941zs3dadg08f5zxd1chhb5wi5xiw1slz6yndh1a41"},
 {"v":"0.5.12","e":"^1.80.0","p":"linux-x64","h":"0k1rnflqk9bcmy8y27vc5dzqmdzk4bi0ll9l7grc80zab2llf9h0"},
 {"v":"0.5.11","e":"^1.80.0","p":"linux-arm64","h":"1sdlg9wz3077bwks29jz5hiqkjdzyd4lcnaqa3hq94gqk7w7kdmd"},
@@ -8250,6 +8252,9 @@
 {"v":"0.0.11","e":"^1.80.0","h":"1rmfd7qxm69izqn1xkxz9ikjimxm8rf9zjd7qh8n0ghwlgkj302k"}
 ],
 "viberails.vscode-viberails":[
+{"v":"1.9.23","e":"^1.125.0","p":"darwin-arm64","h":"01d7dxgn6p4irvpzdh5gnhk0xq51iz1jisflav018h6yb86zph0c"},
+{"v":"1.9.23","e":"^1.125.0","p":"darwin-x64","h":"05y8m8faj7jssvchawk5k7nf4rx10g7fdp032dcb7dwi7r9i6nbz"},
+{"v":"1.9.23","e":"^1.125.0","p":"linux-x64","h":"1k8a50qq757m6c794b6mcwfcwj4adksm074q4f64vnwdzj2b6r85"},
 {"v":"1.9.22","e":"^1.125.0","p":"darwin-arm64","h":"1124ak0c6zv9j2k9bgs2w7c607lbca6d6mlyhs3gkym2waln2mgc"},
 {"v":"1.9.22","e":"^1.125.0","p":"darwin-x64","h":"172n2pjx5qfnmv4qki2yazrysk4q0mziag6d4ijanwq630bbylfk"},
 {"v":"1.9.22","e":"^1.125.0","p":"linux-x64","h":"1dqkkxnmwds0fy69klxxbsjcj3hn3rnf8rbnn5pikf949ga1h9d2"},

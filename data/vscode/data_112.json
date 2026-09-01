@@ -1496,6 +1496,11 @@
 {"v":"0.1.0","e":"^1.80.0","h":"1g14sb5bzsx01qblk79f41g0pkb4hgzpar1b1y8jk613zicwd506"}
 ],
 "charliermarsh.ruff":[
+{"v":"2026.76.0","e":"^1.75.0","p":"darwin-arm64","h":"0pr5l0047qmj070lx6pjp1rhfppw5qg98bma9dxjrqjphlxly9jf"},
+{"v":"2026.76.0","e":"^1.75.0","p":"darwin-x64","h":"0717f2p61hqmvdm021nm6v0qd28k4ng44y0khv0gv1f8g487hiqc"},
+{"v":"2026.76.0","e":"^1.75.0","p":"linux-arm64","h":"0b6fz9ffklziqhlnambggglqy79z08jpclv4rb799sapd1i0yp3r"},
+{"v":"2026.76.0","e":"^1.75.0","p":"linux-armhf","h":"08sa7y33rv2bg8vxxr6q7x2lj8jij7l4li300xy02skbhvc48niz"},
+{"v":"2026.76.0","e":"^1.75.0","p":"linux-x64","h":"0z73zx03ap5f85qxiik4pv5rix25ajpp7i0l88jxs0fn6b2kbdm6"},
 {"v":"2026.74.0","e":"^1.75.0","p":"darwin-arm64","h":"043b5xhd8rrzxz5jrsr8jq234x0brib2c4c3k40axa1idl9vz839"},
 {"v":"2026.74.0","e":"^1.75.0","p":"darwin-x64","h":"1c55jps9c14ypzvx0sfldm3in6dz6kbj0p72aqkfbv8xrv9mfxla"},
 {"v":"2026.74.0","e":"^1.75.0","p":"linux-arm64","h":"05jmnbag57nq6di72bz4wlkp1f4y4b18smkq52pimfkbwxvpncsj"},
