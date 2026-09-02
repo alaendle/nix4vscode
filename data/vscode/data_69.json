@@ -1700,6 +1700,12 @@
 {"v":"0.11.51","e":"^1.49.0","h":"1f5bghsk5srycn986k36wrqxjz3hkabawsypycxcfqs58p2glpjx"},
 {"v":"0.11.50","e":"^1.49.0","h":"1gp87awlwmdca9rqx5l62lh29hdix9aglpss278bf1kbfqznbg9q"}
 ],
+"cratestack.cratestack-vscode-plugin":[
+{"v":"0.10.1","e":"^1.91.0","p":"darwin-arm64","h":"0bvrcrm01bzyhyafbm0j8hz4zj5nqjynskiyrpv9ybjqj0hw79qc"},
+{"v":"0.10.1","e":"^1.91.0","p":"darwin-x64","h":"09j7w3bpyq06i7x6jqhh9blg6sczskzb0wlhgf8lx4chzd98ggv0"},
+{"v":"0.10.1","e":"^1.91.0","p":"linux-arm64","h":"0s8rlqq02m2mvy06yisfdb1rid7n02bf6js18v6x4iyb54zyhi12"},
+{"v":"0.10.1","e":"^1.91.0","p":"linux-x64","h":"076kmc7dyrv8m4nzpwv7dlxh85vqysk41cl73p5l78r2sw59yj53"}
+],
 "crazyurus.miniprogram-vscode-extension":[
 {"v":"1.5.1","e":"^1.25.0","h":"08y5csf59f83w8mg8ijwbrlsp3371nckwpc31kibdjz6yf3k57n8"},
 {"v":"1.5.0","e":"^1.25.0","h":"1z5sg5fycx1rb3ghqbq62xr4p8bvf17h1bsyax9s879j2cj6808j"},
