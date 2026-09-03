@@ -1081,6 +1081,7 @@
 {"v":"0.0.1","e":"^1.91.0","h":"0jgk1csm8kvsd523q1anhcspn3spprvzwbshkflpwn7j992g8s3q"}
 ],
 "buildxl.dscript":[
+{"v":"0.1.288010","e":"^1.8.0","p":"linux-x64","h":"1l0271csl9xhj9zl9bl2brzzf1rpsk3ciqbcscn5b5d749xi9vzx"},
 {"v":"0.1.287505","e":"^1.8.0","p":"linux-x64","h":"0pysbx469abzsljcr5x8kx9kq9y5wfn2x2bp3nxbdkz9miz1g5kn"},
 {"v":"0.1.286605","e":"^1.8.0","p":"linux-x64","h":"12azpxzclx414acvjc2djvsg7kmx911xmazcb1h49dkyzcwan5bi"},
 {"v":"0.1.285915","e":"^1.8.0","p":"linux-x64","h":"0y2xx5rwm7g4fgvybd5ichvyqrhnz0w0yzz7sb3p1nb6ai07nwjm"},
@@ -8766,6 +8767,10 @@
 {"v":"0.1.1","e":"^1.116.0","h":"03pgbyfqcdgc9vkq2kpwsz8hn24lixj5mzrvhz6hp76m7ip8dgyj"}
 ],
 "tomlsmith.tomlsmith":[
+{"v":"0.3.1","e":"^1.95.0","p":"darwin-arm64","h":"1p5q5avvyl61fd25b3gbmqpanpq0xrzv2cabd8xz3dq9608njm2k"},
+{"v":"0.3.1","e":"^1.95.0","p":"darwin-x64","h":"13dd3l8anw0dzq30p4d9nilz84ygfq66x4sj37wd7qmaraii5jwm"},
+{"v":"0.3.1","e":"^1.95.0","p":"linux-arm64","h":"1n24prkj5nqfancwkjjc7p1133c1577l40w7phhnds5438wly8vi"},
+{"v":"0.3.1","e":"^1.95.0","p":"linux-x64","h":"13zlc7f2h0yr382v9nsq7m1niw5bsrw2j62dnm7k1bndz9136d7v"},
 {"v":"0.3.0","e":"^1.95.0","p":"darwin-arm64","h":"1s6mglz7z05zads7j982cnvcxn79z9yfalrbw8yk2d5w20fr4prx"},
 {"v":"0.3.0","e":"^1.95.0","p":"darwin-x64","h":"1mcvf43rdhwa6abg9n6lk20r35xg6k02fmm7yg0j8vmrlvqn8sbv"},
 {"v":"0.3.0","e":"^1.95.0","p":"linux-arm64","h":"15cw4zkd4awaqxj9yshkk17g8vwvgs1nkrvrs9z2ii9l1ja4mmkw"},

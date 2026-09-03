@@ -267,6 +267,7 @@
 {"v":"0.1.0","e":"^1.109.0","h":"1aakayhwqdz26a893n1jm1gpglc7vbjv9vg2hxdycxnx3gr237qm"}
 ],
 "alplabai.alp-sdk":[
+{"v":"0.6.0","e":"^1.85.0","p":"darwin-arm64","h":"1a778dgsszfpkki1b1xwiziq7qyj7df0zsfd0a34bm3r3a7ssxbb"},
 {"v":"0.5.1","e":"^1.85.0","p":"darwin-arm64","h":"055vgk5vr1g1s4xf37xy84aw1q42sfsxz8fb7yxc9573qxqxkii9","r":true},
 {"v":"0.5.0","e":"^1.85.0","p":"darwin-arm64","h":"122ipd8fl86nryx9wz5nibr7r7a5flcsc8msq9m0rg1zidznscin","r":true},
 {"v":"0.4.0","e":"^1.85.0","p":"darwin-arm64","h":"1i3zizkcx8zaifhimblp6v7282scsib7dvrwl1izvypwnzkrnksp","r":true},
@@ -9218,6 +9219,10 @@
 {"v":"1.0.0","e":"^1.91.0","h":"0mpq9pcx74wrhszlb462am1b2cra7xcjiypc4h35j27a6scf7w3w"}
 ],
 "symfony.language-tools":[
+{"v":"0.18.1","e":"^1.91.0","p":"darwin-arm64","h":"1k9zihkf0i7b33bci6q6k980bq1pd4k341c81bscnhzxh7sa7pd3"},
+{"v":"0.18.1","e":"^1.91.0","p":"darwin-x64","h":"18mdr55ivzn911r7dlmmmvdl8p4mccqdkzv14ym9815n9ykydbgf"},
+{"v":"0.18.1","e":"^1.91.0","p":"linux-arm64","h":"1qwba5vsgw8rsq3s3i0wi4vi2jasjrky2g0xls0f81h75kbzd7vk"},
+{"v":"0.18.1","e":"^1.91.0","p":"linux-x64","h":"0yfyizqjv2l6d570a6spkcanx4p5mg8siagsnhziql8igmz3pmkp"},
 {"v":"0.17.1","e":"^1.91.0","p":"darwin-arm64","h":"0q9am57r9rvihzhpca58ygxb7r0d2zavdj83vwfzi4n6qy3i6d2y"},
 {"v":"0.17.1","e":"^1.91.0","p":"darwin-x64","h":"1mg99yp1m01qmxbv7bllblijy37axfc7vmjx278yv30c0lj30xdb"},
 {"v":"0.17.1","e":"^1.91.0","p":"linux-arm64","h":"0cz6a987s11c33dvsr1p322m22i7yzqvp4v7j6n3swmbki8vl18h"},
