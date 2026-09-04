@@ -1958,6 +1958,10 @@
 {"v":"1.6.1","e":"^1.30.0","h":"0qkqf5pd5x8r20275ahxclgaadagq04mln0lhkmv6w34n5qx6ibw"}
 ],
 "devprod.vulnerability-extension":[
+{"v":"1.2026.903001","e":"^1.100.0","p":"darwin-arm64","h":"1g1gj4zmxiyn96jgc9nk1qbn36iz15xj46nv1n8n7wj9lhaw0bpi","r":true},
+{"v":"1.2026.903001","e":"^1.100.0","p":"darwin-x64","h":"1zs6ik80zq1r880wv6rxvs7b0gsfasysjkbv5xll20bnwpidk9dc","r":true},
+{"v":"1.2026.903001","e":"^1.100.0","p":"linux-arm64","h":"00drndprxy87r93jj323hv367cig2vgkw1lnakn5aqjrmm03ikj9","r":true},
+{"v":"1.2026.903001","e":"^1.100.0","p":"linux-x64","h":"1gacm87hd7yfgihdpjj4fqrr284r1hkm6vaw57cq01ifglsfhinq","r":true},
 {"v":"1.2026.902001","e":"^1.100.0","p":"darwin-arm64","h":"1gvk85701gn7jj30cz94rcm3lxxixy2c3pazk5kinjpld39bc18m","r":true},
 {"v":"1.2026.902001","e":"^1.100.0","p":"darwin-x64","h":"0836ihd7nkbzf9llwbd24mm1giv14cv02x20gxdpw365y4ib49yh","r":true},
 {"v":"1.2026.902001","e":"^1.100.0","p":"linux-arm64","h":"0rk21v24qsmszr8ba8ifq9bh3fg7rq0gydh0kp5z50j2ps0hinmy","r":true},
