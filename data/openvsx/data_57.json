@@ -1028,6 +1028,9 @@
 {"v":"0.13.1","e":"^1.74.0","p":"linux-armhf","h":"1jvx1j8khhlznds9czp19fywbdf88kqdvffsbjcj2zip1am6sxns"},
 {"v":"0.13.1","e":"^1.74.0","p":"linux-x64","h":"0bw85fz96nx1r9iyfbraj88kpagpv30sxhamnb5rvvw3cprvcd4b"}
 ],
+"madebyariel.vs-abode":[
+{"v":"1.1.1","e":"^1.85.0","h":"06zvkfc1h88p8k892avdrm7cpaxnkr9j5f6kp817bcchyblqx88d"}
+],
 "magnonmatos.crewai-snippets":[
 {"v":"1.0.0","e":"^1.90.0","h":"0b3w22zapmxycsyk2k31h2psblr7ph67npcfkrjvckc33dlcy9s3"},
 {"v":"0.0.3","e":"^1.95.0","h":"0mw6paxhf923fl7ngcs3rdb3ys01gj71j5hmq8gmbn46bl8vv01i"}
@@ -1311,6 +1314,11 @@
 {"v":"0.2.2","e":"^1.71.0","h":"05121kxvl78p34x01c83n1wbxdb14q6g1irfy0mkni10c95w40fh"},
 {"v":"0.2.1","e":"^1.71.0","h":"0qs1h189k96mdihjlkk2457g9g8gpsf8f9sx3smg1zpa9pj09k6w"},
 {"v":"0.1.0","e":"^1.71.0","h":"0jzmzk1nq7qfylgyzg34lhgrfk9bqibim4zcr5qz77c68isjqr1s"}
+],
+"potosik.vscode-launch-control":[
+{"v":"5.3.2","e":"^1.125.0","h":"18iwgjmrvwnqk7by9xfbgnca885ag3y2whgngjn83xx07png92g7"},
+{"v":"5.3.1","e":"^1.125.0","h":"1i9n1xfxb6iffs46q58y7axb9a8dwjhh3x435880cwz907wbwdqi"},
+{"v":"5.3.0","e":"^1.125.0","h":"0hx5cj3irmzvb852n0ifzsfzcfzfmhlxdg4szbna95wg4w7cgn1a"}
 ],
 "project-accelerate.pythoninstaller":[
 {"v":"0.0.20","e":"^1.84.0","h":"0bly7nmkk3wapikn6ash7ipjl8jra54c40ipwngvgsmbk46jaq39"},
