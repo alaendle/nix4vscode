@@ -2466,6 +2466,9 @@
 {"v":"1.0.0","e":"^1.85.0","h":"0py9vw8jy598v76vxqm5dy3i96r80vabdmw33xdkxxdx87gqpavq"}
 ],
 "dastangames.azerbaijani-keywords":[
+{"v":"0.1.2","e":"^1.80.0","h":"1ypi2lm5ni1vpgdffm9w244whhx6bphkn87wc6z2b7k4rhwm3380"},
+{"v":"0.1.1","e":"^1.80.0","h":"0n8lmh8438aafr4c92xfz7jprii9r1hxlw2l2n7ybdvchlcm5110"},
+{"v":"0.1.0","e":"^1.80.0","h":"0dc4l7yllxd23lgmjpy5xz80hbj705qf6qc1im6vl8bp3a8p5w27"},
 {"v":"0.0.10","e":"^1.80.0","h":"0972zc7bgc4rqf25s5ffjbmvwari83fwyc7gmgs57b48lbj136mn"},
 {"v":"0.0.8","e":"^1.80.0","h":"123y0q1ii8ia1v8hwa3hiwynvvbjgj9vl6lf4w6dq3y9zp2icrsa"},
 {"v":"0.0.7","e":"^1.80.0","h":"1vi1z53jnj0iwpi2i04v8z51zmh91r9v02kima0v0j9aljfxsi3c"},
@@ -2602,6 +2605,7 @@
 {"v":"0.0.1","e":"^1.85.0","h":"0rahckxbzcgb7f6hpsz4n30r9rcbj8a3l57g4gvrcndx63vzm4pk"}
 ],
 "dillan-kerai.hex-ts":[
+{"v":"1.0.6","e":"^1.85.0","h":"00vxh2xpzgjp30x51462jmznd7gki69yqq30mwpzc8x62w1znv0q"},
 {"v":"1.0.5","e":"^1.85.0","h":"0a7cflp61zn4cj18n9sivnrxal7wpr77q7sav1jqxr0pcw0lc8cr"},
 {"v":"1.0.3","e":"^1.85.0","h":"1d2mk5lz2w766jx29rjm1jachz5dmcra5adyr469p427ydjcvs37"},
 {"v":"1.0.0","e":"^1.85.0","h":"0flzf07xf3s46a3h13ljpqx17ik34wfszarbhbpiay9icccc7z2y"}
@@ -5436,6 +5440,11 @@
 {"v":"0.0.1","e":"^1.46.0","h":"026ck927nyjyfi7hm2zdzr6majn41rwc6wxmgi82f49xbyxh7v6r"}
 ],
 "jetbrains.resharper-code":[
+{"v":"2026.2.2","e":"^1.90.0","h":"00kn1jvl21rpf6yayb2qkdkm26i2gdmlp8wrpznnd2kgnxgk9hnc"},
+{"v":"2026.2.2","e":"^1.90.0","p":"darwin-arm64","h":"1bjwaq78kmm3fildahj68srr8zb1vjq37kzl5gxkamg8x210rifn"},
+{"v":"2026.2.2","e":"^1.90.0","p":"darwin-x64","h":"0glplx0qx9fa0wd0ir7b6p84vs4c812l7b7xkbw2wfapll5s1ykl"},
+{"v":"2026.2.2","e":"^1.90.0","p":"linux-arm64","h":"066fnwqbjj1d5vi9925d1wv1ylls71rhg3r61c0c2n503s8cnvx8"},
+{"v":"2026.2.2","e":"^1.90.0","p":"linux-x64","h":"0cybyp17rs5rxhj362zgm97nhblyxmdw8s6p45jccpgw8k47iqii"},
 {"v":"2026.2.1","e":"^1.90.0","h":"0b5sciixg14f89pgynzdh7c86dq57d7xa1r4m30pf7yswpjya91x"},
 {"v":"2026.2.1","e":"^1.90.0","p":"darwin-arm64","h":"03cd9cy3j23rawm3m2nnz3dvjw53fhn49bvmshd7lgdrqk5x2pgr"},
 {"v":"2026.2.1","e":"^1.90.0","p":"darwin-x64","h":"07wxl4icl11n056hbc3wi7i22nvvn2rzag5msbprcfycng6gmgm7"},
@@ -10616,6 +10625,7 @@
 {"v":"0.0.1","e":"^1.75.0","h":"03scmh6a3a31cazcf59fj8mldv445zq7kx3lpc12qgbz0fjaf9gg"}
 ],
 "titanriu.response-narrator":[
+{"v":"0.1.12","e":"^1.125.0","h":"0vpjhkq66iipjyjxpvl09v7cpmr6hmnpjbrkn67ajr94xgsn3kzf"},
 {"v":"0.1.11","e":"^1.125.0","h":"02n2d849yji3972k8x6x97f073fjbsy3i3miwchawqjq51la66qq"},
 {"v":"0.1.10","e":"^1.125.0","h":"0ywcnhm6sdgbqgc0w1d25krnbwqb89y7i8imracvby0l8i71im3a"},
 {"v":"0.1.9","e":"^1.125.0","h":"0vpr8iqcg090fa9ak0zmcdmv6dskr1kmw3pv3xz8pqqzd3lic1nc"},
@@ -12118,6 +12128,7 @@
 {"v":"0.1.2","e":"^1.74.0","h":"1faikmvl7kmvnc9xljlfwdxbc3vgpcgakr9bap6w32gyv6pc3c6s"}
 ],
 "yumao.claude-code-feishu-bridge":[
+{"v":"1.2.12","e":"^1.93.0","h":"1bva30hg9xnm0yyr5dg558xy0dd14mh2jy275vy9h5zm0kkyj9rc"},
 {"v":"1.2.10","e":"^1.93.0","h":"0dy4yc5w0cwl2dingi4kcigdyaqp212r32bzc0bx100zfz06lgvj"},
 {"v":"1.2.8","e":"^1.93.0","h":"1bfz7wz0ply6fb5wh9473m0i2222qvn9z7k6sm99i2mkrrb4n2lh"},
 {"v":"1.2.7","e":"^1.93.0","h":"1yap6rwkqwa5s88n285vhrzd791nq54pr3jalghbyakska92i4fq"},

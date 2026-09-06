@@ -2917,6 +2917,7 @@
 {"v":"1.0.0","e":"^1.94.0","h":"0xsx8wldsd6wxsl24j4qajwpzgvj45fy4q2y42ziy74llc93x4bi"}
 ],
 "enggwithdhruv.dhrlang-vscode":[
+{"v":"4.0.2","e":"^1.74.0","h":"0iw1w96pa8hxsb8f6cp9wkvawj5zh4d6g2w8mh6fyh6mjqxy7xs2"},
 {"v":"3.0.1","e":"^1.74.0","h":"023myxmyj9vfp012mg6cwrz6fphsg20bpvmn60f8v2fgnkkqfqmr"},
 {"v":"3.0.0","e":"^1.74.0","h":"06qlk0y2znwdaag3qa3s12iz9yv75gc3ass4bf4n6l058j181nka"},
 {"v":"2.0.0","e":"^1.74.0","h":"0x8klw4ycccijpjf1j62c4mcrzjc18ci4s59f0zqq3vq4dxv9n37"}
@@ -3283,6 +3284,7 @@
 {"v":"0.2.0","e":"^1.60.0","h":"0lqnmfmj7hxx28dram0apq3pyx8r49gcvps5mzgcri30205a4i6b"}
 ],
 "gemtalksystems.gemstone-ide":[
+{"v":"1.9.0","e":"^1.101.0","h":"0qgy77hzdsplv7jpcqw5ikdvkxjqidvsspmyn8cbzbd6h42j4b8n"},
 {"v":"1.8.14","e":"^1.101.0","h":"1xcqyzdsv4j00ayy79vhg88sjz43kdmyvywm2qg4nb5dn6dkn4sg"},
 {"v":"1.8.13","e":"^1.101.0","h":"0jm53szkkbzc7ic1c2k2xc288mbfwn8ar5mz5xwgp40wxgs5jyp8"},
 {"v":"1.8.12","e":"^1.101.0","h":"1faf75f2b57vk6hnjpawgnwyh13mc7a2a3p4fg6rpklns22wg9dx"},
@@ -4971,6 +4973,10 @@
 "liujia.tfana":[
 {"v":"0.0.2","e":"^1.85.0","h":"0smlslbadpg0vsryrakdfw88dgsa9pgqmprr36ysjg221pgk34lx"},
 {"v":"0.0.1","e":"^1.85.0","h":"0h5xd8wc24g8xknf5cxxcwhnb2kcx2fwmi17jfrwcymlgdgqg1l2"}
+],
+"livetest.livetest-vscode":[
+{"v":"0.1.1","e":"^1.85.0","h":"006w5yinz8xwcw0a6i40q2pd9bbsmpv2915nxxj3cdrhk9lddw8i"},
+{"v":"0.1.0","e":"^1.85.0","h":"0nqy8simdckjpdbhxp4jyh7aapfwjkgcq4yz41x4z123vnrgbgw2"}
 ],
 "lmagickl.open-doc-in-web":[
 {"v":"0.2.2","e":"^1.75.0","h":"0d36rcl2yw1ky9p6k3v4cxrk3kgh145yxvlgnkxgsraa7cm9y2bz"},
@@ -8429,6 +8435,11 @@
 ],
 "taichi.vscode-tradeship":[
 {"v":"0.0.1","e":"^1.11.0","h":"0mkb1v3kx37k0w6wfifgsijj3y6ggj4py2klvib0y4x1hgy3kk92"}
+],
+"tangramflex.flex-lang":[
+{"v":"1.1.3","e":"^1.85.0","p":"darwin-arm64","h":"0d7ab3iq1vzsswl8m8a2ckwgd32yf27cd4pmqch6sg28zy7yrayb"},
+{"v":"1.1.3","e":"^1.85.0","p":"darwin-x64","h":"1dfwrlyf87q8m5amjwrvzw2cmy408902dvpnh5n5qyn1jy2qak7i"},
+{"v":"1.1.3","e":"^1.85.0","p":"linux-x64","h":"12a24vjzs6wa2w2zmabnb8ifk7rb92ql9m82laprikni8nm4mf8q"}
 ],
 "teboho.read-my-md":[
 {"v":"0.0.12","e":"^1.90.0","h":"1al1q9fckyxlf93802p8ndvdym4n0dyxa70l7sckin1rphj0lp0q"},

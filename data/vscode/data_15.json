@@ -3842,6 +3842,7 @@
 {"v":"1.1.0","e":"^1.42.0","h":"1k6w1zz297wzg683wzpyi3lp6k44mb8dasql657n6rr12zwlgk68"}
 ],
 "joelabenhaim.aicode-ja":[
+{"v":"2.5.0","e":"^1.105.0","h":"1swqzaznlvqmpdpln4hdkkyi8va84q2ai70x0mravi9bmpk2pw1j"},
 {"v":"2.3.4","e":"^1.105.0","h":"17rrmci82wz12k3jki4ab5qy9cgi0hd8s07q78csxz375rsz1idr"},
 {"v":"2.3.3","e":"^1.105.0","h":"1pch907qjz4limf6bkxmzv6b09pk2mf6kzd6mcfqca40d9sza9sh"},
 {"v":"2.3.2","e":"^1.105.0","h":"1z6favh6x0jg778aqgwf72cj8cmz936gzr7gkdbiwx81ixrpzai9"},
@@ -6408,6 +6409,7 @@
 {"v":"0.0.1","e":"^1.49.0","h":"15zy4qll355914wl7gzz2zhks7kc5lryha75wdjpahnrw2m7v29h"}
 ],
 "nomad-in-code.relaxed-theme-semantic-focus":[
+{"v":"0.0.14","e":"^1.105.0","h":"14baq4vr890nvb0q64lz5rygw6hqgv9gzzvccvnwgzbkkaizxd61"},
 {"v":"0.0.13","e":"^1.105.0","h":"1mfii51lvnlcn0xc251rw93sqivaw3nqkc3xivypfj9rkvy4bwb4"},
 {"v":"0.0.12","e":"^1.105.0","h":"0xz95p5ls1pqpraz5qllig18vr7wiim8q6vrkrsahb76kqzxkjki"},
 {"v":"0.0.11","e":"^1.105.0","h":"0vq9cdyszkglh3g0rlndlhc1fypx4jzrh489vp483s7690rx91j6"},
@@ -6840,6 +6842,7 @@
 {"v":"0.1.0","e":"^1.70.0","h":"00a4sqbjpnwfiq4gcb2zp3p187wy6k6vhg4jzh0jxykqa7km47a5"}
 ],
 "pyretprogramminglanguage.pyret-parley":[
+{"v":"0.44.9","e":"^1.74.0","h":"02h9sxvjrxdl1kf00ha8h3bxgiydb026f8b51xkn57lj7bhk5rl8"},
 {"v":"0.44.8","e":"^1.74.0","h":"0j522dzx66xmfx9ajbs89qhx962yq8fzqgkbis2v01y10v4jrfx4"},
 {"v":"0.44.7","e":"^1.74.0","h":"0chy04rh0xibbw36955gffcv56dc57ibswdgfixs78n4pyb38gdk"},
 {"v":"0.44.6","e":"^1.74.0","h":"1x76gmshlv7cbc1m9n7kg5l1g1jyd7s14iajqws5ws3xfxmi3az7"},
@@ -7662,6 +7665,9 @@
 {"v":"1.0.1","e":"^1.66.0","h":"1rpam8bf5kwyyl8c2k0694q9n3l13ahfqqwwq33hfdg106z6mzk8"},
 {"v":"1.0.0","e":"^1.66.0","h":"0k7n5iv85fki40h542qpvlx9j9l8ql6wpfs2kq461b96ca698z9z"},
 {"v":"0.0.1","e":"^1.66.0","h":"0v9rd8ads2qm402mj1bzm4b9yh7wq25fq8fhip3sihajha9j90sd"}
+],
+"shakirachristian.scicodenotes":[
+{"v":"1.0.0","e":"^1.73.0","h":"02xs2rzr8ar2yjsjpwsq7c6q741mphsyplx1c6ai6jv1qbkp2ara"}
 ],
 "shankarravi.star-wars-dark-jakku-theme":[
 {"v":"1.0.1","e":"^1.80.0","h":"039a8nwj6l9pmnv3xrr0pxl0rvqagssl0i0n75jq686jlhlmz2qg"},
@@ -8500,6 +8506,7 @@
 {"v":"0.0.1","e":"^1.32.0","h":"1fc10v43drw0b61xwzsd6hnhxq9zrnwnnq6fbbbzf6hdvfa41qqh"}
 ],
 "thmsn.poe2-filter":[
+{"v":"1.2.0","e":"^1.93.1","h":"14hcnbsjh30z5gmviza5p0jfig8nqmsbpwrag5g7q6hiwwpcl0gd"},
 {"v":"1.1.0","e":"^1.93.1","h":"0g8v0mqjss71rga9kzmw6pzqvmwzpzfiijh28511k10biyrgsg6v"},
 {"v":"1.0.0","e":"^1.93.1","h":"0qsx7lwgldqavcllqdfrssxibrhby3kmj9r0dsgcwpjixq0zjq97"},
 {"v":"0.0.29","e":"^1.93.1","h":"0lys3f4aca4q752w5vjx3vl0fg7m0c2xmrqdkkaxjdr9m9qg6jhk"},

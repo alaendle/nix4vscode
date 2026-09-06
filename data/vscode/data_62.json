@@ -4380,6 +4380,8 @@
 {"v":"1.0.0","e":"^1.57.0","h":"1ihph9nyf5a5p2lx6grwx32211p0d6k9i92bpgzaf6j016rpqrc0"}
 ],
 "hjulaxel.flock":[
+{"v":"0.2.0","e":"^1.94.0","h":"11z218bzww3cc12jk8l5r6d1r0c9xa9v0bjmzicz59qagd067xyy"},
+{"v":"0.1.11","e":"^1.94.0","h":"0y05vsf5iqq30rgnyh6ymk2ha3b9c4zny8b6yjwzh1wp5r9hr00q"},
 {"v":"0.1.10","e":"^1.94.0","h":"0gslqx688vb48xhp65g32n973jisyr8v9xapsg696h0pdn4awd5z"},
 {"v":"0.1.9","e":"^1.94.0","h":"0sg18fjy4bhdb19hdvd9c0l5qgbj0kc0ia7pc5529v3lr2ljng5n"},
 {"v":"0.1.8","e":"^1.94.0","h":"1mjqbj7fdv22dn6lrbv8lg77xhyxv45a8pxns3a88safy2pv5zyi"},
@@ -5782,6 +5784,7 @@
 {"v":"0.0.1","e":"^1.50.0","h":"059c0rj9kky0jclsr5vmnwk9jprx5wy9d2x7lgs9dzlyb9z4skh7"}
 ],
 "khoile.extra-react-snippets":[
+{"v":"1.1.0","e":"^1.74.0","h":"1cjcsl80nmmkby5ckfadkwx05q5dw05lz5g01h9aw4mf605ixbff"},
 {"v":"1.0.2","e":"^1.74.0","h":"0abzq7qlxwl9mrnl4yix3c2z4v7q2gxb5jz8nvsmib0dksjmrkw8"},
 {"v":"1.0.1","e":"^1.74.0","h":"1vzh0vgdhcnp03avcphffmkzhipxfcs94rz68cywdl7iwhsqsmix"},
 {"v":"1.0.0","e":"^1.74.0","h":"1h260gynfl1x6sdx00i7ypxal76g4dr618663qjvppygbpr2gkvc"},
@@ -6864,6 +6867,10 @@
 {"v":"0.0.1","e":"^1.85.0","h":"0qfdlxm1sibm1xcqh5pjiih638fm50mms5qx041g4ar37als89zs"}
 ],
 "ms-dotnettools.csharp":[
+{"v":"2.151.28","e":"^1.106.0","p":"darwin-arm64","h":"0qpiv7r7al56kycqmwzkg4xk6vbvfjzqlvw9bsamcxl44x1k42a9","r":true},
+{"v":"2.151.28","e":"^1.106.0","p":"darwin-x64","h":"0vwy18abhz8f39z9l00f287hldpka85qaya0zljy2l9kaygbazbw","r":true},
+{"v":"2.151.28","e":"^1.106.0","p":"linux-arm64","h":"1w44pjb9x2859ynbglby9p1g6sa8a30kbpa028n77mry3nccg8dd","r":true},
+{"v":"2.151.28","e":"^1.106.0","p":"linux-x64","h":"1n3gsl3b5aj414i9isg2fk4zdjnnq9p9z9jahw4v580qh372qqiq","r":true},
 {"v":"2.148.23","e":"^1.106.0","p":"darwin-arm64","h":"0z9ljg0dvi6d78isz4flrz1kcmng5aricqgf096cdrv3x83pzl7v","r":true},
 {"v":"2.148.23","e":"^1.106.0","p":"darwin-x64","h":"1rs8m26lssh622scxi3xjijgvjlznxwgnsq7hlcxs6xqi6zl7q5h","r":true},
 {"v":"2.148.23","e":"^1.106.0","p":"linux-arm64","h":"1v6xz1znskyhl9ylp3d9rfa0dyn9qg4md7jv03i5z420c67j3b2k","r":true},
@@ -8205,6 +8212,9 @@
 ],
 "nuhmanpk.pipwatcher":[
 {"v":"0.1.0","e":"^1.85.0","h":"1hflq954ccrcvggwhknn6xjjjaczmg538qkac9krx11png0p9ylf"}
+],
+"nurbsn.vscode-microstudio":[
+{"v":"0.1.0","e":"^1.80.0","h":"0gqnw3kdzyi2q1wp2s5fnvd26cc3859idmmd32z29z361mbh6fa7"}
 ],
 "nv7.mold":[
 {"v":"0.0.1","e":"^1.63.0","h":"1m9m88hgwfnkllmamvhy2gy8kcqjvdjw5dxka1s1nx365lz45lf3"}

@@ -2236,6 +2236,7 @@
 {"v":"0.0.1","e":"^1.92.0","h":"0llgfg4fcr34lk2ngh2l820xsc5gb71nyipakvzyhxyzrpys3v4w"}
 ],
 "elbekvejrup.ev-business-central-dev-tool":[
+{"v":"1.1.217626","e":"^1.120.0","h":"0a04l64cf265whxmgwcqh381r5vv5g4x9dx98mzrrzg3n05hlimp","r":true},
 {"v":"1.1.216857","e":"^1.120.0","h":"1g7y7vf4rys4991q6vd0cjgmvpjmxdsa0gp6k24madx74h2amr5q","r":true},
 {"v":"1.1.216783","e":"^1.120.0","h":"0w08q08kk28614xnzzcykaasgxyapxvl6hvz2mqgxy3dry44yi43","r":true},
 {"v":"1.1.216762","e":"^1.120.0","h":"008fyrf12wjifccvgmjd2gvfn1xsrln55n0hjy1b430lrqbg3c1l","r":true},
@@ -5864,6 +5865,11 @@
 {"v":"1.0.1","e":"^1.22.0","h":"1hjbxic7fizvxdnq462rfnllz288jp77qiglhg62bjn8z6nrnfyn"},
 {"v":"0.0.1","e":"^1.22.0","h":"0ggq5qm0m90rbm8zkn3rglhw1wxhmhk4rzr2pwr4wn1kir4if3av"}
 ],
+"nywerya.mamecolour":[
+{"v":"0.1.2","e":"^1.85.0","h":"1wxxa3crck7kfsy831xkk4i9g2b1h31q1qks2npw6zpyi07a670r"},
+{"v":"0.1.1","e":"^1.85.0","h":"1jjrx615r1z1qlwp5afjlbgpw2sx615pkgv37k3vn3lmkppdhk3a"},
+{"v":"0.1.0","e":"^1.85.0","h":"1cp199jglsyig4bzar565b0clji1jvzsbac4gycw94qgv2kwxaxh"}
+],
 "nyxb.nesting-config":[
 {"v":"1.1.12","e":"^1.67.0","h":"0gvq4qhw2i0r792dcnwcpg3rwcd2i576vm5dqb31bg7bs7vmqr81"},
 {"v":"1.1.9","e":"^1.67.0","h":"1mnv30fcjcg9pjzjai5yx62ybv4www0rgi6dn7d6dahcpicnsm3z"},
@@ -6785,6 +6791,7 @@
 {"v":"1.0.0","e":"^1.95.0","h":"1lsg1kxjarwrrbf1m9nkknmk56z26bi0mwj0js00fs9yz64b482v"}
 ],
 "rafaelmuricy.winui-3-previewer":[
+{"v":"0.0.4","e":"^1.125.0","h":"0aijq6fbz46y62f5dgk2f0g8a9707j3grriqq3z7w4mz1nj3qma5"},
 {"v":"0.0.2","e":"^1.125.0","h":"08dqrigj86a4gqx5na0bp41h8kb8zn1m303qzkhamwx7sgxarial"}
 ],
 "rajuppadhyay.playwritecypress-steps-definition-generator":[
@@ -7843,6 +7850,7 @@
 {"v":"0.0.1","e":"^1.69.0","h":"0p8352i3z67w7xdrkbr0l69wy05095a29bn7ns499ki29nypi784"}
 ],
 "stephan-james-dick.kube-dive":[
+{"v":"1.1.1","e":"^1.80.0","h":"0b06z3s9vf4bc2ph377k0ik030pn7m73469la3w3d1lvl0snrb5q"},
 {"v":"1.0.4","e":"^1.80.0","h":"0vy2nffa8zxddaiw9fpdghsc50yvxhxcgvzlr4m12wpgjlkgwvb7"},
 {"v":"1.0.3","e":"^1.80.0","h":"0qy91vqfqvvwayalc51fis79vnjkkbfrr5yan45mi5cyz5pllwf3"},
 {"v":"1.0.1","e":"^1.80.0","h":"1pq9c3kgvplvgihlz41vyv1ixjh08w9mf8gv1q7ykxg2vazyvs0d"},
@@ -7961,6 +7969,8 @@
 {"v":"2019.7.0","e":"^1.32.0","h":"05jkxzkikw8wnrnk1yb3iwdlr84mzjhjb1si6sqnkmkvihjk574n"}
 ],
 "szlk.solopreneur-roadmap":[
+{"v":"0.0.459","e":"^1.75.0","h":"1ciaiv93p1yl7r26nh92f9phdf1nrrqir9vbwpf2i0n4bl03vra8"},
+{"v":"0.0.458","e":"^1.75.0","h":"0vzyv39dh2bzj34w7a3bawdjaprk3gwbcfgpwr2zx2bx58jr0x5j"},
 {"v":"0.0.457","e":"^1.75.0","h":"10zjxxwmw1b96x1hxgj1mh625lbgkrk3jfpzw270l2d0vn8ywblf"},
 {"v":"0.0.456","e":"^1.75.0","h":"0aykzrbi02cg3hc8y3ww8vi9mcwgg5ig6ip3rmi85g1s9b9r69xn"},
 {"v":"0.0.455","e":"^1.75.0","h":"1vshm5mwqki0wwb2vbzj7b6c53256gmf4zz85i92vdh8ywhhc1k4"},

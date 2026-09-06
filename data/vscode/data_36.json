@@ -1411,6 +1411,7 @@
 {"v":"0.0.1","e":"^1.67.0","h":"1rmmh5llikpfmhfrb0r5xiybykwrl51qakbkyr7xx7gbv1sxky3k"}
 ],
 "ch3thanhs.ui-font-changer-for-vscode":[
+{"v":"1.0.2","e":"^1.85.0","h":"1bhv3k6x5r07f7qrzp6zd3b756i4r1ds0plwgqyzdskmgsm03dwj"},
 {"v":"1.0.1","e":"^1.85.0","h":"1pkj7aq8nnm1q0r9ccyd5v5hcpr0apdrzv96xi4jgjgabxpysgj7"},
 {"v":"1.0.0","e":"^1.85.0","h":"03cfmb8lslqk60dkg358jgrbgfp84aiz4aw44csrqlr7vd8h0h3p"}
 ],
@@ -2229,6 +2230,7 @@
 {"v":"0.0.1","e":"^1.46.0","h":"0zz5cs4sb1jrm12vxpmv38jzx7faygm3m3l0df743g835iklz95j"}
 ],
 "electropol-fr.arduino-vscode-ide":[
+{"v":"2026.9.0","e":"^1.105.0","h":"1rv7hks6awf1pylqyrf9g43qpvqirpng4hqmbq3wfh6n0xznhrrq"},
 {"v":"2026.7.5","e":"^1.105.0","h":"0aj5pxb8p0wpfy92njb22am03287h3slvbp7g9f7nrqn04h2h5dw"},
 {"v":"2026.7.4","e":"^1.105.0","h":"0ixbqghxixvipk1xxn2mv3ibfcv50c0hyz2xb5als6h9grlzdjcy"},
 {"v":"2026.7.1","e":"^1.105.0","h":"1bdql8y31il8s7vms3jdv6ivnz8szbx8fy624j1r7ska50c572p6"},
@@ -2795,6 +2797,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1pmd8cvlgkf2i8phv0s8588qa6kypixy041gkjq2gw5lvvxk2500"}
 ],
 "grikomsn.ollama-cloud-copilot-chat":[
+{"v":"0.3.4","e":"^1.125.0","h":"1y2rdjhjfn5q5529nbbr9ncbkfds6g87ixjrs5r8mv7jndv5vpvl"},
 {"v":"0.3.3","e":"^1.125.0","h":"1bn5xb00darpgwz15h7hyvf6zv7qwqrswgdybm5lfaap491pvms2"},
 {"v":"0.3.2","e":"^1.125.0","h":"0q0b0p630qz99mphjgxjlha10xc0vw6k7imzrd3r60qrfnfrjs33"},
 {"v":"0.3.1","e":"^1.125.0","h":"0icgcjnlj3k7jsimblda766q26yq3d9gi5xybfji97iqrgciylds"},
@@ -3085,6 +3088,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1mhqwgynahg3l6lkv6vbflhpczdiif6qnl9pq6c64nb33arfj1yq"}
 ],
 "havoc.task-list":[
+{"v":"0.2.1","e":"^1.90.0","h":"07fsq2zpwmvhpk6w6vbrazwc1jdamiq8g71fql363wzkbwfiff0w"},
 {"v":"0.2.0","e":"^1.90.0","h":"030m91v8adpjqrjfr4yn2dbha5j2x0w56nrwmxkcwf5w3azm4qc5"},
 {"v":"0.1.0","e":"^1.90.0","h":"1k8azqsy7s7is1m67xjqafrv07xxghdd81dr4ahlkk2xdmkbrikw"}
 ],
@@ -4199,6 +4203,8 @@
 {"v":"0.0.1","e":"^1.43.2","h":"0xxi5zl5bnvqxns1qwmzg0svv7kwjn3yvl6wks2crczzad1yg0wn"}
 ],
 "krzysztof-d.justybaselite-netezza":[
+{"v":"3.17.13","e":"^1.103.2","h":"0hzcwfqbai9aa1zawr8klzslm5da6py6qvk6x5jfji24q7f8m3c9"},
+{"v":"3.17.12","e":"^1.103.2","h":"1i5k4km6x0y5ad75sn7mf53q4sbdw1187gzbxv387wqkzrm2a6hs"},
 {"v":"3.17.11","e":"^1.103.2","h":"1brz8lm2bn7yksp555i0y3996ap58id0b7bvyj9dvxskfzxhlryq"},
 {"v":"3.17.10","e":"^1.103.2","h":"02z7xxga63s7h9sq9m8gxxdq13xcb7haldars9zvyw9f2jxbbgy1"},
 {"v":"3.17.8","e":"^1.103.2","h":"0kwq6swwznhy5k4bfkajgkvdmki9l612idfr6i2nbf77gi78jb8x"},
@@ -8185,6 +8191,10 @@
 {"v":"0.0.2","e":"^1.91.0","h":"0yridyjxqym06zzkssn2mlxlwc494lxdahqc5683gh05kx660l68"},
 {"v":"0.0.1","e":"^1.91.0","h":"1ys6g212bbwvkcpj9bpgjvlmw2v6gnnnzbxixpc4k0l3ksbz3l63"}
 ],
+"nohous.istari-elf":[
+{"v":"0.2.0","e":"^1.96.0","h":"0wxcpjvjfnh22q4my562id4qffxgdn858y64s5kwglpbm19lapmq"},
+{"v":"0.1.0","e":"^1.96.0","h":"0qj3740sq1liakcjpjgj2p3d2dfrmdlhhszf96df18alav8vmbr1"}
+],
 "nokia.lsp-for-freemarker":[
 {"v":"0.1.1","e":"^1.98.0","h":"0hwyzwzxv0bf7lids3lamy645bs5q5cbx19iiaabiwi0iqqcnqy7"},
 {"v":"0.1.0","e":"^1.98.0","h":"183qjnfvykw8mr0dcpm7d47mp10nvx7h23x4z2qj3b283ki3d0z2"}
@@ -8246,6 +8256,7 @@
 {"v":"1.0.0","e":"^1.90.0","h":"0ni396wv9lbldbm0g4ah1xnjd50zg8ky2rq25mivm5f7zhj6zhpm"}
 ],
 "octojose.snapds":[
+{"v":"1.8.0","e":"^1.85.0","h":"056zqq951lfilgh91hja4mrkf0gm6n19bvm169p1nzw8afangrcw"},
 {"v":"1.6.0","e":"^1.85.0","h":"18xl4vnz7ch8awxqi15wxhsvjxza97cmgrywlaav2v6jq8n23zbc"},
 {"v":"1.4.0","e":"^1.85.0","h":"1847smbhywfcd6dxhr2mv5qd47bz8j5380jkfhsppkj5532s28cy"},
 {"v":"1.3.0","e":"^1.85.0","h":"17vy4z3q2nrlmbv3mqw57pkj1w44z03cp40zg06a3f1r2cw1c3xc"},
@@ -10730,6 +10741,10 @@
 {"v":"1.0.1","e":"^1.101.0","h":"1bdmlhjhx19s4grwxg5g8ckziahq8vfnivr00zxrha58rq6cdflk"}
 ],
 "tooltitudeteam.tooltitude-pb":[
+{"v":"1.28.5","e":"^1.82.0","p":"darwin-arm64","h":"03jv22p4739dw35d2nxppqaz6vn538zpc63dy2jnxky32ngma4jv"},
+{"v":"1.28.5","e":"^1.82.0","p":"darwin-x64","h":"0ad59angqllhsj0rci3l4qyg9kij26hdwbqdramxrazrl18ncvam"},
+{"v":"1.28.5","e":"^1.82.0","p":"linux-arm64","h":"05ifrva77bk1n89a2sdim5yvjxyz3f631ipvnfz5gnc2jl0c4mwh"},
+{"v":"1.28.5","e":"^1.82.0","p":"linux-x64","h":"0n3j912674gl4l0pzrq7gxm1ar1sfcavnpmf3grb4z5ji30bsnmp"},
 {"v":"1.28.4","e":"^1.82.0","p":"darwin-arm64","h":"0kljlad7a20cqz879ncwq8ff9r3q5a5cyf62bbwagbxk2834yiw8"},
 {"v":"1.28.4","e":"^1.82.0","p":"darwin-x64","h":"1is45qcpn9rc21hrjp5fb8pm5534jcf1qyhdri25rbbq7hh85ms8"},
 {"v":"1.28.4","e":"^1.82.0","p":"linux-arm64","h":"0n91q2i548fy53irgv0lhwdxsa59rkjzfwxq9c1ggrv72wjdmzyv"},
@@ -12149,6 +12164,9 @@
 {"v":"1.0.1","e":"^1.106.0","h":"1m3s9siplrss7pxwhx2bx1pi4lj4dyiindkzxdrr0y19qlxina68"},
 {"v":"1.0.0","e":"^1.106.0","h":"0fry8k5zcmd8g90sh4p1f61926xrjfyh1zkgxmam8nzg4rjg3fh3"},
 {"v":"0.0.1","e":"^1.106.0","h":"05f6s8lkl1bn4gd5vxxfyrv46kd2z6jnffaw6x1dr2z6fy9r8msc"}
+],
+"wudi.verilog-ila-helper":[
+{"v":"0.0.35","e":"^1.80.0","h":"1jk1a7fb0rbi9jr9z5xy55ryal15sr5hjisfyycr543cvm2x5n2z"}
 ],
 "wwnao.bat-formatter":[
 {"v":"0.0.5","e":"^1.95.0","h":"08jdd0zlli0liipc8w6phgyp4vsbbw33wwbplxrwxw6fjykk7b38"},

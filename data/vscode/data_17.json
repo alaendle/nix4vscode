@@ -2971,6 +2971,9 @@
 {"v":"1.16.4","e":"^1.64.2","h":"0j606gnhhpj04dpciap9vmpzjg35lhximrbzhimm4nmwclqx02n2"},
 {"v":"1.16.3","e":"^1.64.2","h":"0fi79s5ryxcbx3pb0lgdqrpxypl12add0fnvxf8w4j6p5fzvslq7"}
 ],
+"dreego.vscode-dreego":[
+{"v":"0.1.0","e":"^1.80.0","h":"1zjmpjqnml7rsx73xgi6vl6saw05zcjylszgkkfvvqrl12x8mg2m"}
+],
 "dsaladin.al-object-helper":[
 {"v":"2.3.9","e":"^1.86.0","h":"1wsmnpsl717hh1bg16m8g8br8lpjidf0v4vya5fd0nb54pina0ni"},
 {"v":"2.3.8","e":"^1.75.0","h":"0ficnqj147q8xwlnj2cgwp5wfr4581w21r6dvmwfyd10mcya5jbq"},
@@ -5000,6 +5003,7 @@
 {"v":"1.0.0","e":"^1.27.0","h":"1m6rmpk89n5h8pcz10rm58lqi0vpy143l2w8qd770h304j3pcgfq"}
 ],
 "lebrainjames.grok-forge":[
+{"v":"1.1.0","e":"^1.85.0","h":"0qngc1lr98k6lxb1laqqg48nncgfzk2f7wbmaibpgb08vkfpf36c"},
 {"v":"1.0.0","e":"^1.85.0","h":"10a109jlacv49bsk2cwb4p759qbjbq4fzj112xjjnb55hrr6qf6d"},
 {"v":"0.9.9","e":"^1.85.0","h":"1kkw6rppnbsxxzwrw6y6yri4y00i7kcchv6w7biwx4czhjhngp1v"},
 {"v":"0.9.8","e":"^1.85.0","h":"04llnf4filbp07a9ni9ivpzfzp5805j6qwia62szhdc05dy3jyxk"},
@@ -5432,6 +5436,8 @@
 {"v":"0.2.0","e":"^1.80.0","h":"05sfis9h17isr7i0v6m40g8lvh2zxg7gyh58hzbdld6lnibn5d4x"}
 ],
 "math-paper-sync.math-paper-sync":[
+{"v":"0.1.2","e":"^1.95.0","h":"1iyh9wqg7jhczkiwlsc3sk5icvz0h050bzbwan1yj05m7nwq3hq0"},
+{"v":"0.1.1","e":"^1.95.0","h":"1wwrcp2xccljp6pq8y8z8cb8wdrb1x3lc0slyw8cmy527wy7bxgf"},
 {"v":"0.1.0","e":"^1.95.0","h":"1fjfn2w43l58ly1fvc0f94rhr3lbf6b3y7rywm0qzadv3r38kzc5","r":true}
 ],
 "mattheworford.hocon-tools":[
@@ -6609,6 +6615,7 @@
 {"v":"1.0.0","e":"^1.70.0","h":"190nsm72zbdr7kqbs7lk3jsb7vabhhrqakh7scwic5nm1fbshz8j"}
 ],
 "nauqh.pixel-knights":[
+{"v":"0.0.6","e":"^1.90.0","h":"1rnihyyaz4h1hkvg7a72lgi3jxi0a4jqpclny6alp6lnrdsdgn2b"},
 {"v":"0.0.5","e":"^1.90.0","h":"008rljq3drqn51nqn2kz2jnxiw2rdwykafw4mwwrcjzcsfm9g953"},
 {"v":"0.0.4","e":"^1.90.0","h":"12875pbd8d14gpgc9v59j2xy3hvkfi3jzxc5p3aw97xkzv811rgc"},
 {"v":"0.0.3","e":"^1.90.0","h":"09q22rg90adqs9z77bm2phlxxybnank18kjbrkasixk44w9rqjrg"},
@@ -8792,6 +8799,7 @@
 {"v":"0.0.1","e":"^1.100.0","h":"0338annswvw323pnslw6i5nafmsq2xhm2fy0wbbbi4dk92pv2imc"}
 ],
 "theprotechglobal.sagr-sap-assistant":[
+{"v":"9.10.3","e":"^1.99.0","h":"0nnf44drcilrxsy2g21vkrzzkx5wipvxymxrndal91jjiiff18fr"},
 {"v":"9.10.2","e":"^1.99.0","h":"0z8n5zxlf332rqmrx1z870vjdvqynlyl75yi1h7ckx0aici3887c"},
 {"v":"9.0.1","e":"^1.99.0","h":"0kfwfxqasxdr5af6b24xa5yyg0bi0vr9wwm1vlmk7lk58ychvmk2"},
 {"v":"9.0.0","e":"^1.99.0","h":"1nn9n7x04csv2h7qy3sik4ykybnjsljghfkcx0p220ilwgqicp88"},
@@ -9477,6 +9485,7 @@
 {"v":"0.0.1","e":"^1.93.0","h":"03d1qfsyr60yy74l5wjg9dqr4aaiy0f87n14z050931zzr63ss6z"}
 ],
 "vytools.vylink":[
+{"v":"1.0.21","e":"^1.63.0","h":"1dwqzbpnbsjfk5yn4spqkiahkh65sr0fbkhgzk18wqxj6mpy9zxh"},
 {"v":"1.0.20","e":"^1.63.0","h":"0vcg6zggx9xnrd8l54iicgnhdfdwc4miqgj5c18k72l3b2m3b2sh"},
 {"v":"1.0.19","e":"^1.63.0","h":"0i015g0k5swp5blcr82wqysn7g7cw9qxbvgsbiw94r7iqdwkwbva"},
 {"v":"1.0.17","e":"^1.63.0","h":"0hx8hpliik02hn3828kql5vmlk0rbxs3kpq534x2yi49y239p92a"},
