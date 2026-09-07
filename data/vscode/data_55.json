@@ -1563,6 +1563,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"09p2z0wlynjr6zi8rw111phrmgiva9mcnj4y6b9ppphkhkiqm4il"}
 ],
 "cdervis.vscode-pi":[
+{"v":"0.32.1","e":"^1.109.0","h":"1sdlwfr59383qk9640a3x27nnj31cqdpgvvd94fniml6fq2l42ly"},
 {"v":"0.32.0","e":"^1.109.0","h":"16nsfwmi20pw2rjyhdajl1apfcabd8kvjibix3p8hhykp478ic1v"},
 {"v":"0.31.2","e":"^1.109.0","h":"14n5ydjka1j3j757571mrzxjjvbjylx40chc9m4h9i9q0bjh8clw"},
 {"v":"0.31.1","e":"^1.109.0","h":"0zawakh5yj697ilnw436w67fcyclhfmfmk4825n9flw5jzpz4ydy"},
@@ -6489,6 +6490,7 @@
 {"v":"3.1.3","e":"^1.68.0","h":"0jnn1q8p5sywjzwqrra8z1qqj6ivks6bk8wsfww9qcqw9mzmarrz"}
 ],
 "kleinicke.tiff-visualizer":[
+{"v":"1.11.0","e":"^1.80.0","h":"1sjnwynls2gmk95w0138svda4rqyvkm5hv33b89knjjj42yfir6y"},
 {"v":"1.10.1","e":"^1.80.0","h":"03yxdv723khhhxgs94qm6896x5l97jfc7wgszvbfxak26sn1fdqq"},
 {"v":"1.10.0","e":"^1.80.0","h":"0wgfhpzc81rl20acvphz52x1yrk17l5rgsga1is2dfry51n3ms8m"},
 {"v":"1.9.0","e":"^1.80.0","h":"1jnvir6aq9hib6k0dj4rq534jr2fhf7w4jqlc8z2shdvaky29qwv"},
@@ -7493,6 +7495,9 @@
 {"v":"0.0.2","e":"^1.91.0","h":"17qcfs0l4aj4nh5v0wc1kp5b52xm5lqfznp9x66pnj8f1mg9w3jg"},
 {"v":"0.0.1","e":"^1.91.0","h":"1x6f8fdc0xvyhxp9v8b037843lcwwfnn3fskhs2vsr9z61lzjykb"}
 ],
+"miiidev.freemaxxing-vscode":[
+{"v":"0.1.0","e":"^1.85.0","h":"1waxz93sfxx6b2x5jvwrj627mvmzacyr675nby80qjff2s6lqpbg"}
+],
 "mikaelmenez.smkl-syntax":[
 {"v":"0.1.0","e":"^1.60.0","h":"14sg0r1vc481wnbi30p1p3z1py5sr5fzpcbfcc9jjq3irwd6sfgs"}
 ],
@@ -8067,6 +8072,10 @@
 {"v":"1.2.0","e":"^1.63.0","h":"0k23ixkxrb9y5zl826hjj88r9v9k4l5qdlf0997i33shn5wi9n0v"},
 {"v":"1.1.0","e":"^1.63.0","h":"05q74z3nxnc06wz8rqvx95qa788bj8rmh1rvak8ym73dp9s0ljrh","r":true},
 {"v":"1.0.0","e":"^1.63.0","h":"174qjvhzqr1snmdjwmv16rwxpbgnk2ar3rkbxcrlsqnrv2yys12g","r":true}
+],
+"novair.edi-reader":[
+{"v":"1.0.1","e":"^1.85.0","h":"1b428dl663r513nqv6a6rdmd9alsncsw4h1d9m03bnq1igppw2kg"},
+{"v":"1.0.0","e":"^1.85.0","h":"1r5q8721sckhd6fr51j9y3jran5fxkmkkhfpnxdv5kxwb9g9nmg7"}
 ],
 "novasidera.folder-count":[
 {"v":"0.1.4","e":"^1.85.0","h":"0fci38220cxg29ab56c39yhpa9882vi6zk2hjv6jrvsij5s9vmpp"},
@@ -8777,6 +8786,7 @@
 {"v":"0.5.5","e":"^1.85.0","h":"0708xkb2dmq6bgb6sz28rkif56qmq9cm13g8c84zczn4nklq4rn6"}
 ],
 "qualimetry.qualimetry-vscode-apex-plugin":[
+{"v":"1.9.18","e":"^1.85.0","h":"117jnx8kf9scjfmsk5sjp8z1h31aqc6dcmxsj2a2hc6qdvshymqw"},
 {"v":"1.9.17","e":"^1.85.0","h":"02y4rv90yvbbypajadif57kfr5051knw1vqgg8yww5ysk63d5x59"},
 {"v":"1.9.16","e":"^1.85.0","h":"07844ccqjr91889p65iw2i3ly8pnv92ywms26yqdfza1rq2x9wqm"},
 {"v":"1.9.15","e":"^1.85.0","h":"10s3w6q81f29ivgqmfn2lnl3fsbg7n1vhlhy9581syd166mwik9g"},

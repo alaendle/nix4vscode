@@ -481,6 +481,8 @@
 {"v":"1.0.2","e":"^1.15.0","h":"192r1jbmr5d6y9dq1xnpjyvcj08cg82n26g1alf8n3fngxbznwi0"}
 ],
 "arcsine.travetto-plugin":[
+{"v":"8.0.1","e":"^1.134.0","h":"02f5ai94fb2w97gbh48xb4m8fqnsnl3q44zsrkdy2hmbkifgaa6w"},
+{"v":"8.0.0","e":"^1.134.0","h":"1bj9jarjmh139n18qq1drq5p0r2l9wdjw96ccg60x87n91yidmrp"},
 {"v":"7.1.0","e":"^1.107.0","h":"1ykbf8gsh5kr7g4zd0mb6ww1h9i84kkk7515f7bf4wg86yqj8pf9"},
 {"v":"7.0.3","e":"^1.107.0","h":"14zhz9xbw5fb9pll0nmvcpx5dv80kndzivlnlf06wf6g8pqrnih9"},
 {"v":"7.0.2","e":"^1.107.0","h":"051c3q1ggv88yghyyw5kimfmk8pqny69zwpjvpm10w53fnx7fxzz"},
@@ -546,6 +548,10 @@
 {"v":"0.0.2","e":"^1.96.0","h":"0h7pf63xiziwdgkqm3slf811r10n8zb50vpg28bim3yqh6l6ys7f"}
 ],
 "aster-dev.aster-vscode":[
+{"v":"0.5.1","e":"^1.85.0","h":"1nr5pbpfy2xks18nhjlms7kybllnkrq0v3sxc85s85r26jskkj1f"},
+{"v":"0.5.1","e":"^1.85.0","p":"darwin-arm64","h":"044dzrszxcri9kyml8mmsr2b5nzh918m0cx3yx23k1n9q6zlf7cm"},
+{"v":"0.5.1","e":"^1.85.0","p":"darwin-x64","h":"1z0f33h1s8jl8zcp0j8mk279whxyls0ckqf86c06fy60mn4wk3bg"},
+{"v":"0.5.1","e":"^1.85.0","p":"linux-x64","h":"000mjh5vzijqjlsasxnr8j52hd3g3igi0c6sjrhfyllwh9scrk22"},
 {"v":"0.5.0","e":"^1.85.0","h":"1ppl0d4qslknbzz73kj22pfi5jksx4jar49ib43348a79g7iqnyi"},
 {"v":"0.4.2","e":"^1.85.0","h":"0xs1m49p678yjawi55jz54dlfwpsvav9z0zavm28ha91cqrfwhnj"},
 {"v":"0.4.1","e":"^1.85.0","h":"1jpl7qhwh7cc085dzqxnlc1zs80bxpf7sc49i3a1va26imadssa4"}
@@ -2872,6 +2878,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"177ng9bj167q3a7d9jmmvaannrrcyc6dn21z4zd1zm8bs1hs1ipx"}
 ],
 "honor-world.local-skill-quick-launch":[
+{"v":"0.4.0","e":"^1.93.0","h":"0xhzk5m5h4dd4m40gk0jlm58bj1pgw236izmw88nzhgny8dax268"},
 {"v":"0.3.1","e":"^1.93.0","h":"17d1m838vk5k2jhahkhc2pdvc4dfnwgh2nsbr5g79m7bgmfcmg10"},
 {"v":"0.2.0","e":"^1.93.0","h":"08mad404af0lmny15vd1d8nmwsr3adln7b3w9jm9ph1cp7y3d6nb"}
 ],

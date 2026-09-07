@@ -4446,6 +4446,7 @@
 {"v":"0.0.3","e":"^1.80.0","h":"1d3g6pjg0q53lganhkpy7dcqapdcamdh1q5k8a9yf776dy1ngrsd"}
 ],
 "lucidlabs.queensland-theme":[
+{"v":"1.11.0","e":"^1.107.0","h":"1smmxs3j6v9i6jlfnak2vjzypqczhj0p31qdmz402m1c4x260s60"},
 {"v":"1.10.0","e":"^1.107.0","h":"117c5gm6ipn3ppk4jkpaa2ff66zzjnc0llpvi00gv332hma8zqi0"},
 {"v":"1.9.1","e":"^1.107.0","h":"00kari9s3vnbrhgwjbhqirshn5r6nj1s1cnqdlrbz41b0fahm0hy"},
 {"v":"1.9.0","e":"^1.107.0","h":"1bhwkmxbzd56lfgl61idqjx4x6fkin07v8pz49nm0lxg5y51xizh"},
@@ -5509,6 +5510,9 @@
 "nasseratic.shortcut-shortcuts":[
 {"v":"0.23.0","e":"^1.35.0","h":"0y0wh961h7idgbxwbjihhvyg7n44zdiyh2fzxiv88zjhbv0gi7y2"}
 ],
+"nativecorejs.vscode-nativecore-orphans":[
+{"v":"0.1.0","e":"^1.85.0","h":"0zc982bak9lvmsz5icsdjmkcpxxvl104nqalgjrxgdl21ppxk843"}
+],
 "naumik8.theme-milky":[
 {"v":"1.0.1","e":"*","h":"01j8kb3v511yjr2b3xbqzx95y574k79zhbzpi70a52dgnh16wa64"},
 {"v":"1.0.0","e":"*","h":"1kl1l1020g54dd9v7f8fhnig49dmavamanq9ijjmryf2pclhyg90"}
@@ -5605,6 +5609,8 @@
 {"v":"1.1.0","e":"^1.74.0","h":"1vsxbffv87smf4j61qac8y13yy4f1qra47ypiagrhzr0wx80fnf7"}
 ],
 "newdlops.gitsimplecompare":[
+{"v":"0.1.72048","e":"^1.85.0","h":"06y35nbnxzrg7yrhs6v8czg05mgqh4xav1kb11rgv2bma6vik91c"},
+{"v":"0.1.72047","e":"^1.85.0","h":"1mxjnyic7sm7qmpjji1xspxaks23n79qs822sa0y7hjijylyq3yx"},
 {"v":"0.1.72046","e":"^1.85.0","h":"1hypp0im0kc28rcjssy2jb14j1hb28ba52axlnrzq067k2vwgz8j"}
 ],
 "newssourcecrawler.bea-l":[
@@ -9764,6 +9770,9 @@
 {"v":"0.0.1","e":"^1.103.0","h":"1yylfds60gryrdr6dqd78f48bf8l0j0mn26xhgc0y3ipwvvjjjfn"}
 ],
 "victorchen.vvpipi":[
+{"v":"0.6.13","e":"^1.85.0","h":"0a2qbd8060ii9ym0wrjbsrpwc1pqnc6l0jz1f204ch0kaxsjipv2"},
+{"v":"0.6.12","e":"^1.85.0","h":"1vq001299mmar525nr4fvl5kc9xnalbsl7fkz9l892kkwigfazy7"},
+{"v":"0.6.10","e":"^1.85.0","h":"0anpdvaz46nq3ifbnqrc1v1g54vkcwd7nxl60658v6w0sb0yv3bl"},
 {"v":"0.6.8","e":"^1.85.0","h":"10f7750dvz96bnjbi6y8gx8kpkdgp67ajmzm4slayhn2p98iypdp"},
 {"v":"0.6.7","e":"^1.85.0","h":"1100l4b2z06p6samkgkw0g45flnv3rzc8p0sihacf9b770r7nfdd"},
 {"v":"0.6.5","e":"^1.85.0","h":"1r5i6r499fgrcybvwcrxnj67lawl05gqjp6fas8qq27xhdbxc70w"},

@@ -2991,6 +2991,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"1l6cl63997sknz2fs9y22lg7w7qvqj1c55k3w26hz47y6jrlcy9i"}
 ],
 "globaltypesystem.gts-kit":[
+{"v":"0.2.6","e":"^1.85.0","h":"0gq2lp9yc8ddimsfv9q1d4g9b1jazxyky9jq0k3x91yaikjaanha"},
 {"v":"0.2.5","e":"^1.85.0","h":"0dzhck0cw7wxd1p3dasqrzxpsazy54mmxjb3ak71jd2gnf3whcd2"}
 ],
 "godrix.cursor-deeplink":[
@@ -3375,6 +3376,7 @@
 {"v":"0.0.1","e":"^1.32.0","h":"1jw4gxj48f9dk7mn0x6dnsphr5a5fdzbpa6n8i67y0v0fp6059k0"}
 ],
 "hiromitsu.commit-maker":[
+{"v":"0.12.9","e":"^1.94.0","h":"1k012x668svwzgwl6f2gdvfq8zb1qc5rm5i0g9izh8qxsvkv9k6v"},
 {"v":"0.12.8","e":"^1.94.0","h":"1l8h05ickd6awhvswpv0f4lbg5rqczrpwczyrgap1snr1hsjfakh"},
 {"v":"0.12.7","e":"^1.94.0","h":"0r9ncajxrr1r6rka9521vr3ypkf78y253z36iqi5zr43mjav7599"},
 {"v":"0.12.6","e":"^1.94.0","h":"04sc4lfrdmpdaiwd1ibcamy8cakybf1lh4a59lajrwp8myxy8y2f"},
@@ -5284,6 +5286,8 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1wqgxnf09hcy04s4kf80v8k9vi1dmjbrwxaswm8zwjswvz4m89vv"}
 ],
 "mrleilei.promptqueue":[
+{"v":"0.1.7","e":"^1.111.0","h":"17qd5pwr0z6r72nhdhs718iss864j6cqnmwmpxb0q3hjs338njqd"},
+{"v":"0.1.6","e":"^1.111.0","h":"0779jc111fbkdrm8aq1lp4rwzqfl9db24djad8pfxdcx17zzap93"},
 {"v":"0.1.5","e":"^1.111.0","h":"14916cyy0kpmncb3crlyd7j2msb1libns8j8lng0088dxz8f0kpl"},
 {"v":"0.1.4","e":"^1.111.0","h":"1ir2168izs6qs8a46xmcijhjadk7k0pp69qa0wxcy2mh8n5sfv3j"},
 {"v":"0.1.3","e":"^1.111.0","h":"07jmnfwbpqcag3hv3gb20jx9l44nmbnh6c16dz6yyxqzr4vkyfhy"},
@@ -9508,6 +9512,9 @@
 ],
 "zenoscript.zenoscript":[
 {"v":"0.1.0","e":"^1.74.0","h":"1gmr2msq27ns9prwq6s59n3rqan39hp931rn97pb81n1lpss44kx"}
+],
+"zerocrud.zerocrud":[
+{"v":"1.0.2","e":"^1.90.0","h":"0sr4b3plznlxl00dvmlq7k7cjjs983g5mh1zmz09nr9nlgq0zw91"}
 ],
 "zerodind.familiar-java-themes":[
 {"v":"0.1.7","e":"^1.45.0","h":"0wwq2q782lx2rz2yy5spfii6qp591vjc84r4k3jcs3xmr17f0vsk"},

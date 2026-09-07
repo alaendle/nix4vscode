@@ -1741,6 +1741,10 @@
 {"v":"0.11.50","e":"^1.49.0","h":"1gp87awlwmdca9rqx5l62lh29hdix9aglpss278bf1kbfqznbg9q"}
 ],
 "cratestack.cratestack-vscode-plugin":[
+{"v":"0.12.0","e":"^1.91.0","p":"darwin-arm64","h":"1d6j0wq922khpqiav0clbl5gpliv0nd6vs3z0xf8ra9r150k73j4"},
+{"v":"0.12.0","e":"^1.91.0","p":"darwin-x64","h":"1kjgfzi31761y43x1y39039007vlyi70iscc49c2wqmi083a19bq"},
+{"v":"0.12.0","e":"^1.91.0","p":"linux-arm64","h":"15r426avn8kh9xqglcaavbxcqjncl9w2ahchd6cx7ghvix3nda0l"},
+{"v":"0.12.0","e":"^1.91.0","p":"linux-x64","h":"08g9h5yysga5afhw23mvy5ymrpzs3a52zd0k9ki1ykiwqlqiybqz"},
 {"v":"0.11.1","e":"^1.91.0","p":"darwin-arm64","h":"13s9rrlz0knkdkg65hah59ix0yq0p6x3f977h27jlfndx681mwki"},
 {"v":"0.11.1","e":"^1.91.0","p":"darwin-x64","h":"1gqadijqdn1v3xm5pj5lf502bb4d5my9h0rqcxkgaz1h9smd05m0"},
 {"v":"0.11.1","e":"^1.91.0","p":"linux-arm64","h":"09xyhh2vv5dq0d44nb3hkvcpyyx7d4fsri86nc4lhdmk5ynv1vxa"},
@@ -2084,6 +2088,7 @@
 {"v":"0.3.1","e":"^1.95.0","h":"09wma0wjzjw6b8a9pgnyhm3cp93c2bgg8s42g29cc36asp5gig04"}
 ],
 "debjyotighosh.dev-timekeeper":[
+{"v":"1.0.38","e":"^1.85.0","h":"07bj95a08zjlns4bk8052hnkdzkm86nzj7hf91pd8vh9vnkjrk49"},
 {"v":"1.0.37","e":"^1.85.0","h":"0qmqmij2s55acysdipfbmi8713bdjjs1i2rz165mqlq1frk3101x"},
 {"v":"1.0.36","e":"^1.85.0","h":"01ldrdjb29hdni7sj9bc7zrzch0x32snls7b979ahfml1jpdm14n"},
 {"v":"1.0.35","e":"^1.85.0","h":"05v55sbnwc8xkw2126zh5mg0hgnmr6ii1104n20y2sin366ywirs"},
@@ -5232,6 +5237,8 @@
 {"v":"0.0.1","e":"^1.107.0","h":"0kv5dd2j34p93qdvdglh8z87xaah5ivmwxim593ss9aajc9ppcg3"}
 ],
 "krzysztof-d.justybaselite-db2":[
+{"v":"3.17.14","e":"^1.103.2","p":"darwin-arm64","h":"03kfy2w1kk3sfm13i11br4j7ca8vbrkcfgcyfldq8zddqdcn9ahf"},
+{"v":"3.17.14","e":"^1.103.2","p":"linux-x64","h":"1cp3yzgd2kpacgqyg5grkzxslf2a4grdcysqpcjsrlm2naiv7hmy"},
 {"v":"3.17.12","e":"^1.103.2","p":"darwin-arm64","h":"0l2ns7hmw2z4dm5dh35mdymg2pf6fknx0jmfv6w5wn5sx0isqfxv"},
 {"v":"3.17.12","e":"^1.103.2","p":"linux-x64","h":"19izaz78igsmjjb94qxdarmrvbsyzx3driy8k23qspcd8mjvrc4q"},
 {"v":"3.17.11","e":"^1.103.2","p":"darwin-arm64","h":"1h806m0laacmx6c386yqywzrvlz7vxk0935zhc9y8qniaygva6iw"},
@@ -7286,6 +7293,11 @@
 {"v":"0.0.1","e":"^1.106.1","h":"0vxhhb6qpjri269sr5hdnirfds8k18yr7f2c1g93pzhvrr54zgmx"}
 ],
 "paulcaras.explorer2":[
+{"v":"2.0.3","e":"^1.108.1","h":"0bvhafiz35ykwf2nr6hk1g59r268ggk66r0dahv70pdp4wnb5hqp"},
+{"v":"2.0.1","e":"^1.108.1","h":"1d1chip9psnbvppdc2qdyw8451b9va8224f3fqvw2g4sn3pkzh6n"},
+{"v":"2.0.0","e":"^1.108.1","h":"0h3hnvklcxa1mnzvbp04glbg66n1f8g1fz50phw5by98ss49k3p3"},
+{"v":"1.2.5","e":"^1.108.1","h":"0kha85mgla3lhbd8k5nyk5fym8fdbw6x50046azaay2s16mcdd1l"},
+{"v":"1.2.4","e":"^1.108.1","h":"10cfkqsdqkk8dxz9w62dd9srpzb65na43l6wylr9835aim9l2s3j"},
 {"v":"1.2.3","e":"^1.108.1","h":"1ji7piscgvcjizp95qhsr804cd4z9sdc5f9xclxf12sd6b9r0iwn"},
 {"v":"1.2.2","e":"^1.108.1","h":"07x3ycabjngvhi16mdi6iz54cmxwm5il5vgb4n1kppfycyglf47q"},
 {"v":"1.2.1","e":"^1.108.1","h":"1glam5pn10kq7rvag9q87vadp2lvgs8aym33x5hw1141wygjkbxs"},
@@ -7563,6 +7575,9 @@
 ],
 "rand0mwalkxyz.cc-yolo":[
 {"v":"0.1.1","e":"^1.84.0","h":"0wmin09xisqiypmrbc23n6xv014mc4va03k9pwicn3lv015j5har"}
+],
+"raplify.raplify-vscode":[
+{"v":"0.1.22","e":"^1.85.0","h":"0380bh8ixw0qbd7a7wbk3cx2js46m87mpljhf66yd7m0jlhqfp0q"}
 ],
 "ravemba.snow-extensions-for-vscode":[
 {"v":"0.0.11","e":"^1.41.0","h":"08jdb8f5bxkygwflj2xghw9dwyw4sg0kd5vwn3m28jmr4n53l8cr"},
@@ -8730,6 +8745,10 @@
 {"v":"1.0.11","e":"^1.76.0","h":"05s55xfxl45wfxr6ivd8iaf0ga2jmf8ab89qs5q2cz1nmmlh61hj"}
 ],
 "sufficit.sufficit-vscode-symposium":[
+{"v":"2026.906.4","e":"^1.100.0","h":"04vr08ny15rsvqzsa10z1lf8vhv02iiv1afgxn72rjf44n7iyfcb"},
+{"v":"2026.906.3","e":"^1.100.0","h":"13kfxx61bvyp31rs9nhmmac26k5gysd6mpm77zyizlzm8dv7239q"},
+{"v":"2026.906.2","e":"^1.100.0","h":"060l5a79g4x7fjx6k4fz5hnvcdqaw3fr7ipcdzmfdxsn09h3x6p7"},
+{"v":"2026.906.1","e":"^1.100.0","h":"10p5gm0ahrbgc3gyn21vzgnrvrmbf4rr6laaxarknlw1qcdxhsfc"},
 {"v":"2026.903.6","e":"^1.100.0","h":"1zmc4js6llinid2871q45sfzax2krl1af02km1w8zdym4dab6dv5"},
 {"v":"2026.903.5","e":"^1.100.0","h":"0w9vpkrwjq2cma6x7z22vxcfx9dcn1735l2m5587ybnjzbbc2qhn"},
 {"v":"2026.903.2","e":"^1.100.0","h":"0xc1a1w01msz3qxpyhdrnl4jvwvyiss24w9jbms0zggl06sw9cg2"},

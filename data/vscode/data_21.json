@@ -2009,6 +2009,7 @@
 {"v":"0.0.1","e":"^1.54.0","h":"0pv7qw6hzf2164mjac6ax9vxzjwx4fbrwy1v7gfjqffyhl14mm2y"}
 ],
 "curbsoftware.buttons-vscode":[
+{"v":"2.1.3","e":"^1.97.0","h":"00y6jl07f4x4kqk7v1rdfrw39gdxldc6a25qa6gszz7qqq9n10pg"},
 {"v":"2.1.2","e":"^1.97.0","h":"0rq8i6nlv33fpg2x4pp9fpq3lvdwiv3pb5w10d3j74fh59p3h7bc"},
 {"v":"2.1.1","e":"^1.97.0","h":"1h9q7nmy5zgzw5qmd6qwyr74k3nikd9jjsbgyhgxy6x1wffjh7l0"},
 {"v":"2.0.1","e":"^1.97.0","h":"1kn8874ql638ajga6hiv2b3zgii031nzg3dwmj6kfajgpjp5n722"},
@@ -6322,6 +6323,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"1iylfly6yz068zrchi1kz7swv3yv7861g49q7mmhsll6nb6bmyjf"}
 ],
 "krzysztof-d.justybaselite-snowflake":[
+{"v":"3.17.14","e":"^1.103.2","h":"0wk5q27fasplmpf140ji3vg8ifk57h4fisjbla77rabc79dcabk5"},
 {"v":"3.17.12","e":"^1.103.2","h":"1bz1z7crl4b4lzmharyc66pfjz1w42x0xmlkzv8g7r1aa2kjpmay"},
 {"v":"3.17.11","e":"^1.103.2","h":"168qvgqmc8hm1kzcbw11ia2xr1f6n5s1azkihg0g6gb4jhv1wdr7"},
 {"v":"3.17.10","e":"^1.103.2","h":"1hq0akgsxr3r57500kwh3awr95l3acnilhrlmjdapdai3n640rn9"},
@@ -8269,6 +8271,11 @@
 {"v":"0.1.0","e":"0.10.x","h":"0044669ajc3r06qr6g84k5rzvbvj32rjr1pv66iyfjdnxpwfxwsq"}
 ],
 "myriad-dreamin.tinymist-gpu-viewer":[
+{"v":"0.15.6","e":"^1.97.0","p":"darwin-arm64","h":"0ws6wgy4bq9p77kl0riphl95q46ywsh20mnijzs9dgn2fw6javrv"},
+{"v":"0.15.6","e":"^1.97.0","p":"darwin-x64","h":"1s86vybrnfpx9rcfrr3xbidz02hylrajf3fg1zmlhf13vfclyzw4"},
+{"v":"0.15.6","e":"^1.97.0","p":"linux-arm64","h":"1dhv7pdinxx45bk4mk63mlk99sm1s353asawf9bs0pqdlia1yqnx"},
+{"v":"0.15.6","e":"^1.97.0","p":"linux-armhf","h":"06slz9igcdv5pyr68n7r6gdwjvb3p8347ncf5jk280ad41s4nqf9"},
+{"v":"0.15.6","e":"^1.97.0","p":"linux-x64","h":"0fappc5j1ixbacacwk7vqvn4g7hnn5k0d9s80mnliq5my2y9csjc"},
 {"v":"0.15.4","e":"^1.97.0","p":"darwin-x64","h":"1586hpg8d7w59cdh7pmfli79pqldnbs0b6yww7z7b9yijnkvw1h2"},
 {"v":"0.15.4","e":"^1.97.0","p":"darwin-arm64","h":"11js8w9613ka7v5zapp9rwj3xpd1mi4z8y1g9zffr6cc13h664ad"},
 {"v":"0.15.4","e":"^1.97.0","p":"linux-arm64","h":"0v4qc7yscy2amd48s98baq3gayxid8qqal3qykci0dgaya6x0mnx"},
@@ -9336,6 +9343,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"05ckbzyhgbnn0axmpb2v3b8rd50w63jq5nyl64vnkkawvax0p7hh"}
 ],
 "promptguard.promptguard-vscode":[
+{"v":"0.6.3","e":"^1.80.0","h":"0l58ww1c0r60flj8ygk08b4bc2say2dyr2n0c8yx0w14vl1yppaw"},
 {"v":"0.6.2","e":"^1.80.0","h":"19ghdjh3j5nvvq62dqss82h25lmxpjins373k82y4f7yrmzg80kq"},
 {"v":"0.6.1","e":"^1.80.0","h":"099fnqsr1prih7gq5j62r65zmyl45fg28ca4l61kvy0dh8wxg6ai"},
 {"v":"0.6.0","e":"^1.80.0","h":"1ngyqygv76978d2kxp9w4pafjcwiaiia41q3mafky7wsdl6gvf1b"},

@@ -4614,6 +4614,7 @@
 {"v":"1.0.0","e":"^1.42.0","h":"0ibz3zgf0sran081vd13cqalsa8mg1rx2rflhkdzvfb4ws1il1r0"}
 ],
 "lucidlabs.qpws-theme":[
+{"v":"1.3.0","e":"^1.107.0","h":"17n20m0fk3498hx0wwbb8fpkiiyhg4y37s5awq83zfbdm8zglp9x"},
 {"v":"1.2.0","e":"^1.107.0","h":"02ahy5zvpda0ajra82717r0cc3npnz66i00m5z4h2nnq7bm8ykm0"},
 {"v":"1.1.2","e":"^1.107.0","h":"15w0yqgv9k118vv63d8mxc1z9gyrwd10kka7ywhq85qghiij0g6q"},
 {"v":"1.1.1","e":"^1.107.0","h":"0y9kv5h8mi478h813skgpd4v6m3a4i6n5jcmbn6ig06c4ddhi4l4"},
@@ -6325,6 +6326,9 @@
 {"v":"0.1.1","e":"^1.82.0","h":"1s5rmjggb34fnn305l7vp4f1lmmn3wpm5l5j8ag37z49vfndl6lh"},
 {"v":"0.1.0","e":"^1.82.0","h":"1j8kmr8jsrxph3ch906bllsqmx1a33ybfy3vlz2z4czx2lg2b7ij"}
 ],
+"nextgencode.ngc-java-doc":[
+{"v":"1.0.1","e":"^1.85.0","h":"1hinr7x95ri43jzq8awl9fgy6nlvrh1vgjrwp147gihglch34cm4"}
+],
 "nfox.visual-foxpro-outline":[
 {"v":"1.3.20","e":"^1.92.0","h":"1mad80w49s11y5d3syw2bdja9phxcl1dbbg65shglk614b3gdwir"},
 {"v":"1.3.12","e":"^1.92.0","h":"01q0qys8cz5z3rkgnv3hafqwh880iww8d337421cf3c6f1ib84i7"},
@@ -6699,6 +6703,7 @@
 {"v":"0.0.1","e":"^1.51.0","h":"04g24x7iav7lrkwnz8gxwcvzkf1hk2avq96cqkkh5mrq8j1l8dwl"}
 ],
 "pgdeck.pgdeck-db":[
+{"v":"1.2.7","e":"^1.90.0","h":"1ywqx1szajszksf5xl2alaqkz3j4f9840gsim3md01skav2q7yd0"},
 {"v":"1.2.6","e":"^1.90.0","h":"0zimp8691r1k5k48xkgp1iif9ifl2v2ralhnbpbvp1aaza0gxwvv"},
 {"v":"1.2.5","e":"^1.90.0","h":"0d2sdxw4iwcq3y6axq5075zp2pigyysqxcw4j25j2f6w5xqrq4ix"},
 {"v":"1.2.4","e":"^1.90.0","h":"1nqqavbxl8039if60wp7rb7jdqycfvhvpg5rxr9jjc243n9dbncx"},
@@ -7692,6 +7697,7 @@
 {"v":"3.16.5","e":"^1.84.0","h":"0cx21k8s41ibc8mi4pls1wfdnk1jghxpby45ngw9f14chg0qly99"}
 ],
 "shinjitanaka.quick-note":[
+{"v":"0.0.8","e":"^1.136.0","h":"01ma31zdnm2i0pmw65vkfbdgypl03hi1a9f3m6n6wqsp53n9rnfx"},
 {"v":"0.0.6","e":"^1.95.0","h":"0nrdd543397wbsiqzsv44zzf7pll2pnrxfyjrmjkrlxj15p4hmfi"}
 ],
 "shipengliu.liu-snippets":[
@@ -8769,6 +8775,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1y2zvlv2x476b46xwhvc4fdl8h7dwpwj46qh6pzld3msavlyz94m"}
 ],
 "tsj.sintra":[
+{"v":"0.46.71","e":"^1.106.0","h":"0mscdgpafjxax6l5yz85ka4sx5wk66y046s3kfv9b0f72jp80l68"},
 {"v":"0.45.71","e":"^1.106.0","h":"0vddsj2skpib18wbil2fc2654h4l7h5ixr57f2g7d55l84crhd75"},
 {"v":"0.44.71","e":"^1.106.0","h":"0cv27qxq3mlckw6c5ja82hs34p261dqjw5p2ffjw8y99q1jyrj5p"},
 {"v":"0.42.71","e":"^1.106.0","h":"1ab3c5z917hagvwp2hqlka5sqk9n4k5dks7fsjrvvv5ksad4d4rj"},

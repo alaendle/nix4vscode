@@ -293,6 +293,10 @@
 {"v":"0.1.4","e":"^1.104.0","h":"1hn8an6i6nsi6criawvi3nnzlm349ngiil38lx49rrf5sjf2mz08"},
 {"v":"0.1.3","e":"^1.104.0","h":"00vnlrjzxk7kjrdqvg7ikla0jjibjsan16kad5nlbrp9w25m7d0k"}
 ],
+"ak4upskill.diff-to-pr-description":[
+{"v":"0.1.1","e":"^1.80.0","h":"0c2wq6y5mvd144zryp3abs4kncbkkf8w22z9hjchph7z7kyshkwi"},
+{"v":"0.1.0","e":"^1.80.0","h":"05k8pp65dmbkzfjs6bjk5z2qfljs3mnndk7kqsmln40jg445pjcg"}
+],
 "akhilp19.qt-vsc-extension":[
 {"v":"2.8.0","e":"^1.85.0","h":"0idjnv0g2jf8syj3jj3pazyl36iligqj1n1zgrn0gsigbkgz0g37"},
 {"v":"2.7.0","e":"^1.85.0","h":"0hs009zybyf318q4vp0r05s71nv6ymm727kd529sxkql5fn8rsmh"},
@@ -6293,6 +6297,12 @@
 {"v":"0.0.1","e":"^1.41.0","h":"06mxmhhmwbdi1crhygg9x7337q2rgkqc73wq992l6p4l7990bgh4"}
 ],
 "myriad-dreamin.tinymist":[
+{"v":"0.15.6","e":"^1.97.0","h":"1k5d55pqa5nxrsd7l1amiqkccivf7cv3l4hgnm1agwfznjm80i9z"},
+{"v":"0.15.6","e":"^1.97.0","p":"darwin-arm64","h":"12spahmsz9sq5nya43956hxg2r0f9hl4wj2gg235vzmihjk2q350"},
+{"v":"0.15.6","e":"^1.97.0","p":"darwin-x64","h":"0vpb901bqxm8r71hdsspicp2pgj6b6skmfmz1yxq130mnf38q0k0"},
+{"v":"0.15.6","e":"^1.97.0","p":"linux-arm64","h":"11cqski2gv6ppy5abj6cjn2m146ld86sacsj4f44ivwwcapmjkcc"},
+{"v":"0.15.6","e":"^1.97.0","p":"linux-armhf","h":"1mh1pbbpf5wrr67jaz82yr9qpwgkj9h0bwi6kgwhlww0cfp5pni0"},
+{"v":"0.15.6","e":"^1.97.0","p":"linux-x64","h":"0dx6gh97l12ngm8g59l4s73frmpdaf3kfr5siam21556p9z30lm6"},
 {"v":"0.15.4","e":"^1.97.0","h":"0gz10g4lpiaf677kw3if8p42d6pvp8x42a3jmhf3y290avvvj9nr"},
 {"v":"0.15.4","e":"^1.97.0","p":"darwin-arm64","h":"1kisqcj2686mds9chmlwsai04ynkc6zhgk2yq5g68w80g4qsd41f"},
 {"v":"0.15.4","e":"^1.97.0","p":"darwin-x64","h":"09b899vr5lacmp06q05dkrqknzsfh6nq23b19sikwp87gz4grny1"},
@@ -12265,6 +12275,7 @@
 {"v":"0.0.1","e":"^1.111.0","h":"1ghjq47pcs73qd59sj5fa8ng9c0jscr0650iqp6haq3d6hj7r16i"}
 ],
 "virious.qiankun-sub-app-plugin":[
+{"v":"0.0.8","e":"^1.109.0","h":"1k94m6534q4r7x2clkqjmfdr4ydj6ss5xafhacj3r05wpjzmh5j3"},
 {"v":"0.0.7","e":"^1.109.0","h":"1wjrv595b4y9kp56k1krbsxik1zj1as6sq4sijd6jjpfr40565xd"},
 {"v":"0.0.6","e":"^1.109.0","h":"1nbgdzgii9qkfgmcmbrz2fa1mpm2lda84nnlh7vcxg873cd2s8gz"},
 {"v":"0.0.5","e":"^1.109.0","h":"0lv7gdx2ffpvcab9qv7rjnw79k8vdqvvp5xilj9lq4r2f6hc900x"},

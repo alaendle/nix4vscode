@@ -3663,6 +3663,8 @@
 {"v":"1.0.21","e":"^1.52.0","h":"1b9m2f34xk84yb0qh94pg79w4bfk7m1fcj8jk3zrmaw8pimk3f95"}
 ],
 "hasakudo.mojigoto":[
+{"v":"1.0.5","e":"^1.80.0","h":"0d9i6sz64y7m1rljgpgr0rv7zwqr9izzannyrdcnrxphvlirxg8f"},
+{"v":"1.0.4","e":"^1.80.0","h":"04b8g9qg0h50s4gwfxsv6zhfii9a53y770zzr2iq601695f6aqc4"},
 {"v":"1.0.3","e":"^1.80.0","h":"19d5pf7657smjnv254qqcfs506af9slk5c2a6fy49cjw952prkk0"},
 {"v":"1.0.2","e":"^1.80.0","h":"1g078fazqcbksnz20n2psr04g3r07vl7bd0giwad9ys6bfdi771y"},
 {"v":"1.0.1","e":"^1.80.0","h":"017ijbs0896h58l4daf01p9j8al8ixpv53v9hjsksg2hci6d27sw"},
@@ -5312,6 +5314,9 @@
 {"v":"1.0.1","e":"^1.96.0","h":"145dmn0a3v1hz9f3lr9vaibvrzvskak2f0q86vd592ycl54yz23k"},
 {"v":"1.0.0","e":"^1.96.0","h":"05g77lik2rk50bkimrbcwb1sfmi4568cg5s6wmb7lzfvgq7rgyla"}
 ],
+"mbjarland.evalens":[
+{"v":"0.0.1","e":"^1.90.0","h":"0g0qp0xyzd4c2nlcrm78y99azpc6dbhb7nyrmb209s3f0h0nn2fy","r":true}
+],
 "mclab.mmarked":[
 {"v":"1.0.0","e":"^1.94.0","h":"1jil2xiaxrnwdyc83fjra1a281cp5dw1agkrg2mkxmk4dd9bvn89"},
 {"v":"0.0.9","e":"^1.94.0","h":"1fapri7p4fiffp1hdc58jibawa5f5yljcmbp8sckhqhxxb1wlglj"},
@@ -5762,6 +5767,7 @@
 {"v":"0.0.1","e":"^1.96.0","h":"1diimdz8n80yy5cnp232xc7aa4ak55hshgk1fk7k1jbdmg2jahqk"}
 ],
 "muhammadmohsen.mingit":[
+{"v":"0.12.6","e":"^1.95.0","h":"09rl7gsda2cygkpqmn3ghb7l0l4fw2xxj9jaig7xaa5dsrhwrd8z"},
 {"v":"0.12.5","e":"^1.95.0","h":"1hs89ghf61xd9sv407gfhsy02wyk76r6fgn9yihijyggk8bqg3ip"},
 {"v":"0.12.4","e":"^1.95.0","h":"17j79x9clivar4h761hqbzs645d3gxkpwnil23i14j5gw593i3pk"},
 {"v":"0.12.3","e":"^1.95.0","h":"0cdzsvmiivvly9y9xkqqc1i56dhkjcyhs3406q1x2dig0jsbk8m7"},
@@ -5988,6 +5994,7 @@
 {"v":"1.0.0","e":"^1.109.0","p":"linux-x64","h":"0px87kqb3yd5vff44c08zkaaaz6nh703i9g766m47s6bi76hf2j1"}
 ],
 "ngpowertoys.rtl-powerpoint-generator":[
+{"v":"2.3.0","e":"^1.95.0","h":"1c8zj8cqzxpbpqscya2bg3z6y122hrh1hxrh5zyd5y0np6qc4qqz"},
 {"v":"2.1.0","e":"^1.95.0","h":"1c7mkpjcizw4far2mfp6f1cizv29qdygdc0rf12s03khmiwzrxfg"}
 ],
 "ngvuq.w-themes":[
@@ -6364,6 +6371,7 @@
 {"v":"0.1.0","e":"^1.29.0","h":"1l5r9dks4dphq0kb9ik2vvn83ah2w511w6cgf54dhf50af3bbvml"}
 ],
 "pavlyshyn.lpg-modeler":[
+{"v":"0.7.0","e":"^1.90.0","h":"1hk2xckdsf2ybqljbnbhijkydvjd79259sxykmadz8ibln474w6r"},
 {"v":"0.6.1","e":"^1.90.0","h":"18g54i8wwqcbwcm08qqck5p75cgqxrd0afjfdhdf7w48sp2jvdfv"},
 {"v":"0.6.0","e":"^1.90.0","h":"079jfbfzgvwxx2h96kmnhivlh4hh328lcz23qkxkx2la4aawidx6"},
 {"v":"0.5.0","e":"^1.90.0","h":"0ggkir6dkg9hgmcxr6v3c64p1ndid4wmg0pfj352qpnih88lz5q0"},
