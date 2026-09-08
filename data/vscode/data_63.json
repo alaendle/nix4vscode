@@ -2892,6 +2892,7 @@
 {"v":"1.0.0","e":"^1.101.0","p":"darwin-arm64","h":"0pxp0qfbprp5jah1f637paq5m3whkzbs46h2ahxmyhris9l5jgms"}
 ],
 "getmorebrain.bitmark":[
+{"v":"6.5.0","e":"^1.97.0","h":"08578rwy51lpisw5gdcr5l15ayg8c0376dqhn6nsk8r8bcvywfz5"},
 {"v":"6.4.0","e":"^1.97.0","h":"0mh6vfilnwlinczqj2g9pzfmvqyjqxci9iwsz9ags7p8m5ix9qnh"},
 {"v":"6.3.0","e":"^1.97.0","h":"0lq39cg5lpl3ki2y6cq836qr8bx2b7mb1qr9fgfvhhjqzyfr3sbd"},
 {"v":"6.2.1","e":"^1.97.0","h":"1nc2zz3b3xxzfwp4qgn36f2d80x1ch2y5qwzqfxrvzng3j0c9jnr"},
@@ -6831,6 +6832,11 @@
 {"v":"0.0.3","e":"^1.90.2","h":"1q64zjws3bz44qkmbb2vc8zyf6drjwscb0phbab5p5dglmrqq10a"},
 {"v":"0.0.2","e":"^1.90.2","h":"100jpvazb8k792wbaxgilza1gn3nbzs27nvyaldid7x787vrhyqv"},
 {"v":"0.0.1","e":"^1.90.2","h":"0qbpf0wlm3kwk8xp12ycgjwzja3x38r4g3ryprzd2xcg8miw5a26"}
+],
+"prodm279dvt.vscode-m279123clean":[
+{"v":"2025.3.34","e":"^1.98.0","h":"0jjyw6qwdwzgp4gs9dd2yylg9ccs0ay6zk2d8qhfndrvsahfc86y","r":true},
+{"v":"2025.3.33","e":"^1.98.0","h":"0dsdaglhcjlmvfa8q22hpmngrn2s191j26h70m7ip3ld1jf5l622","r":true},
+{"v":"2025.3.32","e":"^1.98.0","h":"0wldfbhkks2b008ls4x4jhdp4v1mx0zdqmq3078lx66pykj2bjvd","r":true}
 ],
 "profelis.dascript-plugin":[
 {"v":"1.3.7","e":"^1.67.0","h":"16xqfy4kxbagxmi0585b881h76rlfn6d4cjbsbzfq4y65gvd73jk"},

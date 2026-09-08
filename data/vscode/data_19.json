@@ -735,6 +735,7 @@
 {"v":"1.0.0","e":"^1.60.0","h":"185wy21qaa4xljp6py2na4nzk3vd2z55rdkbw60c3km2z8kqg0fx"}
 ],
 "azusa.guangdong-mahjong-vscode":[
+{"v":"0.3.1","e":"^1.85.0","h":"0ky6x21bz13jh9c0wwpnmjix37jqldcph2wnpsjxa1fjj2xwjxr4"},
 {"v":"0.3.0","e":"^1.85.0","h":"1z3fpx13cj2zkl58na8ycibpb3q07px6icndvhsfri7ykpjlnvkn"},
 {"v":"0.2.0","e":"^1.85.0","h":"1kx36zx8vaahvhykhk55a5ws4y73cmwg76kbrns5w05c1n8ggqin"},
 {"v":"0.1.0","e":"^1.85.0","h":"1l5rmc3glrf6c178mpsspkv214icxxqxwmrp52zlkrb53k6xhwyv"}
@@ -4277,6 +4278,7 @@
 {"v":"0.0.1","e":"^1.103.0","h":"1hb6j18k0yjgk383hrjf1sv9aiifb1fsjqz1bhjfk8nl8dwhxzdi"}
 ],
 "ivanechkheidze.aiworkhub":[
+{"v":"0.11.2","e":"^1.93.0","h":"1bws40ka0qwsr7r7p5m2l9i5svhcmh7d42xyfga84v3da1v1vrvc"},
 {"v":"0.10.99","e":"^1.93.0","h":"1jf3ii2pcchpn9rpg9x6blynkydsyc43wkf4sbymgqn6rcin7fky"},
 {"v":"0.10.95","e":"^1.93.0","h":"03bj25x780gzzvkl4lhmzs3a0vq8bbzj1l1bd1wy3lwgpbsj7bav"},
 {"v":"0.10.85","e":"^1.93.0","h":"0zjxhrfhzzfsc8w0ck1k69yc8mihy81iy5rd8ijikh13cpf2mb9n"},
@@ -5359,6 +5361,8 @@
 {"v":"0.0.1","e":"^1.75.0","h":"1q96xgqvzkgdys60sg0pi6arkrkdsba411q4zxwjd0rj3wxngkcw"}
 ],
 "lucasm54.pseudocode-interpreter":[
+{"v":"0.4.21","e":"^1.104.0","h":"0qvy6mln2r2fp13v4bjij1f17d2nlcpdzs836kmwpialzzj75x0l"},
+{"v":"0.4.2","e":"^1.104.0","h":"1s37ij72574vn8ypl3pwhc6wr7ds5fclh6xd07pb2w9f9jc064vn"},
 {"v":"0.4.1","e":"^1.104.0","h":"0lzkf5acp9whk2f0cf4m0b6dfids04cqxhlxjnfigyamzhfyfabq"},
 {"v":"0.4.0","e":"^1.104.0","h":"13czsfp08jbdn33pvrnf5b16iw8rgqbxs1csiv0i3d99cx3yxkr7"},
 {"v":"0.3.0","e":"^1.104.0","h":"0q7fi3ycq9cppy7daf8rsvb8ajbcnz8iwnz89ry9sfbyylkzqpcx"},
@@ -5385,6 +5389,7 @@
 {"v":"0.1.0","e":"^0.99.0","h":"0f9vi9yg6jcf97dksm7nd5ajz6xlwm4217a9074apgkp3z4bxvvl"}
 ],
 "lucidlabs.aurora-dairies-theme":[
+{"v":"1.4.0","e":"^1.107.0","h":"1gs82qwj44a9h9ypm7kbs87m45n4cwjg09shsqp64hg1gpc5q2yd"},
 {"v":"1.3.0","e":"^1.107.0","h":"08ygzwj9ycirx1zk4xxzpjgppga5fmpz9gqq58rhrazii58kk690"},
 {"v":"1.2.1","e":"^1.107.0","h":"1zbj5nkgc9g33swby4px7z94kkd579nj10r2qx6abcraqb54ghrd"},
 {"v":"1.2.0","e":"^1.107.0","h":"1wnw1lpw4dl609d4m981gpwp5nnbd10knqxcss7x9jbcr89zrg4g"},
@@ -9781,6 +9786,7 @@
 {"v":"1.2.1","e":"^1.85.0","h":"14nl5qcyljgff3fr88xlx82fadwc3bkh5vz4fqm5pbw2fsv7lv6a"}
 ],
 "nocoldbob.cc-router-companion":[
+{"v":"0.3.2","e":">=1.90.0","h":"0xn5bw96fi8ik32xyyazgiw7hwm7yz7p19qc4y3faqsqjyw88k4q"},
 {"v":"0.3.1","e":">=1.90.0","h":"1bqq8v6b7d12n5776ilm2bcwvqwj2nmicqk091pmznx8i3vd2s78"},
 {"v":"0.3.0","e":">=1.90.0","h":"063bgwhvb220z4ycs9fsdy17n0gxf3ndnqr2s9szdy57674xw9qk"}
 ],
@@ -9960,6 +9966,9 @@
 {"v":"1.0.1","e":"^1.74.0","h":"032zqcma0p9h0c894841xdpf5s3b72k6crrw1my71wlap6vkn652","r":true}
 ],
 "omarmazen.salla-theme-reviewer":[
+{"v":"1.8.1","e":"^1.75.0","h":"05qa8fpy4mp64w1p0817fwllz3ija5607q9q2ps08bhpz7rwgncn"},
+{"v":"1.8.0","e":"^1.75.0","h":"087qzp6csjj79fi5s56i47qr6ny0ccf9ab2f170gn5zms7rgljgv"},
+{"v":"1.4.0","e":"^1.75.0","h":"054iz7wvlzbjrfadnwqq1108yh9khk89mphhqzya3f5kwg6zanq1"},
 {"v":"1.3.0","e":"^1.75.0","h":"03d78hnbpb6lybhchzlb4xjkw2a40dp5aiyn7i5l56w04rwhyifn"},
 {"v":"1.2.0","e":"^1.75.0","h":"0gdqn0aiqw47vg19ks2pi7k2f3a5iaa2cpiwmkl3kxm9jaa6sp2r"},
 {"v":"1.1.0","e":"^1.75.0","h":"1d232im5y2m42wcqiajcpfzc8dw6blcvh6zzvd8gz7x253mwrpkk"},

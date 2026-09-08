@@ -1002,6 +1002,7 @@
 {"v":"1.2.10","e":"^1.94.0","h":"1p4ds5svmlw5n77im4j84x6f8sq392hdzjkpbxi1bv2f2114hrh4"}
 ],
 "binobi.vscode-bino":[
+{"v":"0.95.1","e":"^1.85.0","h":"0bpbclbrh51lxac8f963vgrcm1rhhdj8fyjv5lmafdbnmga20a00"},
 {"v":"0.95.0","e":"^1.85.0","h":"1f7vfhg7q4i5k8cxv2s5mvp2qfzg92ib0carlwxq6wzpvf2fvmgj"},
 {"v":"0.94.0","e":"^1.85.0","h":"1y52ic3gy6sin32d58fx8jg4m2664cflqm8wlaqhgg6j5gvm3fh1"},
 {"v":"0.93.0","e":"^1.85.0","h":"1g42dxyg8i47gqxzv0sqns56k7v5953nfvqcalz9qijbys901y66"},
@@ -1692,6 +1693,7 @@
 {"v":"0.1.4","e":"^1.85.0","h":"0jn57b57qq22p9w46nkyv4i2hb188hsr98sjf9wpi0l2l6rqndpf"}
 ],
 "crimsonmartin.impact":[
+{"v":"0.4.2","e":"^1.90.0","h":"0g7rpvhk2yk1qg491h8qn8bynirwsaxifrir9lcbxk67jq9z44ac"},
 {"v":"0.4.1","e":"^1.90.0","h":"1vq2arn3vds4j8r59a10rlz76azy18my22z945mjfr847kkqs9vr"},
 {"v":"0.4.0","e":"^1.90.0","h":"19i6nvm0vjz7hd4ii2b2d6y1gx918f2rz1s1s7hmi3q0ca5il61v"},
 {"v":"0.3.0","e":"^1.90.0","h":"0hfmssykyilkrqgzjswvf4hi4zzsx9iv91nvsjnzbbfwa8n9y2y7"},
@@ -3297,6 +3299,7 @@
 {"v":"0.0.1","e":"^1.69.0","h":"18bhhkqbkaiblhfa6j6dpjydrh6b0x72vpq3mxh0b061lya0gcy2"}
 ],
 "huachao.audio-player":[
+{"v":"0.1.0","e":"^1.80.0","h":"02rz3hjygm4cd873g6ba31ax0aids8havbqfk708my9vi9ij2585"},
 {"v":"0.0.3","e":"^1.80.0","h":"14fqlrq1m0pf5s9r1lxp8javgj7na4irfapxdrkg7kmckflgsr3g"},
 {"v":"0.0.2","e":"^1.80.0","h":"03r1ksrhz3v6iqpmg4dcgj990yaqqjknz3wn9h73xivqzmkm832m"},
 {"v":"0.0.1","e":"^1.80.0","h":"1mmqzjcd6fhiw1hlwbngfzpym5isv23l6zr47zp1dppqkli7cxgy"}
@@ -3873,6 +3876,11 @@
 {"v":"0.1.2","e":"^1.100.0","h":"0gj0a2nn2c0kj459brzv2sydr2a2m0wgc2qdg2jzjvb3ks1z51f1"},
 {"v":"0.1.1","e":"^1.60.0","h":"0cxw7yhv9wh5pmiwc1cn2a7vcd551wbhbqzabrckp26jcb0gwd5j"},
 {"v":"0.1.0","e":"^1.60.0","h":"1sc0kwjy07n5shm36j5jc5cqbqydgjsvx3kv69f0jjgncadfakp0"}
+],
+"jazzzydevelop.spec2deck":[
+{"v":"0.3.0","e":"^1.85.0","h":"0r4351hr0kzs2bh93v0p3wzixcw37mv5i7wfwvlf31hq6szpbg74"},
+{"v":"0.2.0","e":"^1.85.0","h":"1dpdpl828cjz6pf0a3s53wlr3nw19k87vdn6ddvfihrmingkcqdm"},
+{"v":"0.1.0","e":"^1.85.0","h":"09zp1n5yw8p2ndr95bmfy2szgyhqj13djj1rdxj7ld0idk24zy34"}
 ],
 "jcall-engineer.collapse-defs":[
 {"v":"0.2.1","e":"^1.75.0","h":"1fw6dc32bz6vfwiq8g3a0fsdkpk52j6srnyj0nqgzr3vilq3n9mv"},

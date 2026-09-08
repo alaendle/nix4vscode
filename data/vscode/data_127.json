@@ -58,6 +58,8 @@
 {"v":"0.1.0","e":"^1.80.0","h":"05yr22mv5kykk02imy4dd4i9ywb5vbikdspiqsw1a5683772c0n8"}
 ],
 "acedatacloud.mcp-producer":[
+{"v":"2026.906.1","e":"^1.101.0","h":"1523gswqgzcpxa66rxfgsi6ljfh5ad809w4pgzbjlgg9jsh943d5"},
+{"v":"2026.906.0","e":"^1.101.0","h":"00yvpwi94swq4lssikxz3f91n99pmwl6jnv6qab150zw2gn3hbwm"},
 {"v":"2026.828.0","e":"^1.101.0","h":"1z7nlnn3q4mgjsyfjsf4hk8v62bv71qr3w7lir2g8z5a2k8rkh9x"},
 {"v":"2026.825.0","e":"^1.101.0","h":"0wrnaz10n6b2yp4rwzgy0xikxizck39ycs0cf2s7s6qnnabjdb0k"},
 {"v":"2026.823.0","e":"^1.101.0","h":"09z1cidd1z1n5688qvfb1b0fy1xlxzqnm6dmfkvi8nxcblyi52if"},
@@ -3291,6 +3293,9 @@
 {"v":"1.0.1","e":"^1.63.0","h":"17j1w731fmbks21ngihrdw5lvbh2vl0502j8waq6xq440q7zz6g3"},
 {"v":"1.0.0","e":"^1.63.0","h":"0ihh6gy77zk4h8m2hahqw9c58y4qjf0hhwdbrk3hsw5mm3krj2xc"}
 ],
+"ehsanshahbazi.subtrack-subscriptions":[
+{"v":"1.0.0","e":"^1.85.0","h":"0g169588m1lgmyhipvz23s3w2v2j244wx4aychfhz23yy3jn8j8k"}
+],
 "eight84.sunset-vibes":[
 {"v":"1.5.0","e":"^1.1.0","h":"0qfbyqnpwh0v93laq4j2siwsdh0cf3b18q2w7ajhyp24pkax0lhz"},
 {"v":"1.4.0","e":"^1.1.0","h":"1npq285qqgpxqflidd4qgliddvrvn0rg3nfd74bsxpcwwqg4d1yb"},
@@ -3581,6 +3586,8 @@
 {"v":"0.3.1","e":"^1.75.0","p":"linux-x64","h":"14lbnrdmfdfwmff9nb0isyjdvxlz8ii5lsy3bcz9f5w02hcn67p6","r":true}
 ],
 "fiatinnovations.ola-code-buddy":[
+{"v":"4.4.11","e":"^1.78.0","h":"1hd4xab3racirhsyhkpasnbwcllqx5kjmb1an9hcyc2qrvakmqdr"},
+{"v":"4.4.10","e":"^1.78.0","h":"1h06b2b2ijfihm63iviszpqaa1isy73gighmyl92fnyg3vbc4wd2"},
 {"v":"4.4.9","e":"^1.78.0","h":"19x2hi9zyax38lmpi2cb1awh0sh9hn2qvgrya47qhby06jcan3gm"},
 {"v":"4.4.8","e":"^1.78.0","h":"17i6p1h2h2spaxqzja2lc84406miamm53dndxds9ibnd6w28may7"},
 {"v":"4.4.7","e":"^1.78.0","h":"0y8nipybfc5990ypc6zqsy13wp8kv2gpqcj7ikq93cy8vrl51xzv"},
@@ -9120,6 +9127,8 @@
 {"v":"0.0.1","e":"^1.0.0","h":"00rd9amqkljrhrg7lc4nbql31dp346mxqw32zy7f7a1lx5idml4i"}
 ],
 "surjeetbanga.logline":[
+{"v":"1.2.0","e":"^1.90.0","h":"0b051kfwsnn3fs6r629r8bb9a0xxziy399plihpbijaqzd3zbxnm"},
+{"v":"1.1.0","e":"^1.90.0","h":"17n0g5ayj9x8zi74wixdhmqgf5k1m02xfinkc9pygsixplkkkyp9"},
 {"v":"1.0.0","e":"^1.90.0","h":"1777x1l7wcd776a20bjwpv2r16g5fbq9nhb4w259ximrzv2cck1z"}
 ],
 "suxarikisme.clickhouse-syntax":[

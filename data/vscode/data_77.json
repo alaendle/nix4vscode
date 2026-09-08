@@ -1388,6 +1388,9 @@
 {"v":"0.1.0","e":"^1.89.0","h":"1x0nivxl17vvbmxg278c250bwsly2qksskq9fzsn14311yfaz5in"}
 ],
 "chirilach.reviewer-plantuml-viewer":[
+{"v":"1.0.8","e":"^1.75.0","h":"0dvkb3y0qxl23qlpdr8jn515yamkm6y25blz0ssxm2hgnwrp8714"},
+{"v":"1.0.7","e":"^1.75.0","h":"1d31clbkrm5qgw7bm4mm47lysmirg2sdz3884ml78c6y62spdx8i"},
+{"v":"1.0.6","e":"^1.75.0","h":"0qbii31iwh9ywpyp8j3d6dcmrggk5jal31fg2pn4mmln91b0gs0h"},
 {"v":"1.0.5","e":"^1.75.0","h":"1l33ljiig0nyl3k4lm9y2jj80jmg1za41jc49lyng4dbxvqpyb3j"},
 {"v":"1.0.4","e":"^1.75.0","h":"0505n3a3ddji5hfbdqdm7mjhc6y3ix8zxhl4xlmfs964q5770idq"}
 ],
@@ -3622,6 +3625,7 @@
 {"v":"0.1.0","e":"^1.100.0","h":"12cgfxwx5j4x7z2nr9l197sv7d1brla0jak9azgzhfvj76xdq2jr"}
 ],
 "fuseraft.fuseraft":[
+{"v":"0.1.39","e":"^1.85.0","h":"1ag0vpkl2awl90dgmb1skz3zcxng7a190kkwhp9pgzfbmfq3xb8d"},
 {"v":"0.1.38","e":"^1.85.0","h":"14ppvffq0f6xl47qryqm92r4jzpndj4ldx2hdxnmp64kb4rbxda7"},
 {"v":"0.1.37","e":"^1.85.0","h":"06419jgrzg8m2266d4d53zw7ismdh15k4m9swxmkns7ypb0m485m"},
 {"v":"0.1.36","e":"^1.85.0","h":"11935wviqif7fil9iqpxs2ssxym9nxyw3x43h8zhhkxypflvz15i"},
@@ -4811,6 +4815,7 @@
 {"v":"1.0.0","e":"^1.95.0","h":"048nw84jnxjyni5zyfwypybfbfmgfzgvk89yb44ma48pdcz1q5vh"}
 ],
 "kortex-possensors.kortex-vscode":[
+{"v":"0.9.2","e":"^1.104.0","h":"17scyqbsdmvray8j67bzp4z39c51yjij622sy9i4l1swb4mlhz3h"},
 {"v":"0.9.0","e":"^1.104.0","h":"1gszm1ndfwmqyp5xmvsj934rwc1hgl9r198m26dpj073z0n1w0fp"},
 {"v":"0.8.0","e":"^1.104.0","h":"0qapajb9dim4iks4xki53nfjjspr2jsayfd29h96p41nwr2ha9gm"},
 {"v":"0.7.0","e":"^1.104.0","h":"0vyjadg7ickp4gi8k4i6vhd97pqh2nzx6v074gyr5vq0npdydd09"}
@@ -7611,6 +7616,10 @@
 {"v":"1.2.2","e":"^1.33.0","h":"0kn7ypx4xrb5c10znnxzbkn9rzvd2hcby0i25b0ps16lzwiqym74"},
 {"v":"1.2.0","e":"^1.33.0","h":"1rlk42pmgdb65p4xr2b572vi3ks46m42nrssxkzdrmdi7vi59ll2"}
 ],
+"serpongs.yeops-essentials":[
+{"v":"0.1.1","e":"^1.95.0","h":"03ssy224wxnz3gy4l9s9v42d3xbf2x3sfzk6iha54c46qn0hdp1a"},
+{"v":"0.1.0","e":"^1.95.0","h":"1yf7ymz1yawqd4xaivr2zc936wzc8xbqc0lbxr1yq9p1v8rfq1s0"}
+],
 "servisoftssnippets.servisofts-snippets":[
 {"v":"0.0.2","e":"^1.18.0","h":"0g95l0g4w3xdjhp37593spmz35zyh2f0nykh47nkb1zximzjg4bx"},
 {"v":"0.0.1","e":"^1.18.0","h":"0n3j2qqg6kb7gynyl17qmwwj9s6qkkwlaw4qbbqp130p20swx822"}
@@ -8100,6 +8109,7 @@
 {"v":"0.0.1","e":"^1.99.2","h":"0brrk9vp8wqhbap6f2lmmjyp7m7jva1d6gmp6v8d4h8zx2nnvmzj"}
 ],
 "tabbyml.pochi":[
+{"v":"0.69.1","e":"^1.82.0","h":"076ps4qymj4zpxyk162npz2kqbkbvvlh4grskbcs03fq128siviv","r":true},
 {"v":"0.69.0","e":"^1.82.0","h":"0b5615zyyjxys1w53avxkr08j6cydc8ajdzbrmcdq42fnr7scdxs","r":true},
 {"v":"0.68.0","e":"^1.82.0","h":"1n67c8rgbh35402pln0jpaxshsf3wf4sg6g5f5vpbna21c73alnk"},
 {"v":"0.67.3","e":"^1.82.0","h":"024rg322cxi8ap800z3ha56f2j84ygj2db2170vdphkinn8q4bs0","r":true},

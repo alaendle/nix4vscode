@@ -566,6 +566,7 @@
 {"v":"0.0.1","e":"^1.109.0","h":"1zax555xvdvz4k7rhdmk4ipi4izjhdfc3szqkimpy5pgr01a55if"}
 ],
 "antonpetrusevich.fit-visualizer":[
+{"v":"0.13.25","e":"^1.95.0","h":"1lghaxjrmpm7xdi41mi913r8hy56iw6xslw8blw1n2r6sfy3yk9x"},
 {"v":"0.13.24","e":"^1.95.0","h":"1w8snkgjhv28g80yzydd5b1sff93m9sj6i4pxalg9f6q06bpzkqr"},
 {"v":"0.13.15","e":"^1.95.0","h":"1kyci9v204kr02hdbfahxclky4c29kfvbgjih4mhm8fpsz5sk7yq"},
 {"v":"0.13.7","e":"^1.95.0","h":"03sdxi83znfhym6plrnc4wd2lnbh3fxn64f38azidmqd07xa7jpn"},
@@ -1794,6 +1795,7 @@
 {"v":"1.7.39","e":"^1.90.0","h":"0zxa81gjf7wh9x7jq6lj1gs96f3v4sjnnwp84yclaa41m5psxkgx"}
 ],
 "dearest94.vscode-book-saver":[
+{"v":"1.1.0","e":"^1.102.0","h":"0d304gkzipwi9yb65h157ch9ixd4yaxrbfds3mgg7zpkm1qrar1k"},
 {"v":"1.0.3","e":"^1.102.0","h":"1pl5z7ma289kn1jbp0lhx3mv73r2p4zmzib1z5qkcbkngy0mys1l"},
 {"v":"1.0.2","e":"^1.102.0","h":"04lxlaphrkdi7rfvkac3i91827gxagldbd8s6z86zc0rqh93lznb"},
 {"v":"1.0.1","e":"^1.102.0","h":"07jcxr1qa20gvbggjxw265z6af35myr9211ljsxxadyv7sjxgzk7"},
@@ -2479,6 +2481,7 @@
 {"v":"0.0.1","e":"^1.93.0","h":"11xvlarw6rnrfgif6jn3yjavxib8j4hj1xwhg2bkmjc8ghslq9wh"}
 ],
 "escape-ai.escape-ai-code-assistant":[
+{"v":"1.0.12","e":"^1.93.0","h":"0sdhdiazcgifj3454n9cl86ic1ajc3pnyqgl8ss5a4y3i02xl3my"},
 {"v":"1.0.10","e":"^1.93.0","h":"14jdrfm29p4nrvdbw7p2d97qa3r12hg6aj9a1kx02bgchacr8gzk"},
 {"v":"1.0.8","e":"^1.93.0","h":"1vx8gn3ipr5gzn54vxalk502bp4062vj5bqc92bpgr32bipyn1as"},
 {"v":"1.0.7","e":"^1.93.0","h":"1mp9kwy8c3wxy6g0k02fwkbh9dz87r9zyvx043x23rws32lqvmr5"},
@@ -3190,6 +3193,7 @@
 {"v":"0.0.1","e":"^1.75.0","h":"0r6knqbcc23kj1pwf3j6c7wa0zpk44d89z5r71i8kl1ap5ikcgfx"}
 ],
 "hayase.skk":[
+{"v":"0.2.0","e":"^1.98.0","h":"1bgjwr97rssm3lxjl38lqn7fy3b98qff19xmf736szxxa93gnv38"},
 {"v":"0.1.0","e":"^1.98.0","h":"0h4ib9d501fl4p9l7g0kjw93k1060fa1r9z0bzwvyxcakcvhgx5a"},
 {"v":"0.0.2","e":"^1.88.0","h":"0i79pwrnpg88hiaximkllz3qahcsv4jzr2456zpslmisl8wzcg8a"},
 {"v":"0.0.1","e":"^1.88.0","h":"10gfb14qlmh10b31m3dnqgga4r0gc2vrrq3a80ak0hxgfq1i8xra"}
@@ -4750,6 +4754,9 @@
 {"v":"1.0.2","e":"^1.104.0","h":"0larx9cxcc2f58sb5jg2l2s5a1w4bvx9a09dnl401gg51620339m"},
 {"v":"1.0.1","e":"^1.104.0","h":"0kfrawf7jg2dbw5drvssa41wkf647bh1h7scjdrq34m5vd9az9xw"},
 {"v":"1.0.0","e":"^1.104.0","h":"16zh70f23dajz8n3xc5kl208sy9p6kcyxwa496h3p2p9qk7d64ml"}
+],
+"lian-a-qian.frontcraft-lzq":[
+{"v":"1.2.5","e":"^1.85.0","h":"0qlpn6zvfjxwhfmr4qdpnf879yz431mw8gnz7pnpp30fm12k57z2"}
 ],
 "liaronce.gml-support":[
 {"v":"1.7.4","e":"^1.8.0","h":"0ggkshdv659vq094r2isjmk8v9azmhxk5agl7c59z5df153l8q3r"},
@@ -7032,6 +7039,9 @@
 "rdtk.rdtkls":[
 {"v":"0.0.3","e":"^1.33.0","h":"1q5wf3738fkcxqr7qbb8m10xaf61gkkpa7ndjh6c0dg66dri3ili"},
 {"v":"0.0.2","e":"^1.33.0","h":"0dk4rx1wk3c85hp8h0difk892850y5haihakpa3sy74sqfl3c3c5"}
+],
+"rebelstudios.rebel-dev-toolbox":[
+{"v":"1.0.0","e":"^1.75.0","h":"08qi0484qqnmh2i64v8ff0kiqv6qnssi9fc5vh5fqfla5pzn6y89"}
 ],
 "redhat.java":[
 {"v":"1.57.2026090508","e":"^1.77.0","p":"darwin-arm64","h":"0nfw3adbwz0s41gp4zf4496slnm7l997xf2s5ahmfal1zs8z7bjp","r":true},

@@ -650,6 +650,7 @@
 {"v":"1.0.0","e":"^1.97.0","h":"1bqaranlz5452icqhha7847wg9cshmyj7mi3kf1dl81xj8yrj703"}
 ],
 "archpilot.archpilot-vscode":[
+{"v":"0.2.9","e":"^1.110.0","h":"12ylv3g0zf2jak2c0xl6f43jm4c6i5pkgski4s6f87xlhh3yzfxn"},
 {"v":"0.2.8","e":"^1.110.0","h":"1amr2aj9yha0viwl4hfpb5g7kvsdga2iaplfdm5pilvcgaa208gv"},
 {"v":"0.2.7","e":"^1.110.0","h":"1gzajl58byhfibvv3cr75arkj8m4x6zfcyzq6kim7vyv5d1mh608"},
 {"v":"0.2.6","e":"^1.110.0","h":"1j7zlzfn17nmvcgb7bc5qi32l0m1zpsy3xas9rr14d2zym7c5s86"},
@@ -2726,6 +2727,7 @@
 {"v":"1.0.0","e":"^1.22.0","h":"127mp48jy5k73p8bgi36i0029ckh3gaxla2j5l4gisjnj4b267w1"}
 ],
 "ganesanchandran.fetch-client":[
+{"v":"2.3.0","e":"^1.118.0","h":"1lpnq4bbrknmn6l97nf2g6kfh8jissbfrqwf7hry0h53va01ncmc"},
 {"v":"2.2.0","e":"^1.118.0","h":"15pfihs10iya922rp1whbi125dqz62804cgppli6dkrgl1igfprx"},
 {"v":"2.1.0","e":"^1.118.0","h":"1mh2gffy8pifdfwp4qfhvsbph6hjkhxv17f7zqy2wbvyd12hw7c8"},
 {"v":"2.0.0","e":"^1.118.0","h":"1xhwnxnan1dxvkchqijyjg9dzd5qbwq602jijrcsnakxg6nc59l4"},
@@ -4313,6 +4315,8 @@
 {"v":"0.0.1","e":"^1.49.0","h":"04z1iz4bjzy2cl075mn19arj48mi759idqgk7si0wklwyia264a7"}
 ],
 "juvina.juvina-light":[
+{"v":"3.2.2","e":"^1.90.0","h":"0sd244yx4bh13n2q14m6vb5ps04q05srlgz3sw0l53nb4in316ir"},
+{"v":"3.2.1","e":"^1.90.0","h":"0mspyw0kh68j6z0pi46912dzkq0xaq5h475p13wy2d2ayacfb9na"},
 {"v":"3.2.0","e":"^1.90.0","h":"1n58alw77vk5l4jybb7yyp29d7yx19k5cp651kg2vm4czf0sr0c6"},
 {"v":"3.1.1","e":"^1.90.0","h":"1qjd26m0qwm6kdp7f0j2lfp0pz29sny7scnzfmvq7hvplpk8p7pd"},
 {"v":"3.1.0","e":"^1.90.0","h":"1cwc8ckyw4rdrf3bvf9l0xmyjjmccv9lh79yir2w47izl0diiwx9"},
@@ -6991,6 +6995,9 @@
 {"v":"0.0.2","e":"^1.70.0","h":"0fkqqxwk7l8b2f3zlfw11rqivyjkg46ssj8wy7fcv1qwqv2zhnpv"},
 {"v":"0.0.1","e":"^1.70.0","h":"0l7rmn1g12bmmj06y08rwr5s1slsfd3czgqwcwl2cdrx30ascyxl"}
 ],
+"msynk.git-file-history-view":[
+{"v":"1.1.0","e":"^1.85.0","h":"04nxrzlkbn60zjf9b8qm2ys2v2yfzvim73scza3csh4jsia0bnr4"}
+],
 "mtalyat.minty-support":[
 {"v":"1.5.0","e":"^1.101.0","h":"1ps15mgsgwqmpi62bfkl3p75bqhcrf2yd5vafxar21xzg9x3a9hz"},
 {"v":"1.4.5","e":"^1.101.0","h":"1mvxy6wf1hyx8yz8xan40qhahnh92krslbzd413qq4ciibm4c5v4"},
@@ -7424,6 +7431,8 @@
 {"v":"0.1.1","e":"^1.54.0","h":"072p4f799w3asqiwf8bi9afv97xa6vix7awyzs8vhngfqckh8pz7"}
 ],
 "nyisulya.bongocode-ai":[
+{"v":"2.0.6","e":"^1.101.0","h":"0vkncjsfbcbn0pli0g444il6ip2nr5xfjhjb9fw6362r9wcg143c"},
+{"v":"2.0.5","e":"^1.101.0","h":"01rvf3gj4g64hmzf1321al28mvsn0npb4mx1qx7a50n9vdrm1jgs"},
 {"v":"2.0.4","e":"^1.101.0","h":"10qvxalr5dfyl0m6hvcmki79lib4gf4h5byramy8i1c1v6ac8im0"},
 {"v":"2.0.2","e":"^1.101.0","h":"14dz8ifcxy5dmbdy1qykviasz4p0rpgkp8cqkq9vc422c263gw88"},
 {"v":"2.0.1","e":"^1.101.0","h":"0jgnzkdm5532bp8hcpv99qgarsprq2x2flmffqgmbza4bbm0v302"},

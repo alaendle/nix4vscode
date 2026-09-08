@@ -523,6 +523,8 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1rd5kyi5n2x9pw848ml8979l2v127wy2fkp9fd2lxqpii0fxb4vx"}
 ],
 "antaalt.shader-validator":[
+{"v":"1.5.0","e":"^1.88.0","h":"1zvd3ky5jf63rjcbi5brqwjfyvd59c7k6q5w9sbndzhnpmfhqkxz"},
+{"v":"1.5.0","e":"^1.88.0","p":"linux-x64","h":"0aqfz42id95m9jpgdjblip6cpsgvdnibl1krxlcyvqi1bvlyq6mq"},
 {"v":"1.4.4","e":"^1.88.0","h":"1crv6xxcpp9ajfzsfpjc0yprxsxzzw66mcfjddv8hvd41ls6nqw3"},
 {"v":"1.4.4","e":"^1.88.0","p":"linux-x64","h":"0bzj9q5d5q2k8qa66j4fdq8mhsrr1qyviiv68j9qs1kzpzivpxm1"},
 {"v":"1.4.3","e":"^1.88.0","h":"00gy6y75cz2v9i3ig41605b5mfs0nc8zzdf9imcs4v6rjbmcr5hl"},
@@ -4309,6 +4311,9 @@
 {"v":"1.0.1","e":"^1.22.0","h":"1vl826ws3wzzfkch8h6n3f8sjv8iy59bbh2fv9fc4ly6qpbhk3p4"},
 {"v":"1.0.0","e":"^1.22.0","h":"1k6w37masc0ldh1zih4vmiippbm2ma16ngm7vawbwcp997rk4h3d"}
 ],
+"kennyxiao.vscode-file-size":[
+{"v":"0.0.1","e":"^1.85.0","h":"0246dzg62zacw4pza5pvh7lp0g1r0lgxb1qha71ag39bvyqak6bi"}
+],
 "keshavsoft.vs-code-ext-express-api-gen":[
 {"v":"1.4.4","e":"^1.116.0","h":"0q9lc6s0j122adjbnpm1xsd93rxzrrxsl4d39km386gc2x4ysv0i"},
 {"v":"1.4.3","e":"^1.116.0","h":"06vibkzv8z06mzlpf805y7askgif2qixi9sis2lhn4wnqd6w3pi9"},
@@ -4570,6 +4575,8 @@
 {"v":"1.0.0","e":"^1.85.0","h":"187yp4bs6ckh3qazz6541gbzafw4lp2h4r855b7ynyg1iw5yp3bx"}
 ],
 "krzysztof-d.justybaselite-access":[
+{"v":"3.17.14","e":"^1.103.2","p":"darwin-arm64","h":"1yx05yj0sp3wywda2q05594zrlar6ifbc7x4jab5zfcmg2w170fc"},
+{"v":"3.17.14","e":"^1.103.2","p":"linux-x64","h":"1zz7d932a96w79c9fda9ry35xs7hg6yjsas6almb878qygcm562k"},
 {"v":"3.17.12","e":"^1.103.2","p":"darwin-arm64","h":"1k5is84v1xknwfdpw5fc07sqy41yjv2kdafxgaaaw3n0pz7q2hns"},
 {"v":"3.17.12","e":"^1.103.2","p":"linux-x64","h":"0ywpsxw734iwyfafk02mkmhn1fr0wrq1dmzycp58wc9i82fydxs3"},
 {"v":"3.17.11","e":"^1.103.2","p":"darwin-arm64","h":"06vkmr0w630z7d2z6m5jryblf75hv7avnamaksdmy5z17gnd0kg6"},
@@ -9574,6 +9581,7 @@
 {"v":"0.0.1","e":"^1.27.0","h":"1s5hvkwmy0908mk0fps8glingy0mn2m9cv9j4g6gzd99gsmw1h2z"}
 ],
 "verbative.verbative":[
+{"v":"2.0.1","e":"^1.80.0","h":"0f13ns914sfl21nl4jab77bgw5mkx17cmgyphznpd7ghlna4vq86"},
 {"v":"2.0.0","e":"^1.80.0","h":"0s0smiildaqdm4bk8x4rgggwxvn4b8z9lxprf3ashv3c6ajpzq34"},
 {"v":"1.1.10","e":"^1.80.0","h":"0dbpfh2qnijrmq9r80n8xpyj8m0y1ln2rjjrd9i26mvwq6574mhl"},
 {"v":"1.1.9","e":"^1.80.0","h":"1rd7rpdglcxx7j4d6wxb7cpfpf7gx2kyl7y7g7npas1mpzyx5izs"},

@@ -1528,6 +1528,7 @@
 {"v":"0.0.1","e":"^1.54.0","h":"03p4wmc24ywhm42mzfhw82r7mf3cy2p6z5i6icdcqmwy2dsx64sj"}
 ],
 "corail.corail":[
+{"v":"0.1.29","e":"^1.90.0","h":"1m8i9ipmqj06nw59hvh03h49cr3pd57kxsb1899hd87j452v9z3f"},
 {"v":"0.1.28","e":"^1.90.0","h":"09ikayxpiybr1b829x64bv0rc3ds6i7n2mcpgak1n52jmr8g3xps"},
 {"v":"0.1.27","e":"^1.90.0","h":"1ndc882zxx3jmrsayw2h9ia3vs52kgdr86sk3zbarcw2mgjyhgsk"},
 {"v":"0.1.26","e":"^1.90.0","h":"0q04bq07r7hg43l9lyivk0alm1wa1m8a4q5i0xqxy9ys2l4rn6xv"},
@@ -2590,6 +2591,7 @@
 {"v":"0.0.1","e":"^1.108.1","h":"11j7bkl1d9kxck3rl95zkrvag309hfcj61xlzyf5kwzfi58ldgcb"}
 ],
 "fuzionix.devtool-plus":[
+{"v":"0.6.0","e":"^1.62.0","h":"1yhmazdk3kwszsfpa4v4xx96gsbxch6kygsayh10n5j0d1fydk76"},
 {"v":"0.5.1","e":"^1.62.0","h":"183braqs0cvjjhi0ka32rq7pnxpy87245iq6pbk0w1xy2gp9yb2c"},
 {"v":"0.5.0","e":"^1.62.0","h":"0dhrcs9dg0q5747rzahp4niv9piiicfdzks7yfaiy4xah66pj444"},
 {"v":"0.4.0","e":"^1.62.0","h":"1ff61l3zri8544f03r8ipz86zzj0qvc08qh1xpk4lvllf367qbjb"},
@@ -5542,6 +5544,9 @@
 {"v":"0.0.3","e":"1.0.x","h":"18qdkh6qjkcx0djkjzvgyfzssh6nk5s024wbxxxfydal4mczysg5"},
 {"v":"0.0.2","e":"0.10.x","h":"0w5b7jf4p9jhxm6pw9iyrq800vjy7fyrha1h76czyr98xxawm3a5"},
 {"v":"0.0.1","e":"0.10.x","h":"1pgila7i6z8cqvy9acpg3a22ik8cv66x4imnrqp2sbbhxa8dn8nn"}
+],
+"marcus-miccelli.marcus-dark":[
+{"v":"1.0.0","e":"^1.90.0","h":"1c7b7anscq58w7r7mnwxbi3xg4pz2j0bl5kna8z99zmlyq1nvmmg"}
 ],
 "margin.snippet-store":[
 {"v":"0.2.4","e":"^1.78.0","h":"18m29by0q3h69b16g53ypa24hbazc88d4kwhkpkgwvisxwd1vgdg"},
@@ -8536,6 +8541,11 @@
 {"v":"0.2.0","e":"^1.90.0","h":"17q5lkg18j8apv08f7rcv7q7nhzs7g3aqhgwbavn40d573r15kam"},
 {"v":"0.1.0","e":"^1.90.0","h":"16fm4h4fn9mi127bhc21qssqmli34l2nlw9mc03w8zmgwjiz8xxs"}
 ],
+"trellkhan.devora":[
+{"v":"1.0.2","e":"^1.80.0","h":"1hxa7bw5l89czbz0nxdr1ax9rh20h8kyqi5bib5c73vfllzaixd6"},
+{"v":"1.0.1","e":"^1.60.0","h":"1xkaas2z1zmy2a3ln7zy0388yrqnz85vgr5jw6780xcfij9w6dfj"},
+{"v":"1.0.0","e":"^1.60.0","h":"004lccm152wdi60rcw89mpcwiyyxfq4cf7941dwpd6135ryrh4mw"}
+],
 "trganda.jq-live":[
 {"v":"0.1.2","e":"^1.76.0","h":"1bdk5nx1d5wfxdrmiyj78kscf7z0v8mrkxihkzwg1qsx8jg77pci"},
 {"v":"0.1.1","e":"^1.76.0","h":"1b9bizxqzsby8ijhz4nzspj5kf90zdwc62mhdyr201z3471ffirl"},
@@ -8754,6 +8764,7 @@
 {"v":"0.1.4","e":"^1.85.0","h":"1aykh3sm88my3zwyqr97b073jjz00wq6jlai9wpfc522g34phh5q"}
 ],
 "vitalivu992.git-history-vsce":[
+{"v":"1.2.6","e":"^1.85.0","h":"1x6payp2wj66dn95fwqlr0c5w55hsa7f7bn7pg9k134d6ni5bh31"},
 {"v":"1.2.3","e":"^1.85.0","h":"1sdpmra5pbil65fz3s0cnjnkvd018jjzc86j7h80gci6babi199b"},
 {"v":"1.2.2","e":"^1.85.0","h":"1qicayvb0w1sl4hfbkfx1nk0w044yp864ip116z4rja1563kdswb"},
 {"v":"1.1.10","e":"^1.85.0","h":"0ssjl26qqml3banz54p66rahy2b7njvd8589g7lxm47ayl180p9f"}
