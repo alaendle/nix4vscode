@@ -434,6 +434,7 @@
 {"v":"0.0.1","e":"^1.51.0","h":"1j2mh9i6hrxiqazr47rix4bw7bhssiazr49cvy1a044l9lh5cfb7"}
 ],
 "allen6297.rosegold-language":[
+{"v":"26.0.2","e":"^1.85.0","h":"10ir93i5rmj8cwhyh9gmi95z488sc53q0qqfljshss008lkkc9l8"},
 {"v":"26.0.1","e":"^1.85.0","h":"110nahvsfn443qwykvpfm63jlli6wchn880l8gcpmnwk7n1gqj4c"},
 {"v":"26.0.0","e":"^1.85.0","h":"1dz39422m0ld8ynmdfkg4jinqfp2knbspp22q1r5q970il11h5dz"}
 ],
@@ -1350,6 +1351,7 @@
 {"v":"0.0.10","e":"^1.63.0","h":"06rh35pvkvl82j0y4nk0d8hv442854vbh00q04z6g2gi33b9l44w","r":true}
 ],
 "ced-lab.tidy-formatter":[
+{"v":"0.4.0","e":"^1.84.0","h":"0gscj7q2rqkgfqzql5cwbdfp8mg9al74m8px1zjxb334gwyzj9n2"},
 {"v":"0.3.0","e":"^1.84.0","h":"0a7lkhs24yvkz7dhffy2wlh0850a5w65c9wyfi3wgbq08yzv8qns"},
 {"v":"0.2.2","e":"^1.84.0","h":"135w52iv8vi75h0bxsdxqmj4r4gn05kzy5ppfkznkwjx27fabhjr"},
 {"v":"0.2.1","e":"^1.84.0","h":"0nasiqy9lbg86dxhzgym1s33xddxw5iwc3q405s0adk5mzy4d54x"},
@@ -3214,6 +3216,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"18fq0cj03fixm4vlm8h3a8majmhnrxzc87i5fbgfbmrwmn7994jz"}
 ],
 "harv3n.peek-react-preview":[
+{"v":"0.2.0","e":"^1.134.0","h":"16gw6806lmy9lkdpkz07iav4ackv51fbrdishy9rj68bdn53pl8r"},
 {"v":"0.1.1","e":"^1.134.0","h":"0wzg0arxysbcyb0r40zkywavmkn7vpvdm9pq8mcsv9n1hlyvfl10"},
 {"v":"0.1.0","e":"^1.134.0","h":"1rr9m8bqqhv1gyzx7j7635ffgxy5gf683klg794dy96gxg4q09ni"}
 ],
@@ -4747,6 +4750,7 @@
 {"v":"0.1.0","e":"^1.19.0","h":"1lv8444l371b2zf90srr750aw4wh535l4mjyc4xqa50lbnd3lcqk"}
 ],
 "leighlondon.supernal":[
+{"v":"0.3.7","e":"^1.110.0","h":"08h4vzqlhwgxkjd4q2s84b05c4bv0fdmapv1vwnm08565mx59swm"},
 {"v":"0.3.6","e":"^1.110.0","h":"19wqm2v1bfkf3l6fimfp3vw76v3rrddavp8x97in9cvwb6ymxpw2"},
 {"v":"0.3.5","e":"^1.110.0","h":"0k11qp7r9radkjzkh1ykd2vbdvw96abdqr5x48f2mjq6dbc4fzkz"},
 {"v":"0.3.4","e":"^1.110.0","h":"1hr2dnh76vqapa6a3m8jg65xvnvl7riw717j1cp4i4n6if892svg"},
@@ -5749,6 +5753,10 @@
 {"v":"0.0.1","e":"^1.19.0","h":"06bng0fy8csn0harf2s44w02mp4hgsqh46gnzyxz0nasjj0ai137"}
 ],
 "ms-azuretools.vscode-azure-mcp-server":[
+{"v":"3.0.42","e":"^1.101.0","p":"darwin-arm64","h":"13fb0b2hmjdhr9wp1f4g0a3a2qfxdsap1jf4lb8fqlxz9wb2s4na","r":true},
+{"v":"3.0.42","e":"^1.101.0","p":"darwin-x64","h":"1wjl8rs20k9m5lgxdl1z2sh1kapmdkwa3yx12zwl2lk06x0c21fz","r":true},
+{"v":"3.0.42","e":"^1.101.0","p":"linux-arm64","h":"00fn0jsd07p1xplygq92w9jwnm1s9jgqm0mrgiv43ilwj1b3s97g","r":true},
+{"v":"3.0.42","e":"^1.101.0","p":"linux-x64","h":"1ilk7jfvrvmp67zbg4fwbmxr5l6v7fn130df9q9k29cv4cvry1b9","r":true},
 {"v":"3.0.41","e":"^1.101.0","p":"darwin-arm64","h":"1b88mici5w6k1vi3yqfbyvf78sk9yf552g4jhafp08nlp1l8j12j","r":true},
 {"v":"3.0.41","e":"^1.101.0","p":"darwin-x64","h":"1kaj42h3808bjsdp10dzjsrsp51sqg4l75y2fwlidmshx4574r4v","r":true},
 {"v":"3.0.41","e":"^1.101.0","p":"linux-arm64","h":"122m2plx48rv3skqnyh8586fll3lxxmlllq8ij29q8hxczq4p46x","r":true},
@@ -6884,6 +6892,11 @@
 ],
 "nimishadubey.indigo":[
 {"v":"0.0.1","e":"^1.54.0","h":"06ymaqi2405yf35gd0vkmdvbsck9117qx136wgf4asj17kpw26xi"}
+],
+"nitintu.codewarden-ai":[
+{"v":"0.7.0","e":"^1.90.0","h":"0hivg7lv1f8ns499g9njxx8dwg06fyw4dpvypp2364cd401w1088"},
+{"v":"0.6.0","e":"^1.90.0","h":"1asp4i5c40v4q0z727svf6jialswfv3qazzihkdkklql1k5nq2hz"},
+{"v":"0.5.0","e":"^1.90.0","h":"1c7byv8ci6cimxqg1kkdnk4krkqni6npn629031s2vafl4kl1vsp"}
 ],
 "nk-labs314.semantic-search-ext":[
 {"v":"0.0.2","e":"^1.80.0","h":"12fhxqx5a6bz2slzb16hjk0jlmabjx1y8l41w8hac4k330x0n7cc"},
@@ -9053,6 +9066,9 @@
 {"v":"0.1.3","e":"^1.85.0","h":"0avmfr13hq5z6sznn04r8jrxjrq2bm13brbggixmqvcasjiyifvw"},
 {"v":"0.1.2","e":"^1.85.0","h":"01anvyk992crqm6xnng392nc0027f8wvp2rb3amjscaa409rkj3p"}
 ],
+"seeu-studio.commandcode-goat-bridge":[
+{"v":"0.1.0","e":"^1.116.0","h":"1qcb9isk3mcdmkkxii8jb02ngcmyfnnv0r9wa8lglqzfzcfzs5j9"}
+],
 "selectivainc.selectmeta":[
 {"v":"0.0.1","e":"^1.36.0","h":"0ygdlpdxj6v1pmc0525iia8wy33i9rssgwcb2ixnhfxzyiz634cq"}
 ],
@@ -10601,6 +10617,9 @@
 {"v":"0.0.3","e":"^1.105.0","h":"07q7p85qzysw3wv2ayr1iqfk1fijjqr8zqzb9kvjzjb0a0mrgkr9"},
 {"v":"0.0.2","e":"^1.105.0","h":"1d8bv43sh3cn8d9q805bg18d2fsif6lvbv6dcjrpc1jriq1v09iv"},
 {"v":"0.0.1","e":"^1.105.0","h":"11148d0wa6a4b0z3inalvbjgbr75vpcq58jrdpd9msgmxb2661qj"}
+],
+"tossie85.mermaid-gui-studio":[
+{"v":"0.2.0","e":"^1.85.0","h":"1vmx64j54dn54nfnvshnynbw96j84nxjsi195cmw801mr44gij52"}
 ],
 "trongnghia94.riverpodgen-freezed":[
 {"v":"2.0.0","e":"^1.75.0","h":"1a0pxnff1kmaxc2p9i2k9riac9fmw1lv2f1dh7vkdywkx9zh3l09"},

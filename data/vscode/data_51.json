@@ -1449,6 +1449,7 @@
 {"v":"0.0.1","e":"^1.102.0","h":"1fsxggila1js35y5cf2k3w8jlp4h3ixx99xld479j2wbfwfdbpr9"}
 ],
 "clemsonrcd.rcd-llm-provider":[
+{"v":"0.2.0","e":"^1.100.0","h":"0qi11xcvsbbjvg2ssw72y75nns3l7i4rim9w7sygdy2dfx9za1mr"},
 {"v":"0.1.2","e":"^1.100.0","h":"06rmripixjx6d2s6swxpg6vz5jgvlm43v8m0xrz2di1i2psf6msz"},
 {"v":"0.1.1","e":"^1.100.0","h":"07acramhbfkj15g5294i6lrj8zn6x3jrsfxqmnya0z3lzbl0nr57"},
 {"v":"0.1.0","e":"^1.100.0","h":"13mgr0sh871x2k73v0xrhjv2k02l9pnrn78mnr7kh6zwnr3af3vk"}
@@ -2821,6 +2822,9 @@
 {"v":"0.0.2","e":"^1.58.0","h":"1djz5wg0j5z22707rq5dk34y5mpp5mg4i8p9qmzawlwv3v2mqdas"},
 {"v":"0.0.1","e":"^1.58.0","h":"12m6hdbv5lby8hqsn42xs82zb374ljchzwmg23dbvxcr007h8glb"}
 ],
+"gaphunterlabs.node-version-drift-companion":[
+{"v":"0.1.0","e":"^1.85.0","h":"1mcxc2q9z5ddiy6m1mq4xkwyb20v9rx352wrczxkb33n96cgp7p7"}
+],
 "garrettjohnson.language-lava":[
 {"v":"2.0.1","e":"^1.80.0","h":"1pajs82vns85g8c4ij8qpqdbk0sz3j0imqiyfb81lcjgl9g1cqws"},
 {"v":"2.0.0","e":"^1.80.0","h":"16n53xai5m7vlbz77lxgv9qy2dnd5bqkxpc3hkk68m86rky5by3f"},
@@ -3159,6 +3163,7 @@
 {"v":"0.0.2","e":"^1.36.0","h":"02z32a2m4nmydccynrzvanw31c7larls9wjy4ds23v4gr8f43dfz"}
 ],
 "grikomsn.poolside-copilot-chat":[
+{"v":"0.3.0","e":"^1.125.0","h":"10vnjq3lxj3nw0ca2f4xxfn7pp2z476brdiav54i5dw75cqbjzz3"},
 {"v":"0.2.0","e":"^1.125.0","h":"10l3rl75w5h1mg9k6fm7hj8ir82srjkph9z4kbdnc3bg6vcqdwq2"},
 {"v":"0.1.2","e":"^1.125.0","h":"10ybr3lwg10jiqryanf1npahzpbi7avm30vilgsln1k0lq8w8xnr"},
 {"v":"0.1.1","e":"^1.125.0","h":"0sjb6izyhzvfrd2dgnfkjj40pqia015f0p5q6yy3pcgqm5k2r183"},
@@ -5965,6 +5970,7 @@
 {"v":"1.0.0","e":"^1.80.0","h":"0bm4wyvd9c06zirr5vqa6wsaga34j4fnlva0zsi2zvdi4cxqs1ni"}
 ],
 "neshkeev.vimperor":[
+{"v":"0.0.3","e":"^1.85.0","h":"1affqk31k5pm81q1ijy82vvy27s220ms19xg55w4xzrmm3hpn678"},
 {"v":"0.0.2","e":"^1.85.0","h":"1id663yvc3ngyb3wcbj2llag6c16f33imq2rx8974dczhjv331vd"},
 {"v":"0.0.1","e":"^1.85.0","h":"04dh0k2rfyx9nyv535jpysk2r36x8vmyngnc6182ank5nld7yg3x"}
 ],
@@ -8968,6 +8974,7 @@
 {"v":"0.0.32","e":"^1.96.0","h":"0hwbqm0py6pipwkcbsryh50pjc37lagxw36zciqsikgxs16qk99z"}
 ],
 "xeyria.xeyria-vscode":[
+{"v":"0.1.1","e":"^1.85.0","h":"1bb90ngd7r7lipvlm8y4qlr0fidhrv0vqr8lxxh8pij330pb3d4r"},
 {"v":"0.1.0","e":"^1.85.0","h":"0zhh64m1hbzjjjwj3lahnlb9qh6bmip7lybvnv31kgbzavjqn5dz"}
 ],
 "xiaobai-li.code-snippets-zyd":[

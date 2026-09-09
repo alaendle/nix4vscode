@@ -3307,6 +3307,8 @@
 {"v":"0.0.1","e":"^1.82.0","h":"0vmkd9dsg6jy5ficdi5n68fkl8hh0il5g7dq9p40w8b3xli6g10n"}
 ],
 "efailution.gitlab-component-helper":[
+{"v":"0.17.3","e":">=1.120.0","h":"159dqn9j2vjj77danl0mqkzmbksr14pw3p893hhri0fawwpa2gaj","r":true},
+{"v":"0.17.1","e":">=1.120.0","h":"1cl0bpa151izm13r8nsddzz7gb8b7lp8xys782ylh01y1vl0n5l6","r":true},
 {"v":"0.16.2","e":">=1.120.0","h":"1y1b827lsv9k17h09zkq38n29x6sjfaxmyd49a3xp7lbknjsr1i8"},
 {"v":"0.16.0","e":">=1.120.0","h":"0hbpbpd2ak5fkpp52jn68yix45bpgikylcjxa9i5mm1zxp0d6k25"},
 {"v":"0.15.5","e":">=1.120.0","h":"1gz0sk9lnhzq76wdjywg4qzq3x122ffrr4x9xz4s9sfdqimflg1w","r":true},
@@ -3390,6 +3392,10 @@
 {"v":"2.0.1","e":"^1.35.0","h":"0cg43mnd5fhmmcp3042x276wz5yfrkakcmyhk7phsin15345kqlv"},
 {"v":"2.0.0","e":"^1.35.0","h":"1g2xwq9zjchq82yc142bplmdvf6i5ws62dyjd0v6p3gjd62vnwxn"},
 {"v":"1.0.0","e":"^1.35.0","h":"1i3rsm4r0i8s699bvhmrcfil28wk8d8z73d2zib2p6l6a9qr3pr7"}
+],
+"elijnakal.bahunkokhasii":[
+{"v":"0.0.5","e":"^1.134.0","h":"1sagjlkijjy5rqx11jpq9fl95jq708xinfs312blr2hdqnc5nvk0"},
+{"v":"0.0.4","e":"^1.134.0","h":"1cdvk0x6jk3qndpgk9q786vsp5vm2vizdj98i0pv0pg99qdlj6cq"}
 ],
 "eliostruyf.vscode-extension-installer":[
 {"v":"0.0.6","e":"^1.84.0","h":"0rgid1zv2l4szqhddmmkcdxhp6xp2wh37rrzh87jia7gl0yarncp"},
@@ -3640,6 +3646,7 @@
 {"v":"0.0.1","e":"^1.80.0","h":"10rc0kxmnipzabfprakg2h27gj9vi5bcbhy3ha348xkgglzvi1ka"}
 ],
 "fszn.codex-session-manager":[
+{"v":"1.0.0","e":"^1.101.0","h":"1v9a6px2dlcp8281cx7kmydllq9q6v8mdhpk920in40g6dg6fsgi"},
 {"v":"0.1.9","e":"^1.101.0","h":"1f176s9bj2zq33kh53vdvhnqx77fig00qsnpp21fpy69wk2mf657"},
 {"v":"0.1.8","e":"^1.101.0","h":"04kyqcxxrk67vv4ar422z2brmsr39q2l392jajf3ivd34sl049vf"},
 {"v":"0.1.7","e":"^1.101.0","h":"14wmv0g54q5205c8ywk45k1iqh6yrpf8g4whkipb4j1ayplx5107"},
@@ -5151,6 +5158,8 @@
 {"v":"0.0.1","e":"^1.47.0","h":"0iahnjv6swwsbvz0awi7gvdsdk4kjgxqmzplpvrh4r654s601wm6"}
 ],
 "johnpapa.vscode-peacock":[
+{"v":"4.4.1","e":"^1.49.0","h":"0v8rwaabbfpqivxma35icmfda3a1zc90zd11p9f4mc5qs05h8zlv"},
+{"v":"4.4.0","e":"^1.49.0","h":"1gm0snnd8c5glp74ibpciakqxwi3lk9alx8a66dn96wrm1747qf1"},
 {"v":"4.3.4","e":"^1.49.0","h":"15s2ixjxn8ssca50h6w93w7phcxbzfd9raai0g8nmz0y7xnbmnj7"},
 {"v":"4.3.3","e":"^1.49.0","h":"01jm0v0f8saj4ysp0rk9xxlal1vl2s0sxbx6njcbp8qddpzdn54s"},
 {"v":"4.3.0","e":"^1.49.0","h":"08zfaji7vcysnxpii47acy0wgbzk5n8qjk4536p9k8f6jq0ld3ka"},
@@ -7560,6 +7569,8 @@
 {"v":"0.5.0","e":"^1.74.0","h":"0m1b1p7basxk69qamflxn7iymgx3p6agfn4jk2r616dswa19imbr"}
 ],
 "pourdev.pour-html":[
+{"v":"0.2.17","e":"^1.101.0","h":"0c37a9im8gn7mgbvb7v7grqfn0lwwk0svvnahm5wnbkn8swnapnh"},
+{"v":"0.2.16","e":"^1.101.0","h":"171dbcpbsi55bq3ap8a8z7ld045an06l0pazhbyz4rgkmv1b8nm5"},
 {"v":"0.2.15","e":"^1.101.0","h":"1lm4v8bi9c9940f9lxf25mhzfkj1y2f5w95jhhcmnrv8yy650hk4"},
 {"v":"0.2.14","e":"^1.101.0","h":"0jm9w8sv9nspdyln9mj5xyql58ws9y2dpbfz69nzkm3jdj0vjvn4"},
 {"v":"0.2.13","e":"^1.101.0","h":"0snj69i9m5k9r2q91w7byqd3wfwxfdwzi06n93skh3mi0vj87x5c"},
@@ -9381,6 +9392,7 @@
 {"v":"0.0.1","e":"^1.89.0","h":"1h65lk9lzxnfx6zx1mzpzjbmlgp2rkghlmdw2crg02al94myz297"}
 ],
 "tianzehao.openresty-nginx-helper":[
+{"v":"0.2.28","e":"^1.85.0","h":"191chv0h685p6f7z81ff2z0q0k03ssaa2x5zcqbpicb497yyizzk"},
 {"v":"0.2.23","e":"^1.85.0","h":"17rd4ixm8sspj7yrxxqc26nmfhyswgzwv3xylva087pbg27d3j0q"}
 ],
 "tickpoints.prima-lang":[

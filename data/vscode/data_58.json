@@ -525,6 +525,8 @@
 {"v":"0.0.1","e":"^1.42.0","h":"0hivqzb7mh06rs5b9hpxmnq86y693shvrz1dd5cx47yvkrv9idhj"}
 ],
 "angadsingh31.jatti-language-extension":[
+{"v":"0.8.0","e":"^1.85.0","h":"0nlfi70xxmjhprydd6myrcq6a1dc89cqx9wlm61a709nmk31sl8k"},
+{"v":"0.7.0","e":"^1.85.0","h":"14m6gnsxy43kgsfya2r90p07cjvfhai2hbxn0bv2vb1fqamihgj9"},
 {"v":"0.6.0","e":"^1.85.0","h":"1if2wbb50hky6vyalh16zx0wgxg0lydv4lw58hs2wba0jxwr1ssh"},
 {"v":"0.5.0","e":"^1.85.0","h":"0ifg6ji8birs7y3dzbikiwxi9ps64k14mv9v8rhidjlqqm0p9kr7"},
 {"v":"0.4.0","e":"^1.85.0","h":"07qsjdrc1bppsra38sjbswv3yikl3lyrhv3k1jnmzkwl03jv40x7"}
@@ -2012,6 +2014,9 @@
 {"v":"0.1.1","e":"^1.85.0","h":"14d1fnhcjzhhaqv4gr0vjpalhznrn0xcmy0irzsvgrp1kkslr3fr"},
 {"v":"0.1.0","e":"^1.85.0","h":"17d9px9z2zkpjs5gsrhgm104dgis9zq6a7m16c37pcl775is1wk9"}
 ],
+"drgoldenpants.claude-code-browser-annotator":[
+{"v":"1.0.9","e":"^1.96.0","h":"1xia1mvanzlh90z17gmz0c288c84i3w5f0vpmk2vnc742kvmzvdi"}
+],
 "drongo.arma-reforger-dump-viewer":[
 {"v":"0.0.1","e":"^1.90.0","h":"1gq3vk0mxj6chl4lbn9ivyxfv0mvpzvn9pwxla85x0jv88qp7hbg"}
 ],
@@ -2901,6 +2906,8 @@
 {"v":"0.0.1","e":"^1.56.2","h":"0v8pni8gwva3ihhznw17rz4v1jvn9v3hvn78acs89hk0c06w984l"}
 ],
 "goharder.goharder-vscode-theme":[
+{"v":"3.2.1","e":"^1.96.0","h":"07k7sj3xhcf23rqsz1vj5nq3mpmaskgr5fmf0kiy6x9lc5rkdgz4"},
+{"v":"3.2.0","e":"^1.96.0","h":"0h41b2nxzh0drzap6fxdg7rnpm0l4iwwn35530abs95nh3z4k5yn"},
 {"v":"3.1.0","e":"^1.96.0","h":"0rrh0ssjw798206virdznih6hmxwh3kr9mkffc5fy0rjz7mmld5p"},
 {"v":"3.0.0","e":"^1.96.0","h":"03d7p1np4b0aqf0ch5vq8py0wykz2ch6wfgcfhsy85w7y7xz3xaz"},
 {"v":"2.2.10","e":"^1.96.0","h":"02dqj6l05fn11f6q6j48cq087jrjnrk1gpq5pchxwyapx8wvq579"},
@@ -6631,6 +6638,7 @@
 {"v":"0.0.1","e":"^1.43.0","h":"1y5k3s8h3460qnys5pk8cr76gz06xnpnh7lkmq7fv5g6ciir46a1"}
 ],
 "ruminem.vscode-neon-glow":[
+{"v":"0.9.11","e":"^1.70.0","h":"0njjxvisgasbskdismdh4rxpb8y13kyfx83qnaykcx4l8vq3vf91"},
 {"v":"0.9.10","e":"^1.70.0","h":"1ll3z1y3z4vcvpb66vnb5hagh06rami5cg3yfdwb2p29pfxnlfrp"},
 {"v":"0.9.9","e":"^1.70.0","h":"1scvnx5dxpxz23bvqjfaq551fgmiclabbbi0ybsqziz9v2mpccs9"},
 {"v":"0.9.8","e":"^1.70.0","h":"1vq4qbbaylnxq8bdsalzmcf8lkfl9hsxmj6qjy9gmh3sy03b8n3s"},

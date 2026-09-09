@@ -3459,6 +3459,7 @@
 {"v":"0.1.4","e":"^1.74.0","h":"0bfs7k8jhfsc54n25cvj0366r0cswyzc4s1zqpvc7kbzcfhlmpzy"}
 ],
 "ezmode.ezmode":[
+{"v":"0.0.7","e":"^1.103.0","h":"0jm5lny8bw9xw6idpljmlg5m5r564095h6hsnall6ifd9nsaclzp"},
 {"v":"0.0.6","e":"^1.103.0","h":"0c8i5f2b8pw95v7wp5xkzscwq8mlarsi3a9xsz68kak0wm6ivgjk"},
 {"v":"0.0.5","e":"^1.103.0","h":"0vgvy6f8gy2bcv9lyk5sa52hmz1b40j82pn0k7v3gng9750plpav"},
 {"v":"0.0.4","e":"^1.103.0","h":"12rpfa7pzjcj7s6s25rxsxxpj50fdqsyfi8q1rl1amwcdr0vyjf1"},
@@ -5710,6 +5711,8 @@
 {"v":"0.0.1","e":"^1.70.0","h":"1z24dh0xy43i1crp40yyw81k9pgikvkkavy1l35gz177amd3cmnj"}
 ],
 "mai-engineeringsystems.mai-ai-telemetry":[
+{"v":"1.20260908.5","e":"^1.105.0","h":"0vk197wj178ssyw35xfzhghivxkaydirmi2sxaa4mjd69w1hd50l"},
+{"v":"1.20260908.4","e":"^1.105.0","h":"09xcwyh2rraqmy4lrzakpl2ldnciph4piwz9448b5gcpfgp8krfp"},
 {"v":"1.20260826.4","e":"^1.105.0","h":"047j6aid7fxkqz1mkr8qv1fl37xx6cxps8wqrrh9lx05gr01bhjv"},
 {"v":"1.20260825.1","e":"^1.105.0","h":"0w1z9bksd02hh67v7l58wvx5akhw40af0axpm3mh4rkf75pswnlc"},
 {"v":"1.20260821.4","e":"^1.105.0","h":"1pyg185q4s11vlcw13ic8p28j7dx8l9zg4w115746ignxas36cmm"},
@@ -9173,6 +9176,9 @@
 {"v":"0.3.67","e":"^1.96.0","h":"06i15x42i90wcfw8dhpmv3a3f088556a3c0xm74zybxiwhfp9dmw"}
 ],
 "splunk.observability-studio":[
+{"v":"0.0.20","e":"^1.82.0","p":"darwin-arm64","h":"1c8m5cf7vvabgafabsya6nqgybzp9xan9qk5bhhw1y309b7vc6nf"},
+{"v":"0.0.20","e":"^1.82.0","p":"darwin-x64","h":"0rx53x5p0z93h3609mgsmi7a094ab8qx92mxm9l90lpwyk1mrsq0"},
+{"v":"0.0.20","e":"^1.82.0","p":"linux-x64","h":"0hag6w2hdq83h71345kl2350581mamjj54mss3c2yj4vl2pa0i3v"},
 {"v":"0.0.18","e":"^1.82.0","p":"darwin-arm64","h":"0s5j6fvib9wimvwww2g062kki0g0bil933k0gw9kz9vwwhfrhgln"},
 {"v":"0.0.18","e":"^1.82.0","p":"darwin-x64","h":"0mnifd6cmcmlz1b2yh3jck4zrm50xih0d1593iz0v4yf8q85k2qh"},
 {"v":"0.0.18","e":"^1.82.0","p":"linux-x64","h":"0jjzh00s1a7gkh6x9iqjxk4vncqg2ppq4pwpjcrshslkr6l1rwl7"},
@@ -10478,6 +10484,8 @@
 {"v":"0.0.1","e":"^1.85.0","h":"10x3sxfj0h9ld1b5vpqps40shrgbv6qz2idcs9v89d1hhk2lva2s"}
 ],
 "zhangxh-math.texleaf":[
+{"v":"1.2.0","e":"^1.98.0","h":"03p4yclklc5iq9yf4ad00xj3iy5ml4zp8n0zxvym7y3094jlhv7x"},
+{"v":"1.1.1","e":"^1.98.0","h":"0vicw1n5cb9h654k0q566hfbfwzd26v8kwfckq47ww5k31w6c2nb"},
 {"v":"1.1.0","e":"^1.98.0","h":"1blbgm1kljky07jyabx4nxxvp7v7d4wi5s5vljsm60fyfwfwp3kl"},
 {"v":"1.0.0","e":"^1.98.0","h":"1bwramdiwhdgrlmbfii3pw9whndan7qkca1584bi07dd6219j6zk"},
 {"v":"0.8.11","e":"^1.98.0","h":"029xz4dd80120v7lhxgh9q1m5rly8294p6zvigbq0fwyyfiwmj5b"},

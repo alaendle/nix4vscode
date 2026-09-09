@@ -2033,6 +2033,7 @@
 {"v":"0.0.2","e":"^1.13.0","h":"000jcbl2m3v54sgq80izp9rnirdijlr46qbx95vsl6gskigxkxwd"}
 ],
 "dwenking.commit-file-tree":[
+{"v":"0.4.5","e":"^1.70.0","h":"0a7mpxl1dbz81fbwn9vc7qg22qpnqayh7l9v2llxgn3lz5yw8xxk"},
 {"v":"0.4.4","e":"^1.70.0","h":"06177h6cl5dx1c8kxsrv2w24gl614ijd39g8vavh4kax3lhgswgf"},
 {"v":"0.4.3","e":"^1.70.0","h":"0zvzf4qpqz7bzsscq6md1fs01kb4b8bwjyp2s5f4yiff4fyszv4i"},
 {"v":"0.4.2","e":"^1.70.0","h":"0mdj3dvby3gcrnc9172qknrz4j62xnfr84n943fhkzyk0a057sl3"},
@@ -2337,6 +2338,11 @@
 {"v":"1.0.2","e":"^1.75.0","h":"0p0zjqwy83hdwsl09hv0p1rin0zxq7inyw5505ik3gh8d9i7asl7"},
 {"v":"1.0.1","e":"^1.75.0","h":"02w6lfsbvxi18l9xy65idxff4j0xnzbr07n9qzgk3590jkavgcv4"},
 {"v":"1.0.0","e":"^1.75.0","h":"01zvvhlhd3ciipcl2dc6v2y50n7mrsdbmrwcqmlgd6zbkwa5an34"}
+],
+"faf.faf-context":[
+{"v":"0.1.2","e":"^1.90.0","h":"12xi6xgxn1s57z5klz12c40gp1dhngdarfq1p8l8gxhyifpshzbm"},
+{"v":"0.1.1","e":"^1.90.0","h":"05759ifcvccn3x92pdalvcxrffy0s41hhlck8awnqxxsik294plc"},
+{"v":"0.1.0","e":"^1.90.0","h":"0pgvaaq89vba6yp5qv202a4j1nafgjrqbcnpwbxngb0d5rj434hl"}
 ],
 "faisalsannan.account-switcher-for-claude-code":[
 {"v":"1.0.0","e":"^1.92.0","h":"1l07lzm3zqqpv5jrrmwqs2asid9n1s7s4593xc2fh0g73sh10rqi"},
@@ -6682,6 +6688,11 @@
 {"v":"0.0.1","e":"^1.109.0","h":"0cicdx3nq2b0frgwl31b6ad9sai8csfk73f22320cyfpka4wajfz"}
 ],
 "remsoftdev.connect-other-ais":[
+{"v":"0.31.12","e":"^1.85.0","h":"1jqmphwp263zix7c5r694n2s8hjfp6fyj73qvmrimpjrhsmhkqvw"},
+{"v":"0.31.11","e":"^1.85.0","h":"0pk69mjzs7lagd8rajrchqd9w4lrryxa5cirpc1m659l2lbyn17p"},
+{"v":"0.31.9","e":"^1.85.0","h":"11affy7hdlyp31axkazpry7cqpyh17vjpxxvcz94prpy6h08l6fx"},
+{"v":"0.31.8","e":"^1.85.0","h":"1rila59ajak104wx8czzswmndjm2iaqhsgywwjk3pyszmkanicp9"},
+{"v":"0.31.7","e":"^1.85.0","h":"0wczb8qlx2903qi64lqyj1vjbp3p19m5bh68jzm7lp5ay4ybkp40"},
 {"v":"0.31.6","e":"^1.85.0","h":"089irssqq1vghfs5kqk529d3xbvj9blbxjzlqz4p8kfy3qr31a9q"},
 {"v":"0.31.5","e":"^1.85.0","h":"017qs5dzn37vi3a0q2sw5l91h471djvpf7fqq0yhi9z2g4fdx7nh"},
 {"v":"0.31.4","e":"^1.85.0","h":"02giaw24ppps31abss2z8rymsy307rp8q4a1rs2p7w8fjs78jy1l"},
@@ -8122,6 +8133,7 @@
 {"v":"0.0.1","e":"^1.75.0","h":"0fl8da5a44skn6fklgvfdfwqvg51dqh2mx32qc60njfszg482y9k"}
 ],
 "tuanns.profile-switcher-for-claude-code":[
+{"v":"0.6.3","e":"^1.90.0","h":"1g8dv5i5ghyqfnxzmh9xyamwc6s33frqkvhik2v2dfnkgkf671pn"},
 {"v":"0.6.2","e":"^1.90.0","h":"0j1is95k19q8vplcgw60h6hjvv62mvmdxpi9b6ci1yqfwbfak55h"}
 ],
 "twilightcoders.cads-syntax":[
@@ -8352,6 +8364,11 @@
 {"v":"0.1.3","e":"^1.84.0","h":"0byr6gdn4v456lqkg8yjmsj6gnv06xmifj5scj9rfg4bw36j30qr"},
 {"v":"0.1.2","e":"^1.84.0","h":"1mzrqj7nv5hh4r2bzldn0b1bk8yx7dz4nyl1x93q74jzpqnb9k49"},
 {"v":"0.1.1","e":"^1.84.0","h":"1vvw6c8vn41vjb3npf5sx6w7hy0fv76lrn9l201acgady0by3c8l"}
+],
+"vortelyn.vortelyn-notebridge":[
+{"v":"1.1.5","e":"^1.130.0","h":"0h4yhrslqlliyw5cm9ar2g59z5vmdwakl9l9gddh13q9yhdi8mxf"},
+{"v":"1.1.4","e":"^1.130.0","h":"007rqijwrg6pvka0z4bdvgcbkq4i352fi0dq7ak7gz1fz8iprh97"},
+{"v":"1.0.4","e":"^1.130.0","h":"1i0m9avdxp0mqqq45lkwqq3cdiv3h3z47y91yiys8im6y4vb23s3"}
 ],
 "vrognas.nmtran":[
 {"v":"0.4.39","e":"^1.109.0","h":"1bibhf4fhph19sksakhmv153fsripl0l07p1bgzvbil6m918xd7c"},

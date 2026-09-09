@@ -1229,6 +1229,7 @@
 {"v":"0.8.0","e":"^1.52.0","h":"0wlba1vl3f8k03ii4x00p8kvj49vl0ig5krmyf1nivwylxpra0c1"}
 ],
 "birtalabs.birta-writer":[
+{"v":"2026.908.0","e":"^1.95.0","h":"0va5bp35kxfvrc9a57fkbpm7h44p10md9knx27n9nf2ryp2flr8k"},
 {"v":"2026.907.0","e":"^1.95.0","h":"1mayzwlifyg75lswkcy4d1m44zxwxcgqngavna9xm404avqggl1z"},
 {"v":"2026.905.0","e":"^1.95.0","h":"1vzic4kl04w9d5vl7m43b3p02nsyxb812dxl941kw2jv1madfl57"},
 {"v":"2026.904.0","e":"^1.95.0","h":"1xvc3pwz6m4gs9d716miiss3bcckb3yf7nyfnfzms416ll4ml6qf"},
@@ -3526,6 +3527,7 @@
 {"v":"0.0.1","e":"^1.70.0","h":"18fv01x8ivwgl3dg6w7wrkbrwap4mlqdfa3pw2xwim5sm4p5b32y"}
 ],
 "everpowerstudio.everpowerstudio-vscode":[
+{"v":"0.1.3","e":"^1.90.0","h":"1rrcdywf155jk7c3avlwwsaj62skslpwyrk8f60svrpnhkyqz2m4"},
 {"v":"0.1.2","e":"^1.90.0","h":"0sr0frxg2m1lah9rl93ympwjbl11g4sgbbsfc3p9yaydhs7lkb81"},
 {"v":"0.1.1","e":"^1.90.0","h":"0102j375sii7m937fh0r6y60adpyfya082dwi3pwqig1zx3jgdv6"},
 {"v":"0.1.0","e":"^1.90.0","h":"0rw79l9h5r9y4v2lzffha2hx0ih68flgmvm711sg104i6aal6mnm"}
@@ -6190,6 +6192,7 @@
 {"v":"1.0.0","e":"^1.88.0","h":"0199qh7gaq56agzpi9d39qhq2k89kdvawra69xmxzhzxiz34znwh"}
 ],
 "newdlops.django-shell":[
+{"v":"1.1.1000051","e":"^1.92.0","h":"0saa0kchmnl74wd6bjz4fa40gy5n0h7pzdc7xhbvf4dcaxacc6wp"},
 {"v":"1.1.1000050","e":"^1.92.0","h":"028ar75vs38996hpq7rfp50yx5qs5c9pbdiaybiqva7v8cbjnm92"},
 {"v":"1.1.1000049","e":"^1.92.0","h":"0dmg908dz0ipvj5ay7x9xpwh2yz6gybjw88k1xgfn2sv3zsrz6zd"},
 {"v":"1.1.1000048","e":"^1.92.0","h":"1nqimwpl7q2c773lyinyjmflc7dmqmy5brjnr1ms2djqs1p99qb9"},
@@ -6802,6 +6805,7 @@
 {"v":"0.0.1","e":"^1.38.0","h":"1jyrjvql3753qkqyb33dz6b4sdg803m9sbgv8ng2q9y48hbfl6xj"}
 ],
 "playspec.playspec":[
+{"v":"0.1.2","e":"^1.85.0","h":"02rpdzb6fn4na5q6pbbcdcj7bb3kp91ziq7q8idsjq8arf3l21kr"},
 {"v":"0.1.1","e":"^1.85.0","h":"113r8ly365rdksrk9ssphaivyc7xf5x1jha4abzfanbhw9n62yiy"},
 {"v":"0.1.0","e":"^1.85.0","h":"0ln1c6za9gk29bp5ccvy09wd5wanv4xk71w9mzb1bz60rrvilm5a"}
 ],
@@ -7176,6 +7180,10 @@
 {"v":"1.0.0","e":"^1.74.0","h":"0m4np3yac2q85wmjsvnqgy867hdd2za1lzp84gmxn0la25rcvjss"}
 ],
 "rockuen.cli-launcher-for-claude":[
+{"v":"3.23.0","e":"^1.85.0","p":"darwin-arm64","h":"1nzcaas0sak5j0jawl24a1ha6gvkfgmygxqiyl7ajvr2vvd66sqf"},
+{"v":"3.23.0","e":"^1.85.0","p":"linux-x64","h":"14mg903pvbxa7hiz45nmn3zyk9rhlkzlvm470jl43wbk636dvgp4"},
+{"v":"3.22.1","e":"^1.85.0","p":"darwin-arm64","h":"1462bg2hzgdc13lp8qilrm0kkpnxyha4i7fna9fjh9abvsv540qh"},
+{"v":"3.22.1","e":"^1.85.0","p":"linux-x64","h":"0sq7an2ndai4vka9z1mf3x4k586bcp4nhn9fx7n6qh38rw55di8b"},
 {"v":"3.21.6","e":"^1.85.0","p":"darwin-arm64","h":"008d43gpg84kbg7mwl5sl9gkx8gn6wjvnsh35vnjdf0jwwy5da79"},
 {"v":"3.21.6","e":"^1.85.0","p":"linux-x64","h":"1rr54mzwjdvsja56n14s1x541k9if3zyk6d52cgm6wz4928l3izg"},
 {"v":"3.21.5","e":"^1.85.0","p":"darwin-arm64","h":"1bky10mf0v21y1wj3nj2h6l3kmbfbjx4da6qj39cbdq68ijqraf1"},
@@ -7462,6 +7470,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"0ba6zh05szbkbzijmsj4qr0cz72v35mwqi6a0273kw035d7inxag"}
 ],
 "sevenid.html-preview-plus":[
+{"v":"0.0.7","e":"^1.85.0","h":"1jy4zbf16mvmwv129fv9864iyyhp4y0cg2ii527hhvcg89nsh0dw"},
 {"v":"0.0.6","e":"^1.85.0","h":"1bgbjry2pz7mmm0m2arcvjxx2gjbl29wig20mpwlmhcisbb00rhc"},
 {"v":"0.0.5","e":"^1.85.0","h":"15npv91w7b9a31rv92f8as2f84h704vfjnpld54884gs7x5jcx0i"},
 {"v":"0.0.4","e":"^1.85.0","h":"1dfy8xhbjwrz5xqbgsxnkbijnjhz9ba44qdwvwax594ypp6xdydf"},

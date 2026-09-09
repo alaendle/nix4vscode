@@ -82,6 +82,7 @@
 {"v":"0.0.1","e":"^1.79.0","h":"0nzhj4lk85s73znbr4d0ccvcl3r60vwfagyr2nb8bdpmzy6f8h66"}
 ],
 "accenture-oss.sfmc-devtools-vscode":[
+{"v":"3.4.3","e":"^1.101.0","h":"1293xgk97ax10n5v4bgjp1lhflw82jmkk07602vn9890rs2sgay6"},
 {"v":"3.4.2","e":"^1.101.0","h":"19ajl8cyaxrq3sls6mq5h6k6kdz5apl55fid1bj3x2176w5fc6vb"},
 {"v":"3.4.1","e":"^1.101.0","h":"173z4kk2wdgpnv6dgmalqy5apyr1c6z6lydbip22pv79h1cd8njq"},
 {"v":"3.4.0","e":"^1.101.0","h":"15qlkn61bzpk6dbjsb1rhyajqlm30w98g6nbsy8cvg46591cxbhn"},
@@ -2659,6 +2660,8 @@
 {"v":"0.0.1","e":"^1.47.0","h":"00k8izn8m5mrfyl35xp19slra6i5nhkdlimwf3fnflq5w55hfygc"}
 ],
 "dbtlabsinc.dbt":[
+{"v":"0.104.0","e":"^1.100.0","h":"0ihl9vbvz1w7v4760ls2ajn7v49s7gfvfshz56g8zsd5ixi7rnbx"},
+{"v":"0.103.1","e":"^1.100.0","h":"0fpw5p354li6dnvhvj9r8p0v61302qb9xh840rz94rrcc0d9f1zn","r":true},
 {"v":"0.103.0","e":"^1.100.0","h":"1qlyvs00xkfs02qmblxarf7r90dy4b91xdv68gj40d11g3cvjnkb","r":true},
 {"v":"0.102.0","e":"^1.100.0","h":"1j3c5qz1hlnvrbhjbl4nygrqngvddcd4ix4jj99dzvm7llxnwchi"},
 {"v":"0.101.0","e":"^1.100.0","h":"1gp0c6h9lqgxfpqnv0gblv0f6v86ahad648winja8kkjvyjkp16w","r":true},
@@ -7081,6 +7084,7 @@
 {"v":"2.12.0","e":"^1.8.0","h":"196rg78nw4gh35hqq2v2dns3rnh0fry0x6f70d2jsv777qm3l8dp"}
 ],
 "metrosoft-application.markdown-easy-visual-editor":[
+{"v":"1.1.2","e":"^1.100.0","h":"0b4hl0h9x7mlbv2rn3v0jwcvb1npnpdfxi50l02yws06i4rf24x6"},
 {"v":"1.1.1","e":"^1.100.0","h":"103lsy70hjqi5vj1qym0j6lnbm142rxnnm6766g7frj961ylrlk9"},
 {"v":"1.1.0","e":"^1.100.0","h":"0gdjqss5sghxqa71big5z9znz3jwx8cpj194djk84sq9xkv935x6"},
 {"v":"1.0.20","e":"^1.100.0","h":"1x6y53fqz3dww4c17mr340200cl3a6czw9p4brq4karazmb49a19"},
@@ -7924,6 +7928,9 @@
 "nasanov.42-comment":[
 {"v":"0.0.2","e":"^1.38.1","h":"0y70cp2zbsc59yl4jh6jw05mfkjhps4ha43l3wpyh2mz2q5vphv0"},
 {"v":"0.0.1","e":"^1.38.1","h":"14a004yil26l8gphspzpkjjzzcwljqkwhmsv1ny6grqv00g1q8kz"}
+],
+"nativecorejs.vscode-nativecore-pair":[
+{"v":"0.1.0","e":"^1.85.0","h":"173ry1mvjsj5i4q3x8n0szy2rxlliqn7ncwpfyqjvhdxpizsr95k"}
 ],
 "necatiarslan.aws-step-functions-vscode-extension":[
 {"v":"1.0.2","e":"^1.104.0","h":"0yfd1zsbcmdxsbscxb13xrp3b4k0abyfwk5xkbs5mkv400svdir0"},
@@ -10222,6 +10229,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0v93x5wxwlksw6xdix55n4j7dyr6dwn3dpqlx9ra0vwdfw291y8z"}
 ],
 "theswanfactory.hclang":[
+{"v":"0.2.2","e":"^1.80.0","h":"18mclk1299rgb8qn7jhs1vcddbrv0jw41rwz0rh6d1lddb59xsvp"},
 {"v":"0.2.1","e":"^1.80.0","h":"1c9w49bnl9iby040n40w5lfi231w9ar79y1cj63sj12aglz18ack"},
 {"v":"0.1.0","e":"^1.80.0","h":"113qyxzm2zp4wfn4rfkzi2b05phlwc3bm3j09yyv5qd1975yjdc7"}
 ],

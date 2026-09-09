@@ -670,6 +670,9 @@
 {"v":"1.0.1","e":"^1.80.0","h":"0v2ay4viywq97zcb8iajvgrzxqv8j6rz1dc662jb67fnd0dr1vl3"},
 {"v":"1.0.0","e":"^1.80.0","h":"1cf17ysljqpgccbdzran1q8nskgis4znl7msx8kd66r5p84pl5x0"}
 ],
+"amrakk.markdown-preview-themes":[
+{"v":"0.1.0","e":">=1.90.0","h":"07l415g02yfq3psngjp4rhqhiizbrvfm4brzb8q3pqn504zk6vrg"}
+],
 "anand2025.copilot-metrics-pro":[
 {"v":"1.0.1","e":"^1.85.0","h":"142x7mqn8m38gb2y3vlsji6p2jczbdzwln2m3qd5r7w820bd65ws"},
 {"v":"1.0.0","e":"^1.85.0","h":"1dvrqs979h7iylv22ai7lq94nx353dd0csnmrhppd68aysxhvibd"}
@@ -833,6 +836,7 @@
 {"v":"0.7.3","e":"^1.109.0","h":"0f8qi8is4pvgj57l7nrjv63ynglj1k61ix8hvjzpd25hpy8rp5vy"}
 ],
 "apertacodex.simple-db":[
+{"v":"4.3.13","e":"^1.118.0","h":"1y9s4lqkkvlwqf321cxjhzlvck9avvcrdsgpjsnid3q6rkvdvzqs"},
 {"v":"4.3.12","e":"^1.118.0","h":"1b3nn1ncpyyxzkm8bg7xlq0bpisx8kbzq1q811dn3ynappzfmxbk"},
 {"v":"4.3.10","e":"^1.118.0","h":"0kzxvfg625dcq31jb2yz8ii7smxla9xbjkd2fafcbqpb7nyy0bhv"},
 {"v":"4.3.8","e":"^1.118.0","h":"019py9yr5c2326csq2al3wadh4d29x7gy4rflal1w943p284agyv"},
@@ -3563,6 +3567,7 @@
 {"v":"0.1.0","e":"^1.69.0","h":"07nmckji83djc7gqirrssw4ml6r41f8vjdzl20pgk26xhkg1hxhb"}
 ],
 "ey-cosmos.cosmos-workbench":[
+{"v":"1.19.2","e":"^1.85.0","p":"darwin-arm64","h":"1ddmqy8wwbgs3l17mn2w4f7cp9yqj7lzk82vjshbq6sj6smaximj"},
 {"v":"1.19.1","e":"^1.85.0","p":"darwin-arm64","h":"10adrpm529s7l1rgn0zz35kmiyb9scjca6vbbn0i3spk25awl9jb"},
 {"v":"1.19.0","e":"^1.85.0","p":"darwin-arm64","h":"03cpq91zwassqws3m7cscn2s5bczcfcm1l1ib264ra4mhx40d07m"},
 {"v":"1.18.15","e":"^1.85.0","p":"darwin-arm64","h":"0i5y0vf2s9a95qrqz9ghcjwbjmm9xf1445579c5ndxxnriwsx562"},
@@ -3816,6 +3821,9 @@
 {"v":"1.0.3","e":"^1.60.0","h":"16carakf9ibil0b5y72mzabj6a8wvxl3k0x0va3fbf64zdhxxiql"},
 {"v":"1.0.1","e":"^1.60.0","h":"1s7qcj5nhy0srcixam4y8hl7y4qdqv4jbx9lmi55c6pda628fnl1"},
 {"v":"1.0.0","e":"^1.60.0","h":"10ad5p89ydmkcfn5yq960hik06j5ky71cncjbrr8k359jdmg5xyj"}
+],
+"gaphunterlabs.cargo-audit-companion":[
+{"v":"0.1.0","e":"^1.85.0","h":"09j6v11jfchcb8lqqq2n383xpd6n4ll0im38h8pplyhjmjb2rmik"}
 ],
 "garrit.p5canvas":[
 {"v":"1.7.2","e":"^1.41.0","h":"1drsr1fk5l27irmvw9715ab92cq0wzcrh8ai3b44g4i056158cxj"},
@@ -7965,6 +7973,7 @@
 {"v":"0.0.1","e":"^1.97.0","h":"0lqg28pf75ysspdjc02dqj0vx48grpkf05kq3811r23wslarz4z3"}
 ],
 "setec-tpi.decoda":[
+{"v":"1.5.1","e":"^1.100.0","h":"1frf1inv8d6y9vx1gf4ql3l6nzcpzycymllkm64kp8brca5apa6n"},
 {"v":"1.5.0","e":"^1.100.0","h":"04qvpkg6cbkyka24yhd0zyzc20yvng1s3a1pw3x2wm8rcpmfdbq7"},
 {"v":"1.4.3","e":"^1.100.0","h":"07qfkxgs4l4gpj4ysb66r3nix5b14bnzbf2fvx27y89x92p52hvr"},
 {"v":"1.4.2","e":"^1.94.0","h":"0wqny9z59avylm48rgdlb5yxha7y1r87kf96anxmcp1aj27dq4m4"},

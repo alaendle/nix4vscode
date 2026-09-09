@@ -131,6 +131,7 @@
 {"v":"1.0.0","e":"^1.54.0","h":"144kp8lcpz6yn5hicqr9jlwqdv1dj3p06fcrrf604chim1xh9cgx"}
 ],
 "adaex.vscode-agents-explorer":[
+{"v":"0.6.72","e":"^1.133.0","h":"0cd0j5gac3b24mcmhwcdm5nn7my77z5dfq31wzvp8izkssdllvq8"},
 {"v":"0.6.70","e":"^1.133.0","h":"1nwj7n9wrvrvxz99zk6dqxwjac36bv8jrcwpdh3v63l61g5ws1mv"},
 {"v":"0.6.69","e":"^1.133.0","h":"0y63b7h40hcqhgpdkc2hmjqncv49ik45hxk5q4sfcw7cnsvkx6dv"},
 {"v":"0.6.68","e":"^1.133.0","h":"1hiabi6rqqkdq2pmrfghba16m4l5agq4p6g4r1wzm858v4ynjvkx"},
@@ -8373,6 +8374,12 @@
 {"v":"0.0.2","e":"^1.93.0","h":"1ki1nkjg9v6wsi2zddnkxg3vyir7cfcxr772rj73781wzvz848l2"},
 {"v":"0.0.1","e":"^1.93.0","h":"184cj0982ri6wl0p03r66v5lv403422abzrbsdkyilj35615b695"}
 ],
+"ravinarayansingh.ai-commit-message-generator":[
+{"v":"0.3.0","e":"^1.85.0","h":"180h0kdq8w0a8kxx3k7v4y83y3yx7ahdqp4lhadjw5kk8nv90rhp"},
+{"v":"0.2.0","e":"^1.85.0","h":"0rgqwhwy0wj5wqkcp11hfqgc30f9mgdvv33ypdclm05040pvsf9v"},
+{"v":"0.1.1","e":"^1.85.0","h":"1smlzdh4bpbxgm83w26i7zmv42d9rnhslf8y44jvkj67ycx5s2ra"},
+{"v":"0.1.0","e":"^1.85.0","h":"1rssnhw5j4h866rl8wm4k6ndc1b5s1fvajg9plqg1plccslb7q5r"}
+],
 "razasayed.git-lastauthor":[
 {"v":"0.0.3","e":"^1.79.0","h":"0dx2ilm4prnqlg3bhk7n6gycv6xl0f7r6h7k9s7jrqmckrlp99c2"},
 {"v":"0.0.2","e":"^1.79.0","h":"0yp48x6wmjm02q00kgpghilcb1n591xypbfxfbrmkdv5ry1k3jni"},
@@ -9526,6 +9533,7 @@
 {"v":"1.0.0","e":"^1.60.0","h":"01iha6d49nmwmcq4d238r4gqnizinb7x69d6c1q75i4f63cjr92v"}
 ],
 "smooth-soft.assessme-analyzer":[
+{"v":"1.0.14","e":"^1.85.0","h":"0fyg5ag36zrmpr2fi6xascyyn0zls5m2bvpjmslwqq0pbbavj797"},
 {"v":"1.0.13","e":"^1.85.0","h":"0j0z573di2aic9s4y5nqvl1q79k5hpfm68cbmz4jsk3s2c7nfpws"},
 {"v":"1.0.12","e":"^1.85.0","h":"14h68nl8bk3fpplngaz33sl7ri2ls5v66r209dz8fnanda72qwiw"},
 {"v":"1.0.11","e":"^1.85.0","h":"05m2l7nm8mnhrppxpsrj2kyyvbnzg9cmfmwfs7r5d4gf3bhdpsa2"},
@@ -11194,6 +11202,10 @@
 "thenuxofc.thenuxai-unrestricted":[
 {"v":"0.0.1","e":"^1.85.0","h":"0sjkn4ipyngbd3557d9bnc2kacqkrl6hlw0kjwc7i88211fh485k"}
 ],
+"theosspkgteam.unic-config":[
+{"v":"0.1.1","e":"^1.85.0","h":"124cixrfqnfqycscyad3jx80r5xmncfn7d7fk7ky95zysfzv4fig"},
+{"v":"0.1.0","e":"^1.85.0","h":"12axs4gd2p10lki7g0rdbh4fi1rbfasjg4m1d0d0s9xc1gqjr02x"}
+],
 "thibmaek.vsc-esphome-snippets":[
 {"v":"1.0.0","e":"^1.54.0","h":"1pwyccdxfmi185gfpg4gg7svvghq97whcyb0hnv7gbklgns66ii3"}
 ],
@@ -11314,6 +11326,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1fnik1098halkwgljxdk7gd7338srmxhqlw4sg8phbv6qzwvrngg"}
 ],
 "tuna-ex.dotnav":[
+{"v":"0.29.1","e":"^1.92.0","h":"1zxfnw89c6ndxacdkjzq2jb696d3nbcl038vwjinmn6v0whap9yf"},
 {"v":"0.29.0","e":"^1.92.0","h":"1nkmnxbcq3ld46pj7jniivs3xa5k00hvcj999vcv99gxkxph9g04"},
 {"v":"0.28.0","e":"^1.92.0","h":"0zs4602dpknv7ynx0m5c8lvvzf0yg5fibmr19f10zhqzf210q31q"},
 {"v":"0.27.1","e":"^1.92.0","h":"00h9z7i53qbjrn4vvdidaij755alxbq0gs2ravg08r198k0j9gx0"},
@@ -11349,6 +11362,8 @@
 {"v":"0.2.0","e":"^1.92.0","h":"1nfj4zr6cwj3jvimg7pbs1ndjxm3yh0awhi4vf50wxlpsbbz32c6"}
 ],
 "tuomashietanen.fsharp-refactor-vscode":[
+{"v":"0.8.7","e":"^1.75.0","h":"1lw7crhn38vf8l0y0hh5y7sng9prn78434sk076g11nnna8s7zfb"},
+{"v":"0.8.6","e":"^1.75.0","h":"12iipjr92ah9b1z8wqgd4kcr0rzm4p9vh0072n26nx0xvxrh7cm7"},
 {"v":"0.8.5","e":"^1.75.0","h":"1dxqaix9rbswsv87hyr2pwmapaidxyzfn1354q05pj949d6gbsxv"},
 {"v":"0.8.4","e":"^1.75.0","h":"1xlrdv2hx0r2cs65bv6hv0vpndmjhv9w3i8kvafszv6y659jp68y"},
 {"v":"0.8.3","e":"^1.75.0","h":"1bnn7b0s0dvnmp87wswhaafqx5g558n0g147s0p5mdn39p79f88b"},

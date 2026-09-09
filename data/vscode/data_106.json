@@ -3029,6 +3029,10 @@
 {"v":"0.0.2","e":"^1.55.0","h":"1mflqs7bv172g2bs7mwgd51h8v3xjspj2ny1a90ncydw2zq10b1k"},
 {"v":"0.0.1","e":"^1.55.0","h":"05z91ikgzmnb7wgng4zfx3qkmf6rkh8b6zbqvagxp6q8xdb36qdi"}
 ],
+"govide.govide-extension":[
+{"v":"0.0.2","e":"^1.85.0","h":"0h85bql30w48bhzy27i7w9mdjfi8q0w52kdbh1sxh0qxjr4lrldy"},
+{"v":"0.0.1","e":"^1.85.0","h":"01578d7x5apizbnykx4qpr39csq5k47acqypi6c7iqxxk25abkk0"}
+],
 "grayjack.rustsnippets":[
 {"v":"0.2.0","e":"^1.45.0","h":"051pbkj8x881pxs0x0yy434sj33lda2ghs49763g2rk64ls9m3ci"},
 {"v":"0.1.0","e":"^1.45.0","h":"0q15ry4p6dy7fvwx3ka7qzvh272miz1w32bgvfmnc66qsa3bxrwf"}
@@ -3662,6 +3666,7 @@
 {"v":"0.0.1","e":"^1.60.0","h":"11mpjxlfc4x0jb5vmlw8pni7y80zkznwhqvv6zx7vkqxsygd52dl"}
 ],
 "islee23520.opencode-sidebar-tui":[
+{"v":"1.12.16","e":"^1.106.0","h":"1pylvvxngvxf6px7wj2jpz4zqgyc0wra6pb6bqnxr9hhfc8hn4bz"},
 {"v":"1.12.8","e":"^1.106.0","h":"11wkrc4vrg9sh9h16658qigjkdij0xiz0bnfkxskqlgbggh19yqi"},
 {"v":"1.12.7","e":"^1.106.0","h":"1wkhbm1f4syw8id4vk3gyllddx6ksi7f18g8jinh30l80aa3v00p"},
 {"v":"1.12.6","e":"^1.106.0","h":"150b4a5qihvdawj1vwsfc7zjdmcc4hxxq3hvky8mhrcy9ax6syv6"},
@@ -7532,6 +7537,9 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1q9hm1y3kk12rc3amsj3mppg44j45pjp5mnb1rrf39yg50bb1jhd"}
 ],
 "probirroy.systemstudio-cis310":[
+{"v":"0.36.44","e":"^1.100.0","h":"0ax0l6q135l49x62z5sd4yzcskbnns65wjrpq0z4dfcdm6cf9ipf"},
+{"v":"0.36.43","e":"^1.100.0","h":"0bhfxkjdyf67lnp9nahycq16h6qhacmh81570kazhlr5cjl8njlh"},
+{"v":"0.36.42","e":"^1.100.0","h":"0ax5hdsvhxs8hhd6w1vg3bkwiq28fhxd5gcanywhg1l1b9q1ka9y"},
 {"v":"0.36.41","e":"^1.100.0","h":"1143ka5p5gaqnwn1829bb7ihfm374496xnxp2r4yfarqbxfj6v4k"},
 {"v":"0.36.40","e":"^1.100.0","h":"0lcmkmbdcbgx3vh84rji6hw8qxa2rm0w2zm92iaqznjlkk3r73yg"},
 {"v":"0.36.39","e":"^1.100.0","h":"0d80nwj1bsslw9ihysq325mvg8cng681c2blmmwsp8759lz2fn3m"},
