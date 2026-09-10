@@ -177,6 +177,8 @@
 {"v":"1.0.0","e":"^1.60.0","h":"1bmil2kdhnpi3sww1a7cybbz77i0bd9vdh9iqs8x78xjzjrg32qx"}
 ],
 "agenticmarket.andromity-agent":[
+{"v":"0.2.8","e":"^1.85.0","p":"darwin-arm64","h":"0q3m4hgyk83w93slapmh8qaspzlqp9rm74jkzygjlz7s00npxm5j"},
+{"v":"0.2.8","e":"^1.85.0","p":"linux-x64","h":"1m2lwxbxg6x2pq4vlvcbnncjqim3h9qzbjpn3qwycri7jmjbwnc5"},
 {"v":"0.2.7","e":"^1.85.0","p":"darwin-arm64","h":"03a51jl528vgl7c8y23bdz5srxwvkgcxrxg5p9pm9hyqkfb2y0dx"},
 {"v":"0.2.7","e":"^1.85.0","p":"linux-x64","h":"1vq367ka3g1g5an1mlw2ha9wxvbqffv60izp1jm06b7p81w3l7fb"},
 {"v":"0.2.6","e":"^1.85.0","p":"darwin-arm64","h":"0idhqpg1qqbllkp4rm6h0nxpnkq9fnb7qxvs1yx519lh4az36cc9"},
@@ -1232,6 +1234,7 @@
 {"v":"1.0.0","e":"^1.52.0","h":"1avfd2rlc38f0v68kin8xyynjsqmv8zg23xya3hfz9wlvbdv2rsz"}
 ],
 "chahe-dridi.agent-confirm-sound":[
+{"v":"0.5.1","e":"^1.93.0","h":"1hdlm6ragjgxvpaw660vrg2lymc43hzds3d233xf0lfhyvqabv5x"},
 {"v":"0.4.2","e":"^1.93.0","h":"1ig43am0gy1n3d1ydblqvyf1psxi3d8h71bpmq239rpnv778pwiv"},
 {"v":"0.4.0","e":"^1.93.0","h":"03aanpg9gs89gnaa36kn6kr21hm5ma7awg0m9y7yrn798si589f4"},
 {"v":"0.3.0","e":"^1.93.0","h":"0pg72qhnckaz74xwrc2x0m6vpk0p3sf3s9v4j5v53k578ifnfqh9"},
@@ -3791,6 +3794,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1zmx631kqc4sjh2ahy164f9rqgalg8nlsav07i1jj78bwsgpwk4s"}
 ],
 "ion-andoni-palma.iapl-salesforce-validate":[
+{"v":"0.6.9","e":"^1.85.0","h":"103023javb5369mb8rhfgpdr53gkj3hqihpckfg837gs88w93sn1"},
 {"v":"0.6.4","e":"^1.85.0","h":"0lxjjqqjmz4hcmrfkjwzlj21k278gwz691cy6awm5zwb6nwf9czw"},
 {"v":"0.6.1","e":"^1.85.0","h":"0pbbpdxjswnxiga0z1qnwbzj93paqdgbkm59nhcv12lxhdgpz9zz"},
 {"v":"0.6.0","e":"^1.85.0","h":"12ajf6x3w18c9rr0kr6b215mlqp30xmvl8zn6gms1cvyyngwrp97"}
@@ -5789,6 +5793,7 @@
 {"v":"1.0.0","e":"^1.60.0-insider","h":"0wkwllghadil9hk6zamh9brhgn539yhz6dlr97bzf9szyd36dzv8"}
 ],
 "ms-toolsai.vscode-ai-remote":[
+{"v":"1.5.2026090900","e":"^1.105.0","h":"1jc9cj1a93kyxs2wxpxgpaywsja85wrg7ixr7kwmw9jyfyn9197z","r":true},
 {"v":"1.5.2026090800","e":"^1.105.0","h":"1anwf2vmkhvi6w8m86c4a980p11667x570g0q7f5a300866yakyw","r":true},
 {"v":"1.5.2026090700","e":"^1.105.0","h":"11bjxm41rd374jdm9xyv7hh76fgx26sykk33iqj8b0pabqhc2sv2","r":true},
 {"v":"1.5.2026090400","e":"^1.105.0","h":"0ig9q6zxxpjwx0acg21j2yrxpn9gbc9nnkcdwdakg8l5mmqnqlx0","r":true},
@@ -7066,6 +7071,7 @@
 {"v":"0.0.1","e":"^1.55.0","h":"0xb8691vd5632d7lmc7r632bnz3gqxngag48bir9ls95isamgqlf"}
 ],
 "openluat.luatos":[
+{"v":"2.4.3","e":"^1.101.0","h":"0y3a01dqziqa8snbcq8jv6ik9fsgch5wzyl20jxf0f27qd0wvbxl"},
 {"v":"2.3.2","e":"^1.101.0","h":"0gbp8ijzx6wsq59l0a0i9zfj0vics68mmrkajdmkbncpyvccxjw6"},
 {"v":"2.3.1","e":"^1.101.0","h":"09ya6a5yjdmmdrppw697mljc1mzanzk6frw3ffx8ncnzrxdcffx0"},
 {"v":"2.3.0","e":"^1.101.0","h":"05s640d65rkh07g4cz8mm6mq9ayidv2gjbg431aj2hyhvmn47r24"},

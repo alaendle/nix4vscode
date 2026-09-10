@@ -489,6 +489,9 @@
 {"v":"0.0.1","e":"^1.94.0","h":"1v027kizrcknnzn3yvjhd9maiis4bq7vxp9zs0s0j8jpvvwk4vyr"}
 ],
 "ar2em1s.yalsp":[
+{"v":"0.4.0","e":"^1.108.0","p":"darwin-arm64","h":"1l3vw4w3pdgc3y7llhvsc4b45r1hz81fai44dnykx8yvh94d9liv"},
+{"v":"0.4.0","e":"^1.108.0","p":"linux-arm64","h":"0g374vw0wywb067v5dhxgdykssghmav3ydhimshdm8np3kph8fl9"},
+{"v":"0.4.0","e":"^1.108.0","p":"linux-x64","h":"099g9y4xpaz1n6zxpxzp22fx5g1rdi61azjh1nba0mrriv9h9rsd"},
 {"v":"0.3.0","e":"^1.108.0","p":"darwin-arm64","h":"1s2i9vy73xfs1lnd3kxznqlgjlcg0mr7ni3i22zbkfimz21y6pil"},
 {"v":"0.3.0","e":"^1.108.0","p":"linux-arm64","h":"1qbp1wc32jkd1day3mzyyrspfkq84mhgck79w8zfl2a2w1p94bmv"},
 {"v":"0.3.0","e":"^1.108.0","p":"linux-x64","h":"08brd7xxikhd720q2kkl9kdgn46qdlbp7982vl19lmlws6wkkgaf"},
@@ -1240,6 +1243,7 @@
 {"v":"0.0.2","e":"^1.100.0","h":"11crwbwdggi7ky1c9r8dar9lg2w341pnpn1pscljy8lhdss70dq4"}
 ],
 "bpcarson.aeropy":[
+{"v":"0.1.5","e":"^1.109.0","h":"08ryz3ylk7gvrq4gc17pj0r4a9lb4mvfm5fj5nj7bp23wpx18agp","r":true},
 {"v":"0.1.4","e":"^1.109.0","h":"12fhpvlpg40z1gq4m78w65mjcqx3j4i4a4hwrcyg4yd9as464cfa","r":true},
 {"v":"0.1.3","e":"^1.109.0","h":"11schsxp7pw4qll4ilb08r6y09lg2ckrxy2z3c71bpdbq3rq5v7l","r":true},
 {"v":"0.1.2","e":"^1.109.0","h":"1mp87d0ynj6c627sr2ynn8dfds0dq56ldvha2kikry0iaymbmq7g","r":true}
@@ -2562,6 +2566,10 @@
 {"v":"0.1.0","e":"^1.77.0","h":"0dqfjkd7jd6srizr8cih6x2x63b6031a6bhkqwwhby29rw5zyw92"}
 ],
 "filipmares.theme-specialsboard":[
+{"v":"3.5.0","e":"^1.101.0","h":"1xwy4775rg0di3mrn50lcvsxjcj3hn1s2ayjsxsq4rsx6dadpqna"},
+{"v":"3.4.0","e":"^1.101.0","h":"0a54rz6hl017ww5ylanjk66ywyn2d69014dlws5j4v99mv31p1w9"},
+{"v":"3.3.0","e":"^1.101.0","h":"0r1zs4dwkpb3afshlbjbr2yhg8x4pkw6imcchw992kgmylrfcgxg"},
+{"v":"3.2.0","e":"^1.101.0","h":"1f8zdywznyhiznzqaa0dw4bxmc17nj5lpczsm5dpk30q767z9pyg"},
 {"v":"3.1.0","e":"^1.101.0","h":"1a5qaik494pj4c3id0panhwplkp4gir2j551idy5axh93scl7z7q"},
 {"v":"3.0.0","e":"^1.34.0","h":"0wp7wjnnqsqlvq6rsnzk23c3db2hgq2favv06r2iny1b1pvv8p5g"},
 {"v":"2.2.0","e":"^1.34.0","h":"109p5079d7w2mdnsfkhn3cl2b4d1zb47c4wlrlzqwik44zap55im"},

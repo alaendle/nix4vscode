@@ -924,6 +924,7 @@
 {"v":"0.0.1","e":"^1.87.0","h":"1a1q1d5af2xicx8h08cwdh7xfs6vfbrlp4r7i5ipgzlbrwyql7p9"}
 ],
 "bittbott.bittbott":[
+{"v":"0.2.0","e":"^1.85.0","h":"0bzdq0l8n09m4bqa691bcbb85dins63jf4v0kdnzygffl68nj51b"},
 {"v":"0.1.0","e":"^1.85.0","h":"1c48ck485w768bvq23ws954r541lms9slcw33zzr8nqx2ckf8f9r"}
 ],
 "blankeos.blankeos-zen":[
@@ -2830,6 +2831,7 @@
 {"v":"0.0.1","e":"^0.10.1","h":"1ficiy1pzqrw08rrvniladjbfxgziqd5wqixy48xg1dw58g5h2ck"}
 ],
 "gerhardbrueckl.fabricstudio":[
+{"v":"2.24.2","e":"^1.105.0","h":"0p3cmqfb98z7j6yppxnmpw19nhxsbikwslqv1hh1ji2a649fyghv"},
 {"v":"2.24.0","e":"^1.105.0","h":"1hd6sgdvj708999rygq8xg37n9118h6zlp0cyy28wlz86c5nnzhx"},
 {"v":"2.23.4","e":"^1.105.0","h":"0s0raa81ffgxc0zgnf2fn838j7gyadz4yk3s444i1f9s8kxw1ik1"},
 {"v":"2.23.3","e":"^1.105.0","h":"0ans8yqgllix0ra8kgy2saylf38cxvhrsjjpidpmvv8ls7j5435q"},
@@ -8420,6 +8422,7 @@
 {"v":"1.0.0","e":"^1.36.0","h":"0vc8s0cxvwa9d2x175rh4myd8l35gw8dn1pb16icy1g34cib0i1c"}
 ],
 "telerikinc.telerik-maui-productivity-tools":[
+{"v":"1.12.0","e":"^1.102.0","h":"1ra8qpzvpdf5ywyljsr2fm89szq69ywgl59bicznk2kv5c0yp9gj"},
 {"v":"1.11.0","e":"^1.102.0","h":"0h2rjq8iy5is5nb9a5j3g265r4mbjqvzkq6cmhgij4j617y76wzy"},
 {"v":"1.10.0","e":"^1.102.0","h":"0r83vdk2mid99dc2x0dcld890sb614mphrsilh0sfhxdg75z5gpg"},
 {"v":"1.9.1","e":"^1.102.0","h":"01izj80x3wpy99bj9szs0mfjk4yr229s6lmvsijfcd7v9a6r5zqy"},
@@ -8520,6 +8523,7 @@
 {"v":"1.0.0","e":"^1.58.0","h":"016ag7nzs3x5gvn3mlhmm9fzpdchgfsizj58bs20l8iqqy97b10l"}
 ],
 "therapeutical.therapeutical-ai":[
+{"v":"1.1.2","e":"^1.85.0","h":"02mrpfszxlml74mrsn1k2xhliijkn5pjznx1pqqwd8ji69pnsbcp"},
 {"v":"1.1.1","e":"^1.85.0","h":"0y302ckpvh7yv2c0qrmcfiii37lbi3d4bax4zsiij1l47y9pcfjb"},
 {"v":"1.0.0","e":"^1.85.0","h":"0d3ii4d96cykk25y65smfnlj17c92j5520bfqp04s4afylkigqsk"},
 {"v":"0.4.2","e":"^1.85.0","h":"116kw55d60rwyz4rnlb61fwqqmq47rbahz1jd3zvh6qypbc1612q"},
@@ -8776,6 +8780,9 @@
 {"v":"1.0.0","e":"^1.56.0","h":"1b43crdhpxslw587aj9n7z3jiwcl4d4ia1sd0m28cjhc5slgmn5c"}
 ],
 "uone.personal-knowledge":[
+{"v":"2.7.8","e":"^1.90.0","h":"1pyrkwaqypsmh7r31pqq9h7sagwsyiklpbbs919z660x4pzbr0s6"},
+{"v":"2.7.7","e":"^1.90.0","h":"16n5zb3by07hn530a805gx8yslsshjdnghgj5i8js2ank0b87x89","r":true},
+{"v":"2.7.6","e":"^1.90.0","h":"0j03ga96v3w7d7jf9n2rgkghlf556ks9vjwz0bx629j66qhcm338","r":true},
 {"v":"2.7.2","e":"^1.90.0","h":"0v0l3pijc2ivf7z0rqpi9jqkq279v0w15zq0n4gffh42y7zvkf14","r":true},
 {"v":"2.7.1","e":"^1.90.0","h":"0h4yzlik0bwwvhz9p909hk39ncajqbqj4nf8gz84b1lwcpw7iqig","r":true},
 {"v":"2.7.0","e":"^1.90.0","h":"13rrk18ybbhvzwzic76xs9zac1rmxmciwixm9idv1bz3bq2xshz4"},
@@ -8920,6 +8927,7 @@
 {"v":"1.0.1","e":"^1.74.0","h":"1hfmfybbnl8jpqwd7hm4b5s1sf02v2klgl807p1fa7liaz6cc87j"}
 ],
 "watson-devex.ibm-watsonx-orchestrate-agent-builder":[
+{"v":"1.1.1","e":"^1.97.0","h":"074npv5gn3f1vk834160vxfj4rjznj43gxpn5s5cv14c8ib25nyy"},
 {"v":"1.1.0","e":"^1.97.0","h":"1hg5i9p94v4w566w7l1f22mjliw8v9nhwlan5la1cjis25h3c4a9"},
 {"v":"1.0.1","e":"^1.97.0","h":"0mmdnlf32giqchrfxkq4lkx8azkxqsq74353k8vjkdjsdb4nn13y"},
 {"v":"1.0.0","e":"^1.97.0","h":"16yzjqa6k68vaikx443z95b6pxcbnvlqkj09bpw48myh096qb2r1"},

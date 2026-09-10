@@ -4493,6 +4493,7 @@
 {"v":"0.0.1","e":"^1.54.0","h":"1la5zjpls6114r6x1b04rah9yz4ygxq8rk09kkn0qzwr2wgdjyb7"}
 ],
 "jinkeli.js-runner-kit":[
+{"v":"0.1.0","e":"^1.85.0","h":"0adf094wpmmzpc0d0c4pa4lqll77m11pn89svnvsv3bmdq63bj4c"},
 {"v":"0.0.7","e":"^1.85.0","h":"1z8dx48v0v4g8wvjssczakc0bvxk3193cd4w36vfd8ld0l4xa1fk"},
 {"v":"0.0.6","e":"^1.85.0","h":"1arjrg6wq0ddk3adzr5g1ia2dvx2970gz51r84f3bi45m4vav6h1"},
 {"v":"0.0.5","e":"^1.85.0","h":"05vm2p08nbzcqqr8rmm7j6zb12adi4mmhlzdma08m2m21qv15n9j"},
@@ -6573,6 +6574,8 @@
 {"v":"0.0.1","e":"^1.52.0","h":"1fp9h5rbj6yv79mvfkxamds7h5xm42w7rmh2ar6lrb91rn16cq5y"}
 ],
 "multicortex.multicortex-devcore":[
+{"v":"1.0.4","e":"^1.90.0","h":"1s5l79553al7sh6j4zcncwcvljj4r5kaarlmgfd0cvzj2yy8lvsi"},
+{"v":"1.0.3","e":"^1.90.0","h":"05hj84lq11x1q3y59dmd72s6w42v603a1n3ap7k510jdcx0mcchy"},
 {"v":"1.0.2","e":"^1.90.0","h":"1y6ayw5xydrlzqfvf9zmaf4ig2r157a581lpdmnlzs3l82jjk7ay"},
 {"v":"1.0.1","e":"^1.90.0","h":"0c6zfm3na858sbywgiibpv4hq0kzwxkiy747yl7jpwxidkinjdzz"}
 ],
@@ -6732,6 +6735,9 @@
 {"v":"0.0.3","e":"^1.109.0","h":"05m596qdx2x47yvsi2hylzwc1z6fvphgj9vwrflkifli0zc6f14j"},
 {"v":"0.0.2","e":"^1.109.0","h":"1lfc02d6g0m5bcz17k6q6a76ymf72bwbfk6734bazw113nlw69nd"},
 {"v":"0.0.1","e":"^1.109.0","h":"0l0cgqb3sh5zckr9cxrmyhy5qg4199dvhxvy08x8hhgd511m6ym4"}
+],
+"nithilanselva.githelper-agent":[
+{"v":"0.3.2","e":"^1.85.0","h":"1y7bks2yhx2z7da6if0wivzw77m3yn4q8j54p0bm3nwqp20jksl7"}
 ],
 "nitrate.nitrate-ir-syntax":[
 {"v":"1.0.0","e":"^1.92.0","h":"1ziyg13h8nfr5zpdc3gwz99h96skwfrnb3lfbf9advnkpjibxhjq"}
@@ -9758,6 +9764,10 @@
 {"v":"1.2.2","e":"^1.45.0","h":"1i7bs75p2mdrz576x0xyw3xwszi5sv1crqz2dkc0qr7ffg8jg128"},
 {"v":"1.2.1","e":"^1.45.0","h":"16ifiayacgj194kisrrypym9ap6qbsn34nps1773li8k147wg9dw"},
 {"v":"1.2.0","e":"^1.45.0","h":"0axkjhnf32skh3kvcc8wmaz8p24396xhgrl9i1mi85ilnj8fb8z6"}
+],
+"wallencreeksoftware.salesforce-open-flow":[
+{"v":"0.3.5","e":"^1.85.0","h":"0jzkw4a8wsawgh52nzr1mfhs4aihx576x7p22b3dbd6p8bhswwap"},
+{"v":"0.3.4","e":"^1.85.0","h":"1p2lxmb2xjckn8rmglaaic2b3r5wd7bchi2rgc997p9fx6s9yalf"}
 ],
 "waltmoorhouse.postgresheets":[
 {"v":"4.1.0","e":"^1.80.0","h":"04d0inzb9x0y89gzc00nn9l393v64i5ymgvjsj47rnwvqa4s5vjs"},

@@ -269,6 +269,9 @@
 {"v":"0.1.1","e":"^1.85.0","h":"13l401rhr4xx1ixqyb96fsmw1y9gzkc1m28zcmaf50dn2iajy9ma"},
 {"v":"0.1.0","e":"^1.85.0","h":"14nvnx3vfn34lndy06014rx4h151ywf74607vrkg869yrl6n0nnp"}
 ],
+"akkhar-labs.brud":[
+{"v":"0.1.0","e":"^1.80.0","h":"1js993h7gd4vmlqc90nh90ij2f6p7pwwal35hnfkm49kig4f5c81"}
+],
 "akosyakov.gitpod-monitor":[
 {"v":"0.0.5","e":"^1.58.2","h":"1hlx08x9d4g77m17yyibg8fwxpi7p94qhcx0xhf0hgficv897dxh"},
 {"v":"0.0.4","e":"^1.58.2","h":"0al9hkbbgad4nzwmzbys64rvsxbk3rqspvrhbq3dspjb8ph15lvi"},
@@ -2589,6 +2592,9 @@
 {"v":"0.2.0","e":"^1.85.0","h":"1vfh4yhzymgdslm5vj5v1vwcm892wvzpx1qa1167srmjs3di2nrx"},
 {"v":"0.1.1","e":"^1.85.0","h":"1x1zv7hxjp7xqx3qalyv876z03gmd17ibqnajgagqhr826al3rjl"},
 {"v":"0.1.0","e":"^1.85.0","h":"1718z2j17h3hqk3wnnd4wb97hivbxq66pl75j7nxhia5x0dclgrl"}
+],
+"gaphunterlabs.circular-dependency-companion":[
+{"v":"0.1.0","e":"^1.85.0","h":"05nbnysnq5api0177xxqll2zarndbsj8mab2n3rvw5jg66zyhqx7"}
 ],
 "garyhtou.anna":[
 {"v":"1.0.0","e":"^1.62.0","h":"140m2q3sygrr3mlc22rjh4gnn3jwgymn5773hvf5y6i7cln2b6ma"},
@@ -5664,6 +5670,7 @@
 {"v":"0.0.1","e":"^1.74.0","h":"1d1nxy6qx7c3iy681xh86a2kq9h3x5ph6xzfzcxcbhdnsnzb253l"}
 ],
 "orofarne.meshfox-vscode":[
+{"v":"0.2.2","e":"^1.85.0","h":"1519zr45bva389md6m482pb18fab103bacc0ickjlhki9qbf563y"},
 {"v":"0.2.1","e":"^1.85.0","h":"0lygk5db2cymbv1p27psbv0hkpd6nqz9fbjqp7q334q70ssnzb90"},
 {"v":"0.2.0","e":"^1.85.0","h":"1gai7j4nwvc8bbqkw90jnmpnck00dl02jwn2bfqrnvv45p023kj8"},
 {"v":"0.1.0","e":"^1.85.0","h":"05gbz1h18r9zlvgaadpcdmmk3ih7jj89pgdl02abz08cgim9l12g"}
@@ -5797,6 +5804,7 @@
 {"v":"0.0.1","e":"^1.91.0","h":"1vfqyxcbdnjqx3ci2vywlkfnm21laxzxzrr4c12sncwxpm2srk5p"}
 ],
 "pedrilsk.lui-language":[
+{"v":"0.1.6","e":"^1.85.0","h":"0hqzlza7aik9i1h7byajpd7zpin3l789vz6df1nq7n8y1khmyyvd"},
 {"v":"0.1.5","e":"^1.85.0","h":"1hkrak7n3paqa1l3943pma6hgjx1acg8aknj84kybd6375nvh3dh"},
 {"v":"0.1.4","e":"^1.0.0","h":"15mnvzswbr51wzfdahsvk0shqx4wbklshi10ik5g2qxgc2qs0qjc"},
 {"v":"0.1.3","e":"^1.0.0","h":"0kv4g6z0hj7l0nmqza8d2hr4gq5fjxn8w54jbd316hkzchgjddsy"},
@@ -7195,6 +7203,7 @@
 {"v":"1.2.1","e":"^1.85.0","h":"145hyn00c4vslcj9djx1n53kaq2a2c4k44yak2h9zwrz99kmyc3f"}
 ],
 "silvio-lindstedt.panecrew":[
+{"v":"0.1.15","e":"^1.90.0","h":"15qz8mnkwsmngivmbqgnzqrxldpa9m7w3rqryy089lgca3r3jgpz"},
 {"v":"0.1.14","e":"^1.90.0","h":"1awq1k9h0q0al2f7g5pc5ybcdzxxp4x1k4ak4ha3wilybic966k9"},
 {"v":"0.1.13","e":"^1.90.0","h":"1ah4hf0x406wgsr5p3x580xbw4xqvwnkghhsb6d7497hrr40wrcx"},
 {"v":"0.1.12","e":"^1.90.0","h":"1bkx1pdxnrib1c35igq2k7qc4qy4abzkfw2md3agdsd3hl2f5vmz"},
@@ -11035,6 +11044,7 @@
 {"v":"1.0.0","e":"^1.65.0","h":"1n3yjbi585zki6vl0sds4vvgfy66pg9qp6ryq8qiymk3v2zgdkby"}
 ],
 "websoft.websoft-vscode-nav":[
+{"v":"26.9.9","e":"^1.95.0","h":"1a43kylrkl590i1mq35mn2n7vazn8r8s17z38cx5jfph8vhqk1yb"},
 {"v":"26.9.5","e":"^1.95.0","h":"0cz5rp5b3mp865dwvyjxdip87d0n3xa2bpgmbyvcy6nz1schgb6s"},
 {"v":"26.9.3","e":"^1.95.0","h":"0j67cs8j48ylmmg6ddnaid2ny247c7l3838hy52wzxdfrflmgix2"},
 {"v":"26.9.2","e":"^1.95.0","h":"1sl87w5ksmhih7hsab5zqxs8602maxd4kymg04g1k3gw2cyxlzq1"}

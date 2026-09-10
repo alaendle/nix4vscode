@@ -1579,6 +1579,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0x3yn9kqn3b3vj0pqfd636ibmqx001rz1r6f3x6rzxp8wjx411y0"}
 ],
 "cujarrett.gotemplate-yaml":[
+{"v":"0.2.0","e":"^1.80.0","h":"19l0zhi3jiif16p1y5hafjfd5s9z522clwjrs67wbvqq050iw46p"},
 {"v":"0.1.0","e":"^1.80.0","h":"0fj65d06qz209sjyjx4vbq9b13dahxms3ch8yf1517r2yidzzv9f"}
 ],
 "curatelabsai.graphforge":[
@@ -4504,6 +4505,7 @@
 {"v":"0.0.1","e":"^1.50.0","h":"1jalzzrcx08n6ajanqnvyzmgr83bcwk6x854lm02g1nxwaiqbghy"}
 ],
 "jin10news.jin10-news":[
+{"v":"3.1.0","e":"^1.85.0","h":"0sr4cdfih3slcslphxg11bbix0an6blfq7ndqnhsw0q0gy51p9bn"},
 {"v":"3.0.4","e":"^1.85.0","h":"03pwfal4kx4n7xksm2mm2g13mmy683k8nx0zazsnrynqxs6vg0qc"},
 {"v":"3.0.3","e":"^1.85.0","h":"0hp9chql4zdl7wh4ahrb0gansb2xfrdq38m9mc7dhqrbg3wl57an"},
 {"v":"3.0.2","e":"^1.85.0","h":"00h2vhhcjvdj0d10lk6373lqkn9zrp0ipc9n8l0hvxsvrp4imdys"},
@@ -4934,6 +4936,10 @@
 {"v":"0.0.1","e":"^1.78.0","h":"0aa7l1rnslg6ks36hvc25s2nqkyh0l4qix7wz4yy21vvwxc281zc"}
 ],
 "kote.kote-vscode":[
+{"v":"3.6.5","e":">=1.80.0","h":"018nwla2bmada4wk34y4na56982iqwdxqa762l66w5n5x4i3323r"},
+{"v":"3.6.4","e":">=1.80.0","h":"0lqdlcz61cpmpp09648f13xc7fkxwmqy9l4m0cq8k83dvnl3yxnk"},
+{"v":"3.6.3","e":">=1.80.0","h":"0i6kkypnjz2fy6qfxi4kns8lvc0d55vhpzyl0h4zrhd86kyacy7z"},
+{"v":"3.6.2","e":">=1.80.0","h":"0pf6xqrdpgjxmnxdswfplsrnvq7wzy27wx2gzvd69xmjpsddbyjk"},
 {"v":"3.6.1","e":">=1.80.0","h":"0l37q1xka3lccgvknddvzx2rdzx3hch017jfi3a7k1vhsxvznpab"},
 {"v":"3.6.0","e":">=1.80.0","h":"192x0nkqvns26qz9rcgvlp9gxkh72i0n1w51a14jamrhqxgq8m9a"},
 {"v":"3.5.9","e":">=1.80.0","h":"1wqp3370rbh0cf7gxsj3wbwwfi8sfy0kyyjmsqi2pmibrz461mlp"},
@@ -8243,6 +8249,7 @@
 {"v":"0.1.0","e":"^1.4.0","h":"0crlykfv80mx0zpw5r95y8hz332nhi3zzq21xzn1jav71m5av3jx"}
 ],
 "rocketsoftware.rocket-enterprise":[
+{"v":"2.0.18","e":"^1.90.0","h":"09gz21lxzfnfz5ahi1q0vsh89iwy6kx3n3s188xw14x1fw4hrydr"},
 {"v":"2.0.17","e":"^1.90.0","h":"0mmajf0y113jg03ns43vynm5cc4516bzx0zdgxxwyrqfsw5h8jd9"},
 {"v":"2.0.16","e":"^1.90.0","h":"09swmd794zlncq7bzm30v4i0163fdj2nanyjm7aipv8zsl1wmyaa"},
 {"v":"2.0.15","e":"^1.90.0","h":"0f614i57k2gg5ybcv65zslfn8c3h3g79v8qvrbk9d0mgr68c0kvw"},
@@ -8456,6 +8463,9 @@
 {"v":"0.1.0","e":"^1.42.0","h":"0nsi717hi4644saaqw1m333l38gqfq0zklb3sljmaxas43vjnalk"}
 ],
 "salesforce.salesforcedx-vscode-apex-testing":[
+{"v":"67.17.9","e":"^1.90.0","h":"191jfv0nzxkk2ii846w2hdicxlmyq7aqyblmb9hv5r0wnd60ayjc","r":true},
+{"v":"67.17.8","e":"^1.90.0","h":"1cr5gmppi4iaidss605ijjk9cnix7dzjfc02j2n6lczxz1ids193","r":true},
+{"v":"67.17.7","e":"^1.90.0","h":"1kvccyrw40gdygkkfhsmb56bwpd5qqi73y7kin1l8x5jjgdnhid0","r":true},
 {"v":"67.17.3","e":"^1.90.0","h":"1y793sawxxqnks626f4flx09qc28yjidxd0kkdzq8954298pf63c","r":true},
 {"v":"67.17.2","e":"^1.90.0","h":"1n0i96pdin72j2xijrmphh2npczw988v05swg3bg3q4h5mq482gr"},
 {"v":"67.14.0","e":"^1.90.0","h":"0xsnzcx6xq5ai14afbjdwmdf17dhqhsw71vlsk5v5y2c5sqqhjn9"},
@@ -12535,6 +12545,7 @@
 {"v":"0.0.1","e":"^1.70.0","h":"0mdbaqqhf6lz1z08kpzx75k1qy8alamchimwcd0ql46dzf135sqn"}
 ],
 "workoranet.workora":[
+{"v":"1.0.1","e":"^1.80.0","h":"0ilbndyk27h28dcnmvw4qklj6yqwyji26xlqwksq76nin95h01q4"},
 {"v":"1.0.0","e":"^1.60.0","h":"01qcfafqhpa8q9r2nkxkf5cb7hmwm627h59ffdi0frb81fcakcmd"}
 ],
 "wtf403.whichkeytmux":[
@@ -12680,6 +12691,7 @@
 {"v":"0.0.1","e":"^1.105.0","h":"1wn5d5j5nkgjjq0w6g7bkhmfrxjh60zis0bq2p4pvnyncrwsnavk"}
 ],
 "zbigniewpowroznik.terminal-organizer-vscode":[
+{"v":"1.0.8","e":"^1.64.0","h":"1xrrjr1943x89y1l280prahx0v1l8s7ic1zg1app7v9pjh2ya6b5"},
 {"v":"1.0.7","e":"^1.64.0","h":"1vm1fvklvvwg0n2i40bb9nmh4vk62cdr7pc3ryrkdy284zqlvmbs"},
 {"v":"1.0.6","e":"^1.64.0","h":"13m883yiqhh3m95f8z4z5d0y26csrxxr8533wd9zh37myi5kqxch"},
 {"v":"1.0.4","e":"^1.64.0","h":"018f2s4n4jfdrpz0hawxnb8vniaxx10myvm8c3hqgv61p8bfcjg6"},

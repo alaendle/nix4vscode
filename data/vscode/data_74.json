@@ -3567,6 +3567,11 @@
 {"v":"0.1.0","e":"^1.69.0","h":"07nmckji83djc7gqirrssw4ml6r41f8vjdzl20pgk26xhkg1hxhb"}
 ],
 "ey-cosmos.cosmos-workbench":[
+{"v":"1.19.5","e":"^1.85.0","p":"darwin-arm64","h":"0br691h3g9zdx1g4k8f66jw23yjqxyj2ywrrbgs64ppglv156pqc"},
+{"v":"1.19.5","e":"^1.85.0","p":"darwin-x64","h":"0glsfwq4va02pg57q2hyqfbsizcgh3y00a3dc15rbrydq183siw9"},
+{"v":"1.19.5","e":"^1.85.0","p":"linux-arm64","h":"0i6kgl7nb97f2zgg32mzfwbm591m2svqx9mvbncdhm54yqz6g1n0"},
+{"v":"1.19.4","e":"^1.85.0","p":"darwin-arm64","h":"06mvjwh3vhdrrkd48azc89pns3xab041nl3shfcl15z0bry6kvms"},
+{"v":"1.19.3","e":"^1.85.0","p":"darwin-arm64","h":"0havafjawi63sgk3cbcihjvqgck53dgzaz8y5f8bwrz2smcfqfwi"},
 {"v":"1.19.2","e":"^1.85.0","p":"darwin-arm64","h":"1ddmqy8wwbgs3l17mn2w4f7cp9yqj7lzk82vjshbq6sj6smaximj"},
 {"v":"1.19.1","e":"^1.85.0","p":"darwin-arm64","h":"10adrpm529s7l1rgn0zz35kmiyb9scjca6vbbn0i3spk25awl9jb"},
 {"v":"1.19.0","e":"^1.85.0","p":"darwin-arm64","h":"03cpq91zwassqws3m7cscn2s5bczcfcm1l1ib264ra4mhx40d07m"},
@@ -3825,6 +3830,9 @@
 "gaphunterlabs.cargo-audit-companion":[
 {"v":"0.1.0","e":"^1.85.0","h":"09j6v11jfchcb8lqqq2n383xpd6n4ll0im38h8pplyhjmjb2rmik"}
 ],
+"gaphunterlabs.wrangler-config-companion":[
+{"v":"0.1.0","e":"^1.85.0","h":"1b469xb0w8yylha5xwjxyygc7xckcsnqj2xifvpzkrpq5xdw1bzn"}
+],
 "garrit.p5canvas":[
 {"v":"1.7.2","e":"^1.41.0","h":"1drsr1fk5l27irmvw9715ab92cq0wzcrh8ai3b44g4i056158cxj"},
 {"v":"1.7.0","e":"^1.41.0","h":"1m0rl4rzh17xji47s3gjsmc4clmfzyidhvip3kxnjrqdkvj45vqb"},
@@ -4019,6 +4027,7 @@
 {"v":"0.0.1","e":"^0.10.1","h":"1z2a49gipzjkzcfsa2a9h2agariy150f4yf0bw77gc885nf5svhn"}
 ],
 "ginopioloco.exovoid":[
+{"v":"1.4.0","e":"^1.98.0","h":"0g08ky97p931b1c4zpi9p27qayk9qzg9mk8imnm6pq87v6fnrhhw"},
 {"v":"1.3.0","e":"^1.98.0","h":"1b7aa6k5y6m06ja78gs2bqy1xprpjv449gw3niwqnrfnla301c4b"},
 {"v":"1.2.0","e":"^1.98.0","h":"0yf59gx81ziny01mp769w7ypxincq3ck7vz4vijffjcgm9p828pb"},
 {"v":"1.0.2","e":"^1.98.0","h":"1njf3ms1yn98nxkv3lygc9pmni4066xi2xi4baka7xya4cz064vr"},
@@ -9803,6 +9812,10 @@
 {"v":"2.5.3","e":"^1.77.0","h":"0hi3kw50f0csg6l2fal2qydiyazkqdn6avbhnp74as341r2cb8fx"},
 {"v":"2.5.2","e":"^1.77.0","h":"0vj8srcsy757h5xlxmx3qncw89942y1gcnnzdwc388zfysygw72b"},
 {"v":"2.5.1","e":"^1.77.0","h":"19b13c7yay95zp1b0w46k1vz2msnnvgbzw1zcf45cwypxgaswxbf"}
+],
+"ysmdz.novelai-rest-client":[
+{"v":"0.1.12","e":"^1.95.0","h":"0wxbmkka4ck45bv1iihaz7jdqkils4f6y97ccl31dsjy71pbyvjr"},
+{"v":"0.1.11","e":"^1.95.0","h":"1cbnqpq65ypxn8p3m1id3nal4qn1c2s68mz393b9qyfdal5da593"}
 ],
 "yuning.background-yn":[
 {"v":"0.0.1","e":"^1.81.0","h":"0dcpamv7hknlhsnldv87hcbcfzw1mnfja7abkr3qlysvpazglakp"}

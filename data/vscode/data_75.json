@@ -6737,6 +6737,14 @@
 {"v":"0.0.1","e":"^1.61.0","h":"1pkj9zzd20w0gswl746zsr4xgxh5xp0xz737iyiam4j070y8hrzq"}
 ],
 "rjmacarthy.twinny":[
+{"v":"4.0.9","e":"^1.84.0","p":"darwin-arm64","h":"1mfssghb8k9bgnc5187gwjvpcj3jsqa58f2g5k590n1xzsnsvz12"},
+{"v":"4.0.9","e":"^1.84.0","p":"darwin-x64","h":"1cajliphfnr0drv6525f4pv7z0hzwhy8jljk1cmrdz6lgjmlkqqi"},
+{"v":"4.0.9","e":"^1.84.0","p":"linux-arm64","h":"15f1y8v6m74l1w1n52i8zbbfrdsr9vs7c3283ppasvlgq64gi259"},
+{"v":"4.0.9","e":"^1.84.0","p":"linux-x64","h":"17jvr69g0yv498zzn4bbf52r5yv3w505wc00xkgds2qrm0c9bvhg"},
+{"v":"4.0.8","e":"^1.84.0","p":"darwin-arm64","h":"1jakryrfqahf40xfyplr98kkg64rmqqpr0c669b1a0xvaad1mbk9"},
+{"v":"4.0.8","e":"^1.84.0","p":"darwin-x64","h":"1xlz3kkr21zc0pxr0wakqm6kj7b4dvm49xniwfr02zk2nyglwnml"},
+{"v":"4.0.8","e":"^1.84.0","p":"linux-arm64","h":"0p02iwqa8paprzdrjf1spqchz43z7kcbmf6jlvj2xh16b1bi8993"},
+{"v":"4.0.8","e":"^1.84.0","p":"linux-x64","h":"1q2a2rxja4rsl33rff7rw0rlkgw7kfclgi4fw6qydrqx3kbz3ksi"},
 {"v":"4.0.7","e":"^1.84.0","p":"darwin-arm64","h":"0ikgcm7lzvvrwwfzfm8hyhg14jwcd1pnxl616bvy5961vbvg07d1"},
 {"v":"4.0.7","e":"^1.84.0","p":"darwin-x64","h":"08p949nm00qv4kjqsddskkxkjf0bhlnywmvjs5lxc0a2jqc8qz0d"},
 {"v":"4.0.7","e":"^1.84.0","p":"linux-arm64","h":"0lxld6w74shabzzdlhaj7l03gnhzgr43famqqhlw89jwghwrlhd1"},
@@ -7862,6 +7870,9 @@
 {"v":"0.0.1","e":"^1.110.0","h":"1zrvzcazw29msmb1sqybkph3m2iv5d3cfqkhksr0krpxzib9czsg"}
 ],
 "salesforce.salesforcedx-vscode-apex-replay-debugger":[
+{"v":"67.17.9","e":"^1.90.0","h":"09pjjai22wis7h20np13qg8zhj5m95alna74p3gpi97p8bhpszbz","r":true},
+{"v":"67.17.8","e":"^1.90.0","h":"1py9f3i1b4k4m84kr4biznyqhmnr787cwngd3bvwxd2zhdpv03g0","r":true},
+{"v":"67.17.7","e":"^1.90.0","h":"0lmzridw7nkzlidgvglyrbrq62jn0a7nd3s9nzd6darhyxbzf1a3","r":true},
 {"v":"67.17.3","e":"^1.90.0","h":"1sp0bkgb9fjqsd5ivm9gsl5hfm15lwqf6wdawp7rradfbfcckpv7","r":true},
 {"v":"67.17.2","e":"^1.90.0","h":"009852b2qd5j8jqkrj2pj90c0bl6psf81ngmilnxfrx5v91rbni1"},
 {"v":"67.14.0","e":"^1.90.0","h":"09aanjpn6ckmi9i69fbs51vv660y5npfj74vwznivq665s2y5czk"},
