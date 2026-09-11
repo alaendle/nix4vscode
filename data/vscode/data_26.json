@@ -3303,6 +3303,10 @@
 {"v":"0.0.2","e":"^1.82.0","h":"06rrgl11k60xs71fi55w56xgdjg65vg99jh2di1g75m97brqs0km"},
 {"v":"0.0.1","e":"^1.82.0","h":"0dp4wdk52ql837z225s0myy0ja54dr8mfha0wkimaq7y2a2kw30y"}
 ],
+"fortmesa.saferoom":[
+{"v":"0.7.64","e":"^1.102.0","h":"1mfhwqnbq63aplnfslw8hws8c7gknl1hzdpinfxyfibldjjvj6mn"},
+{"v":"0.7.53","e":"^1.102.0","h":"16y8nrvr92sap0d3q2i34zqilgqgzldsb551iqb46hqxywyqfdv2"}
+],
 "fpgawars.apio":[
 {"v":"0.1.9","e":"^1.125.0","h":"17as7dnkqh7xis4mkpkrkksz3qq2l854j4vwppl2dd46ahpl7gqc"},
 {"v":"0.1.8","e":"^1.85.0","h":"0riy5fsqvkhz0vccqql6rplk04vs7yh7zprddkwvg4sxf7515g0a"},
@@ -4602,6 +4606,7 @@
 {"v":"1.0.0","e":"^1.43.0","h":"0y88x7b9haa2cwvzd0a9ng6hjvjz2xvn3h50q79z1nxp5k7blkql"}
 ],
 "jaredshaw.backtrace":[
+{"v":"0.2.0","e":"^1.82.0","h":"18i32dki3mirpsynz9v4drrb8q2d9153kh5npqls6r52admvk7v0"},
 {"v":"0.1.4","e":"^1.82.0","h":"1mb1zflxp8d1apmqbib4fh2r46hfswj96h0fw3fkc3m40v2vy771"},
 {"v":"0.1.3","e":"^1.82.0","h":"1nr9j93dz2dcncczdqx11vazyjnhwhnqdi3573bv243xbsvdy45r"}
 ],
@@ -6640,6 +6645,10 @@
 {"v":"0.2.0","e":"^1.56.0","h":"0r59rp9344s1dvwbh8462vwjym803l8vya33m1xzb75wxaflmwb6"},
 {"v":"0.0.1","e":"^1.56.0","h":"1a5aasmqyin7dz4xvz3wydpprdysvql89fjxkvrv6dy4ycs71snd"}
 ],
+"nexonest.nexorhino":[
+{"v":"0.1.1","e":"^1.85.0","h":"17pvir4c3cdzvd693630dl81ix57mcm1mfgawzbpb14c5cfl9d94","r":true},
+{"v":"0.1.0","e":"^1.85.0","h":"1y1k5q2jc4da12ac5h1581wcggnhpjxns68b0blzx1xc0gih9z0i","r":true}
+],
 "nextgencode.ngc-envshield":[
 {"v":"1.0.2","e":"^1.85.0","h":"14dpkpvjfpwph40zy9lvwgz5n5a2kg89kadm0ljz34c158w2g7va"}
 ],
@@ -7789,6 +7798,8 @@
 {"v":"0.0.1","e":"^1.70.0","h":"0d69xz8y5mr025l8zw7ha9fvrdlzbqb3mrp855v5q9k75p4g3zng"}
 ],
 "openaide.openaide-vscode-extension":[
+{"v":"0.5.4","e":"^1.100.0","p":"darwin-arm64","h":"04xc3ndqrw7mp2wyl5v84cb8gv006ywwhhzhf2jyq9fk60c7akkg"},
+{"v":"0.5.4","e":"^1.100.0","p":"linux-x64","h":"0y90ybp95nhlrldn2pcqclclzjypzb6niwkq0r62y8sgjbvhf2sx"},
 {"v":"0.5.2","e":"^1.100.0","p":"darwin-arm64","h":"0g7jpys2msmznrmbaiaaz9iblygwwj6k5h56xv04c8nxb2nimv8m"},
 {"v":"0.5.2","e":"^1.100.0","p":"linux-x64","h":"0qx4cgcya8i6gz1ml8ahw2hzz7ns7db9i4g608mlc8lb55wzv103"},
 {"v":"0.5.1","e":"^1.100.0","p":"darwin-arm64","h":"1y9nmi9c2w44h1kqdlhs6frsi7kk0xyfz9rwa4iz64icw4s9h03a"},
@@ -8664,6 +8675,11 @@
 {"v":"1.2.0","e":"^1.77.0","h":"15r4x5lyk8j6mhjbv5bkdyjsk7c95x458rz3iwrmid7q60ncq20h"}
 ],
 "probirroy.systemstudio-cis450-ece478":[
+{"v":"0.19.55","e":"^1.96.0","h":"0bxi48l6b13k8is6cy1xkc610i631pfb0c2bv36ghkljz1q99wa1"},
+{"v":"0.19.54","e":"^1.96.0","h":"1cv9r51zp00jiil0l2dgan1qxggyw0909i6mn6szw179nlrq57jr"},
+{"v":"0.19.53","e":"^1.96.0","h":"07iscnnb43k6a0c31d0ac1fprzajs48b1a042fiazc1jqfdp0lp4"},
+{"v":"0.19.52","e":"^1.96.0","h":"0a1gdbjkza7x3ha85z6mmdab1h4fkqwkazypw9lbxjj10qkfb537"},
+{"v":"0.19.51","e":"^1.96.0","h":"1xcyn37q4ah9fhc3zw27r3nw5smywk818ha4bqbsbp4nrwjyglwl"},
 {"v":"0.19.50","e":"^1.96.0","h":"1vjbdcazavl2zijw44jl26m6g8xjvfwx3ch3s21pmrvyd86lnii7"},
 {"v":"0.19.49","e":"^1.96.0","h":"0s9dp55873r2hv4lcp72x2v8avhywvczsx3jgd5i52a0d9rqkbnd"},
 {"v":"0.19.48","e":"^1.96.0","h":"0iz503blhikz0h9fgds34c30a2nn9a388zmfc36y2h13nfjifbx3"},
@@ -10081,6 +10097,9 @@
 {"v":"0.1.0","e":"^1.87.0","h":"1ih7p0my4cx809qg83j0zsb6h2wfqfwm4ghqnpjcvxrhzl0573im"},
 {"v":"0.0.1","e":"^1.87.0","h":"1dr7hqynjzf3ibyi9863nhm4dxw31xbwcgapvagkz0jzmg51818d"}
 ],
+"syqopat.syncix-tur3-d1":[
+{"v":"0.0.1","e":"^1.80.0","h":"08k36bwddl0id8yf8c8sdd3x77fzpkp5cq7x076gbpwy7l8wwsrx"}
+],
 "tanawatau.jsontotypeconverter":[
 {"v":"1.0.1","e":"^1.90.0","h":"0q4z55vgd9mskqy48a175sgwwj805am8291lyrksnfrdm0ssdn0y"},
 {"v":"1.0.0","e":"^1.91.0","h":"1h8ph1xaljnisf5yl4ppyj2i21qd7mzz7xagbr144d7w30kjf6d4"}
@@ -10879,6 +10898,9 @@
 {"v":"0.0.3","e":"^1.5.0","h":"19v05k1pcp5q6kzg0xbyhsnpgddj723dx1d7h5c6gv60371mxh1s"},
 {"v":"0.0.2","e":"^1.5.0","h":"1ljsgwfg6fcjc1df8wif6hp1h0yv2h3nxz2dp7kixxrr0nx191hm"},
 {"v":"0.0.1","e":"^1.5.0","h":"0nrk0h1fy5rydg7g4s3ck5py5a25jj3cajmpgxw4wyfwh82l6d80"}
+],
+"wolf1999h.cline-rtl-smart-support-plus":[
+{"v":"0.1.4","e":"^1.84.0","h":"0p16qy5wjnzvd91hgqv8djg5hmn5hhxcn4cw5a50ls8n3bkzfyjy"}
 ],
 "wolfror.sea-of-kraken":[
 {"v":"1.0.1","e":"^1.64.0","h":"1cc1hsgz88jj3whn08p32k1hm9ik5hjnwi583kffnghlpvzbycfb"},

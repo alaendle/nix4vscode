@@ -4047,6 +4047,7 @@
 {"v":"1.0.0","e":"^1.20.0","h":"1a7g4chk0vailpm04fai1z2v3yr6fd29xffmw3akx895lakjghdk"}
 ],
 "konstantyn-ganenkov.deepseek-pilot":[
+{"v":"0.8.0","e":"^1.120.0","h":"11rn2nhy6sgmz5w51m8gr0ri3337402w775sf3z6m48likb5lszd"},
 {"v":"0.7.1","e":"^1.120.0","h":"0vcmahrvjag6fz60spfbbz0im66wj2y9fjnslj3kmbgyk1jyjzdm"},
 {"v":"0.7.0","e":"^1.120.0","h":"135cj7cq99sm35hdyzqb7qmrggy8r9w7nkyzp3071ljwfi80wcwb"},
 {"v":"0.6.0","e":"^1.120.0","h":"18mfinbfvz4l3amwscmxms6968xz3hic6gksyfpyg0qfc3alahph"},
@@ -5921,6 +5922,9 @@
 {"v":"1.0.0","e":"^1.70.0","h":"0sbifadw42ryiz1vnkn2mkgq1i234nd5my9miz83i9vw2l9jmvzl"}
 ],
 "paragonnov.tapl-workflow-viewer":[
+{"v":"2.9.0","e":"^1.90.0","h":"1pndr1x91rzcbxvayg2hz9ipph66i69a2kfqmmgdcagybxqv1s2g"},
+{"v":"2.8.2","e":"^1.90.0","h":"01srx50vvs07r1c3jzidskjqn7xbbdiq19892sz6fdd6pg59w9wh"},
+{"v":"2.8.1","e":"^1.90.0","h":"00pbgdij7llbd7f8a7kqlqjm8lrj93wv2b450x5bjc6qa3pmj13b"},
 {"v":"2.7.2","e":"^1.90.0","h":"1hi7d84x6j4nj9nshqga345gvnwcb2sha1gipkd8zyajplzdrs7x"},
 {"v":"2.7.1","e":"^1.90.0","h":"121r9aanrhmdpp6c0d543bcxdz7137d4gxny1lcni943q6qqdr3x"},
 {"v":"2.7.0","e":"^1.90.0","h":"14a5mff2c2vismirzwy5nzglwrf16jpl7vgx3ar3jx2ly295szsm"},
@@ -6253,6 +6257,7 @@
 {"v":"3.7.21","e":"^1.96.0","h":"0nhxjzhkjyjbk3hydf2k9a0mpacpc2gy6nlm8icsvlinn11lcz8p"}
 ],
 "quincymitchell.pi-qcode":[
+{"v":"0.1.7","e":"^1.92.0","h":"16gis6p2y67g41wrr0kznmq1i816yxwlxal59n1w6nk1s86yznyr"},
 {"v":"0.1.6","e":"^1.92.0","h":"0j09dw0b7p2m66gk5znyw6icpxckg0gzq209d6zjc20imwx313z2"},
 {"v":"0.1.5","e":"^1.92.0","h":"19f2pvi359w8ydqkjm7mx3rxr4wwmpa2p5c8bicgi30d3rkjpar1"},
 {"v":"0.1.4","e":"^1.92.0","h":"0h6q1p30j6pj8pfcfvgm7d9r18vh7jaa1s065kbpr9fzp4mdqaws"},
@@ -6530,6 +6535,8 @@
 {"v":"0.0.1","e":"^1.63.0","h":"0baalvkg6lzqh2vm6x504hfjka22qqmfcbavyiq4zkx0lli2w6am"}
 ],
 "roarpeng.graphflow":[
+{"v":"1.17.1","e":"^1.99.0","h":"06nv4lkr7v7szxfvdm2pf6mbd000ccywcw46h3j4fcjhihp51jig"},
+{"v":"1.17.0","e":"^1.99.0","h":"0azd8bgmkzmyk726z8hxfq91iv62k323q8lffr0rili6bpgrgccg"},
 {"v":"1.16.0","e":"^1.99.0","h":"0mjzw10ad2f3pfcjxy73s8qlvvkalc4d5lhsw199kqiz593nb8il"},
 {"v":"1.15.5","e":"^1.99.0","h":"1zimrsac0khr23j79bjzm6cy9c90xhqp1qm84acrzhh456ihcnsf"},
 {"v":"1.15.4","e":"^1.99.0","h":"0s16g71ayz3wgr9gz0d7ki16b3kvhlf5l3xjg72cdka5sf855mqn"},

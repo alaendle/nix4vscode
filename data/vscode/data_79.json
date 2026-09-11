@@ -1574,6 +1574,14 @@
 {"v":"1.0.0","e":"^1.58.0","h":"1iq3qv7if3jmh7a6rsx39fin0k7db9i1vc3h172fr9ilmawvffa5"}
 ],
 "dam-pav.bc-dev-toolset":[
+{"v":"1.8.2","e":"^1.101.0","h":"1v03k0s8j5pi54jk42n0ags6i38jbbv61ggy2j2xlda7qks8vb4f","r":true},
+{"v":"1.8.0","e":"^1.101.0","h":"0ywyq95f8ds30h424ik0l7mydim4qjmiliwycsgcwca4ylr4kc46"},
+{"v":"1.7.12","e":"^1.101.0","h":"0w5kykg6bbgdzjjc1bcyj6r2h0wzqrsbmh7j8ga01n9rcwxxa4f1","r":true},
+{"v":"1.7.10","e":"^1.101.0","h":"0m66kcihyi7gyaaghzjyfg9in4r6fmylprxbjxzr18kgz1ciyzb3","r":true},
+{"v":"1.7.9","e":"^1.101.0","h":"0qas6d9xsfrm8b8s46jk13i0mjn3z3f6vd78cs5i7xb377m99ipw","r":true},
+{"v":"1.7.8","e":"^1.101.0","h":"01l9kdc0hjvg4r2wq0xm427qyhhrnh1ajl1d4ys3bsanpy00m3f5","r":true},
+{"v":"1.7.7","e":"^1.101.0","h":"13zrrra53662ncwh8lzaxkjr8l2a812ahrdvl6rssksp9yzn5xps","r":true},
+{"v":"1.7.6","e":"^1.101.0","h":"07xlv7i74sfaydmw5sqch659cgsbb92lww62r1jq8zp0c60ji6hv","r":true},
 {"v":"1.7.5","e":"^1.101.0","h":"1c9ankcbkvyqli65c6bbhz6jvvjcr8y53a5f2s6w204lsycabyim","r":true},
 {"v":"1.7.4","e":"^1.101.0","h":"1b3igd43i1c3z2fi54g81y1crbk5igc90n28n50rq9dgnrplnm7g","r":true},
 {"v":"1.7.3","e":"^1.101.0","h":"0vmbqqwwjxnxndlcbvslz4cmmvhmg7vgyv169rddxfl1br9cz4hl","r":true},
@@ -2393,6 +2401,7 @@
 {"v":"1.0.0","e":"^1.86.0","h":"1favqi4grbmlxyl24j1y3jkp88m09snnsh10qb6pcsf77s2v92ys"}
 ],
 "fabiocicerchia.gradebook":[
+{"v":"0.4.0","e":"^1.85.0","h":"162ay0qfiwyc5rq1si95gcjaihwm20lw0cyl9n2aih6gqha7i048"},
 {"v":"0.3.0","e":"^1.85.0","h":"1v9fr4c5irpap9467nqx2cyl9cg9yw4sn5vmgs97fi9c3l3f7asn"}
 ],
 "fakeman.html-basics-pack":[
@@ -6906,6 +6915,7 @@
 {"v":"0.0.1","e":"^1.13.0","h":"0bf36mh4s0316h623qwng63cfsg8zhkm0w4mfrz0k9lfb9iw69fp"}
 ],
 "stormonster.merge-and-magic":[
+{"v":"0.3.0","e":"^1.80.0","h":"0nfi35qb4n18cwg4hvy7a1vzwpv4q01121wjj9c7s4c2axzn0z4d"},
 {"v":"0.2.0","e":"^1.80.0","h":"135cv12y2fsxv3w304s5c47ji7ll28a4zlf9m7wnsqkpbzzwmxxn"},
 {"v":"0.1.1","e":"^1.80.0","h":"0jpjvxz348g1p9q0a7wvfvhnw10maldbwpyzmkw53wls6cfgiy7b"},
 {"v":"0.0.1","e":"^1.80.0","h":"0n8gwpxjpl85csmn8cxggyclcsadqp9wq2h1vdfyqlkq8czs6ayv"}
@@ -8621,6 +8631,8 @@
 {"v":"0.1.0","e":"^1.63.0","h":"1qwhxy7rv698lwbcfwzs1l8iwx1xsskbnr97qkxvb6c8097qj9qz"}
 ],
 "trc-inc.trc-copilot-provider":[
+{"v":"0.7.0","e":"^1.116.0","h":"0l0sb9cc15xkhg4xn8c0w5mrqxsx5f5xiyrbi77a848yimfvf7jg"},
+{"v":"0.5.3","e":"^1.116.0","h":"1fv3y11mr2mb3r6w49hbdpfl3dyyh751chsgky79098awn294dah"},
 {"v":"0.5.2","e":"^1.116.0","h":"1f3jy8pp054xrpi6vb2f8qpsb4b7wdk4h3q0lw5arypf2dsa2k89"},
 {"v":"0.5.1","e":"^1.116.0","h":"0ingfshzpf6zsqzws9slfc6vg4cjrv2ik5c7grd6vd4794nz0jb4"},
 {"v":"0.5.0","e":"^1.116.0","h":"0c8zy8y55nskgaph22mx6zkwzbnrx50czkj3m9zcbczi1i16ij42"},

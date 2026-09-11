@@ -430,6 +430,10 @@
 {"v":"0.0.2","e":"^1.106.0","h":"1a7cs3b0ac0sybhjpqc80cki0q85xa3xxjza1gzsbsmyh6yw9l5c"},
 {"v":"0.0.1","e":"^1.106.0","h":"0c719fgzd9hi8qcr5xqz9zhk385i5il1xvbdsj8j16dfxrjz24gd"}
 ],
+"anangphatak.fim-copilot":[
+{"v":"0.2.0","e":"^1.80.0","h":"12ic9pnrcqz9m5w5kqj7l471i05xsz94qw6ibyp8zrginc4vfc63"},
+{"v":"0.1.0","e":"^1.80.0","h":"0h13vkx9dm59nhj0gr1iv19bpc1kwq897q2i3y8kb89w7qr2qj0m"}
+],
 "andreluizbatista.serverless-navigator":[
 {"v":"0.3.3","e":"^1.85.0","h":"0jsqn6lw1k64xaz1i3rb26n25yrmff8nmc3fnzfvj58x43bsj30c"},
 {"v":"0.3.2","e":"^1.85.0","h":"0dv927c8c38z7v50hidmcmp0k6gvgiaa8ccb3lz3q6g7fdamvib3"},
@@ -6014,8 +6018,10 @@
 {"v":"0.0.1","e":"^1.30.0","h":"109vczq6d9jsg7yddagv0qs68gxamny21vjjmwr0kzxxh0ap3qj5"}
 ],
 "matt17br.openwrangler":[
+{"v":"2.1.20260910","e":"^1.106.0","h":"1x8z1yydb62s322fd8ndp8qqyrhcafq5w0q5i2pf9s8pw6x1bxjg","r":true},
 {"v":"2.1.20260909","e":"^1.106.0","h":"1jld128plmcg52pn06nbg1yha8wzzmrqy8jypyj969286n1r90j2","r":true},
 {"v":"2.1.20260908","e":"^1.106.0","h":"1035q7j1n709kw10bzva5rxd1xnaf5c53bamlq28ar2016kjp5zh","r":true},
+{"v":"2.1.1","e":"^1.106.0","h":"1zg0ivrnq0b48c49fq45zkn0rn2ir72k6cq6vxk9xjimc1iiz8sj"},
 {"v":"2.1.0","e":"^1.106.0","h":"1l9js6xz15y7wdz7drq35fmfm9kjwaayylcpg9q8ipvx3sy1fccl"},
 {"v":"2.0.20260907","e":"^1.106.0","h":"0gc3dkxivb346iis1fpdlscq6m65hb1k3ajwc8b1ajxl142mpw7q","r":true},
 {"v":"2.0.20260906","e":"^1.106.0","h":"0h2vjrz05dcdbnjz64klbysl7cjqqbamgyydhls0pqi92hmrwcr6","r":true},
@@ -6442,6 +6448,7 @@
 {"v":"0.2.0","e":"^1.41.0","h":"1akl1zd69kbkp1k0x8qqq57qvzi9b0qz55wa67mrnhvbcb831j4h"}
 ],
 "mirzacoralic.babacad-robotics-extension":[
+{"v":"1.0.4","e":"^1.134.0","h":"039hjv948c6yrxv2xfx25ga4rl164r9sq2a602ziz0j27n6k3ycj"},
 {"v":"1.0.3","e":"^1.134.0","h":"1m9yramm5k2jvwavjznygp9bk9gxhk6qwljk0nasis26l5y4vc3i"},
 {"v":"1.0.2","e":"^1.134.0","h":"0y5ghxsbiadxc2sxd15b549p88khr8xkkz0rddsdl0b0k8p26vfv"},
 {"v":"1.0.1","e":"^1.134.0","h":"03rqc7w0msh3hsk4hfinjbsv4yvayw2sdiqfgslw0h9i30saj9gq"}
@@ -10200,6 +10207,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0yx8hkhigkzn6gswjas0cpl2ncix2d5zyflc4msjwa82ryc1303f"}
 ],
 "vijaypjavvadi.bdd2pw":[
+{"v":"0.3.0","e":"^1.85.0","h":"08z5csi5is0v60pm977jqlmh5rjlcfsdi3znd0p816562yl55s2c"},
 {"v":"0.1.0","e":"^1.85.0","h":"0zglk1mjbvbfvdawzyjvkwix6n3v8j4dwcswsvb29vhbafaxamp2"}
 ],
 "vikas-builds.orgbridge":[

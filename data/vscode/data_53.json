@@ -174,6 +174,10 @@
 {"v":"0.0.1","e":"^1.105.0","h":"0xvjygkg2xnp3kcbr1yal6k114vpyc2fk0wscb0zrvyk6yx7krw8"}
 ],
 "abhishek-chougule.xeno-kode":[
+{"v":"0.1.9","e":"^1.85.0","h":"1babbdkj6mxabd855z7njgp93zjzqbj7fzm34cw8yzsrrp76vzpc"},
+{"v":"0.1.8","e":"^1.85.0","h":"1z0w9v8dg8s3rbdssxxzr5vmrgizm9pf5nxswngnh8mmfrqr6r7k"},
+{"v":"0.1.7","e":"^1.85.0","h":"0ic0j18qbaj0f5437ffrndc5zpsi936i52vbdfqb8am4w3yxx5sc"},
+{"v":"0.1.6","e":"^1.85.0","h":"1as4mid73avjwflcvpylqlkavpzx262mcs4n8024givrb4wcgql3"},
 {"v":"0.1.5","e":"^1.85.0","h":"100zg5msjg3sdck07m0rhjnnm68w0j6vhic42q4r86jz47q5fc3z"},
 {"v":"0.1.4","e":"^1.85.0","h":"0v25k16vxf90d6b8v3fddcraw67asimp0g34vryp97j1xh2j0gdq"},
 {"v":"0.1.1","e":"^1.85.0","h":"0dr0n8nx5z9amr818i91r640d9zk0gwv21g03nnzzqsq3v75a4j6"}
@@ -4187,6 +4191,12 @@
 {"v":"0.0.2","e":"^1.80.0","h":"07cvxvn7zyhsxrci3d3fmpg24g04vbnnj3q0y3ziww8b21qvvnv9"},
 {"v":"0.0.1","e":"^1.80.0","h":"1s1d58iadnk5vq9zf4cv2v6qycxwkbn970xp0xxlsh5cp78nmrvx"}
 ],
+"grikomsn.aiand-copilot-chat":[
+{"v":"0.2.1","e":"^1.125.0","h":"05w81mj8y7jrihmbr3an9kxf5hysr8qsfy8gja74f3d0yli24h3r"},
+{"v":"0.2.0","e":"^1.125.0","h":"1njvdc37y92786gwcikb6cw2yj7wi3lji5z9kl3kj2rrj4fgk865"},
+{"v":"0.1.1","e":"^1.125.0","h":"0nzgc2hwxwi959bmhak0bp4rx0jac5ylksb4msrkvjnq0sh1n4j2"},
+{"v":"0.1.0","e":"^1.125.0","h":"1wxg3ca3w4l5bns71q0sqrcxn858gybfkhd2vhss6kn34hl4aml6"}
+],
 "grimoire-rs.grimoire-vscode":[
 {"v":"0.3.5","e":"^1.96.0","h":"1vvl025a18basv5438yqnndl2229mnqa34853gc2ykfzwjx5mkqp"},
 {"v":"0.3.4","e":"^1.96.0","h":"11vy99kihhfc3p6hnci12lcinm4mq2hhyilb7rrdxym1nd4zc6y7"},
@@ -6350,6 +6360,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"1yq4cb0fhc1jv9m0ml1cfk2l56rvilvdaxfw2pcyqs5zyjr91y3l"}
 ],
 "microsabio.ashell":[
+{"v":"1.7.1","e":"^1.104.0","h":"0aalkkiv9i7xhnza17s1yypf5fnga06hgi0iqivbxpkx2ay75k5i"},
 {"v":"1.6.0","e":"^1.104.0","h":"1k5s58yl8gix14vwcij81i3nh8cijxrbn9wm3zyb7lls1h3sijr4"},
 {"v":"1.5.0","e":"^1.104.0","h":"1m2w4ha26xqqlclwy3szap6p0m40i7vlqpz0sxd0k6xwh2x448fx"},
 {"v":"1.4.4","e":"^1.104.0","h":"1cbklfyqgy4nfi3w0d14c4qihqnnvcxnfvl87z33qyjv35ai9r1b"},
@@ -6878,6 +6889,10 @@
 {"v":"1.0.0","e":"^1.0.0","h":"0ggd83fd9486qsn3xkbiiiqvqhmqxvvxn2v8wzc1z1fa291d4zkc"}
 ],
 "neophack.git-graph-rs":[
+{"v":"1.0.22","e":"^1.38.0","h":"1jai2xxh7f7kxvmkda1ccy22q9yij6ncq381rmhwd3lmc3rch5ch"},
+{"v":"1.0.22","e":"^1.61.0","p":"darwin-arm64","h":"1mlc2rn3lvc64rlb4pvgkihl095yn5zcmhm2h0w98lv7yndp2m68"},
+{"v":"1.0.22","e":"^1.61.0","p":"linux-arm64","h":"0jabjca8qk6fy42yqjfcg8s44fjn2nshbpflv583m6yh6f8226lw"},
+{"v":"1.0.22","e":"^1.61.0","p":"linux-x64","h":"1y8fnqb0cpy160zlla6alf9knwi6iq3ymz497r8idqlmips7imhb"},
 {"v":"1.0.21","e":"^1.38.0","h":"0kw7lxqinfg8mh28znd2i0w54kkyddwrfmsp6q17ccyy9s6axh7l"},
 {"v":"1.0.21","e":"^1.61.0","p":"darwin-arm64","h":"1l62vpcndhm89ywrcglqqb3cw5ic13dc3jqpxxgacyx5llqnnjxm"},
 {"v":"1.0.21","e":"^1.61.0","p":"linux-arm64","h":"004flyd9ynvkw7c4jjp16ypn3jrlsjnj5cjl8yg9d53dj8nz7jqa"},

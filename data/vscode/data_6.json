@@ -2548,6 +2548,7 @@
 {"v":"0.0.3","e":"^1.51.0","h":"19d2l2j8r6y1bm5dg8s23x7ni0mllmdfww4iph6wkxw74fj9jqjk"}
 ],
 "erpel-dev.llama-aio-vs":[
+{"v":"0.1.17","e":"^1.109.0","h":"01139wzd84rnqzg2yhwjc6wpm731hqidk8icz954wj96nir4nx51"},
 {"v":"0.1.16","e":"^1.109.0","h":"1234nkwjk2bwqcg0vyyh8j8447zfwbqs8c4iwpgqvn4za31c6d7l"},
 {"v":"0.1.15","e":"^1.109.0","h":"09khv7ajwpxvs20lacab9gzpn4nfx5d0ylir4aryk3f2zymh35nj"},
 {"v":"0.1.14","e":"^1.109.0","h":"0r5l4dlspsn8fhka0406brjg04hjqd3lpirz5dm7qkqnyykzp7a6"},
@@ -6833,6 +6834,7 @@
 {"v":"0.1.0","e":"^1.42.0","h":"1h4846968hv9n5lqwqlklrq5b8mhk0hkn2bpshdyvvi3jzwmbzfw"}
 ],
 "salesforce.salesforcedx-vscode-apex-oas":[
+{"v":"67.17.10","e":"^1.90.0","h":"0vm4rblqazzmi89i2942681qk2ism0kh64w5cv4yydigd4690sp5","r":true},
 {"v":"67.17.9","e":"^1.90.0","h":"0h6hbdd00dpjd1ifywkxccyr0p5q5wwc323nxcrzh4s6i84zci85","r":true},
 {"v":"67.17.8","e":"^1.90.0","h":"04rg8zsdaa66asvwzi0rrnqchv61dx11rqqcy634rahsb4ypr6yx","r":true},
 {"v":"67.17.7","e":"^1.90.0","h":"14ygp73yvpnpiahfczw389sxqaxl87v1pawzalbzkp969z22i1hw","r":true},
@@ -7684,6 +7686,9 @@
 {"v":"0.0.1","e":"^1.76.0","h":"1vd1qrv1ipyza37h3rsbv0c47lb0m040s7qrd0fqsq8i1vxh2xi6"}
 ],
 "swarmify.swarm-ext":[
+{"v":"0.9.370","e":"^1.85.0","h":"1wm0x7gmxzwx97dn24x168jwzclfxjkb9qpa8vxxqxf2imfx58a6"},
+{"v":"0.9.369","e":"^1.85.0","h":"16anlcl34r5vfqm01lkwwb2s9mba9llr1xcmvjb8v4bnlfsjm89b"},
+{"v":"0.9.368","e":"^1.85.0","h":"12yi2kksw05x4lwj6ihgzh96c53r91172lj4cshci4vyy6fa676a"},
 {"v":"0.9.367","e":"^1.85.0","h":"0hf373b1i6spgvvfndly9mmqg9258f3vjcizp59vqs5c43434bss"},
 {"v":"0.9.360","e":"^1.85.0","h":"11k1srzjqffw056kqnzj5gl0mwg1vv0ikl0yxnfvrywl1id8mhx5"},
 {"v":"0.9.357","e":"^1.85.0","h":"0hqgny523k4h2mxdms7cf5wf2c01i0a0xbwlyqfy8kyncci7cs7z"},
@@ -7808,6 +7813,7 @@
 {"v":"0.0.4","e":"^1.112.0","h":"083rvs2h2js667gig85x83yq1h133f75hrrcfmiiy6vb9agjaa0v"}
 ],
 "tanzz.thrift-support":[
+{"v":"3.3.1","e":"^1.75.0","h":"0c3j5y248x5bwd7m16x5j7xvc8vgzydg1qb07zrqwpqnwyzv4c70"},
 {"v":"3.3.0","e":"^1.75.0","h":"14l7h53nlqmi0qwdlwzchcm86n7b4qj1f0gkvr3mmmscpwyr86nn"},
 {"v":"3.2.0","e":"^1.75.0","h":"0smxyyxpf7n0z32mbgd8mrww4n7l5g9hf5gbc72196ca6bk2mp8j"},
 {"v":"3.1.0","e":"^1.75.0","h":"05bd4q63ja98j87084hm7xkhpi4spr2qw1vbry8m8ymdkg5sjz7p"},

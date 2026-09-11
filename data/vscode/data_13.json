@@ -2817,6 +2817,7 @@
 {"v":"1.0.1","e":"^1.85.0","h":"0qh7zmrh2l2i7mc2yp5mbamdbwjr506gc07cyqf2ccd952sv4wyf"}
 ],
 "connor-partington.buddy-ide-companion":[
+{"v":"0.11.0","e":"^1.90.0","h":"093wif4jwcikzrk6l2c2rpr093mkkn5v5qzf1v16g4gs0m45dj5w"},
 {"v":"0.10.0","e":"^1.90.0","h":"0alk50ppvxnvdd2j92ajkavszy27jzzy858hdrrlszhi6abxn7lh"},
 {"v":"0.9.0","e":"^1.90.0","h":"1zblpxl9a0fz1rs12zla4bnavz0cqdspwk44d72w9mmay794lrck"},
 {"v":"0.8.1","e":"^1.90.0","h":"11gd6wylql2pvxnprhckjrhnbymppp6m0xad9zgsqg48gh2ncvqh"},
@@ -13464,10 +13465,14 @@
 {"v":"1.0.1","e":"^1.93.0","h":"0h08iqqvy8ysp8ghya7y5a9wmhbbzxyz130gd5mlq1lyggkqvvkq"},
 {"v":"1.0.0","e":"^1.93.0","h":"0xi2jwsgrvl2p49y23nkvdh2zxxyycf6xv7cl9g1dgrcsbwql013"}
 ],
+"salhax.keil-helper-plus":[
+{"v":"0.1.0","e":"^1.85.0","h":"1rdccbpcqa4b15ljav84ibqxqm4d7l1b9jh7hymlys27lv34dx8l"}
+],
 "samarth.clean-flutter-bloc-feature":[
 {"v":"1.0.1","e":"^1.107.0","h":"0qqxh71zyc0s8ma0h6ff772nkd6szwygar54kvzaz7g2r7a6m2b4"}
 ],
 "samdidos.json-schema-preview":[
+{"v":"0.20.0","e":"^1.96.0","h":"0cah1jhgsjmarqfmbzkkcab86yp052lrg7sdypcpvmsvph3s9x5f"},
 {"v":"0.19.0","e":"^1.96.0","h":"00lpl862i599hqbj3vvdhghswbw6npcrs9ifp92mdljpk237kcwl"},
 {"v":"0.18.0","e":"^1.96.0","h":"0vvhyb1ypf4flcswcq116q9dschjrg3cbz4kjycljr4xjr2zpp2r"},
 {"v":"0.17.2","e":"^1.96.0","h":"1azhyic6g8vyy2r5wa0qmi7mawh7mal893lbpv1gkkny5iqy36lq"},

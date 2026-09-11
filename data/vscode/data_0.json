@@ -585,6 +585,7 @@
 {"v":"0.0.1","e":"^1.89.0","h":"1df5nba8f2r9w0fkf102n442hycvl4x4jvzzw5r3b97qy2v70yz4"}
 ],
 "ashishjat.self-distruct-editor":[
+{"v":"0.0.2","e":"^1.136.0","h":"173b1h3jyzmimnlvf4b5pdykn0lcw4hgii6b75hbx0jn18sxafgg"},
 {"v":"0.0.1","e":"^1.136.0","h":"1m0qp3302xf59a156znp043xagyxvcng0kdbyl4kb129fijk5vlx"}
 ],
 "ashwinugale.docchat":[
@@ -1012,6 +1013,7 @@
 {"v":"0.1.0","e":"^1.12.0","h":"1713cn70pnn8snarlh87i0xpvmbr1cjwlgp1q1gckbzxk011mhi4"}
 ],
 "bonezegei-dev.vscode-bonezegei-formatter":[
+{"v":"1.0.6","e":"^1.50.0","h":"0q6klajbx4pppbldfsisa50qmj7chxm1n1dql52zph42fwxbcj7z"},
 {"v":"1.0.5","e":"^1.50.0","h":"0idsb0v7fa6q1c84qfdpjl72ma9gzdphjzydhl0z7kr279aazlmq"},
 {"v":"1.0.4","e":"^1.50.0","h":"0v5qn3vhlifal1pyrwm2326d0dnbhyxhvwg467g7v3r83p2fciay"},
 {"v":"1.0.3","e":"^1.50.0","h":"1in6xh3gviwg25c6v58kx7n9nqnijsj2j7964z5pj10vviy20ws8"},
@@ -2750,6 +2752,7 @@
 {"v":"0.0.1","e":"^1.100.0","h":"1wdajxhsrpxjigdrjy8dcfjyaq2hyhpnzc5i8ka9mlizid09krm3","r":true}
 ],
 "dutchie031.dutchies-dcs-scripting-tools":[
+{"v":"0.1.0","e":"^1.108.1","h":"1dd1apnxcp4aspzvs9p8fc7pwllq43kbj35vxjalgz98gkam4nvh"},
 {"v":"0.0.5","e":"^1.108.1","h":"0fc50mj7017r7yyrawh4rhsw08db6h27q6xv5x9pddykpqy1wilp"},
 {"v":"0.0.4","e":"^1.108.1","h":"1pr6s0134kpsj3vk3d94hr9yjjwmn38awzm27mkb9brlcbr223g9"},
 {"v":"0.0.3","e":"^1.108.1","h":"05aw0ryf9vnir8giz5d7wplpbcqjb9whabpx6k2cf41sqw1r2f9v"},
@@ -6182,6 +6185,9 @@
 {"v":"0.4.0","e":"^1.85.0","h":"138l2ick5krqrgj8nmm25sxha397byzm9jrxal46hrh98z4hbf9k"},
 {"v":"0.1.0","e":"^1.85.0","h":"1smn4p0slfpc5vsnwq5c4l3x18kd95m97xgbmzx84zmn1n49qiwl"}
 ],
+"nextgencode.ngc-i18n-drift":[
+{"v":"1.0.1","e":"^1.85.0","h":"0nyxgc5bb7nnmcwlnyhymfqf6f5rs4llv860dm6iwi4x8k6y59hb"}
+],
 "nguyenminhkhoi.react-native-sqlite-snippet":[
 {"v":"0.0.2","e":"^1.0.0","h":"1hnxnkdfhg45b975q38rs4pyv2gbkw2w3r076ky30shnh377gdf8"}
 ],
@@ -7878,6 +7884,10 @@
 {"v":"0.1.0","e":"^1.109.0","h":"1c4j6qyjwnfvxkk1n34xkrinlyg0kbl0xfkijrvc7hj8gxn10h5j"}
 ],
 "salesforce.salesforcedx-vscode-lightning":[
+{"v":"67.17.10","e":"^1.90.0","h":"09lx5sd8lrcyarb4v76r8jz8hz7kjaf2asn0s11r1ph84hnbjsky","r":true},
+{"v":"67.17.9","e":"^1.90.0","h":"1blv7wc9bgdilnvfd665klzrybigiix4fi6nfrx58m9hhrzyaksx","r":true},
+{"v":"67.17.8","e":"^1.90.0","h":"0nbq05z9h446y6krjdckpayg1pjyx40bd0syylv7xy95h66ia8mp","r":true},
+{"v":"67.17.7","e":"^1.90.0","h":"1bf4wfxmr55yz8fmvd3f3vim1s18mqc4nd9xdrh3cy7dz4mgqmmp","r":true},
 {"v":"67.17.3","e":"^1.90.0","h":"1nb7xy8712cw768bp75zk5xph0swmbrxrh3v79hv4awp18jipdwj","r":true},
 {"v":"67.17.2","e":"^1.90.0","h":"1yll8033idjkfnw95r4qd0d9w91sx9vhrpgd5pdh9gyzl76hy5jv"},
 {"v":"67.14.0","e":"^1.90.0","h":"055548m561awd6m26b1lsvnz6bqj2iwm8jvph58wlbgp0a4bn88f"},
