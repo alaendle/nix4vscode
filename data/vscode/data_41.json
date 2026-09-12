@@ -4338,6 +4338,9 @@
 {"v":"1.1.0","e":"^1.75.0","h":"1yiliqix8jl4wcpnzbfrjrx9vz5gv872ca9f50l7rfvb6njazr9d"},
 {"v":"1.0.0","e":"^1.75.0","h":"1f361la96cmsid8j9c9ig18y19zyg1rbz91dl4xwci5az1yr4lrq"}
 ],
+"jone.emacs-switch-buffer":[
+{"v":"1.0.0","e":"^1.85.0","h":"01xsvv4g9gl2yrykz3dyxnx8affsfgqnmkwqkyjx8axdc70rfha5"}
+],
 "jorgenep.codemon-tcg":[
 {"v":"0.1.5","e":"^1.75.0","h":"1af6h1zdkljimgaxyp1aimxl56k1xhi5bb7rbr0b0lf5i1fpi7mb"},
 {"v":"0.1.3","e":"^1.75.0","h":"1vy8bzs4qv4wlbx0njsvwis6dlfqbfl2qjf4v9ja0zbf3z9q48nv"},
@@ -4883,6 +4886,9 @@
 {"v":"0.0.1","e":"^0.10.1","h":"0d0bvsh5kfh82dr7qdjnjlisxjfn3z8a72zgwkfvcwgfs9xb9avx"}
 ],
 "lf-lang.vscode-lingua-franca":[
+{"v":"0.13.20260910","e":"^1.63.0","h":"1n5kg5m1yx9xwh6y0fsz2xviczsiw9jvl1qjgrqwajb98an72kz0","r":true},
+{"v":"0.13.20260909","e":"^1.63.0","h":"10c387g0pnin7rasmqzz1hn7gjw1xgfgcsj2ipgxsrysd2y04cs7","r":true},
+{"v":"0.13.20260908","e":"^1.63.0","h":"1wly3zhxjkrnllr1awlysvy4afllld0kgxd2aj4ghysz33vni8li","r":true},
 {"v":"0.13.20260907","e":"^1.63.0","h":"1qij1ylh7q8npdqbbbzhvxq3031j6x1rgvjm1bmjx9ywvv5vxpds","r":true},
 {"v":"0.13.20260906","e":"^1.63.0","h":"10h0dhf9xkxk2w5q94gvvv4q2yf8ckgccf7nri4bdgn50ay9lzj8","r":true},
 {"v":"0.13.20260905","e":"^1.63.0","h":"173x0jd4lwzwf8qfw0pm528ak96d1vhqyqnihhm7fw0laxkr109a","r":true},
@@ -7825,6 +7831,11 @@
 "prostosoftware.prostotheme":[
 {"v":"1.0.0","e":"^1.96.0","h":"020358db7vhr4azzpgjpp13psrkc6j6nq8b3x88ff4zyfccqj2s6"}
 ],
+"prs.untangleit":[
+{"v":"0.1.11","e":"^1.104.0","h":"1j0lcb1iircmfmxcv5vyza18vwp0ln6xa009swnasdw3q63sfi41"},
+{"v":"0.1.10","e":"^1.104.0","h":"1cn79bn3svgf1k26mn96jzhfl9k0vkrqzznb5yhic7syglnhan6y"},
+{"v":"0.1.7","e":"^1.104.0","h":"126r07k1fvnwpbzvjv19fgmw41km0r96xnfwj2arqmqp5mw4rxgi"}
+],
 "prudlelabs.prudlelabs":[
 {"v":"1.0.0","e":"^1.48.0","h":"1yjrdmammc1qkjmdqx1gb3qal6lq1w2wgq3q11hn65hmm75fsr3x"}
 ],
@@ -7943,6 +7954,9 @@
 ],
 "rayc.vscode-touchbar-rayc":[
 {"v":"0.1.2","e":"^1.17.0","h":"0hml3g8sa8j4ggp3sjcx3rkcpl5f8dbfwwzyvdhffbmqwrd2wdbm"}
+],
+"readystack.jct-transition-lint-2026":[
+{"v":"0.1.0","e":"^1.75.0","h":"0b7yvkvw6ginxrkjmpk4s164lkrrr8g8wn51sfv7az3gk9qw79bw"}
 ],
 "reflectiondm.npmsmartimporter":[
 {"v":"3.0.0","e":"^1.15.0","h":"0qzybm5rrwv63xni9q7yghjgzfravkr2varck00x82bn47qs160y"},

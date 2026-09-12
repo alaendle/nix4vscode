@@ -2673,6 +2673,11 @@
 {"v":"10.4.31","e":"^1.85.0","h":"04h5b799g0bh485lxk0d9rhrn5dn50kjzss648jdlisr7584lfhn"}
 ],
 "fallow-rs.fallow-vscode":[
+{"v":"3.25.0","e":"^1.96.0","h":"1g427likd3xilh3l0559k0rfxvjjplxm58l4cgnm9mrga32dxi8g"},
+{"v":"3.25.0","e":"^1.96.0","p":"darwin-arm64","h":"0604avpap6v9wiv3lljjms1w7yygq15gx72yg6k67kw3563pwrm1"},
+{"v":"3.25.0","e":"^1.96.0","p":"darwin-x64","h":"0b08hpyrij3kibp0gf25xf9qjg8xm5psp1ggnw850609j6yiw449"},
+{"v":"3.25.0","e":"^1.96.0","p":"linux-arm64","h":"0x1h7y8qgv3fa5m7r0c6lmv1rdq0slbkbarj97w9ylmz73zh5hi2"},
+{"v":"3.25.0","e":"^1.96.0","p":"linux-x64","h":"0zyzr52xjxp9wxwhcmwrmj0jphfw6ky8dhj6v7nr58zxsyxzys6a"},
 {"v":"3.24.1","e":"^1.96.0","h":"1lxczp53bdrr6zv70jabv5irzj3xxlwhylb9lfshmqbxcy39cipr"},
 {"v":"3.24.1","e":"^1.96.0","p":"darwin-arm64","h":"101362fc3qk3avvaqcg2krfygc9vb9x8fcpabm93lx2z1cx88ay0"},
 {"v":"3.24.1","e":"^1.96.0","p":"darwin-x64","h":"0sd7s78byn85mx4ax3dffl7bgs7074mcp0m6pj5xq3pdgd786iji"},
@@ -3706,6 +3711,7 @@
 {"v":"0.2.0","e":"^1.74.0","h":"1qr3v81cg94im2z7g8pp05idhx40zrhmgzrr8lva7l40d3mxciws"}
 ],
 "hpc-tools.lazy-workspace-guard":[
+{"v":"0.2.1","e":"^1.85.0","h":"18xvvq9jd4dh3jw483mnb94x69b338f50rmlnkgadzax32134gk7"},
 {"v":"0.2.0","e":"^1.85.0","h":"1gkvi6njsq2dw2pqj34wm83q6aswxn0hh1w0mz6c36rmzrs0x142"},
 {"v":"0.1.20","e":"^1.85.0","h":"13jzn5sr8k6czcdy5ck7vl1lz3dyi8clsy2ji3n8yysigyz4j18p"},
 {"v":"0.1.19","e":"^1.85.0","h":"0lbvycij5gcgd5jaj4mcyb0a8w7hpaal78824j4r7ks0kbndz43b"},
@@ -5687,6 +5693,7 @@
 {"v":"0.0.1","e":"^1.96.0","h":"0nr32dx61pv4mxcrw62by0nxzkg61r3zfrq62q7f713qg91nini6"}
 ],
 "nguyentdh.fbo-designer":[
+{"v":"1.0.2","e":"^1.85.0","h":"0as0r0zkd9sh396cpa25bfjphgh0vljh9hxrcvvaajkj6k9xj7s0"},
 {"v":"1.0.1","e":"^1.85.0","h":"0j1ygsz1xzyscpvnx9g882flxdgx77x4km97mixh6dsn9ylbbci0"},
 {"v":"1.0.0","e":"^1.85.0","h":"1sl8ql99hn0hrs05dfcymwcrbyk1qhnn3pqba1pmma1clrpmijcc"}
 ],
@@ -8953,6 +8960,7 @@
 {"v":"0.0.2","e":"^1.84.0","h":"0r9k6mksrpsiq6ipcrm9qnh0nrs79c6mrs579446fcjgi2hyn9bn"}
 ],
 "squora.crayon-c4-vscode":[
+{"v":"1.44.0","e":"^1.85.0","h":"0x29lndgm99zgwbafa2m10igy3khlgcrzbv800xr7773avlmbggq"},
 {"v":"0.3.0","e":"^1.85.0","h":"13661ngiq2bj7x21rwikgc16cmb8w7qln839x3c67cngfs5hghhy"}
 ],
 "ssigwart.search-results-filter":[

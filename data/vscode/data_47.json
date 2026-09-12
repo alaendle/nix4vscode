@@ -22,6 +22,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"1dgwmmqndgn96byrzhpzagf33idmwndvk0pmn5yn1pcp87xxwxsi","r":true}
 ],
 "4uweb.minify4u":[
+{"v":"0.8.3","e":"^1.90.0","h":"1ilrrzxkcz3nqjhvzn2vh6z73h7x3g44fscfj9yqdjlykzxs8z78"},
 {"v":"0.4.1","e":"^1.90.0","h":"17dmjjqivarw5jz3ivhkcl945kfrdf1gyp34mprim1liznd7vf3q"},
 {"v":"0.4.0","e":"^1.90.0","h":"132gjyzhv2a21vh86in5jfgicx26jbhbwa10rzkzfn09plhh1n9v"},
 {"v":"0.3.0","e":"^1.90.0","h":"1z3khxv403v5zyhbqdk599yamx7cvigaq43lgvw5nzx0wpv4rw7q"},
@@ -4749,6 +4750,7 @@
 {"v":"0.0.1","e":"^1.31.0","h":"0vwb0mkbccc80fr8kllwr7821xlvi03713bnyys7v84vrf336pwk"}
 ],
 "kalman33cj.codejinn-ai":[
+{"v":"0.0.65","e":"^1.110.0","h":"137x95fnywsqnliiksdvw89d2laapp2aaicvgmy6p8dcy3dpi8lj"},
 {"v":"0.0.64","e":"^1.110.0","h":"138h493g9cgvxrjkakr05fzzvjfasbs4m5qi61kgdjxap90pffvy"},
 {"v":"0.0.63","e":"^1.110.0","h":"03diljjb4226qsr45mqragv6a85ysa98yvpb5rzc9010vz9vc69h"},
 {"v":"0.0.62","e":"^1.110.0","h":"0v915jl698bjypfaldsa90j2rnynsqbxd18s05gpd1gmally1nzf"},
@@ -5508,6 +5510,7 @@
 {"v":"0.0.1","e":"^1.41.0","h":"0rfqxym1nhq4x8xqvjlcl3bbsj6kkj7yvayvr18fzz1zdyzg46ph"}
 ],
 "logtalkdotorg.logtalk-for-vscode":[
+{"v":"0.90.0","e":"^1.90.0","h":"0rp6zqsc568p9yrcxaiyanmzzjgm6bdz7brz4gl7iaghhrm69yh8"},
 {"v":"0.89.1","e":"^1.90.0","h":"0iga0w57difnzmhzfwkvp7m8hy5iycq3abfvpnl1173bg4h2n50f"},
 {"v":"0.89.0","e":"^1.90.0","h":"1bcc9bs64khhdanrv1jn1jdyz3lbpr1d5nha3hq30j29avjm9ghi"},
 {"v":"0.88.4","e":"^1.90.0","h":"08if1vf814hqjc7n13gdl872133wn3m3zcyq3clkfr7l2za5dnaj"},
@@ -8957,6 +8960,9 @@
 {"v":"1.2.14","e":"^1.46.0","h":"0da83k5dspdw9m6i23i7gzmzc3b7z31kl76yadybc34sds1m43ak"},
 {"v":"1.0.0","e":"^1.46.0","h":"131bjlmz45nr2diyc0r7if94l9vbr98klkwy3vz1arfjxn9imsh9"},
 {"v":"0.0.1","e":"^1.46.0","h":"0hmgk96n8n87a21zrqi7mwscshqp5g0nc2gyvdcfsmm587p4341m"}
+],
+"thingboot.thingboot-tools-studio":[
+{"v":"0.1.0","e":"^1.85.0","h":"1qp727kqwrgdssj8g3xvdyvmrsfcij94pjlh09v4955iin950xp7"}
 ],
 "thinker.deno-standard-lib-snippets":[
 {"v":"4.1.0","e":"^1.55.0","h":"1vh5v55n3j4faiwr4w381nhjvk2gm4jddj51ca8wvk7w67krwh61"},

@@ -1579,6 +1579,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0x3yn9kqn3b3vj0pqfd636ibmqx001rz1r6f3x6rzxp8wjx411y0"}
 ],
 "cujarrett.gotemplate-yaml":[
+{"v":"0.3.0","e":"^1.80.0","h":"02qchpm06bqi3mxgbsf0kr356k8v3ym88dqwz6qa6wmsbs91zlr5"},
 {"v":"0.2.0","e":"^1.80.0","h":"19l0zhi3jiif16p1y5hafjfd5s9z522clwjrs67wbvqq050iw46p"},
 {"v":"0.1.0","e":"^1.80.0","h":"0fj65d06qz209sjyjx4vbq9b13dahxms3ch8yf1517r2yidzzv9f"}
 ],
@@ -3830,6 +3831,7 @@
 {"v":"0.0.1","e":"^1.120.0","h":"1fnanyrjvs2af2bi4xmsmkdmcg1d7vziz5jsy53z9nks4by036xi"}
 ],
 "hpcc-systems.ecl":[
+{"v":"2.39.0","e":"^1.105.0","h":"1sa30baz4pxlnhjcri6wq9d6gniv46f66psmqyx674mwb4mk5dri"},
 {"v":"2.38.0","e":"^1.105.0","h":"1rr0wy1gy312br5s77m0bmlcy4wi2y8n57f8d1szsn2br8swrmj0"},
 {"v":"2.37.2","e":"^1.105.0","h":"1rgwg9avbnym4g8ama9acwln0xfqb2vali9fkn2zs9yc0vmy7ihw"},
 {"v":"2.37.1","e":"^1.105.0","h":"0kdj21zmnjvzsd9vnhbb191asf4bf0i59p3k795fp6lc8w23jq10"},
@@ -5321,6 +5323,10 @@
 ],
 "loosegoose.webster-search":[
 {"v":"0.0.1","e":"^1.31.0","h":"0099pn035r6q4v7l2pbyfn8d34vvw5knl5ibq0gkskdj8hz1ghnn"}
+],
+"lorenzobusi.coregen":[
+{"v":"3.1.7","e":"^1.85.0","h":"16m3l4k45v4dzd772jlkfz74lp5mqs0f2ma1i6fdy2ahwngzx746"},
+{"v":"3.1.6","e":"^1.85.0","h":"0sxzfhy8yvdsigkqm4pafxin05rb2a6inidys0jjb1vnlqy0lai5"}
 ],
 "lorpaves.zenies":[
 {"v":"1.3.3","e":"^1.81.0","h":"02ddjz9hi1mgz933h86pv70xbzs6d68lwqb4x57ypjaqyl4nr21n"},
@@ -12486,6 +12492,10 @@
 {"v":"0.0.1","e":"^1.30.0","h":"1chwsha98rap6dwvxfchia1v8851scwlm23krj6lk7ayskfkhskh"}
 ],
 "wecr8-solutions.jobline-gcode":[
+{"v":"0.3.8","e":"^1.85.0","h":"1k04bc9a8i03m6hipk136dmp782jrlfblh1z10h9rbvdwbpm1cyx"},
+{"v":"0.3.7","e":"^1.85.0","h":"1yjrp1w4b72pw50k7jh0ghd70j6w8hlawyqfggzr891266nhfa0j"},
+{"v":"0.3.6","e":"^1.85.0","h":"197ga8l4zh71yf5pq795k0555qwybxcrhhnplacba5wcianklsjq"},
+{"v":"0.3.5","e":"^1.85.0","h":"0bmw17pmybpdh69rbs1g8gbzvgbj6b3p4x49d9s0z7jjhca0p6y9"},
 {"v":"0.3.1","e":"^1.85.0","h":"0996lcdnfinyin1fazmfppqca969n7w0478b2cd9ymjak4dbp2zg"},
 {"v":"0.3.0","e":"^1.85.0","h":"0476avb2g4ijja9v5f49mlj95q8jqklb2i7syg878zkll4wh7384"},
 {"v":"0.2.0","e":"^1.85.0","h":"1ay4w5z2mlzigk6n8mnmhlpd0lpwx81ywcnw53a3w7qdc52v9c4b"},

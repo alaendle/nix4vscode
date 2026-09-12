@@ -7,6 +7,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"14gvzldx6a8xc5g119s264grpar87pgnc6lfmjaij1qq3l3szgqc"}
 ],
 "11ru.markdown-structure-tools":[
+{"v":"0.3.5","e":"^1.85.0","h":"0k5n0hzv377mik2fcbbrdqrdl14jnq2pkx5bgwp8rg73jjgw5qkr"},
 {"v":"0.3.4","e":"^1.85.0","h":"0cjs4l9y140mcnhzslnz255y1y5zpq53fp3vifis5aj8jyipjny0"},
 {"v":"0.3.3","e":"^1.85.0","h":"18bdv28dnrkxaxw0kxad7h3y42kyc7rfpbfyzwdbzlx0jadxg0id"},
 {"v":"0.3.2","e":"^1.85.0","h":"0fmi03m631lc4i3v4gkm49gwpdfylbv49m930bck0wazgdzi3yp5"},
@@ -97,6 +98,14 @@
 {"v":"0.0.1","e":"^1.56.0","h":"0jvmnd288wg8ffbl0knjmlnfz4ykhrh0d3535wmfv7kdd7lfh07x"}
 ],
 "abacusai.abacusai-agent":[
+{"v":"1.45.3","e":"^1.75.0","p":"darwin-arm64","h":"0537ibvbsws57nxnfxmq5x5x56v9cndrfbsivh1q2lljnl8warc0","r":true},
+{"v":"1.45.3","e":"^1.75.0","p":"darwin-x64","h":"15azn3sndji44y7p3fz5dn6qdqf32k2zzaalyjdxgfs5dmrhyzyb","r":true},
+{"v":"1.45.3","e":"^1.75.0","p":"linux-arm64","h":"1z42mlaxgbrakgg7d3d3ify7asln42cg8jayk19piqnplvl56wwd","r":true},
+{"v":"1.45.3","e":"^1.75.0","p":"linux-x64","h":"0spfqxgyzsa0j2sxap1ar73b7skg9a9ycmzlm9jhdv9zfflsf80x","r":true},
+{"v":"1.45.2","e":"^1.75.0","p":"darwin-arm64","h":"1v68x49iz6nrs5d84m2h3agkzbd0i399a9q38wyhrqkhjb2l3rwx","r":true},
+{"v":"1.45.2","e":"^1.75.0","p":"darwin-x64","h":"0m0jhd380n1fza3ikrb4vi0c8zj940f63z9jix89d4m72n5hvkqd","r":true},
+{"v":"1.45.2","e":"^1.75.0","p":"linux-arm64","h":"1skn3fnnv8h0ka4x0s944bsscw1cqpskxjyb5586va7xqyfv7vmw","r":true},
+{"v":"1.45.2","e":"^1.75.0","p":"linux-x64","h":"1vcq17p8r57wqcd3a09cmhivww3cxk56rzlz0ywijvh3mlqmyd1h","r":true},
 {"v":"1.45.1","e":"^1.75.0","p":"darwin-arm64","h":"149vknzgbxbsq4rmlb5z5a1n4c70fpgnfplj3h9rpq7jxfibr10h","r":true},
 {"v":"1.45.1","e":"^1.75.0","p":"darwin-x64","h":"1yr4bg3yz3ihvq716h01hmcsxqyzlpxfjpb09xf0wfkv6vwgz6cq","r":true},
 {"v":"1.45.1","e":"^1.75.0","p":"linux-arm64","h":"0kajm92wjkxjfy284hpyxhwvznsvkwraxjcwm38jgij2bqd8hrgm","r":true},
@@ -2733,6 +2742,7 @@
 {"v":"1.0.0","e":"^1.44.0","h":"1dbry255hjidf86qshychz104a3cgb9hq584h9rk9xnc8b3abn3r"}
 ],
 "dipeshmajithia.mirror-vs":[
+{"v":"0.8.4","e":"^1.84.0","h":"0wyjvcz0gj2cl5g9vrwhfp459i5c1mk0r9qpf5sv9yd5s04ffxni"},
 {"v":"0.8.3","e":"^1.84.0","h":"0al2nnlcc555s7faxga1rak0543r7l9d54nh1ikm6h5d97y6nsr7"},
 {"v":"0.8.2","e":"^1.84.0","h":"0ajnxy6rpnxqq1m2rlix41l926n2jnrhzy4sjyygwwks84ki3lw0"},
 {"v":"0.8.1","e":"^1.84.0","h":"0j9n0iwjhn84qi482m916k87052hrb11a6iviv4zpny8fhvg9mw4"},
@@ -3177,6 +3187,7 @@
 {"v":"0.0.1","e":"^1.00.0","h":"1vf2r1y0g4dq34ifi74hgxprwkdykmblacla9041r14g17swd9kp"}
 ],
 "esidevlabs.fileferry":[
+{"v":"0.15.0","e":"^1.85.0","h":"0smwnvv899pb3f7iy1f8cy1qg5aqnd08148396gbcxrbkb4scvi9"},
 {"v":"0.14.1","e":"^1.85.0","h":"09s7qh8z4s60jrmb1yglmv4m1l351cm04xzbwl31lm7f1smdsw36"},
 {"v":"0.14.0","e":"^1.85.0","h":"1jb5az9b72vpglanc76m9rpfwwavbh52aqm4nn95jzc9jdvrr9sl"},
 {"v":"0.13.0","e":"^1.85.0","h":"0h01aml8ssqhd3k67s42z3zhdwp3jbvapa88pzzklh854jr1knm7"},
@@ -4164,6 +4175,7 @@
 {"v":"0.1.9","e":"^1.43.0","h":"07fwbd1wsvwnr8acpgrbhs4jdkpgfkzzsc7sgcjskq24pq0006c9"}
 ],
 "jakubkozera.csharp-dev-tools":[
+{"v":"1.12.7","e":"^1.100.0","h":"0qmz0vrbmardbi5ilb3vsamalj2yz2kvsfq3kw7nkqaw1i0ilwc7"},
 {"v":"1.12.5","e":"^1.100.0","h":"0rxg4kwd5sjcbkixxl30jc5bm47009ii0cyia4pqiyc4871lhd26"},
 {"v":"1.12.3","e":"^1.100.0","h":"1i90mpkjcfk703pg87hpi49vrwpa5yi4gxlvagyv1476im58y3qr"},
 {"v":"1.12.2","e":"^1.100.0","h":"093s15nyn9fwmdawisnq29jb2dhp0646048fpjcj4yqyi54i0dxy"},
@@ -11797,6 +11809,7 @@
 {"v":"0.0.1","e":"^1.97.0","h":"0rvwx5nmi79g1j66bm259qv3x690p4iafacbdbfjbmkks8ji40n5"}
 ],
 "onesoftqwq.opencode-go-copilot-provider":[
+{"v":"1.11.0","e":"^1.116.0","h":"1asbk8ayq8ph1p433ad42q2j7mk4byyw5zlwlcz4n0z04nkfr7xs"},
 {"v":"1.10.3","e":"^1.116.0","h":"1cl6ijsvn20vjdgram6xs2y2g699sxdbaq0rq8jig1jzrja7jkxa"},
 {"v":"1.10.2","e":"^1.116.0","h":"1pf0p37z1cdqxwvfk1hwqn4ya5248z8si0vqis5szcgnd64csfif"},
 {"v":"1.10.1","e":"^1.116.0","h":"1vhhvd7cz92h6lazjj2pwgx3q5048p5gzygg2hlaglaghq2ddgg2"},
@@ -13875,6 +13888,9 @@
 ],
 "tubitor.snippetland":[
 {"v":"0.0.1","e":"^1.54.0","h":"0k914mrg8jxyi58bqv78w546grps9lpjwnz9sbr2n04r3hs02qy0"}
+],
+"tuff.html-attribute-intellisense":[
+{"v":"1.1.0","e":"^1.80.0","h":"0ry9bzcbz30i83p2fp8c5zrrbk9m4qrp0awblx3348p8zs8w2r75"}
 ],
 "twinmind.claude-token-tracker":[
 {"v":"0.0.4","e":"^1.80.0","h":"0s7lwihchysqswkf13g9fhrgzfvfxvkdkpgvj5hldcckfvwqjrcs"},

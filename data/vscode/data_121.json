@@ -1722,6 +1722,10 @@
 {"v":"0.0.1","e":"^1.65.0","h":"0g0k04hsz5nb3i5c1fldgh9n373w5p2c11hm7psaqxq60csij2nj"}
 ],
 "codeforge-ai.evolve-ai":[
+{"v":"2.20.0","e":"^1.85.0","p":"darwin-arm64","h":"1r8y60s2qpm8il6zbswbr52p7kyd6gg3syasqw3vcqczifrcz3r6"},
+{"v":"2.20.0","e":"^1.85.0","p":"darwin-x64","h":"0qy87lygd2a4kxgmzzbg7hmsrn4a3a028j9bk9h2lyhndj76vi8g"},
+{"v":"2.20.0","e":"^1.85.0","p":"linux-arm64","h":"02bj74j1bs4siifrgdly3rdm9jxp4vy6dqcbbqvjby5pzyw7x9vx"},
+{"v":"2.20.0","e":"^1.85.0","p":"linux-x64","h":"1gpd0ph5xswfn1fqlmqncrkq179r05a7qjy4k0cvlls3qd3dwqxr"},
 {"v":"2.19.1","e":"^1.85.0","p":"darwin-arm64","h":"05vn7bzykp4zly3i2jia0pk25jgkf5l63lzj1rw67iyl7h7rfzms"},
 {"v":"2.19.1","e":"^1.85.0","p":"darwin-x64","h":"1qhmp6xpncp07l9qgmic810wi3vrsxwljnffgj2brl2bk1hr5z9s"},
 {"v":"2.19.1","e":"^1.85.0","p":"linux-arm64","h":"17lww2n91fvyqvqsdmb2cg0hbdy4c7r74c88ggf434zb0skf5bfk"},
@@ -3223,6 +3227,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0fs6jwi4r5xk8f2x3rp5lr43fx1qxbvmygpr65jq64kdrwydgirs"}
 ],
 "flowrelay.flowrelay":[
+{"v":"1.0.28","e":"^1.85.0","h":"06qfw49smz10ym6qawp5dkrn3m2a0rqb3la1rrlxhiz7raijq63v"},
 {"v":"1.0.26","e":"^1.85.0","h":"11n02qv1k457bkbsd2jgxwv2wsd5p0bxjf97qq28mn7iqy3l2hy6"},
 {"v":"1.0.25","e":"^1.85.0","h":"04gqwc0x3wi66rg66k0x94symkzxq988f5irfhbnfpdbjwayy5k6"},
 {"v":"1.0.24","e":"^1.85.0","h":"0y26v1h12xhv1zd4cn9kpax8bgw3kpskjd48qczajmd0cxa009qy"},
@@ -4024,6 +4029,9 @@
 {"v":"3.0.51","e":"^1.18.0","h":"0qp4qqvpjwf3mwivb2z71s1m7n08rqs83dcqr06xsmslx82gakrl"},
 {"v":"3.0.5","e":"^1.18.0","h":"1w0ywd7w2bmmic5rschjriqaqfwgym359xdbdq73vgb9lvxiry1n"}
 ],
+"gaphunterlabs.log-format-string-companion":[
+{"v":"0.1.0","e":"^1.85.0","h":"1iass844niypi3h3mgbl5zhzb720dzzbnhcipmjsqvqqnv588x5v"}
+],
 "gaussthetheme.gauss-thetheme":[
 {"v":"0.0.8","e":"^1.77.0","h":"0bhlqcchhzm9qbln1wxm1d6shz16ls883rcp278vpzqbr2807iv5"},
 {"v":"0.0.7","e":"^1.77.0","h":"0y66wan2wzn7s9lsqq4x9l70ia4f0vligx43fkdfq9461h6bnqhv"},
@@ -4268,6 +4276,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"1yfk6v5xky3w2y90kclp56f6f4nbbdp1g1xylgczr5gqsbav0p20"}
 ],
 "hackerware.continuity-ultimate":[
+{"v":"3.0.162","e":"^1.104.0","h":"0a2c42aagr1iln1r50dkdfgvq7x180jniqrq48lli8lkxh04a7yf"},
 {"v":"3.0.160","e":"^1.104.0","h":"1vvr8rk2hw612z2v8rxdggszdwqd8k95zlnxxgl4qh7vx1cxi1br"},
 {"v":"3.0.157","e":"^1.104.0","h":"1krsqxsx2yriargf7ps5zvypf8ac4kfw99f2c0kdbn3zj82kid5p"},
 {"v":"3.0.156","e":"^1.104.0","h":"1sfkjczlv9c2yz801dyqbs7dx7chgfmb00dhb8jmfq5rinm7qjsh"},
@@ -5186,6 +5195,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"0c53pj9qnpc8yn2ib3j3nlmhil38074zfdanx6az5hggkc8wld7q"}
 ],
 "japan-public-data.openapi-cross-tool-preflight":[
+{"v":"0.1.1","e":"^1.95.0","h":"09vskqiqnskbwnzja2jlqz9jrdck23xsswyc7clh080gcfjqgg9h"},
 {"v":"0.1.0","e":"^1.95.0","h":"1450ja7zyjh9njm9dg14q98knj4g8q509bkndcjr0dcv56gd4wv5"}
 ],
 "japan-public-data.sarif-ingestion-compatibility-preflight":[
@@ -6995,6 +7005,10 @@
 {"v":"2.7.1","e":"^1.125.0","h":"05fckabqb81n2wd435mvf65x6zqk2aa043ka4635856qy3kq6p3h"},
 {"v":"2.4.0","e":"^1.125.0","h":"0krm84vh4lnjlyma892palj4rknad8p0gzypl43gc9vblczvmnc8"},
 {"v":"2.3.0","e":"^1.125.0","h":"0kgg8rfp0i7yqciwzj80x7fi5p47qm72vifr3j5ps91bw8zgbiv0"}
+],
+"mimikkai.mimikkai-editor-extension-pack":[
+{"v":"1.0.1","e":"^1.80.0","h":"0m61g6kdgkcsc8a2rllmkqpkrcizm82n85b2ysv46cg837r3y24c"},
+{"v":"1.0.0","e":"^1.80.0","h":"0snfl4py67am2aq2akrqkdhmrj7df52k3iz88l6fp618v4czikgq"}
 ],
 "minddrivestudio.f-trigger":[
 {"v":"0.0.8","e":"^1.105.0","h":"1drpanlkscbhsq8yjdfgc4ndav9sbvbrpy0g0fiwa9l7p5d8awgx","r":true},
@@ -9604,6 +9618,11 @@
 {"v":"1.1.1","e":"^1.54.0","h":"0za9lajfas7dk6ilw4b89xak855qhf0jfh5x0j3m7ba20s9xgp7c"},
 {"v":"1.1.0","e":"^1.54.0","h":"0i133rpsjbbbj7fxkk2ldhiffc9g4nr4dhf5lid50q6zppr91miz"},
 {"v":"1.0.0","e":"^1.54.0","h":"1ckk91nk1z1y3pp902hka9z9jqhc2crl53ifmkqbpybyfwrf1yjx"}
+],
+"quantforgesoftware.qsys-plugin-toolkit":[
+{"v":"0.3.0","e":"^1.90.0","h":"0br0ry9dby345d78a7dqc8zwkqafgcyyihy04mzqszvypzwgg5g0"},
+{"v":"0.2.0","e":"^1.90.0","h":"1q4vxcriinglgri6sza5kikiml16dgcyn338fxq3iicdga9n83ps"},
+{"v":"0.1.0","e":"^1.90.0","h":"0ifpvh8d5qbixic5k3li1ac1dh4gkn6phzf76ksh8iaaaz65py8i"}
 ],
 "quanthouse.code-debug":[
 {"v":"1.0.64","e":"^1.55.0","h":"0ysh28ym1hdmyq1wj9jvwhi4s2wjw0mz00y61fdak8mz9r5jbdnr"},

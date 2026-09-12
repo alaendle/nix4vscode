@@ -4475,6 +4475,7 @@
 {"v":"0.1.0","e":"^1.86.0","h":"1902dr691xndjmgyli1qv5z9zchxm63b70k07nwm6b0f3n04ih3a"}
 ],
 "icomedias.hfdevtools-extension":[
+{"v":"3.0.5","e":"^1.134.0","h":"13wc02jfjxz1fqzsa2dn1fsiycyhiylssg47zbz02hwga3z59vb9"},
 {"v":"3.0.4","e":"^1.134.0","h":"1ad729j3l0wnhsj1qm2mkxiv1ynsl54fsh3xhdby52zbbs70qwga"},
 {"v":"3.0.3","e":"^1.134.0","h":"0ayd7wsaz8frm4qjmxxrwn39m39kyxph8ais673hqnjsxv3446pf"},
 {"v":"3.0.2","e":"^1.134.0","h":"09c5zz8mmig25ldl1lpnxnx96nki0s1vqwngpzh4w8x9wz2smp3s"},
@@ -5849,6 +5850,7 @@
 {"v":"0.0.1","e":"^1.52.0","h":"1lwgycpgw5s49mk8nkvki8f5ph4461yzdpxi590fkl3bx4v82l3i"}
 ],
 "leandromatos.pre":[
+{"v":"0.1.1","e":"^1.136.0","h":"0f1sgs5ajv8j3mh81frmv8cr5h2ywxb7ncqy92mad8xdx8fsm7c9"},
 {"v":"0.0.7","e":"^1.32.0","h":"1m36zv2pnjmid6a5hslbjsh6nrv1950g7gl71ggc5717pq1ari4f"},
 {"v":"0.0.6","e":"^1.32.0","h":"0f4hg4xdjjm4skmk1sabkjbnsnjsg4w0f2l3f8vil3151b65wsf1"},
 {"v":"0.0.5","e":"^1.32.0","h":"1fpbn4kg1as6zs9k44dbzsp7w8xy36z5kipkcc5wmr1nj81dgqn1"},
@@ -7353,6 +7355,7 @@
 {"v":"0.0.1","e":"^1.102.0","h":"06vjh804x92g84zil1268j1ykilywvs1r2p9sy3y9ndmx5r18hzf"}
 ],
 "pkrd.ocursor":[
+{"v":"0.1.4","e":"^1.96.0","h":"04j3bq55j9wq9i06rpj4k5p72kvzb9nzkww215cc7kg6pinpr46w"},
 {"v":"0.1.3","e":"^1.96.0","h":"059fphsy8rrdxkq9pbby9xchzrcghgx90sxjdlz78gp7dwakbijj"},
 {"v":"0.1.2","e":"^1.125.0","h":"0rcp8ai4k3y9x06a9jkjwsfn2qm4cwp9b18lbc3qjgvfma6lc8fg"},
 {"v":"0.1.1","e":"^1.125.0","h":"09sypnckd4yvqayjdjn4krs8gksvzy4h14zpcdlbsf889sjr3h31"},
@@ -7700,6 +7703,9 @@
 "readystack.readystack-mono-slate":[
 {"v":"1.3.0","e":"^1.75.0","h":"1cv7c7p8mcj1iqlxf69qav61jzn138qama8ba886lhhzv0dnfssa"},
 {"v":"1.1.1","e":"^1.75.0","h":"0d4drs5a9445k7ipzqqcnnhwpf087zk2pdwrk5clyf7030715k7j"}
+],
+"readystack.target-api-36-store-deadline-lint":[
+{"v":"0.1.0","e":"^1.75.0","h":"1zmk41117as5l3vl137akaq7ffgqaxzfjxsrdi7fbdabkfbwhl5n"}
 ],
 "regis-martini.vscode-activity-journal":[
 {"v":"1.0.1","e":"^1.95.0","h":"1w026b1q0c81kpb6jzhm06wyl9wz41wak4cdnbil1aipd3jb77xr"},
@@ -8732,6 +8738,9 @@
 {"v":"1.0.1","e":"^1.60.0","h":"1vlwhxr7lajzhpnzjldgq7v1kcn8zphzajalpzhjzz44hqdaq1pp"},
 {"v":"1.0.0","e":"^1.60.0","h":"1h26qm50bir60xsirqxcxrl0zb5imqr73rjipvlpab54m7f156mj"},
 {"v":"0.0.1","e":"^1.60.0","h":"0vicy17zrvlqm68zrqh6pqvybbzp07nj4vzl3pg33iscnk7a3lvj"}
+],
+"sneaxiii.aeris-vue":[
+{"v":"1.0.0","e":"^1.85.0","h":"0h1gz354a3bfq6yg2nf3yz421j0hxqy24jpb8d4jdv3hf5vhx6nb"}
 ],
 "solomonkinard.todos":[
 {"v":"0.0.3","e":"^1.80.0","h":"0dnfaxpws6qv13i3k3z6cbzv7fdvh5abqf7x0gyp6knywiv3l3j0"},

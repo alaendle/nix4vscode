@@ -4503,6 +4503,9 @@
 {"v":"0.3.0","e":"^1.91.0","h":"13s0p6qc20r94mqd45b3mjxv1k43nmjz7xnkh5dwlzi4vkyrp79a"}
 ],
 "keysight-technologies.eggplantteststudio":[
+{"v":"26.3.5","e":"^1.78.2","p":"darwin-arm64","h":"1990gwr6xy6x8cz3kysbr067wldcc8vcx1n8q60gp3i3kdsf4cd7"},
+{"v":"26.3.5","e":"^1.78.2","p":"darwin-x64","h":"0cscx40sv4wkc1rg0nyqrm6rhfy7rnl1pgqg21yf15779h9dj07l"},
+{"v":"26.3.5","e":"^1.78.2","p":"linux-x64","h":"1xnjz18k09kyjp59kzmrm3lx4ddrdllljcvxzgwi10x8k5xx4k2y"},
 {"v":"26.3.4","e":"^1.78.2","p":"darwin-arm64","h":"0arnrncqj0mzsp9xciz24pyzzj3j11hppl5a42p0j67rxab5z1h4"},
 {"v":"26.3.4","e":"^1.78.2","p":"darwin-x64","h":"057yxaw3fxczfkr3dx2z166q88gpm2jmr47sjjlr7020k6kl6mxh"},
 {"v":"26.3.4","e":"^1.78.2","p":"linux-x64","h":"0b4l13p6ni5pm5v29yr10lp2qilxf5zslamkl9abgq452pgp8wnf"},
@@ -5852,6 +5855,8 @@
 {"v":"0.0.1","e":"^1.82.0","h":"07dhvmivziscvbz1484s4cggf2yc98ixpaklxbb9214fjw72zxkq"}
 ],
 "prasertkana.tabular-data-converter-sidekick":[
+{"v":"0.6.23","e":"^1.85.0","h":"0aazr5lm61c9f0qwdsgxs7lc0qxr0xc63grwmrva51pbxa8lhak6"},
+{"v":"0.6.22","e":"^1.85.0","h":"0gm05cdm0g0d68a889zwqwsq6fwih58b9cdydlg7xnpmbac8gi72"},
 {"v":"0.6.21","e":"^1.85.0","h":"0sz4vr6hbap1aj862d5ji6b1f45ydp3nwrsspnyybpgdskkil3kg"},
 {"v":"0.6.20","e":"^1.85.0","h":"13s8i92p6b2flc97i11nrk0xy0dd40am859yasjnd9irl86x4zma"},
 {"v":"0.6.18","e":"^1.85.0","h":"1i9ymavsffpa2h56jmvib7lwn5ybhkvs13wsfimsv7bk5ysnv17p"},
@@ -5863,6 +5868,9 @@
 "prem-kumar.angular-plugins":[
 {"v":"2.0.6","e":"^1.10.0","h":"1kky0lpxdx6475q7gipncfdfmy6jgnqa4rlpg473dxbajyi27nhy"},
 {"v":"2.0.5","e":"^1.10.0","h":"18nz4cmnfb5wr5g6jqyyfk1nr3760knw7ymmlpdk3p934lxacqm1"}
+],
+"proddvtm279test.m279-1proddvt":[
+{"v":"0.0.2","e":"^1.104.0","h":"1lzxizla3iy38d340irajck5dnshb82i7l20dvm55qggai4ccrah"}
 ],
 "promazesolutions.uniks":[
 {"v":"0.0.1","e":"^1.62.0","h":"05blqi2hkf7lssj29z0pf6yc7m2ilxprdxf3xs8y81ky2y4hcnfa"}
@@ -7044,6 +7052,9 @@
 ],
 "sarvajeetkadam.faahsk":[
 {"v":"1.0.0","e":"^1.109.0","h":"1l91h3vwbd5g3imlr8v6qixiryf2w0lzdvhbnwzwnvv4s13qbq80"}
+],
+"satheeesh3.mergewatcher":[
+{"v":"1.0.0","e":"^1.85.0","h":"1v9cp5djd6r7hm6l6nxqziqzm2l6ywi3svbmgqdcinqbzkdd9xqp"}
 ],
 "scalameta.metals":[
 {"v":"1.70.0","e":"^1.89.0","h":"0x6iihzz32kclz6cqcxckhdbdp04afjnl43q66xqiyn6vqm79n3a"},
@@ -8738,6 +8749,9 @@
 {"v":"0.0.3","e":"^1.10.0","h":"10w6xbgbmg5if8hhzmd1461gjy7fhq7884lgsab21mw0ik539cil"},
 {"v":"0.0.2","e":"^1.10.0","h":"080ggvxlbk0xx6gjsmi5aj9n1rz9k4q5cpdhczgs9vi5qf4dk7d6"},
 {"v":"0.0.1","e":"^1.10.0","h":"0gma67mrh6c5bd0ky0221p2gw1n7fh0267mpcg51zn07gjs93gw2"}
+],
+"trustabl.trustabl":[
+{"v":"0.1.0","e":"^1.85.0","h":"090vck7w6mjlsfq8gwpg1g9a1y9dncv5sl108542aichqn771czz"}
 ],
 "ts-angular-snippets-soygeekgirl.ts-angular-snippets-soygeekgirl":[
 {"v":"0.0.2","e":"^1.85.0","h":"1k8k7zx347mjzwjlmnlw4z2n0v5phsk959q4sf0llbprg39y23vr"},

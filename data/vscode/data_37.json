@@ -4207,6 +4207,8 @@
 {"v":"0.0.1","e":"^1.91.0","h":"0s1ybqsj2v8zr3ainb8ppwf8ybbj39xldfild2kw02mx5193ig1w"}
 ],
 "kevinboss.chapter-review":[
+{"v":"0.11.78","e":"^1.90.0","h":"146q6iijq253rw2kcmr5pglp1yd3w248kavrnn3lcy377qwxskgi","r":true},
+{"v":"0.10.0","e":"^1.90.0","h":"1fqzvpq281sq73mxch780k8sz20dg0vf77bfk48kbmiqr6figd3d"},
 {"v":"0.9.76","e":"^1.90.0","h":"1r79m8zhwg5z8svf38mmh6ibfrxq62dpp8dlnb7gn3zs2cyrpvvr","r":true},
 {"v":"0.9.75","e":"^1.90.0","h":"0dskbypz8ycg0jjq5274fyj666s9012pnc3dv4ly8yngmhav9lpv","r":true},
 {"v":"0.9.74","e":"^1.90.0","h":"1zq6mvf9cs1w66ikgqhdb0n8bj29aki71z2gk7wi987amdalnq09","r":true},
@@ -7285,6 +7287,7 @@
 {"v":"0.0.1","e":"^1.89.0","h":"0gwasnbdmf6nb6mmydi8hihsqhb0bn5ipz8087iwahmskdidh6v1"}
 ],
 "singleparty.llm-balance-monitor":[
+{"v":"1.1.1","e":"^1.85.0","h":"1ncwvbhmrwi4lhabm8pap0ipv3zp6jlzxjl7x4vjvmk8rvdgygan"},
 {"v":"1.1.0","e":"^1.85.0","h":"1sidsqy6va96bld8samql0qw6rip0z8qhlrbaqgazx4kjm1c9aga"},
 {"v":"1.0.0","e":"^1.85.0","h":"0393qi43sr2pm946i92va8v8919ifg4k3f5vyh0i34bxbvhcfz1y"},
 {"v":"0.0.12","e":"^1.85.0","h":"0rs6p5nkcmb90js10l188pxbxqvbh2acysfsgjwpxh3nl6ca1yqd"},
@@ -8316,6 +8319,10 @@
 {"v":"0.2.1","e":"^1.85.0","h":"1dq1ni0g25w0pc5ffic5x2dlv6j1sj0jl25hpbj2n7cqq79lyg56"},
 {"v":"0.2.0","e":"^1.85.0","h":"059qcwsp41098vwxw9mk9cikwlvs6yvf8wh3wrlnij9lzzwb4bm1"},
 {"v":"0.1.0","e":"^1.85.0","h":"1d2lxjn9bzfjrj4g01vz1zgn63bp6qly9daajxcipjl7zd43hakz"}
+],
+"tylermiddleton.flootransfer":[
+{"v":"0.1.1","e":"^1.85.0","h":"1swjqx4vgszabla50jk2rbq22w4pv7is3n1c15iy7cb1rj3mc4pc"},
+{"v":"0.1.0","e":"^1.85.0","h":"0aiapqpvw9wp5q0gvs4pszgh31yy9i2frxjhdmgpsvzhnlc4n8ya"}
 ],
 "tyriar.luna-paint":[
 {"v":"0.18.0","e":"^1.67.0","h":"0j1gx2fr2i67jrblawzisl2l0yqy9fbss5m3d2gynsqh82n0lraz"},

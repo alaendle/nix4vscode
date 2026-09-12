@@ -2086,6 +2086,7 @@
 {"v":"0.0.1","e":"^1.52.0","h":"1bpinka1ajh74xlr6zrgxyvcxydf5hvbxzg0hjpv8sws6bj7815f"}
 ],
 "daybrite.day-vscode":[
+{"v":"0.4.13","e":"^1.101.0","h":"0hm9lfaxsh8pnc0ig3pfv430ivm4a9lzaq4bphh6hpbhjyikl52b"},
 {"v":"0.4.12","e":"^1.101.0","h":"07y71hhxqjdcqkxypak8yn5qqz0lknvx5hdcx415yhy56nkizysm"},
 {"v":"0.4.11","e":"^1.101.0","h":"1iyfki80xkqqjh5cn61qmckklsnadd0azy3yqz63573fm5blhhpn"},
 {"v":"0.4.10","e":"^1.101.0","h":"0a0kzh1adh1mxr3fqzl5ilhz7yka6mj03p9ka2k51j424x4vm4b0"},
@@ -3410,6 +3411,8 @@
 {"v":"0.0.2","e":"^1.45.0","h":"1sjlbh6g90pg4ngxjqx3gkl1lk8ljnw2bwd1vmjid6csgp82sw2f"}
 ],
 "huangko555.meo-enhanced":[
+{"v":"0.3.20","e":"^1.97.0","h":"1151i3bppskjpra2v7xg9l6f4sqgbm107wn5nwz7jazcx6smx6r6"},
+{"v":"0.3.19","e":"^1.97.0","h":"0b2arz4wn0b6mw94rdjw15l31xdk8ajy67zqifrc26ikympiijf1"},
 {"v":"0.3.18","e":"^1.97.0","h":"1pc7nr5i8v4z6w2y0bivbbhngflwjrxj6im34rdfvzxf71drpnwh"},
 {"v":"0.3.17","e":"^1.97.0","h":"1y3218incagg1ksz2wabkp6vlfj3686g8vp0xsdyg8hrvpz1b8l8"},
 {"v":"0.3.16","e":"^1.97.0","h":"007h4r9afvsvqaxiq992qwskwd3ar1cbmca4rbhsmb45si1xgbh3"},
@@ -4340,6 +4343,7 @@
 {"v":"0.0.2","e":"^1.88.0","h":"0d40fx50x922z00rkhgbknkzlgdr5g6c3rcq22i5avkpivlx00k0"}
 ],
 "kerno.kerno":[
+{"v":"0.15.0","e":"^1.105.1","h":"0fmy3cq2acid5by5b8x7554mzhzhsf57q1ldi4xmjf5r4f4iabcp"},
 {"v":"0.14.4","e":"^1.105.1","h":"1023hqzxags8qcwh1zg7qbmln9b6j4jibr2nn9ni3rh7c4cx27pc"},
 {"v":"0.14.3","e":"^1.105.1","h":"0078nyjw3lgpxln5awgzq671dzh5gr8y9rjq9pfpnkr13iskwld1"},
 {"v":"0.14.2","e":"^1.105.1","h":"0n9y55g13p9nq62cwdsm0469p0bqbm7jra9qbw1cck5f6x83l70f"},
@@ -5442,6 +5446,7 @@
 {"v":"0.0.1","e":"^1.92.0","h":"000iqqd77x46hkr7vam9bjsvx8sckxfi9qfhh8ia79bcb06gi27l"}
 ],
 "mengnianxiaoyao.xm-magic-builder":[
+{"v":"0.3.12","e":"^1.118.0","h":"19q5g023r37qfwcq29rklf855fhqfzn36bgi8yysynlkv37hj2pj"},
 {"v":"0.3.11","e":"^1.118.0","h":"0fhkwnwwfsaxivyfhsm9hdcbv659nl4p5z37l8k4qajzly4gf942"},
 {"v":"0.3.10","e":"^1.118.0","h":"0cj79r310d9ypkbwpma2ggkbnsj3hc7q0psb6y0gxfh9z2bfs8pz"},
 {"v":"0.3.9","e":"^1.118.0","h":"0vn9f1zl492v4kgkf787bvkbw78gpc6hagpdlkadqym13fsbyzcy"},
@@ -6271,6 +6276,7 @@
 {"v":"0.0.1","e":"^1.107.0","h":"01hwbw4qh418nvkacswr145q99ngpj7w30kxnpiikcdkq18ax4y2"}
 ],
 "nova-solutions.cell-cli-vscode-ide-companion":[
+{"v":"1.59.0","e":"^1.99.0","h":"1mparc3h4zp54pzz362mp3x7mvnj738c852x3zw9gymcn5lida9f"},
 {"v":"1.57.0","e":"^1.99.0","h":"03a95spv3rjv3iq6xylkkpnswn4140w9r6lqd7d0hwfx9i6fzj1j"},
 {"v":"1.55.1","e":"^1.99.0","h":"168w4b4jzrzsv2q1acmhiacgsxffzflr4j3lq13j08030p5si5cm"},
 {"v":"1.54.4","e":"^1.99.0","h":"0v3gmxcf1wg2hhvdyf1f65qc1jl4ps9kvqg52qakigi6f54a70gl"},
@@ -6405,6 +6411,9 @@
 "ossph.temple-language":[
 {"v":"0.1.3","e":"^1.90.0","h":"0vyra6ba749nbn9qdkqpgf9q68b5qh9msphz0jybfhlsd355qaqp"},
 {"v":"0.0.14","e":"^1.90.0","h":"0rv3ajqfwgzvrpscl8m8yq8mnfmwxqn9n20fr4xn8byvyz672cr9"}
+],
+"ota-takeru.gitlab-review-workspace":[
+{"v":"0.0.14","e":"^1.97.0","h":"1ckv4vvj3ijc5axfiwz6qs6j3jmap43fc0bs6vkjdclpw1vrasgl"}
 ],
 "ovly.ovly-ui5-snippets":[
 {"v":"0.0.6","e":"^1.52.0","h":"0pbzk1rll222rrqnm0n3g9sm01lcp1dwml5y868dxd4jl5kp903f"},
@@ -7201,6 +7210,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"1xmvpfsy1xav0n92ra95k0zk5hjyl6b8c5m51sxlp47s3aikq1n2"}
 ],
 "riturajshakti.telegraph-rest-api-client":[
+{"v":"0.2.0","e":"^1.78.0","h":"1ws4ja8i7c6pcdyhlv72fb8i7g5mk11x019a9xspldqk0h2as6j8"},
 {"v":"0.1.1","e":"^1.78.0","h":"01zrxlymscnz5kinkpl7lzgz6plyjpn5kdw090mn8r9sxbd5rgpb"},
 {"v":"0.1.0","e":"^1.78.0","h":"0wvwds3z5kaj82hks20z3lvcp4nwidc116l1zvdfad3k39dx80am"}
 ],
@@ -11128,6 +11138,7 @@
 {"v":"1.0.0","e":"^1.80.0","h":"1zwviyink3bhmmqllg72a9w0g4szs9i072cbzpz2n2g5hlzxjlgn"}
 ],
 "triplelrobotics.circuitpython-remote":[
+{"v":"0.0.3","e":"^1.96.0","h":"0133xv0sqjzx5a6cmbjrnvg2zjv0s2w56gxvkvjmpjp9m4bbx60b","r":true},
 {"v":"0.0.2","e":"^1.96.0","h":"18jafzac4xah32y16jsrjdj0m5xah0kaf13zq3m4wvs3zcbl37ck","r":true}
 ],
 "tryhackmetheme.tryhackme-theme":[
@@ -11784,6 +11795,9 @@
 {"v":"0.0.4","e":"^1.90.0","h":"1x45fqjxxjj2kizj8wb6mzr5lv39m298ssj6qpadpf0gkcy9d8b6"},
 {"v":"0.0.3","e":"^1.90.0","h":"0bgpfm76c2m0j8pc9wvs9b8ybvaly6lymqbl8wz1vsi38pfmryhw"},
 {"v":"0.0.2","e":"^1.90.0","h":"11gl8yhv646p4hm8iaz6hn9fz9cygfawk6l1rgfhj7lvgq7qin85"}
+],
+"yancyfox.oorexx-language":[
+{"v":"0.5.1","e":"^1.85.0","h":"07yi25bv0yj7fmjcrjf5srmikd1k6rxq8msvnn2zvqc9ddragjvw","r":true}
 ],
 "yandeu.five-server":[
 {"v":"0.4.0","e":"^1.90.0","h":"1af20ra1nzh6svq9igxcf09w3hwl206xp1k9bhyv7wzh0ij2vpm0"},
