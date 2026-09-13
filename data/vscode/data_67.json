@@ -825,6 +825,11 @@
 "aravindhan.platformbuilder-snippets":[
 {"v":"0.0.1","e":"^1.18.0","h":"1c9yjxm4y27gx1g2lhbswhbxk5hzb1m8ld621q1l1d8n1lqaq2fd"}
 ],
+"aritrikesuma.msbuild-remote-runner":[
+{"v":"0.11.0","e":"^1.85.0","h":"0xxnhmpd500zj7lv8xdd8cpywd10p4vgcn6w9w6mvk5054xhzdws"},
+{"v":"0.10.0","e":"^1.85.0","h":"0s0xqgwfq2f35rina6bmyp8v6cgri8iqhicqk9s9nrwkfyxygij3"},
+{"v":"0.8.0","e":"^1.85.0","h":"12wcigqcqyi35bv3mkmgnwv78irp4fnfkdn75sr8jaw14qhvjqjv"}
+],
 "arsybai.jawa-language-support":[
 {"v":"1.0.0","e":"^1.60.0","h":"0ip1jm03ysmwx7cv8342vxzmgd578bpmxmnd147cn6b5n6dc4b66"}
 ],
@@ -2537,6 +2542,7 @@
 {"v":"1.0.0","e":"^1.98.0","h":"0pdyyzgrrr2bxmqaxcmx4rkbyvgb375j66a5rh576m31q8xvlh7m"}
 ],
 "dofes.mcdev-tools":[
+{"v":"0.1.31","e":"^1.85.0","h":"1xmir9scsmh6dmgck7g6jpy8zmlnkspkwyph1v9lzjrlji736a3b"},
 {"v":"0.1.30","e":"^1.85.0","h":"0qvnwpip5qm1mq5zsmy5p00abgrkd6wvjh93z6cnliqvvsy3nil6"},
 {"v":"0.1.29","e":"^1.85.0","h":"0iychxd94y0lgh5hvnvms0qz2mpsrwizcwmarvaldfgd255n02da"},
 {"v":"0.1.28","e":"^1.85.0","h":"0pbsznmi7p5zbwys5i4zs4zfrp4ms6g2gyppiaafi7vga5kvkrzz"},
@@ -4079,6 +4085,7 @@
 {"v":"0.0.28","e":"^1.33.0","h":"0r25sr5yxzpy6j5hmng4zzk6syslbxk576nanw7vyl0zr1ij9vcm"}
 ],
 "hemantsagar-ms.promptsight-preflight":[
+{"v":"1.0.9","e":"^1.95.0","h":"1ap3cpjbaqg5ara5gz7rr84qfgsjbc0xr90v3263jfcgfsxj0s1c"},
 {"v":"1.0.8","e":"^1.95.0","h":"1cq89da5wi7ics1824pv2bhsv0x1549d3s80dcddpf8i3nbl696n"},
 {"v":"1.0.7","e":"^1.95.0","h":"1zmni6506z1632nfhzb2dzk740l1fxhpa6iby352cmdh90yf83s1"},
 {"v":"1.0.6","e":"^1.95.0","h":"1kxjbypbajmjh7gkm8wkirsjfix7s5ip8gk5n037p0pygp2xd8hm"},
@@ -5579,6 +5586,7 @@
 {"v":"0.1.0","e":"^1.82.0","h":"0649fws2d09g79h5416bd9kx8j3bqkjaz8q190lm3lgxc6amwfn9"}
 ],
 "lucasftas.lapso":[
+{"v":"0.4.4","e":"^1.90.0","h":"0k4msj0nm33xhqjj61wvq0iyvng8kd45k3z4xahcdd2pl0mn801d"},
 {"v":"0.3.1","e":"^1.90.0","h":"0nmdbdkayln90daf1ibmb1axhagrichkhf4jlca3kw0dckwssqad"},
 {"v":"0.2.3","e":"^1.90.0","h":"1l817ll3rkjbspk15pxim9acr7172v6rqz0sabc21yvmh1gc7qh5"},
 {"v":"0.2.2","e":"^1.90.0","h":"0ms3zqz6b2mmxnzqlkn6bm02b5kdqqs975kahrdhwv6g1d4nizdx"}
@@ -7449,6 +7457,9 @@
 "prodhotfixm262testupload.testingprodm262":[
 {"v":"3.9.17","e":"^1.66.0","p":"darwin-x64","h":"1nmk5sh2isklkjdm71qyjsq0xz25a7rlpggrnwzqjdrs8nm5pskv"},
 {"v":"3.9.16","e":"^1.66.0","p":"darwin-x64","h":"1j3qddpn0axklflgcvqzpwawc2cmwfpkgwgnxxl5s6mwrk74h1li"}
+],
+"ps-aditya.redis-state-explorer":[
+{"v":"1.0.0","e":"^1.85.0","h":"11d4ywwvykp7rcxn56avdhbyvwjz69cbrvnkyn8w75vfypxgdhkv"}
 ],
 "puzle4096game322.puzle4096game322":[
 {"v":"1.2.0","e":"^1.85.0","h":"11cra9vapafjg9sm0rlbb7k1qcwd480bpwx694ckllaldwksxpkv"},

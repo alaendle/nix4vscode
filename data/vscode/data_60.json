@@ -74,6 +74,9 @@
 {"v":"0.1.2","e":"^1.44.0","h":"17qvm9lc6lpyjv0bfdlf0dw7q0wg8m5pc0iwdfysj9gz2nz7nqmy"}
 ],
 "4pace.4pace-3pq-extension":[
+{"v":"2.4.0","e":"^1.90.0","p":"darwin-arm64","h":"0a1m6053gkgycxbb51q8az4fk51vyhfmna2q08q78fd28kg4nysf","r":true},
+{"v":"2.4.0","e":"^1.90.0","p":"linux-arm64","h":"1kqcxm37ri9ws5j0mcyjbj7lk85r756wp2cr20xibrrwah2a62zk","r":true},
+{"v":"2.4.0","e":"^1.90.0","p":"linux-x64","h":"10f9s511gqpqqppk2r40n6mdai1y01nrdk0x4h5hhhypf6qzb52p","r":true},
 {"v":"2.3.0","e":"^1.90.0","p":"darwin-arm64","h":"0149192zxrcifds2l0jzs3mvm0j11yhd6xwka60qyipdwgvfxkzc"},
 {"v":"2.3.0","e":"^1.90.0","p":"linux-arm64","h":"07bgqifg1wfg44ajn3q2xxmbc97bb2h7d8n4zp70ffx1qhwhb84g"},
 {"v":"2.3.0","e":"^1.90.0","p":"linux-x64","h":"0c81j4mzi5xxn028w04pn3zbzwaf9nq3s248dkmm0lb1hi1wj9y9"},
@@ -2075,6 +2078,7 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1jyhpdjgcpmp3zjj5ipsa983wm3lqiqkdzwmfcwlbfwjlg4xki0z"}
 ],
 "darndestdabbler.dabbler-ai-orchestration":[
+{"v":"2.4.0","e":"^1.135.0","h":"06iis8ic0ibr6nvl6sdspb0gpwv10r8hzj1adilxr6i5b3mwn1bq"},
 {"v":"2.2.0","e":"^1.135.0","h":"1nzzq2jbvj4i1xicl4p691j7lg5m96pcz7vdq8rslhykhcz1a7cy"},
 {"v":"2.1.3","e":"^1.135.0","h":"1bbqps61a7ymgcxbwr3l11a5w9p3bi304ssxfwyq49lnaxqlfhsf"},
 {"v":"2.1.1","e":"^1.135.0","h":"00ls6n973ndqgzs44iig01rmxlnz1s5i009xfl8dgq0nxln5rr22"},
@@ -7286,6 +7290,7 @@
 {"v":"1.0.0","e":"^1.31.0","h":"0db698wgg8drbgxp47pi1mzwqfij2ib8a26vdmq3mckc6vswjj25"}
 ],
 "meghrajsprogramminglanguage.meghraj-programming-language":[
+{"v":"0.0.3","e":"^1.74.0","h":"1p8sxgpl5xmixvlp7rcl2gl3pngs6mz4rc5mfwlgq3aql3l3j3rp"},
 {"v":"0.0.2","e":"^1.74.0","h":"1mmgqpzwji2dy2xxs5fxzz68vjw580d5lmx694w85c0shdmjbg17"},
 {"v":"0.0.1","e":"^1.74.0","h":"14hv9p4xzrwas7db7z0ccg7lvdk3rhxji6n21065vxpb7ld4fh8d"}
 ],
@@ -14136,6 +14141,7 @@
 {"v":"0.0.1","e":"^1.51.0","h":"0pdah72kqgw0warbsyli8qny42g6990ws0vrs4wav6rbg9152n0y"}
 ],
 "wenwj.lua-for-qc":[
+{"v":"0.6.0","e":"^1.63.0","h":"1h82h1v769yrdd2lgi4l6maxqqw7vdir348im2pcaxj5a1hwj4nm"},
 {"v":"0.5.0","e":"^1.63.0","h":"0fc1d7gh311syw372gm6333yz50l566nqqjjg84a3lgkyyr9vjws"},
 {"v":"0.4.0","e":"^1.63.0","h":"0kazpky8dsy97j4292hv2wkchmw5k343f0vh2362y3w60w2wch8g"},
 {"v":"0.3.3","e":"^1.63.0","h":"0vbm0i8s6d4qq9p2x48i0i8pi25pvcw8099fanw4y94yyk2y693a"},

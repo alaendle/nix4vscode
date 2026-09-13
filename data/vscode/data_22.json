@@ -1980,6 +1980,7 @@
 {"v":"0.0.1","e":"^1.36.0","h":"0cnqynh3jncc7bsaj9875dlx6wy4528mzb6dhk01k9l3b8gaccs7"}
 ],
 "bellosprojects.heza-support":[
+{"v":"0.0.4","e":"^1.110.0","h":"1fddip0jj5lc0j9pmk3b3qm8akliaxcr5zj2ni7q31ywg177h9fy"},
 {"v":"0.0.3","e":"^1.110.0","h":"18yaljn91msqq90mmiawmbcym71bbbc6iwmkzydqmq32zby982vy"},
 {"v":"0.0.2","e":"^1.110.0","h":"0krix0g9idgkg54zasa5frawnw240ba0dhmjb9klq0q0chig8pac"}
 ],
@@ -6023,6 +6024,9 @@
 {"v":"1.0.0","e":"^1.82.0","h":"1m3q75fdl28mv322srk2rq815qkjcyb49r7x1gh9d5xabs17srfj"}
 ],
 "manojkumar-ibmi.i-sda":[
+{"v":"0.10.75","e":"^1.85.0","h":"1fiybl70hp9wa8zywjkgsrn5jwa0zblf050n5lwgnpflc4l2nr3h"},
+{"v":"0.10.74","e":"^1.85.0","h":"1i3m87h9dsxi59ymc8sqr4iafi3ffxvrkizhz4avqqb453d8ar3m"},
+{"v":"0.10.73","e":"^1.85.0","h":"0vvzjjp9xsg5jrvnzxv1s1gdqcj0d8d0i40zb894rxmlblpi20cl"},
 {"v":"0.10.69","e":"^1.85.0","h":"05ym103fdmdbb0p3w87kja96917s42ij42fyzpmm8nq8a6r9528x"},
 {"v":"0.10.65","e":"^1.85.0","h":"181caxcx46a6gi3hpr1ayj9zgq2akm5vrgc7mwnd22k1jaa66zvk"},
 {"v":"0.10.62","e":"^1.85.0","h":"1656zpglia4ic4bhww9ynyfca7dyj6isvvxx3vnm7kmrq36drqy1"},
@@ -8793,6 +8797,7 @@
 {"v":"0.1.0","e":"^1.70.0","h":"1fqqb51pwckqq9yld3jjch18mkc42zhnhqh9467k77miffv43wx5"}
 ],
 "sunzhongyi.coralize":[
+{"v":"2.0.0","e":"^1.78.0","h":"0fni7il1dqgiqz64kyzc09d8qb09pqy5wi13yi7gpaz9nn2rjnvd"},
 {"v":"1.0.2","e":"^1.78.0","h":"1hpfnzcv947hw5s3asm6s00sv18y4a6zn6khmrx4bsdl1y0qnc7x"},
 {"v":"1.0.1","e":"^1.78.0","h":"15i42ji4v6c0y0wlfvkn84c16k4clxyd9wmp4lklw4r0lv0rqagp"},
 {"v":"1.0.0","e":"^1.78.0","h":"008v4qi06dvh8l1kc51x6970afrmqhipw5hmfc3fvb9f49d3x33a"},
@@ -10760,6 +10765,9 @@
 "worldlangteam.worldfr":[
 {"v":"0.0.2","e":"^1.89.0","h":"1018qgizmph8122s9mrrd2llm5ndiig61ca0k8n4q8asmfvh63nx"},
 {"v":"0.0.1","e":"^1.89.0","h":"1rs8yj0xl1s7a3rx6wmjcz4jkgxgdmjx7zqh4n1595v10w0ffbx4"}
+],
+"wslkit.skrog":[
+{"v":"0.1.0","e":"^1.90.0","h":"024lznnl72gn8x70f019lsdi7cgvc98l7ihn2nm1mj7ycgdgv2d5"}
 ],
 "wucai.wucai-code-vscode-ide-companion":[
 {"v":"0.0.15","e":"^1.99.0","h":"0zkp1w8ff0d6jlfvslvqnfvxf2x75hj3sns0ps0yzbcvxq6xmynk"},

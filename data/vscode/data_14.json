@@ -5684,6 +5684,7 @@
 {"v":"0.0.1","e":"^1.56.0","h":"069sprqbf516rjlpyqncdh0my5qxh6iz6z0hhhl9s7nlk2xbjjk3"}
 ],
 "lutrin.lutrin-vscode":[
+{"v":"2.0.0","e":"^1.90.0","h":"00ihrf5yfb8pwj5fcj0dz1hq7vy30mrb9ldpzqv99s2xb24d6qrm"},
 {"v":"1.5.0","e":"^1.90.0","h":"16xvxy1kj256gg0z4zjwyw2zwkl0jv7l5z1mihrx49aq6xqkvwr7"},
 {"v":"1.3.0","e":"^1.90.0","h":"0zcvl5j4xpkj7l4jfwb33xvgfxfccyi035d9gmz20a3hscxzg202"},
 {"v":"1.2.0","e":"^1.90.0","h":"0r0byfch12asndji2mqna7g3l999a7lhmx535xz3qspq6giwm3g1"},
@@ -7242,6 +7243,11 @@
 {"v":"0.2.1","e":"^1.75.0","h":"01l72jrzc1dsc69hjlcn8rzfwpda39i72m1pdccpkcf3fh1yxbkz"},
 {"v":"0.2.0","e":"^1.75.0","h":"01v7ngcfwgl1l7swxw9wqzc6h0a07slgn0rvf2ca8cr1q7pg791d"},
 {"v":"0.1.0","e":"^1.75.0","h":"0cjhldxjxfq2lfc3fzclqa7935dh86vjfnjjpnparacq5j5307gd"}
+],
+"opset-mexico.pseudocode-pro":[
+{"v":"1.9.1","e":"^1.90.0","h":"0hpy2m7dxh68yvy5f7ilkpj75z69fj8ay4f5chs3hzvxvsdl16fk"},
+{"v":"1.8.1","e":"^1.90.0","h":"10bnjh6rdrnjf6b06j6p8hc5wrnqy3ab4zrhxnd1bzx68khbf1vy"},
+{"v":"1.8.0","e":"^1.90.0","h":"10mw39lbxjfdr0gpaz1fj8ipbkpadfd20gbkcrmw9ivr67zxaiai"}
 ],
 "optimasystems.vscode-apl-language":[
 {"v":"0.0.7","e":"^1.26.0","h":"003n637vskbi4wypm8qwdy4fa9skp19w6kli1bgc162gzcbswhia"},
@@ -10097,6 +10103,7 @@
 {"v":"0.0.1","e":"^1.33.0","h":"0lnz6ni9lxxqqabc6fyjrk387dykax7nhrzsa59pciimjaf5wjrg"}
 ],
 "yedewww.claude-code-dev-tools":[
+{"v":"0.11.0","e":"^1.95.0","h":"19vbdi4n0p160gqxifach4jy4xl7yna5a0lrc975qc9hf7y5jmk9"},
 {"v":"0.10.0","e":"^1.95.0","h":"1585yl58nw3bi8vfaypmh7almrsh47rzf1jf4pmik7ikn3kh0cyd"},
 {"v":"0.9.0","e":"^1.95.0","h":"0j4qrxilincq3bxvkjcswin7ilg4krzwaxqxrjm73ry2fdyiywsd"},
 {"v":"0.8.5","e":"^1.95.0","h":"0i8haddqywva2c7m9lb0ng8nx4bq6kqdxyinschqwd8kdzscg5sl"},

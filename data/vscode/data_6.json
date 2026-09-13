@@ -1277,6 +1277,7 @@
 {"v":"1.0.0","e":"^1.78.2","h":"1kvjz6idd0v5gazph2r95640f5dh2crkcgdpvpnh6a573l0dfz9n"}
 ],
 "bytical.relay-by-bytical":[
+{"v":"0.2.10","e":"^1.101.0","h":"1idy09h30x920cxscfbwr94vdca8rg7g9bngxn7slrs35a86lw1a"},
 {"v":"0.2.9","e":"^1.101.0","h":"1w71ky2ajd39g49vx866lqgdj2yviq7f536x9qnipgbw0xk99cmj"},
 {"v":"0.2.8","e":"^1.101.0","h":"12gvz23yv5xqk7rax0qxmh78gf28jc0h5hjivak70rvc3jyign45"},
 {"v":"0.2.7","e":"^1.101.0","h":"0shl13gmhfxpwix19fp7qjvlvj3smv0mnqylr200dsasivls4a72"},
@@ -6534,6 +6535,9 @@
 ],
 "rbourgeat.refacto":[
 {"v":"1.0.1","e":"^1.50.0","h":"1f5d7251ipbzjw3rw0h8andi506v177scgrs97nd8ff3fzzb5lbn"}
+],
+"readystack.cra-24-72-14-reporting-lint":[
+{"v":"1.0.0","e":"^1.75.0","h":"1k221gj5k4prqas1ikrm4v81aivbijsa1aj1kik6q86q9x5w112s"}
 ],
 "regressbot.regressbot":[
 {"v":"1.0.0","e":"^1.108.0","h":"0iwbg6yn7n99zvgwv3w1vmcqpsix2px1mlrc824sfpyb60dw90n9"}

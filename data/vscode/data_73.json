@@ -4975,6 +4975,9 @@
 {"v":"0.0.4","e":"^1.21.0","h":"1iyjamr6pkqf6qnhlg93kmxx2h4nc1b291capkrhz4qilcn46d8m"},
 {"v":"0.0.3","e":"^1.21.0","h":"193yp29fsrxbiha9xljsfvphkxz4j4fhff2086f328simriknlix"}
 ],
+"moc.vie-python-hover":[
+{"v":"0.0.1","e":"^1.137.0","h":"1dcs4q6qxcyhvacgz1871l50rj906fzvcqqp87a0vgn0pb56502v"}
+],
 "mockman.mockman":[
 {"v":"0.0.8","e":"^1.103.0","h":"1qc2bn078fdpcdch1rvhwzvc9dqqp1qw2xd8y0qpwsqpfsjy5l4q"},
 {"v":"0.0.7","e":"^1.103.0","h":"1b0npg0l23y0ls977z0nb3l21wfm9gnq7mpsdw31hgk91w4cx25d"},
@@ -6176,6 +6179,8 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1ss187lqf2bcksq6ggpq0srmanxzhgy81nxmx35swqfhdh9halbq"}
 ],
 "prasertkana.powerpoint-viewer-sidekick":[
+{"v":"1.0.1","e":"^1.85.0","h":"0l865iam99hr50lnd5vwm3cn2kgwg7ms9giw10q4as2lvzh1cdgm"},
+{"v":"1.0.0","e":"^1.85.0","h":"1pddidcl78a3mgzzzd71dnddapbkdwwcqk35syw6shmk1kqmvwk8"},
 {"v":"0.1.15","e":"^1.85.0","h":"05q843dmhn1sfiwnn73bidpr1f7iw6a0cpqn7asyk18sh3rdnahb"},
 {"v":"0.1.11","e":"^1.85.0","h":"03zmfv2m0lky3dbcf8m5kp1mlmw0cj0ylk8axbg0hqj70jlfmi5x"},
 {"v":"0.1.10","e":"^1.85.0","h":"18mvgwnxiykzd35jnlhv2lxqpm5amvmg7wi8l1zrn0xg1qdzix6m"},
@@ -6521,6 +6526,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"054vbynqkj2j4qrw01253v36qbf6sh589aldrlsnvczqia331ckb"}
 ],
 "rklassen.the-fold":[
+{"v":"0.6.3","e":"^1.95.0","p":"darwin-arm64","h":"02prbhlabja91vj4jqfqjr0q6smvvbbgfvz4gsqgcim5bcxkz1h6"},
 {"v":"0.6.2","e":"^1.95.0","p":"darwin-arm64","h":"0yax8h297f32q35d0rsng4f48dyxn3jady9k79giwd2fvhmz9d5p"},
 {"v":"0.6.1","e":"^1.95.0","p":"darwin-arm64","h":"1gdqd7hrbls38mjsy15idq5sdldi17wk2ghrcmyj057p66awxydm"},
 {"v":"0.6.0","e":"^1.95.0","p":"darwin-arm64","h":"0a9gy9fnrg68vrgcs711fbyirlck8qs0q0f13xsid7yb53zj1g15"},
@@ -6546,6 +6552,8 @@
 {"v":"0.0.1","e":"^1.63.0","h":"0baalvkg6lzqh2vm6x504hfjka22qqmfcbavyiq4zkx0lli2w6am"}
 ],
 "roarpeng.graphflow":[
+{"v":"1.18.1","e":"^1.99.0","h":"0fi5p1wbnnfrrw1nrxyqqmnqwc5y6h19mhn9my2snvbkbavmdpng"},
+{"v":"1.18.0","e":"^1.99.0","h":"0qkn9c66hnl9afx2bsvz6iz5kb341vi8927b4rbgdpfwl0bgjjdx"},
 {"v":"1.17.1","e":"^1.99.0","h":"06nv4lkr7v7szxfvdm2pf6mbd000ccywcw46h3j4fcjhihp51jig"},
 {"v":"1.17.0","e":"^1.99.0","h":"0azd8bgmkzmyk726z8hxfq91iv62k323q8lffr0rili6bpgrgccg"},
 {"v":"1.16.0","e":"^1.99.0","h":"0mjzw10ad2f3pfcjxy73s8qlvvkalc4d5lhsw199kqiz593nb8il"},

@@ -2323,6 +2323,7 @@
 {"v":"0.0.1","e":"^1.105.0","h":"0m56x6vj1riqii4ankxcbmvdwnpb0sjddw7nf4p2hbil2rjf6d6f"}
 ],
 "ezet-galaxy.flame-language-support":[
+{"v":"0.3.2","e":"^1.60.0","h":"1hpf7c8qsz2m7k97jv9hrz4cl4j30fv1g33njddappgwi2gv2fw9"},
 {"v":"0.3.1","e":"^1.60.0","h":"0r9w7j0a47shla11mcybqvq4zd82j8a55jx2zpjv78n855z6gc0l"},
 {"v":"0.3.0","e":"^1.60.0","h":"00y9l6i4gynai92fxb3dmmrdvmicxl1a3zxbg69m5rajndhgqara"},
 {"v":"0.2.6","e":"^1.60.0","h":"0ibscxypg3rqmg6kx5725ninfwimbrf8ci93ni409sjlj89w9ys6"},
@@ -2405,6 +2406,7 @@
 {"v":"0.0.1","e":"^1.22.0","h":"16hmkbj0zwkiwnif7aq0a2qqn8p39m4aj2xvy50y5xsfrk6a6nwi"}
 ],
 "farmountain.hipcortex-memory":[
+{"v":"3.11.0","e":"^1.90.0","h":"1mjii6r849bq04rp609ggchxlk9wygsvgld1vq550rxyqswwxrl3"},
 {"v":"3.10.0","e":"^1.90.0","h":"16vqrbbg8p1ah1f57jrn5whwjys2waniynwwxhb6m1l2mvgiz84y"},
 {"v":"2.8.0","e":"^1.90.0","h":"082kcid8nl461yr95cjkh6274wa85pqacvsm190kv5v34s75whmp"},
 {"v":"2.6.0","e":"^1.90.0","h":"00ddk7mxvhyb1br0r15hp9rzisppclnqk0cc72pfzz972agp9lfb"},
@@ -2584,6 +2586,7 @@
 {"v":"3.0.0","e":"^1.40.0","h":"0d8crxw4mhbdhrhiqw7klbiz7a0k11b04ldixb2lfmhc33w4mdax"}
 ],
 "fucini-software.coverage-studio-vscode":[
+{"v":"0.2026.77","e":"^1.88.0","h":"0yr4z5prnz2p2mprj16a15mr94xm2nkqrgpaar2kvmlkjm6gqn63"},
 {"v":"0.2026.73","e":"^1.88.0","h":"0fdl6pcbl57jagwxakfq6mvqhkm1dh8kygv5pcgik9i3qgyayycc"},
 {"v":"0.2026.71","e":"^1.88.0","h":"0n2a9v2zwkwxfxcw9sbghpi4agwnn7n9f40b3sd5p8zvhkjczn43"},
 {"v":"0.2026.67","e":"^1.88.0","h":"0ckqp2xw1am9bnh7pd4z1vrji165l420pld35achdry9kb3g707v"},
@@ -3590,6 +3593,7 @@
 {"v":"0.1.0","e":"^1.55.0","h":"172p5r3jzid6k9w8lrzzfwnljaqka52qacqgpalr1kbmi5cjfa6y"}
 ],
 "kaierikniermann.vscode-vscode-ott":[
+{"v":"0.1.0","e":"^1.110.0","h":"11z4pn8pv9zpagcdq68i3qbjyddkrsfyf1p7nza0gh6vgv7mqasw"},
 {"v":"0.0.6","e":"^1.110.0","h":"14250d8ip9cp4nm0dhmq76111n0vi3ihk78ap2bp9mf4nyzlgpym"},
 {"v":"0.0.5","e":"^1.110.0","h":"0vx5a7sfd5r6dzcv2fzmwywc6n1kczikxmgi4sfv5lby1sn0v9kd"},
 {"v":"0.0.4","e":"^1.110.0","h":"0m2bdib51246qgxd5z0hvlmsg0bk4i1iisvr5mak4qsjq88wsp9m"},
@@ -4718,6 +4722,7 @@
 {"v":"0.1.0","e":"^1.136.0","h":"1idd68znyf1cfq5sldwq58xh652vzf82zsl869man1i9xvnq082b"}
 ],
 "mermaidchart.vscode-mermaid-chart":[
+{"v":"2.7.8","e":"^1.77.0","h":"1khixz47mcl64xqvydhgnvlk830007y6wxkaw69scbxs5x5ihqgz"},
 {"v":"2.7.7","e":"^1.77.0","h":"0p9i50l3z5isb88i5sss34mpvqw7if6r5xi5idchvdb24gpy3hpj"},
 {"v":"2.7.6","e":"^1.77.0","h":"04w2icffm2w2vrbnp45jjgh3ipznl14gz4356pvwppcz680vjp2w"},
 {"v":"2.7.5","e":"^1.77.0","h":"0k7m70fyqrc0xnmc6nj6bfplgjvqbfihibwcygz2vyr4ccdarh2b"},
@@ -6714,6 +6719,8 @@
 {"v":"0.0.1","e":"^1.109.0","h":"0cicdx3nq2b0frgwl31b6ad9sai8csfk73f22320cyfpka4wajfz"}
 ],
 "remsoftdev.connect-other-ais":[
+{"v":"0.38.4","e":"^1.85.0","h":"0v1j36a4bbsn1fhlg14x3zmi8yinsa5c913382jbxvs7ny3mjzz9"},
+{"v":"0.36.6","e":"^1.85.0","h":"0k68npypq6p2ajjd547v9fl1p15938zn4z36nayqba815l0c4441"},
 {"v":"0.35.0","e":"^1.85.0","h":"0qdp4da3jj35avmci52cxi96pmaswy76qqxqfpbxfm6g0pck0k63"},
 {"v":"0.34.0","e":"^1.85.0","h":"1rg197dlkghp9l0dpxb6sdjq78fsk1ah7qgjmggkn2yk9q70awpr"},
 {"v":"0.33.1","e":"^1.85.0","h":"14ga08jqh2qnp1a9wg7xw2c2bd2y67qy5z2za39c6fj726lar11j"},
@@ -7506,6 +7513,7 @@
 {"v":"0.0.1","e":"^1.59.0","h":"08rgd5q4mc8slpc4jvvvk6sg98bzgxz9avj297gx5psmsdlb70j4"}
 ],
 "spirit-bird-aicodex.spirit-bird-codexspaces":[
+{"v":"1.3.15","e":"^1.80.0","h":"0azw2wk52i5p31ws3s3g6swf3p6prvnm78kynyi8lzbq0y5ifnqp"},
 {"v":"1.3.12","e":"^1.80.0","h":"0savnmw1srx9xpyg6gwlsn4sxsc3rjb2d8niqb33s620192a7rs4"},
 {"v":"1.3.9","e":"^1.80.0","h":"0xv07xv75mr9w6j07gsiwza7ys2nmg56wcj0qlkgv3n0ifaiz425"},
 {"v":"1.3.8","e":"^1.80.0","h":"0d6yc1xjbcgi523yd0jmw04cm4mnx4bw5rvli3c58b2al81y28vf"},
@@ -8419,6 +8427,8 @@
 {"v":"0.1.1","e":"^1.84.0","h":"1vvw6c8vn41vjb3npf5sx6w7hy0fv76lrn9l201acgady0by3c8l"}
 ],
 "vortelyn.vortelyn-notebridge":[
+{"v":"1.7.3","e":"^1.130.0","h":"0cm28x2l2mylv7ksg3a91188i50qd87aq59nxjq8d38cd4cs50wf"},
+{"v":"1.7.2","e":"^1.130.0","h":"0nz45ci5ahrdz44zzdgimyqc88kwv1vlmxj28fvlcc25wnyv0r61"},
 {"v":"1.3.3","e":"^1.130.0","h":"0qpjll2a4l0bx7azlp611w8y0k939ik0kwg0sa5ill2afs619wfw"},
 {"v":"1.2.2","e":"^1.130.0","h":"0n1yx6v6414nk214p3qprpvjzcyhyinykrrdscklxqfscb8zbgxj"},
 {"v":"1.2.1","e":"^1.130.0","h":"1aj2l0wlcm5kiz09xg7bk42651shqp53s7wi2l0dx59r66x015g7"},
