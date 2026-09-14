@@ -837,6 +837,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0gjp0xqp8x0h3a577frwsvi5wz0i38iwzkmikc0yjhfndpv33qq9"}
 ],
 "bebras-ch.bebras-vscode":[
+{"v":"0.8.0","e":"^1.45.0","h":"1l3qcfcf6gjqb4c2i0x6z32cjvsacw58x9g7d7dn96v6vlcbf8ba"},
 {"v":"0.7.10","e":"^1.45.0","h":"0l5dfvzsh6bw80kbbc3fmqx197703m42qw65njscgwpyvyfhdl14"},
 {"v":"0.7.7","e":"^1.45.0","h":"1rq4xshz7cm8y0l26wn2ajyjzrbmda3q23akdc4b2y97n6nnfbi0"},
 {"v":"0.7.6","e":"^1.45.0","h":"1m6jayyv6n687i085z4ja23pdrj0c8jrkk40mzfwyas9k23kn721"},
@@ -2753,6 +2754,8 @@
 {"v":"0.0.1","e":"^1.77.0","h":"08sglha7ixb8by2mqzzsnn8narrvj3lczrr84jq2jmdkxkky635b"}
 ],
 "exorcism-dev.exorcism-lang":[
+{"v":"1.11.2","e":"^1.125.0","h":"0k5rfgp7y5cg9ihcg411s91g4m1lz8ys5xizcfg2scvhlky9n0c2"},
+{"v":"1.11.0","e":"^1.125.0","h":"04nfhhg4yrl9xg5d4dkaahmh70vf9ik09sdp50b0ic70nkcyqkmd"},
 {"v":"1.8.5","e":"^1.125.0","h":"0cm8zg7a3nz635zq8l15w7q1jpkd18cjq1l445dis0hxjlr8h5i4"},
 {"v":"1.8.4","e":"^1.125.0","h":"17qac7vc4hrxw1dkg53fjjmgr3qykm55jz1qnyiglv1wp12qg2dy"},
 {"v":"1.8.3","e":"^1.125.0","h":"0hs1r9kzn8ifds67q7shm27i7g4qvp5yj2d0xqxv6vyyff8vpy90"},
@@ -3796,6 +3799,7 @@
 {"v":"0.1.1","e":"^1.90.0","h":"0540566gs5vv3dwjzsh8axhg1flvcd9cnh1gw2k1xzc424vm8svk"}
 ],
 "igochkov.vscode-regelspraak":[
+{"v":"1.0.0","e":"^1.101.0","h":"1cpqkxg5ssy4yyvx8acdc2f3iyq7phd6117j23j7940r8hgflv7d"},
 {"v":"0.9.5","e":"^1.101.0","h":"0lbabyl81xabwg00fqbbhf2gigc5vl7l4168ab6w7xz4007z6rxk"},
 {"v":"0.9.0","e":"^1.101.0","h":"0pxr1csvg243vvxq3s5c6lgmg6qkshkh19lrk2hyw3l8n476zwr4"},
 {"v":"0.8.0","e":"^1.101.0","h":"08dy2v964arvgcy9fy2xv08ag1xsb284ribccmxjrr13579kb0i5"},
@@ -4973,6 +4977,7 @@
 {"v":"0.56.2","e":">=1.88.0","h":"1j6d8vc7hiq7dnddd55z43x0kasp5xf084wnf8rqnn3rixj5jlhj"}
 ],
 "maniospas.smoll-lsp":[
+{"v":"0.0.5","e":"^1.75.0","h":"10razd6mi2qdn27wvw7dlfpdizajcbi0g0392kwvrpapcdbkc3xz"},
 {"v":"0.0.3","e":"^1.75.0","h":"0hscxvdjf5piahf23rm5076n0lqqnk4hz922884mpnyz893slgz2"},
 {"v":"0.0.2","e":"^1.75.0","h":"0d039h40qa4hfsr1sdskcygazm58jiy5xha26x093fw8ivz0w3rq"},
 {"v":"0.0.1","e":"^1.75.0","h":"18qas79x9pbc1a33w11rl0g37xzib8dxqqqy1a30l972v8xazgrx"}
@@ -4992,6 +4997,9 @@
 ],
 "manueldelarosa.postgresql-snippets":[
 {"v":"1.0.0","e":"^1.89.0","h":"0cky1h7w68dik3mffj70d6hwbvyqk22y0dgia5fx60qpqa9n0769"}
+],
+"manugio.vscode-ai-bridge":[
+{"v":"1.2.0","e":"^1.85.0","h":"0sl8qnzv243j757wbjx9s5wjvhv4ga275gysfrb3p10ap168a68d"}
 ],
 "maram.plugin2":[
 {"v":"0.0.1","e":"^1.99.0","h":"1ldksscnkjnzzm34z034xmklb56fqhcp7238yxkjy72ky18by8c9"}

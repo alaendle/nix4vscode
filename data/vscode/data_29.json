@@ -2253,6 +2253,8 @@
 {"v":"1.0.0","e":"^1.70.0","h":"010zj1g7k7pv7dg41ljsyc4dvappncj6wn3czkfdj0zn3hka744j"}
 ],
 "dynopane.dynopane":[
+{"v":"0.1.2","e":"^1.90.0","h":"05m2g6sf0fraby4qgv7vgpvgzl8l64wj5mk8k465samrzzdkc99i"},
+{"v":"0.1.1","e":"^1.90.0","h":"1bn3px8g7crq66hvm5smrw5zigqj1hpshji7gsrh0ijfmg9iczcb"},
 {"v":"0.1.0","e":"^1.90.0","h":"0x6d10qwzivffwcc9sq2cyxslqizwfdl6ncrrhvdh0m36zwqd3k2"}
 ],
 "easonfan.eason-daily-lyrics":[
@@ -7610,6 +7612,7 @@
 {"v":"0.2.0","e":"^1.85.0","h":"1nhb2fx0zpjgiwiynq3x5vw1sapl2sjqhq4jr37gpd47knar0z4z"}
 ],
 "ranch-hand-robotics.urdf-editor":[
+{"v":"1.7.2","e":"^1.110.0","h":"19yibrp5nn6ldqvyknnnpfmmv2cz9594jcxf25cik3gpw4bc0lqm","r":true},
 {"v":"1.7.1","e":"^1.110.0","h":"08b6niny6qnp87w5vjs6cjry9psv05l4ygzd3qk8jv4aj1bl9bsz"},
 {"v":"1.7.0","e":"^1.110.0","h":"1mk6n2s7x7y271bkf90pilqfd7gag9li87lzbmn7wfgfj4m42an0","r":true},
 {"v":"1.6.0","e":"^1.110.0","h":"08myl0h4w424ic5ybp8m201wz69dl0hr7r31sy3d6b4j99by66mc","r":true},
@@ -8427,6 +8430,11 @@
 {"v":"1.0.0","e":"^1.80.0","h":"068ssr6ng34hyr5jk0nny8h916v8hw9zyfix9ydpscbi6wxqiax5"},
 {"v":"0.3.1","e":"^1.80.0","h":"1ys9rba4jh0yrs2kailynirx3xnshjks1cc9d81ywmj5d5ymxfmn","r":true},
 {"v":"0.3.0","e":"^1.80.0","h":"1ysdsp23ww05yh9z7vajs07p5islm75v3i5h1amqaj7q8bk71j0b","r":true}
+],
+"smalum.smalum":[
+{"v":"0.2.14","e":"^1.85.0","h":"0i4kdj7n8d1kv52npbgdw867m6w58a2mmfwfsw25mi4ghzrwkgx7"},
+{"v":"0.2.13","e":"^1.85.0","h":"15ffx9v8p1isz7nijwy1ijphbw5s1nmrliwffmwbcvahvn1vw6f9"},
+{"v":"0.2.11","e":"^1.85.0","h":"0i5kavjg2rv0q0mw5l3avrjawby3875m38x844dipphr3c51r3fn"}
 ],
 "smitpatelsp.angular-19-snippets":[
 {"v":"2.0.1","e":"^1.85.0","h":"0zzrw39d4i91pnj0c1pjv7jlmq62d1bg2zl9pk7dc790z7l3v13x"},

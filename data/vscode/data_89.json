@@ -5,6 +5,7 @@
 {"v":"0.0.1","e":"^1.95.0","h":"1004y8rhfqrr875mp72swfbs2ps7qxygp0bdg7smw1r66n4l40ad"}
 ],
 "11ru.sql-explorer":[
+{"v":"0.2.4","e":"^1.85.0","h":"0jzj187g9iwgfwll1w65s1vb358xm85m8ngdybyp1h66j3pg347f"},
 {"v":"0.2.3","e":"^1.85.0","h":"1iz16qs1dpxkfxkcbb3ggby28ypviij1j53hg19y0xs11q1nrgjm"},
 {"v":"0.2.2","e":"^1.85.0","h":"0263z0hh9smd4drik191x7ysr476gjamipdffigkzc46k5y2f4jx"},
 {"v":"0.2.1","e":"^1.85.0","h":"0gsa951wi9z3p2lxanwm2fmrd2s7r7wvq6fyhd9fvpsyjqfk9r2d"},
@@ -516,6 +517,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0ywnn274f49qxhchx6qmz5zyckdl03qzv0g60mh7f890i1mk1xjb"}
 ],
 "anytime-trial.anytime-agent":[
+{"v":"1.19.0","e":"^1.109.0","h":"180fzavi9wmg197syvz0dcshr7gyvjh20s5m85jljz9sjv3wynnf"},
 {"v":"1.18.0","e":"^1.109.0","h":"05sdzq8jnvnfb0ir30b3l5kwdm1yj9ha82gwykvwkdy26kxfkry4"},
 {"v":"1.17.1","e":"^1.109.0","h":"0xxri8x5nd5k1z97f46qrlhwrpf3j4ic3k2n1g5v25q9g857jnga"},
 {"v":"1.17.0","e":"^1.109.0","h":"1bk62cby0khr4i1g4k2mv10h22x2qk85jqlgxacbdy94g0d0bvf4"},
@@ -3453,6 +3455,11 @@
 {"v":"0.0.3","e":"^1.78.0","h":"0afllbln8xsr8fhcc4i2ci91vfp11rk067ri7pf20q6ifyz5pnb8"},
 {"v":"0.0.2","e":"^1.78.0","h":"0g5c5z18gdr5gnirz5798k3rbvl6mbpb4544h99z2kxszfkpydc4"},
 {"v":"0.0.1","e":"^1.78.0","h":"07i7gxmggvzjqbfnw93a7m1f19k0gn1whpgjdqsc2k4cfj9c2kn9"}
+],
+"huangfusyong.typst-buddy":[
+{"v":"0.0.3","e":"^1.80.0","h":"0iha4agcbwzixdfpkjfiajlxxg9d52zgdvdgwa57yvlv7clakjc8"},
+{"v":"0.0.2","e":"^1.80.0","h":"0qhbf1d3v3z6wl660l1c9am4acklnbx67g1nssgx1qjzlm7xrz5n"},
+{"v":"0.0.1","e":"^1.80.0","h":"00vdy8khn922zgfkili7dzn3xq83vf4hc9g7r22v01m332g0xbfy"}
 ],
 "huaweicloud.codecheck":[
 {"v":"1.1.7","e":"^1.67.0","h":"027riap830b414fjfqh9zf1q3s0rcsl5d5zbyadzc2s33z6kvljq"},

@@ -2046,6 +2046,7 @@
 {"v":"0.0.1","e":"^1.37.0","h":"1z5nxv8zp2i91cr6y9a2wv4mzqrjd172y6py5dkbx15rfiphfqia"}
 ],
 "darrenjmcleod.mwnn-kanban":[
+{"v":"0.0.11","e":"^1.93.0","h":"06i1lxp9bxmvzvdsd7s0ic80dkbpjhqag8qrpxrrx01hk1iipyl0"},
 {"v":"0.0.10","e":"^1.93.0","h":"1k7b19vg33q5d7jaknrms7rs9nmlw7558iqqqf5c9k70d3s4i197"},
 {"v":"0.0.9","e":"^1.93.0","h":"1jw8wdggr7gq6cq0x8h20ac9mxjy0xbkz8si94r1ccmplsvcha9w"},
 {"v":"0.0.8","e":"^1.93.0","h":"1dy9q97yjyj1jn6v0yv9gb73i4w5xcdbwkgd5fbxzimdcsyzhfwc"},
@@ -7631,6 +7632,9 @@
 "scatolina.theme-monokaiextended":[
 {"v":"0.0.1","e":"^1.0.0","h":"1yzhyq5ixnhm65n3dsngsxkbsy5c3whm548amd1r7had9yc4cq19"}
 ],
+"scnable.catlas-hub":[
+{"v":"1.0.0","e":"^1.88.0","h":"0hn10944hcnp5pz0c429nf8h3i9w0p2l0qn026zbcczszxlcb62z"}
+],
 "scrumboard-company.lotus-lang":[
 {"v":"1.0.0","e":"^1.97.0","h":"0v4jlrjq8cwa06v881kbxp2lnykg22krzmgak6yj4zkxjcdg7j7g"},
 {"v":"0.0.1","e":"^1.97.0","h":"1ij4pgbl5qlqn5fvmhkf73n4lncq9d0ic55948bxvz3csggfpjal"}
@@ -11811,6 +11815,10 @@
 {"v":"0.0.2","e":"^1.90.0","h":"11gl8yhv646p4hm8iaz6hn9fz9cygfawk6l1rgfhj7lvgq7qin85"}
 ],
 "yancyfox.oorexx-language":[
+{"v":"1.1.7","e":"^1.85.0","h":"0z9rxz63hakg28xiphgrc2722sk3171d6xkvbsa5v7l768imvxrc"},
+{"v":"1.1.2","e":"^1.85.0","h":"0i33lxp2fdnaafsbndd4l7lljkwprrz1wywn7r64z5qabnhww18l"},
+{"v":"1.1.0","e":"^1.85.0","h":"03irxjjmqw1hqm65187bs5iwkh7j43klyfsm6ibs2ngcycvz3zaf"},
+{"v":"1.0.0","e":"^1.85.0","h":"1v5rbnrclvsa8andddwvwb8jzzm0avlb24wgka3wrca7a178z286"},
 {"v":"0.5.1","e":"^1.85.0","h":"07yi25bv0yj7fmjcrjf5srmikd1k6rxq8msvnn2zvqc9ddragjvw","r":true}
 ],
 "yandeu.five-server":[
@@ -12140,6 +12148,9 @@
 {"v":"1.4.2","e":">=1.74.0","h":"1mghp36sjv14vhcg454fmca3qnmqy25rdv6wrx3syq7ncjkm8ksm"}
 ],
 "yurbadevelopers.slim-vscode":[
+{"v":"0.1.0","e":"^1.75.0","h":"179z066jvwv6xkxs3rbabzyw14qgcl2h2j9zb8lz35xgcnynggmz"},
+{"v":"0.0.5","e":"^1.75.0","h":"0aciclv2lilx2z7rqksyycqcf8d9kqpyriakaqm0wdzrizw24id3"},
+{"v":"0.0.4","e":"^1.75.0","h":"12y4d2b1f2kmz6wn5mwmm2b2qlknkxmcyniy64xar8zjx58km762"},
 {"v":"0.0.3","e":"^1.80.0","h":"06vj2r16bn5h839w08s1v21yqj6yl5yiwa36rv63cg3wjzfx7a03"},
 {"v":"0.0.2","e":"^1.80.0","h":"12qr6rr0jdrjv3zrjwl8gkjbf1ls6pbb8701rhsnjfrlm0m3kgff"},
 {"v":"0.0.1","e":"^1.80.0","h":"1hd8blfjf73c72q1c6a9hzzsgl08368k73d6g0v688xfl8f28n51"}

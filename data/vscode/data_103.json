@@ -2315,6 +2315,7 @@
 {"v":"0.0.1","e":"^1.67.0","h":"0vjdm9kip125vgzxz7l2pk9jkgjhwf573sx5jkan22lr7h6sxrq8"}
 ],
 "didispace.soloent-cn":[
+{"v":"0.18.2","e":"^1.101.0","h":"16zmg1rb0s1zxpghibf8ypw05gynv51b2fq2a2xzaxgdnsv5fl8g"},
 {"v":"0.18.1","e":"^1.101.0","h":"13prvgidm9d18wmmkvdwn5mingjk8hcr75m78lzmmh50jdbis6vn"},
 {"v":"0.18.0","e":"^1.101.0","h":"11n0kvmsjm5z6s67061a4j889dxf1lg65v2mggkvb21yifac59qm"},
 {"v":"0.17.1","e":"^1.84.0","h":"09bb2wwvwlh6v0ff2jsrc69bmmlzx9scqba34grbagc74ddg4jhj"},
@@ -2923,6 +2924,7 @@
 {"v":"0.0.1","e":"^1.25.0","h":"1p2mzcjwx82085qhvgq70w7rl65ybqhg5iqbh6hmzygkv77y31j8"}
 ],
 "gaphunterlabs.android-unused-permission-companion":[
+{"v":"0.1.1","e":"^1.85.0","h":"0x6a179l01c83cc3xqfdb0vsgy468zyfwy784bm04p7d8y878hca"},
 {"v":"0.1.0","e":"^1.85.0","h":"0mc7v0mzqkwfaxfy3kkzfbbpbwh3l8lqxpkm3hrizdglh0rgldha"}
 ],
 "garroter.spyglass":[
@@ -5054,6 +5056,7 @@
 {"v":"0.0.1","e":"^1.46.0","h":"1gcg0agmf3kb8dr091fsrnvgpj01jxni8sb49wf97b4vw3lcqlmi"}
 ],
 "llvm-vs-code-extensions.lldb-dap":[
+{"v":"0.7.20260913","e":"^1.90.0","h":"1fwrdpiqzqa0n7as50dnsf59kir1hy7iwkz9icbx4gyg0ml94cgc","r":true},
 {"v":"0.7.20260912","e":"^1.90.0","h":"01x3ynv38s12c8zbpvqgbhwvgy6iy2ssvzpmirma6ll2fmarwsn9","r":true},
 {"v":"0.7.20260911","e":"^1.90.0","h":"1f06m0cn93xf31rn4vnrgrgig86f0migrrva3x7pp5givsh5v9vw","r":true},
 {"v":"0.7.20260910","e":"^1.90.0","h":"1d61r6a82nz7yq78r418c0sg9rzm3zbahxli1d7xymqrzmn07lfz","r":true},
@@ -5688,6 +5691,10 @@
 "mariownyou.magalie-theme":[
 {"v":"0.0.11","e":"^1.78.0","h":"0ngyr74yysj5gxqq5xh33mdvagnaj47z44z2h5glm1x84i1vqin3"},
 {"v":"0.0.1","e":"^1.78.0","h":"1507m3nh30w1cv9pjyqn7g30406x8f97mdnwz2yfxjy9k1wm45m3"}
+],
+"marivaldojr.claude-accounts":[
+{"v":"0.1.1","e":"^1.85.0","h":"0ynfxrr4nhh7n9lwf4whhpkhldx2falj88i4gswi9bdd9zxa7jcn"},
+{"v":"0.1.0","e":"^1.85.0","h":"1w9qlk5dvpvhhcsw8jzhkbi65sr5haxav0vvs4nd8xibkdf5c6i6"}
 ],
 "markdegroot.vscode-vue-extension-pack":[
 {"v":"0.2.0","e":"^1.72.0","h":"0iif9hp0c2i267cj0pbb4r877i4kw72180mkkvkaiyq6rbhx4c06"},
@@ -7836,6 +7843,10 @@
 {"v":"0.0.2","e":"^1.78.0","h":"1bl09136h0m0y07h8vxmhpik1nfylhv9pss7milv5dri35ws8qbk"},
 {"v":"0.0.1","e":"^1.78.0","h":"0kdh78gg4pz7mlq0lfh4y9awyrgvfy04jlfp3wisx65clddin79a"}
 ],
+"readystack.pyproject-release-gate":[
+{"v":"1.0.1","e":"^1.75.0","h":"0cl39l3bc4y66scbmghh9n3kzh4r5hl9g00x08xsqf53kbmz8295"},
+{"v":"1.0.0","e":"^1.75.0","h":"129rw8ij40r9611ifh5ldrvxa92x19pw9kan2bdr4kh0hbnj6vis"}
+],
 "redhat.datavirt-extension-pack":[
 {"v":"0.0.2","e":"^1.46.0","h":"0qr2gvi07czgqm1zalbyprpzi189zxw096l3dbbv630118zzkj26"},
 {"v":"0.0.1","e":"^1.45.0","h":"0jwnyyfvg8152hzrkaa1m0fj9gjrj1gdpxjghb169vp4jpzyka98"}
@@ -9653,6 +9664,8 @@
 {"v":"1.0.0","e":"^1.85.0","h":"09pg0v9ycviy5yj72bcgpvdpnjn8qm3qxmxncawdzvbxw969r2yv"}
 ],
 "williamsmithe.xlide":[
+{"v":"8.2.1","e":"^1.95.0","h":"0s3wznyhnd31a5d6yjczg30fnngbr3vd1i1hr593paqhc94xj6kg"},
+{"v":"8.2.0","e":"^1.95.0","h":"0in1ibj7fwa3vgbl36agfmqn74kgkyqb2sqqjyg16krxcli90x40"},
 {"v":"8.1.5","e":"^1.95.0","h":"0z8sw81vncldk4g9nzdbz34a6vn01cq3vqv8pk6v4va64kns49g1"},
 {"v":"8.1.4","e":"^1.95.0","h":"01a2j0cap8ipsl5c8nnzzrsfqw2ddi9nwpqp5b6kszwgkfcz1ldv"},
 {"v":"8.1.3","e":"^1.95.0","h":"1f5g8ss8ykhbzvks8iif70wkdjqpbsjxbnz5j48si7ivhsm7ilq4"},

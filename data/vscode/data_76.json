@@ -948,6 +948,8 @@
 {"v":"1.0.0","e":"^1.70.0","h":"1w9wh73k2lil5b57a8ndfvafzdswq189zclkw0gilwcrpiqibcc5"}
 ],
 "bkpt.bkpt-debug":[
+{"v":"0.2.7","e":"^1.101.0","p":"darwin-arm64","h":"11jwvv1y7fm6x102z159m8p2yq4qgzrgv8863kd874khqzii8gmp"},
+{"v":"0.2.7","e":"^1.101.0","p":"linux-x64","h":"0nhzkkqnn5l4rpr4iq16clb2gabk7pdbnslp992f3h6mssmp9qij"},
 {"v":"0.2.6","e":"^1.101.0","p":"darwin-arm64","h":"02f1glj26k079kra93a0ybzbwmkmlkwn7p6dag3jykibl34029id"},
 {"v":"0.2.6","e":"^1.101.0","p":"linux-x64","h":"0xkgkdr46dm61hnmqwiwmmzkmfz1li548yd8n5w0yfph0i6m3x9x"},
 {"v":"0.2.5","e":"^1.101.0","p":"darwin-arm64","h":"189pqkp7n0qmy6j5r57rwrlrjak41mvcyv7b125sn6lcfpsnjr2d"},
@@ -3759,6 +3761,8 @@
 {"v":"0.0.1","e":"^1.99.0","h":"07r5s7zfmn5m0vcq8d22lpcz2iny39m830i9c6wyrnaard9i51bn"}
 ],
 "ivol.ivol-code-agent-5":[
+{"v":"5.16.264","e":"^1.84.0","h":"105sxvgxas5809qdnjiic12b5vqrbzh619jgrf76i2g89bscl0ah"},
+{"v":"5.16.263","e":"^1.84.0","h":"09r9gkp66bkn5a3kkqw5rpnhh7rqvjlbkfrkh7r8s8qcgyw3r1py"},
 {"v":"5.16.261","e":"^1.84.0","h":"0v3j1qbwkrlr2yx0khaxzfqrmraykkj8iysimfcagz8yfyhjqhp4"},
 {"v":"5.16.259","e":"^1.84.0","h":"011cw3rk6v7asshqf2s62m0nbqfm82wgkbdb4j1nyhf0iknfh3v3"},
 {"v":"5.16.258","e":"^1.84.0","h":"0zd75hb0wpbnwl71x444391iy3qy5jng3k4fhnpph4gmd7ifb82g"},
@@ -6767,6 +6771,10 @@
 {"v":"0.0.1","e":"^1.59.0","h":"1bflv6fjghpappflg8r0mhnlv6vsp52mfv352rsalg4zcdfkls3v"}
 ],
 "olkil.olkil":[
+{"v":"1.0.19","e":"^1.96.0","h":"0x0jq6nhy63sj7c0q5f9a9ccr6ig6j60ahx63vdjlpzkrn34d2df"},
+{"v":"1.0.17","e":"^1.96.0","h":"19wzbirg1s343rbdkj39l29y8bclacf6hx7kgmfi15zka4qqwgjg"},
+{"v":"1.0.15","e":"^1.96.0","h":"1fyscrz6p0w3hdg7jxx2k37hj07cj2yf9crg65gc86qfjh9n8pyp"},
+{"v":"1.0.13","e":"^1.96.0","h":"0rhjz4rzl7qdv65p95si0f6b4ksj1xd1j76ks01bm7rkk2zm398w"},
 {"v":"1.0.10","e":"^1.96.0","h":"0rml26jprbdg4vk9ggpq645bh98ljkilj7ny75g5ddvw02xx0cxp"},
 {"v":"1.0.9","e":"^1.96.0","h":"155skh9viyhlf6hfhxzqngd2jmrnymlakslm0g4q2bvnn82vipvd"},
 {"v":"1.0.8","e":"^1.96.0","h":"08pnj1y0wibz7xp476wrkn57h59g2g5pqbmsbc9b33y3l1j45zk8"},
@@ -8431,6 +8439,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"05k7i3bnx8lldf114svmdazj91dk16arzv9hmxbr9x9db80qv379"}
 ],
 "slow-walker66.mne":[
+{"v":"0.1.2","e":"^1.85.0","h":"0akxkwi6d80vbxcwdqjr5d66l1pgzrjkjwinhwhch4nj7ig4ms01"},
 {"v":"0.1.1","e":"^1.85.0","h":"139nkjifdm6k88cn1fiydvazr7phz7xblhbvi0i86gfa56pcsbzs"},
 {"v":"0.1.0","e":"^1.85.0","h":"1c8rb48m9xviinwzl8hd5p7w01gfpm6qa01ss6qpzl35nh29i6kb"}
 ],

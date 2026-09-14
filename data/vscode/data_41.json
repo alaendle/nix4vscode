@@ -4887,6 +4887,7 @@
 {"v":"0.0.1","e":"^0.10.1","h":"0d0bvsh5kfh82dr7qdjnjlisxjfn3z8a72zgwkfvcwgfs9xb9avx"}
 ],
 "lf-lang.vscode-lingua-franca":[
+{"v":"0.13.20260912","e":"^1.63.0","h":"16i68r5ii0f0xxv581hz88ndf6n0z5wg057csngvh3mr92d5bal7","r":true},
 {"v":"0.13.20260911","e":"^1.63.0","h":"05yblqighbf6d65ga02rqpbfvn91iixnkqwkny8fayhqnijb962f","r":true},
 {"v":"0.13.20260910","e":"^1.63.0","h":"1n5kg5m1yx9xwh6y0fsz2xviczsiw9jvl1qjgrqwajb98an72kz0","r":true},
 {"v":"0.13.20260909","e":"^1.63.0","h":"10c387g0pnin7rasmqzz1hn7gjw1xgfgcsj2ipgxsrysd2y04cs7","r":true},
@@ -7238,6 +7239,10 @@
 {"v":"0.0.2","e":"^1.46.0","h":"0k15wsxz8nxm5bfrwvp0w3ld14pvffn214x9w6nwvh4zzmc8j361"},
 {"v":"0.0.1","e":"^1.46.0","h":"18krbkz70sk60lf1x6y63yz8grsvqaq40xz6ngzf7cvljizzbrb8"}
 ],
+"omarorajain.arm-assembly-editor-modern":[
+{"v":"0.0.2","e":"^1.82.0","h":"02gk25sryy05fncpwxp08iq5sd7lnbdjp904b17znnabbb4134n7"},
+{"v":"0.0.1","e":"^1.82.0","h":"17mdh9g354wcj3kbyzp8jicad9wh3gxmgi1ypygndqz86zk580n7"}
+],
 "omniainc.assethound":[
 {"v":"0.0.3","e":"^1.85.0","h":"09i0j09zw9k8hxk2k86mjdfjmza2bfv5d94ickbpfi5r16iz332p"},
 {"v":"0.0.2","e":"^1.85.0","h":"13dqlkmfyhd26rahs5gmnrfr97bakip7qkm2hy4sd7hx93sn7q64"},
@@ -7958,6 +7963,7 @@
 {"v":"0.1.2","e":"^1.17.0","h":"0hml3g8sa8j4ggp3sjcx3rkcpl5f8dbfwwzyvdhffbmqwrd2wdbm"}
 ],
 "readystack.jct-transition-lint-2026":[
+{"v":"0.1.1","e":"^1.75.0","h":"1h4cm8jn1wvq93r167a3xlgfgfhccrqh46k34aai2cmj206bqz7s"},
 {"v":"0.1.0","e":"^1.75.0","h":"0b7yvkvw6ginxrkjmpk4s164lkrrr8g8wn51sfv7az3gk9qw79bw"}
 ],
 "reflectiondm.npmsmartimporter":[
@@ -9768,6 +9774,9 @@
 {"v":"1.0.4","e":"^1.74.0","h":"05h65y0hnlinpm0y7rqigkk73k97b3fdmaa1sniq7ypg9dbrph27"},
 {"v":"1.0.2","e":"^1.74.0","h":"0zjc1krr2h2kdkhczmqr7difgqqd8zif3y7qq2h1129bkq3qv2jx"},
 {"v":"1.0.0","e":"^1.74.0","h":"0z4ag603q1k1dsfv4jxkmxv1m6f6ya214rwxyma7r19l2lj0j90c"}
+],
+"uplume.serial-tool":[
+{"v":"0.2.0","e":"^1.75.0","h":"1l77zmqgc0i2a55x61s7zhg5qjwhdqjr0v99l12vr56vgjkaglfm"}
 ],
 "ursofist.vscode-youtube":[
 {"v":"1.0.0","e":"^1.80.0","h":"1xb5582b1k5m3fjj0l73z3r5fj38qj8w8gqw08bdb1v8k2sx6b16"}

@@ -896,6 +896,9 @@
 {"v":"1.0.0","e":"^1.85.0","h":"0f1yz7b48hhw5v3x7pdiwcxjvh38rys6y6nahw4sdxi3yjz28410"}
 ],
 "bytesbrains.bytesbrains-cruise":[
+{"v":"0.1.4","e":"^1.104.0","h":"0dp3iyrm3klflmzckr7n2hyfjgcfkgjz3b7h2fnidy9amfikwqsy"},
+{"v":"0.1.3","e":"^1.104.0","h":"0lck5d8aq4vdsv5m6z9dk37znalymb4qa1v9xnmffic1djm9wc94"},
+{"v":"0.1.2","e":"^1.104.0","h":"0rnzqaf7qvarpnjzdpdkwyvlhqxlqgsjxaigk4cnghj32rcyzdsr"},
 {"v":"0.1.1","e":"^1.104.0","h":"0flvrl58pamvkhn8hs3ssn9kk6chbvlw58znk41sb3gg35m5h4xp"}
 ],
 "caioplazas.eda-job-runner":[
@@ -1150,6 +1153,9 @@
 {"v":"0.0.3","e":"^1.74.0","h":"16b8lib88ggpw4gnnvwvl8xm0hfqjs3abj6dh6j0ry2ilns55pa0"},
 {"v":"0.0.2","e":"^1.74.0","h":"15yhrak1jac2n81ygdri77wiri2swwjh1lw1lf185ynm50fvsf61"},
 {"v":"0.0.1","e":"^1.74.0","h":"05nzasrkr348zw0xb1s1ixrq7mn6bqs647gi2z9gxp8vnm9bsidx"}
+],
+"codefy.codefy":[
+{"v":"1.0.0","e":"^1.85.0","h":"0d3c2z5drzx1yn2wv58dpzq0z4zx5ngpwpqm4yn26pn4lspzblkv"}
 ],
 "codehealth.codequality":[
 {"v":"0.0.1","e":"^1.54.0","h":"05rxbvy24f2kk11mh2z030c5l876kbwl762vsgkz6xvwwsl0fh2c"}
@@ -3362,6 +3368,7 @@
 {"v":"0.3.0","e":"^1.80.0","h":"126sny32k94pp4ngshqlv9d8vh0wpwpy3966mmsj5h8ys83ry4sb"}
 ],
 "jerrycrozet-electronicengineer.qt-project-manager-and-build":[
+{"v":"0.34.2","e":"^1.90.0","h":"079z4vlf24a0xdnn6dq25il38sx4b9r6v39hvi4w6igx9011x7kw"},
 {"v":"0.30.0","e":"^1.90.0","h":"07zpkkhrs0lg18rl49b789k15cz3f6ipi4azc9g3hnndg8dwlnd8"},
 {"v":"0.17.6","e":"^1.90.0","h":"035hg4bsxi4mfga77x3dpim4yvw56v12rlmmkrirygjjshl7d5n7"},
 {"v":"0.17.2","e":"^1.90.0","h":"1iqsdwbbkvqvgv8j1x73m2i42sivmrr8vplnk0digh1c32m4y7vx"},
@@ -3379,6 +3386,9 @@
 {"v":"0.3.0","e":"^1.60.0","h":"1j148j15ac6knjd4mqjnf4842ha2kl6cjf7wnb621i0z2ayb87lv"},
 {"v":"0.2.0","e":"^1.60.0","h":"0cdbb9pqz5lhf1rmyqy5768kf4bn6azglf6rjd76inf4xqx1p24p"},
 {"v":"0.1.0","e":"^1.60.0","h":"0ibarkcdiad72insgy6zphqm2xyaf9zkyiing7iqq3c4a6ky6gji"}
+],
+"jisibikramnz.publish-probe-bundle":[
+{"v":"0.0.1","e":"^1.96.0","h":"0c5nsz6rja3ws5vqmc7af8a81kci6zb5ks82lgp59b6j7v4d8mkz"}
 ],
 "jiumengdz.zk-zero-yaml-helper":[
 {"v":"0.0.4","e":"^1.44.0","h":"1i4v9lfggr4pb08r6crphwq3gscawlsc72b2352xdflxa7kiy6jy"},
@@ -7699,6 +7709,9 @@
 "shivangsrivastava.midnight-modern":[
 {"v":"0.0.2","e":"^1.91.0","h":"1r4kcnf3b3rv37xah07d9imfz9kz5ygss9a9y7rprycslmcgqzbd"},
 {"v":"0.0.1","e":"^1.91.0","h":"0w5f60bnpf5azyk04m7jyj431aj2fbr01sralwhz2v4ygj1y3p4y"}
+],
+"shm11c3.code-subtitle":[
+{"v":"0.1.0","e":"^1.135.0","h":"0z0asww1dswvspyzs2bdig2g2hwbpqqxdyga2czzy9hff2qb7372","r":true}
 ],
 "shoaib.emxlens":[
 {"v":"0.1.2","e":"^1.80.0","h":"0jx60didkna9pv7gia2av1cpmnpm4xrnrsaih59qm56jdhyp0lq2"},

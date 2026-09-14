@@ -253,6 +253,10 @@
 "alim.alim-terminal":[
 {"v":"1.0.0","e":"^1.80.0","h":"00q39hdcmax386cadm0r3v1jah4z4y8bgsxhni5rnhfpjy75fnrl"}
 ],
+"alireza-yaghouti.router-models":[
+{"v":"0.1.2","e":"^1.104.0","h":"1jhd0j6wnzlbcrhhln5a8l4danchca1qabzf7d4x0almqxzk7wp7"},
+{"v":"0.1.1","e":"^1.104.0","h":"1kbkl57q9xbvi1vdq89lkbsk5k2q1svgmry1hxkr0lpbrab14sgp"}
+],
 "alisexchange.alis-build":[
 {"v":"2.9.6","e":"^1.98.0","h":"07n4x8cz6a9q47m1gy5wi775fjvaqmgf5x1hqb8nw5s2ip868105"},
 {"v":"2.9.5","e":"^1.98.0","h":"157csyijgnzd8b6rh8p4c733zhxd7izf93d2rk1rsqj4pfmccd24"},
@@ -4397,6 +4401,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"0df66bivwkn0cwrchbqb9wmjw1kwqad98s54jf55pzl7z5jb52l4"}
 ],
 "jerrycrozet-electronicengineer.c-cpp-project-manager-and-build":[
+{"v":"0.2.66","e":"^1.90.0","h":"1flllrizm41m7xhh6gl6nylci89n37gvy0hbhqr1z4w345g3d8vd"},
 {"v":"0.2.54","e":"^1.90.0","h":"0y92i034vqgvcyyyqq67gcyg03aldkbcca6nn0ni58zgmrp3iy8c"},
 {"v":"0.2.52","e":"^1.90.0","h":"00y9y31qs1j7j2ii413iv7y5ci4qdnzcn9clda444802jah6ypz7"},
 {"v":"0.2.50","e":"^1.90.0","h":"1l62cgrrc8qaq052skhqr54ynksyvh5mh657z6ndq71akzvb6riz"},
@@ -6130,6 +6135,12 @@
 {"v":"0.0.2","e":"^1.21.0","h":"03j5q26v5ppja0rk1n5x3zfbwqx5nvrnwx3r10ajzfqj4yvwwk3m"},
 {"v":"0.0.1","e":"^1.51.0","h":"1xjvq202m04vxiaaill47vwpl04bh99nlm6q15rw9kmld3pf7ifq"}
 ],
+"mren.agent-read-heatmap":[
+{"v":"0.4.0","e":"^1.85.0","h":"0ls77lcpv9qvq78251sxgr3qsybva5nchmpg392idli16g9w611q"},
+{"v":"0.3.0","e":"^1.85.0","h":"1h8yr7jx2rgwssjbc2nhxx4pcjfy57di1d2cikwlbb18ygsj2hzx"},
+{"v":"0.2.0","e":"^1.85.0","h":"1d55yyshng1n7bqb152h9ia64g5h65mzxxb05g48mkc86smaig7h"},
+{"v":"0.1.0","e":"^1.85.0","h":"1p3kjhqpjv3wk37ykwy03r1b9w4vm21wwdk4brk6icgnm65pi207"}
+],
 "mrsavior.fish-tools":[
 {"v":"1.0.7","e":"^1.74.0","h":"0k2c7c9kaci1gigch0z4kvx5bv6rijygxfn8sacz0vsr4k8w33kx"},
 {"v":"1.0.6","e":"^1.74.0","h":"0c2w9srjszsahvaigr9yz5n7sfqy7xiaq7m0bahyk3gp37a7lklp"},
@@ -6589,6 +6600,7 @@
 {"v":"1.0.0","e":"^1.61.0","h":"0ir2mmm7hniph80s09r5cm8bnqcfvi7329jgxwpbarvxvqaq73rd"}
 ],
 "onlineeric.speedy-git-ext":[
+{"v":"5.16.0","e":"^1.85.0","h":"0az1yhbjwvajamml1nyzlpwq2kbbmhpcg3hjh35vj1bb9q5b0qny"},
 {"v":"5.15.0","e":"^1.85.0","h":"0hygw6w4c53gs6c1bmwh5pm5axcrwrd4jdc56kqghqifn8s71mxf"},
 {"v":"5.14.0","e":"^1.85.0","h":"1hg8d06vs9g6hm1yr80cmhsbaldpdaw3saj8791y8fhlwqa5gsnz"},
 {"v":"5.13.0","e":"^1.85.0","h":"0xp3npmdnmm4qaa0dq8hnr1j6wy4nn454cfhc7js5hccs7kkk3qq"},

@@ -2447,6 +2447,7 @@
 {"v":"0.1.0","e":"^1.99.0","h":"1v9cynyfklbar8kqcw6qs4ja1jgg5a6nzhx99rhfkav9hvz4ikyg"}
 ],
 "esing.sub2api-usage-monitor":[
+{"v":"0.4.0","e":"^1.90.0","h":"1jda2wsxl42ijh2kkki7z3kns9r26yl95vg87ky5c5c5rqn18q48"},
 {"v":"0.3.5","e":"^1.90.0","h":"0xhxspcsk5rpzyis2vns4axpn20rk2703j8pbryz2a19h3vi818m"},
 {"v":"0.3.3","e":"^1.90.0","h":"1kbj9r58bhcd70a9pm4cxl45js9yqqj3f44xmwyl9dd88k1ymiyn"},
 {"v":"0.3.0","e":"^1.90.0","h":"1cabm5y5vy9lv6dxvbki2nxninl5ksfkl0rlcgpzwnnsikzi0lzq"},
@@ -2856,6 +2857,7 @@
 {"v":"0.0.2","e":"^1.48.0","h":"082zdhf6f2qj3n9wg3yhgv9r2hnp7lsqnczb7fp7zg4vlh3mi7jf"}
 ],
 "gaphunterlabs.dependency-license-companion":[
+{"v":"0.1.1","e":"^1.85.0","h":"0v0r09wlmrg6b26589cc10nywxikx8sgpmghlgkjb94wq9gqaii1"},
 {"v":"0.1.0","e":"^1.85.0","h":"03dz56f1cm1m8nna04fiz9mhlkjxp7i9ylc7fkhhndxf9lxs8nbr"}
 ],
 "gapkukb.carlos-tools":[
@@ -5667,6 +5669,8 @@
 {"v":"0.2.0","e":"^1.85.0","h":"1nka2n3pnijn7qs4pz4ywdf24bfamd6p9g34pxh8jzzhdbrka64d"}
 ],
 "niksharpkings.tooltip-customizer":[
+{"v":"0.1.1","e":"^1.134.0","h":"1zygcdd4x0bxj5gbc2xbax4wv1nkwypypn2mwlmgknzw0fihfmzd"},
+{"v":"0.1.0","e":"^1.134.0","h":"1kl3jljv9p2rrwmq200aal92dfm91ldfn406jdxkinppipm4hgfy"},
 {"v":"0.0.3","e":"^1.134.0","h":"05mvk83bzqbbbwiw10b4lfg5chpyd3zdsz7cn80f47rda2c1qwly"}
 ],
 "nisala.proximity-chat":[
@@ -6034,6 +6038,7 @@
 {"v":"0.1.4","e":"^1.75.0","h":"0j5s0kf3xhc5vrazlb5a2801f33hlb39hdy6qzb393d904kkai5g"}
 ],
 "phtn.beastjs":[
+{"v":"0.3.1","e":"^1.91.0","h":"1x7mj9l9hk70a14lily1iywbljcqjafvgp62rdb77xrr098mbx83"},
 {"v":"0.3.0","e":"^1.91.0","h":"15pn77f8r4zb5qn56rrd9i08sb59cy39w8j9s8nzhk1i01sg5798"}
 ],
 "pijie.tapd-opener":[
@@ -6356,6 +6361,10 @@
 {"v":"0.1.2","e":"^1.90.0","h":"1v7pz39zqns1pf7l481s1gcrl33s3xrpnn8y7k46w3q52r67x96p"},
 {"v":"0.1.1","e":"^1.90.0","h":"1b9dy95sdj077j0pkv83ayyysyyp5vi24cxyxl7s7krf6zvahg85"}
 ],
+"readystack.firmware-release-gate":[
+{"v":"0.1.1","e":"^1.75.0","h":"0ssbys3l4ghnisgdwg14ajd8lpmilfhxvl5jq80rwr0zblyn44hx"},
+{"v":"0.1.0","e":"^1.75.0","h":"0fab4di8sx8aai21m5j8f4np2ybgfy8n3ffpmmn2m7fmhf4gssii"}
+],
 "realdeanzhao.better-explorer":[
 {"v":"0.0.3","e":"^1.74.0","h":"16vc1h54k5mnnba5d4bi52n8ir6pf27d2g41g0zp120648xhn255"},
 {"v":"0.0.2","e":"^1.74.0","h":"1hchcmch40fjnynypw811xrzhbvzm669g79adl28pvr5447cgnms"},
@@ -6552,6 +6561,9 @@
 {"v":"0.0.1","e":"^1.63.0","h":"0baalvkg6lzqh2vm6x504hfjka22qqmfcbavyiq4zkx0lli2w6am"}
 ],
 "roarpeng.graphflow":[
+{"v":"1.18.5","e":"^1.99.0","h":"1yh35p06dyha072xb0c38d2pk9jpiv0qk7s66aaiv863rd7v1vvf"},
+{"v":"1.18.4","e":"^1.99.0","h":"1776cy2382fy5d20ci0s40dycnwm8picdqzcm0ghrgjqcz8iqcwf"},
+{"v":"1.18.2","e":"^1.99.0","h":"0g19p0qd6a9s87ajd9n746x1zyv4rcq35yq3n6ighb3nzq1drjjw"},
 {"v":"1.18.1","e":"^1.99.0","h":"0fi5p1wbnnfrrw1nrxyqqmnqwc5y6h19mhn9my2snvbkbavmdpng"},
 {"v":"1.18.0","e":"^1.99.0","h":"0qkn9c66hnl9afx2bsvz6iz5kb341vi8927b4rbgdpfwl0bgjjdx"},
 {"v":"1.17.1","e":"^1.99.0","h":"06nv4lkr7v7szxfvdm2pf6mbd000ccywcw46h3j4fcjhihp51jig"},
@@ -8518,6 +8530,8 @@
 {"v":"0.0.1","e":"^1.40.0","h":"0f502xm51fwv4vqjy4wpx8qng0a9bl1m8mbajxlqz6div1d1yawr"}
 ],
 "vercel.turbo-vsc":[
+{"v":"2.10.12007","e":"^1.84.2","h":"0nl8psr6pxdwg9akxrwak5mqzd03rdch79z6lpdl3pggp6wp22sn","r":true},
+{"v":"2.10.12006","e":"^1.84.2","h":"1zrvin6ggpdylsdqkg3vnkbi723prms2cxjfdp1b3i8vp19vb9lc","r":true},
 {"v":"2.10.12005","e":"^1.84.2","h":"1fimc1fynkah8jq08bz4w0dnzvlq5hw4yylkgx6h0br8d2hxml23","r":true},
 {"v":"2.10.12004","e":"^1.84.2","h":"0r1cf0hd5bqy14ds6nhrpvfil3id9vs95jyyb6ifgq3kvfb82hbd","r":true},
 {"v":"2.10.12003","e":"^1.84.2","h":"1s2izpxc2ibgjpsws2s8dq0bpp24m1s1kzw9j961454f1jm7r1b5","r":true},
@@ -9408,6 +9422,10 @@
 {"v":"0.1.2","e":"^1.76.0","h":"0wf61ljgy08wcd4cnlnb11wskj3nrp3j24cnhx1bw95wdnl1cv1p"},
 {"v":"0.1.1","e":"^1.76.0","h":"13dqzjlnxw3mfyn764mj0jcfvxvahyl1gpaf0lqi5gjg945snah6"},
 {"v":"0.1.0","e":"^1.76.0","h":"029l6qwx7hh28qs00fm3wjzapxlak7fn902j1mwk4g2lsvc1ygl6"}
+],
+"zelzazor.easy-task-runner":[
+{"v":"0.1.0","e":"^1.137.0","h":"0l06llgf2v5c240p1g5qak3mpcbh2kkxr20m379lpc5imfa55sxg"},
+{"v":"0.0.1","e":"^1.137.0","h":"1225hrh3klfnhr811hzr28gds0zrql68mr3jdl21n4yz18bngc16"}
 ],
 "zeng.countdown":[
 {"v":"0.0.1","e":"^1.60.0","h":"1nw3qpzwy8zgz3v2bbhqzz46y7ibq6s2kqh8rnwslp5pbi0j6ikh"}

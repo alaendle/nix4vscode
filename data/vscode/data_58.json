@@ -6157,6 +6157,11 @@
 {"v":"1.1.0","e":"^1.39.0","h":"0j7p8g9lhigkax8385k23vi4gkkgz0dfmni0wf65j3ryvc15kwm7"},
 {"v":"1.0.0","e":"^1.39.0","h":"0vm8x0y2z299bis1cpq4v7idq9ghcd4w7rhfpy758wij9k7mjqwr"}
 ],
+"phule.ejs-angularjs-navigator":[
+{"v":"0.2.0","e":"^1.85.0","h":"19cdnc84mpq5jq7p9n43m7yjxf7hsjshk311nf2snw114saryga9"},
+{"v":"0.1.1","e":"^1.85.0","h":"0i1fyiz886mc5p3rh08rckqvg87pli9a2rfhbv4a6fxc2r0vxr3s"},
+{"v":"0.1.0","e":"^1.85.0","h":"1a1jj919gwjqlhicq3lz5kk67fgyyclcivmj11pfk0flmv5v58hd"}
+],
 "physsong.vscode-command-favorites":[
 {"v":"0.1.0","e":"^1.109.0","h":"0pn567jrxvj0w22hiwdx69zk4ldcww30hac7qmil02ddghbd6ndz"}
 ],
@@ -8080,6 +8085,7 @@
 {"v":"0.0.1","e":"^1.73.0","h":"1qm6zn329xzw9z4gdh816b5grzhd5nm068jbf06rxryn99mi439n"}
 ],
 "trustnooneelse.cosmoteer-language-server":[
+{"v":"1.0.2","e":"^1.100.0","h":"17mbz0m2ssn0g8x22ws58a3vndph1w8y8w3fwc95bk55pmv8df9g"},
 {"v":"1.0.1","e":"^1.100.0","h":"111shiwmr63irjmyydyqlhcs77n2fh64fqfsrdx30d6iad3jr0nn"},
 {"v":"1.0.0","e":"^1.100.0","h":"0ss72bbj8smiwf70mkr3qp0rxcmnf80r4p6gkmrvy6c40jqxgdqp"},
 {"v":"0.9.0","e":"^1.100.0","h":"1b29c9iiqm8n208mils6da6l3y37rpk1cbn5yx2n7733kq32pqqc"},
@@ -9019,6 +9025,10 @@
 "ystrdy.saturn":[
 {"v":"0.4.0","e":"^1.13.0","h":"1xjf1bgqa4rb69a8w6r9bc0j5zqz89dm99vp5a3pzl530v7vji1d"},
 {"v":"0.3.0","e":"^1.13.0","h":"1qcslmafhc9flm68ciggc1xa2iw8341arh129f1na686ch78zzm9"}
+],
+"yuansoftware.opencanvas-app":[
+{"v":"0.0.2","e":"^1.80.0","h":"0h5615zf8q42rgiav5fljnjcz2frfhszfw6bdamsb383g4i5a6qs"},
+{"v":"0.0.1","e":"^1.75.0","h":"1ip7p7sibbbh8s99dqk03zr1fgbf56czi7cs7ggbgj2haj7hgk7s"}
 ],
 "yukisola.hitokoto":[
 {"v":"0.0.5","e":"^1.29.0","h":"0awypp5f3phiha8cbpayw50iaa9svsfjcvl6rhn9n41jn3gg4bp8"},
