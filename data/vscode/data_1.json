@@ -2982,6 +2982,9 @@
 {"v":"1.0.1","e":"^1.85.0","h":"1hf3vx8jfx3s9ripm7pq7lr58y8f3x9gvnan5w9a6sxmvss01nfn"},
 {"v":"1.0.0","e":"^1.85.0","h":"1148gj54faj78llr47kvahspvdd0k7abq0b0g0jqbspq5l6zxhhm"}
 ],
+"eugenegpil.php-fold-imports":[
+{"v":"1.0.0","e":"^1.80.0","h":"0v7b31yw1hvjn68ba0s2qxb6c2m3pfq88jaqza6laf7wr0vsv1y5"}
+],
 "ewk-experiments.chorus":[
 {"v":"1.2.2","e":"^1.96.0","h":"1li3zwb0xkwjxz6v3zlr1fbdk9nn7fi4f5jr835y623zpvv4qmqp"},
 {"v":"1.2.1","e":"^1.96.0","h":"1yx6x7xdrqk19sqx7vvy9m787xg4kfhk3zxzknb9l2y4bz9jsig4"},
@@ -3314,6 +3317,7 @@
 {"v":"0.2.0","e":"^1.60.0","h":"0lqnmfmj7hxx28dram0apq3pyx8r49gcvps5mzgcri30205a4i6b"}
 ],
 "gemtalksystems.gemstone-ide":[
+{"v":"1.10.0","e":"^1.101.0","h":"1x4n9ps6ddd4832wj8aladmdaiymks293416lb1iq7k6fj8xpy0x"},
 {"v":"1.9.0","e":"^1.101.0","h":"0qgy77hzdsplv7jpcqw5ikdvkxjqidvsspmyn8cbzbd6h42j4b8n"},
 {"v":"1.8.14","e":"^1.101.0","h":"1xcqyzdsv4j00ayy79vhg88sjz43kdmyvywm2qg4nb5dn6dkn4sg"},
 {"v":"1.8.13","e":"^1.101.0","h":"0jm53szkkbzc7ic1c2k2xc288mbfwn8ar5mz5xwgp40wxgs5jyp8"},
@@ -3383,6 +3387,7 @@
 {"v":"0.0.1","e":"^0.10.1","h":"0njq9di5ck840zrysvxdr9wl7c71k9zfvmpgg112yf3pa3zrad46"}
 ],
 "gerardsmit.roslyn-sense":[
+{"v":"0.4.2","e":"^1.85.0","h":"12vv07x1rlfjn95v2pzy6mlq379nvc94qr6xj8bmzmg3328v1fpj","r":true},
 {"v":"0.4.1","e":"^1.85.0","h":"0q62ly9kx2c92bha2snkxdg5ppgwv48sx7gjj13dapvv8qizn8fw","r":true}
 ],
 "getjump.getjump":[
@@ -3974,6 +3979,7 @@
 {"v":"1.0.0","e":"^1.60.0","h":"07ic5lg76avr9v3hd7qs879ld7zx1p6mp760hxb26bvqih4j8d3l"}
 ],
 "icecreamparlor.converter":[
+{"v":"1.1.7","e":"^1.78.0","h":"00fw5wlzasjis3gjsv72z4vc57rki9206003m3dn5f869yi4f1mh"},
 {"v":"1.1.6","e":"^1.78.0","h":"03qwxmxvqdjyjyqai25pzgxdp49l8r2nwcrw85y9j8wz3l9kwd00"},
 {"v":"1.1.5","e":"^1.78.0","h":"1vmrbhaqp0947jdlb06qm9a3w5f3fqxddvcggh4bh7gpggax8hk2"},
 {"v":"1.1.4","e":"^1.78.0","h":"0z8i2an6b9kclgjrx58clr4yymani926f38jv68fza4n144mr66z"},
@@ -4026,6 +4032,9 @@
 ],
 "idmdakhi.gitwe-vsce":[
 {"v":"0.3.1","e":"^1.85.0","h":"1yshwwf3imvawnxw3azpcx9sk4myc8mclynz5gsbj4w4kf8gx94r"}
+],
+"ikaruga-tech.md-tech-pdf":[
+{"v":"0.2.0","e":"^1.90.0","h":"0grqwkrqbgr3515r308qhrh928y63vgy43rsybqxqkh8pzsasx4g"}
 ],
 "ilasisi90.deepseek-r1-chat":[
 {"v":"0.0.2","e":"^1.96.0","h":"1nf7yn9g856gslwsmxzx2hx5mwnaafrqvb2ais4185l4srarsc86"},
@@ -5642,6 +5651,10 @@
 {"v":"0.2.1","e":"^1.46.0","h":"1n5wmsr1pc1whlx7vvysqmcxqk38jzd1amf8njx1bsyc3gpzpbqc"},
 {"v":"0.2.0","e":"^1.46.0","h":"03xq4jhmv96h2liczz2n23852lia61sp6fb0kg29bxlr404dh8dg"}
 ],
+"meinolfamekudzi.microgulp":[
+{"v":"0.9.4","e":"^1.90.0","h":"1saf12h2hg2vihqp2vi2cwjg9j7lvl626qfiglyx99lar5gnvyvg"},
+{"v":"0.9.3","e":"^1.90.0","h":"0f8k0yrmi8qx8q3gh29mhqq8nsvazl2nk0rvfdk6knjg3yzi7ka3"}
+],
 "melihaltintas.svelte-format":[
 {"v":"0.0.7","e":"^1.51.0","h":"0qdl08wpamsvn0v959i780y2k65y4fzkgmsa7ihdh20yxqc7chj4"},
 {"v":"0.0.6","e":"^1.51.0","h":"127vz1sj37pac486bz0iyzg9msrwswkys5dbjsjkp4awp8g9g7vs"},
@@ -5943,6 +5956,10 @@
 {"v":"0.0.5","e":"^1.35.0","h":"02l2hk8p2aysc6iln7j8cw6pl83xj3lqp2mhs912lxfjdihgg1pj"},
 {"v":"0.0.4","e":"^1.35.0","h":"186lm5iahy1jym9q53pq5r1fwl173wci0l4z5vr1q534rl9gghi7"},
 {"v":"0.0.3","e":"^1.35.0","h":"0a2jgrx89r1dpqjy4p6vqanxizwi3k742r15p1a8lrw5hxbq407v"}
+],
+"mistlock.mistlock":[
+{"v":"0.0.2","e":"^1.90.0","h":"1054mdggim7mw5n36vjgqysksrh6n20q7svhsdashfmk6rhx3wbw"},
+{"v":"0.0.1","e":"^1.90.0","h":"19772ssac7xcp7x1zbg7jc30ma8pd2ndmy8yvpx533cr8kmm1nlf"}
 ],
 "mizdra.css-modules-kit-vscode":[
 {"v":"1.4.0","e":"^1.84.0","h":"0fsqryx97y1z31gyq05gj3m5rpafjm3va7ggl6w8n27l94pkyrkv"},
@@ -8187,6 +8204,8 @@
 {"v":"0.1.0","e":"^1.84.0","h":"1z26bvzfl09nc1hfb1cxg77v6hs6njd67nglypdyg6hykrgf2268"}
 ],
 "shivakrishnakokkula.claude-action-timeline":[
+{"v":"0.12.2","e":"^1.90.0","h":"1zjzfwh96igrb03934smm4h2ibja5aq4x3i69spdmjy5s4ri0hpc"},
+{"v":"0.12.1","e":"^1.90.0","h":"0p5n15j0j4m8vh0j5n84c0zbgdbl7h9rbhr4rr8jqrw699h4rr6v"},
 {"v":"0.12.0","e":"^1.90.0","h":"1pvhnmms47qfb23c84wm6ydkg5c51h4j55vk51ipxfj507yjfwib"},
 {"v":"0.11.0","e":"^1.90.0","h":"1pisgxgfcfrn9f37s4dmx9bca1wd9p8w9b5g7xyz29008v10favw"},
 {"v":"0.10.1","e":"^1.90.0","h":"0v6ly7dz6wwln617r4di87cgl34mafzg2lrqn1fhn5lnn9waxx7q"},

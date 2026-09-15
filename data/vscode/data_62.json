@@ -1241,6 +1241,7 @@
 {"v":"0.0.1","e":"^1.21.0","h":"19r520r4fn4ibj71c4dbli9z0pzy4j25rwl0xall28vdp6qdc8dj"}
 ],
 "chinese-room-solutions.vsc-opencode-gui":[
+{"v":"0.2.0","e":"^1.90.0","h":"077lmv37b85ipnvykdbp8b4kiaym56k7nahci0z82vbv14vmygki"},
 {"v":"0.1.1","e":"^1.90.0","h":"113w0j0qsw83sfgsjaky181674vrhz0ln0d0ymvb8jq7gm0rz11l"},
 {"v":"0.1.0","e":"^1.90.0","h":"062qw9lhbpvqkjlx0491swskd709777h4292k0h6gb2l1byqsf2v"}
 ],
@@ -7661,6 +7662,7 @@
 {"v":"1.21.13","e":"^1.31.0","h":"1pfkih9qbdz10sbmxa9hj58xa92jc9pq8arxmzfv55h7z7j0h2sr"}
 ],
 "ms-python.black-formatter":[
+{"v":"2026.7.12571007","e":"^1.82.0","h":"0ba2wz66ick6azk5rsj0l3y5kqdv84gfh6zzx4x866gg49dgcdg9","r":true},
 {"v":"2026.7.12521008","e":"^1.82.0","h":"01gch4p45amjzvpqbypccrq7mzbfshizzpr2jb83c0y7bb526i34","r":true},
 {"v":"2026.7.12461009","e":"^1.82.0","h":"0xwga758fiiif6vn99pfxl3xppfjdp0i0rpicq3p8kcv4f1rnqzg","r":true},
 {"v":"2026.7.12371004","e":"^1.82.0","h":"0b5y0fgp3rpypakkim5n4rx8k0a445ii3id3vnjxdmmjki4qn5c3","r":true},
@@ -9742,6 +9744,10 @@
 {"v":"1.0.1","e":"^1.101.0","h":"1dalh60gind48333bx9961w15ryfr1ds9iz5vhk6lsz64iciyax7"},
 {"v":"1.0.0","e":"^1.101.0","h":"1hlhdawr7y6d9kn1rbwcbgbmrc0lkbwg2spjbw86d9sx769g4sab"}
 ],
+"sakshamm-khanna.helix-terminal-ai":[
+{"v":"0.2.2","e":"^1.85.0","h":"0scbgbhnjjwahpnh7ix3gscqvxfxx04plzw113af86gfjz280gw0"},
+{"v":"0.2.1","e":"^1.85.0","h":"1lx07hg46wyw789007zpz6mgbmrhzx7mdbfrh7q3675rfwq956jz"}
+],
 "salem.alusus-vscode-syntax":[
 {"v":"0.0.7","e":"^1.32.0","h":"0qfvqm4x67hpbh1p049i9qy7jlcrz8dx4hnq828hzi713ww3dbyx"},
 {"v":"0.0.6","e":"^1.32.0","h":"1097j48pbj5prr32wvivc1f48l6872jnbiajgcj44j0kkj6043xz"},
@@ -11522,6 +11528,7 @@
 {"v":"1.0.0","e":"^1.70.0","h":"1w6a90z4890blaz0zmk19zgwy2ynnxij1sy474znk4hi00bpcrzb"}
 ],
 "zh-jieli.jlstudiov2":[
+{"v":"0.0.3","e":"^1.104.0","h":"1211vgb9ar42nksif3amks68sr54yrj12jbij7n5d6gjkywcvy74"},
 {"v":"0.0.2","e":"^1.104.0","h":"089v2bl6ci5wcwsm69llf5v7d86cvc3crmfrxh35md2lqwj5bvd2"},
 {"v":"0.0.1","e":"^1.104.0","h":"1hvrdl0mdi6ffd4d569m8d3d91xbiq5xdp42vyf5xlwdbvrg4qwg"}
 ],

@@ -1646,6 +1646,7 @@
 {"v":"0.0.3","e":"^1.85.0","h":"0ymvxbcwhbk3i1gya42lxxjzqgzb9ykaiffzfcws4y4wy7w9dw35"}
 ],
 "copado.agentia-idex":[
+{"v":"0.1.3","e":"^1.101.0","h":"0baja14cabzy90as0n9yhsdx81d7hbk8ld7xadcyz6fgcacmv24w","r":true},
 {"v":"0.1.2","e":"^1.101.0","h":"1ayxd10hd2mqhjl4c1zh801fljaiy0vmkxbqc2f00rs0nccgyjci","r":true},
 {"v":"0.1.1","e":"^1.101.0","h":"1jlkkswww37yr1j8x067jng42vlfbafmrq27x4x51agdd23qrxyj","r":true},
 {"v":"0.1.0","e":"^1.101.0","h":"1g3jwxjnnxpnwzf3q5dx315k7g39ns74ahlra5aqj92xc29npazk","r":true}
@@ -8799,6 +8800,7 @@
 {"v":"1.0.11","e":"^1.76.0","h":"05s55xfxl45wfxr6ivd8iaf0ga2jmf8ab89qs5q2cz1nmmlh61hj"}
 ],
 "sufficit.sufficit-vscode-symposium":[
+{"v":"2026.914.1","e":"^1.100.0","h":"1zm0szglifxbijm35nqmxfzgr4l3k4yjp3z9l1bfgg6b7gps97f9"},
 {"v":"2026.912.1","e":"^1.100.0","h":"0c93286w87r0v315bbml2v9siac4vz0k4ql7pdzzfm2a0z7kxyif"},
 {"v":"2026.910.1","e":"^1.100.0","h":"1dm4lg6i4kq9aly2a61hacsx7csf19dnva6v6wbrx5amzxa6lm9r"},
 {"v":"2026.907.2","e":"^1.100.0","h":"0wnzv350gmxgnvh1kzqwlyridv8ldll7h4vl9mcr4xz0r637dlcw"},
@@ -10093,6 +10095,7 @@
 {"v":"1.0.0","e":"^1.60.0","h":"0x0vrg5l5fyn689cjzh9n3yxj4a3ip69cm6925v8z9s8yyccx7mz"}
 ],
 "yangkangsung.task-beacon":[
+{"v":"0.16.0","e":"^1.80.0","h":"05j9dgml2czfahi946kmflcmqg26w76hag27y25nrnclrz7n63za"},
 {"v":"0.15.1","e":"^1.80.0","h":"1417gc2klmx22az6c78rcs80v9803v6vmad9abkfp5hvrarmn89d"},
 {"v":"0.15.0","e":"^1.80.0","h":"0abvvqq62rk5ykl32zd7r4b6n54sxryqv7mch562s0zvq1dhwayv"},
 {"v":"0.14.20","e":"^1.80.0","h":"1ybzqlqzck3k9lai77ls1syf88m9b369xzvs5wdg8ql7jg46bb5w"},
@@ -10446,6 +10449,9 @@
 {"v":"0.0.3","e":"^1.70.0","h":"129xjpxz0iig1dhja95azs8jcj6mahdigr8h14cdlm9qrl8x5f34"},
 {"v":"0.0.2","e":"^1.70.0","h":"0mdcvbrc08wrcavq7bf8n5y8ycxawmw1cq0kr87l70fnscw4wwfr"},
 {"v":"0.0.1","e":"^1.70.0","h":"1mypz3h46mwwdc2mx5scgz7k2yp8m6l98wniqva42r1lk8v7x0k5"}
+],
+"zhx.zhx-test-extension":[
+{"v":"0.0.1","e":"^1.80.0","h":"0h20vfkmnmkq94bbmgxv7av0n5nzdzp21bc5hjmqdzyy1c0rjy0y"}
 ],
 "zippyfixer.zippyfixer":[
 {"v":"1.0.3","e":"^1.85.0","h":"1kwilrw56qllmh1421khqbmfq94cfai4w51wagc52hhkfs8xiszb"},

@@ -6284,6 +6284,9 @@
 "nvnighter.nv-nighter":[
 {"v":"0.0.1","e":"^1.95.0","h":"1wm75cwv7p0lggkm21p0chidb68lpr8rsb1ws7x031zd3a6qa85l"}
 ],
+"nyisu.bongocode":[
+{"v":"1.0.0","e":"^1.84.0","h":"1hnq8k6wpgyfs6bmixcxh4r0z0mbyc1b2iy3zjrd06zlh0iz7wcp"}
+],
 "nyxb.vscode-use":[
 {"v":"0.0.3","e":"^1.79.2","h":"0ri183axf8hh4ppsjzap223w1fz1w7kp1q9a4ym40mhsq44g3rrc"}
 ],
@@ -8156,6 +8159,7 @@
 {"v":"0.0.1","e":"^1.65.0","h":"17mbs182kwd4p98kkfixcckdw3w6wqr24nbpz5yz18w4yvad77jd"}
 ],
 "skrety.sf-org-deploy-wrapper":[
+{"v":"0.23.3","e":"^1.85.0","h":"1bzjxm2wdd0mcdi0zf7hpq09vqdc15p1dm76lpd39ykyfqccq2ic"},
 {"v":"0.23.2","e":"^1.85.0","h":"0zih5gb3yalsx9lqwp6v2spa9n0s1f5dfi7wqdah6dxfxrn5r0x5"},
 {"v":"0.23.1","e":"^1.85.0","h":"192s4iv2a3cic6db83cgikg90mjvwcvfvpwxcsf6wm1hl308lxqn"},
 {"v":"0.23.0","e":"^1.85.0","h":"14bfqmn6fg38wkn1cx1l544z5fr0lisrsgd6mdc7nn8scr4h6bzk"},
@@ -9945,6 +9949,8 @@
 {"v":"0.1.0","e":"^1.90.0","h":"16pbygvylbrm2yg4qykxcxj8v3jdi0s7zkgrkmfbdymi1izv8r5k"}
 ],
 "worldhello.pandamarkdownreview":[
+{"v":"1.0.12","e":"^1.95.0","h":"0mqw5z14g2ndb6594rwfdgbqn1qha88bjw0dj7nbckkmr3iksv61"},
+{"v":"1.0.10","e":"^1.95.0","h":"0bhwglbc0lj8vjhkj90cf88dybsywfjgkcsgzr98ws4ns2v9iz9c"},
 {"v":"1.0.9","e":"^1.95.0","h":"10ax169pbzv9xnb09s5s7bk33lwjw9vd8l2pks3l8sxrdp3hgwj0"},
 {"v":"1.0.8","e":"^1.95.0","h":"0iwm1kb9mbfg57rg0wqkwdxx59d3cgqppar1b6jrllc4srdd788v"},
 {"v":"1.0.6","e":"^1.95.0","h":"1rj3jigdi4dhq88kiwy29r50axmyl2q4czc6b2ifkd4fl1ki06zd"},
@@ -10045,6 +10051,7 @@
 {"v":"0.0.2","e":"^1.82.0","h":"1b1k98a7xh4aj69hn4hr253r6mc4v9l39bgssg7hi8wvnk90lrcs"}
 ],
 "xingzitian.bastion-vscode":[
+{"v":"0.2.0","e":"^1.99.0","h":"1z43mxrjmysi6yj3gx8x1wd3lxw8p5z123wvch3y991xq69nz0bc"},
 {"v":"0.1.5","e":"^1.99.0","h":"1kjjbzgrgl18m7nprl0l9l6dk5pvazkc1yhzj275ib4i9kqnx4js"},
 {"v":"0.1.3","e":"^1.99.0","h":"047q77vd4ak563k9nj9006lwzji89cxn24vvzbcy51vph7f7ydn8"},
 {"v":"0.1.0","e":"^1.99.0","h":"14n3p0dl3m5h8jian6w34dn4ym6hjb79fyr6dkg8l79i2xar509k"}
@@ -10068,6 +10075,10 @@
 ],
 "yaeelrz.svg-icon-viewer":[
 {"v":"0.0.1","e":"^1.102.0","h":"06v86iwqgvgxknalyzyv8b4ia5vjrbc9k0qrilbzvxr40ijgx16w"}
+],
+"yamapan.ai-cli-scheduler":[
+{"v":"0.1.1","e":"^1.108.0","h":"1jw1hyb5ak0mzh25pdy8isvpkb3m2f7s4h72grwj3wvai83l6s34"},
+{"v":"0.1.0","e":"^1.108.0","h":"0iilnj2vx7zp44b2g94cgj4wzmpbw2qgvsvjnzvmqc2nnwnz1dx0"}
 ],
 "yampy.project-snapshot-generator":[
 {"v":"0.0.7","e":"^1.93.0","h":"18arl4h769vgs8xs3ln74xvgihldlpxikm9h3b1197spcnbri4ix"},

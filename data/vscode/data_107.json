@@ -1227,6 +1227,8 @@
 {"v":"0.0.1","e":"^1.96.0","h":"128925dzjmh225fcm6aqyvphzq7bf19sm2lx4zlhj627fzb7s39g"}
 ],
 "blacklockio.blacklock-shield":[
+{"v":"1.0.3","e":"^1.75.0","h":"0f46yaxfkjz1limaz1yfha82zy16b2any65sm8zsww832r38wsw2"},
+{"v":"1.0.2","e":"^1.75.0","h":"1bxkp2359qgmbybdjghgs0l2w2w52a0qf76y5nrl2a77fzh66n6b"},
 {"v":"1.0.1","e":"^1.75.0","h":"0lb914namj56v8px6zlxi29v9yifiq9vxvx90pflq0c62x3rry4f"},
 {"v":"1.0.0","e":"^1.75.0","h":"1clryj8hczgykv3lldbs19mviiacg669alcrw0q9gyd45hrsl1ys"}
 ],
@@ -1407,6 +1409,7 @@
 {"v":"0.0.1","e":"^1.104.0","h":"1rr387smpdiaikpnjsqgc49lj74vj0mrxxfbzq1c14l7dh73fmpk"}
 ],
 "brandonkirbyson.vscode-animations":[
+{"v":"2.0.9","e":"^1.64.0","h":"05ircwa0fhscq3c9m171mnp12aajvf404ji4v6jz41psbylynfla"},
 {"v":"2.0.8","e":"^1.64.0","h":"1pw40x8x4z3svp512rrnl4wvpdipdpblmmnr26pkbladffjk42k7"},
 {"v":"2.0.7","e":"^1.64.0","h":"13whqqlv46mngg94pyy87s11im3ixb1rf4ngdd8jhk4znvbqph2d"},
 {"v":"2.0.6","e":"^1.64.0","h":"09awppp783j28fy7gwh9h0fcffv28hwrisqjh570jm9ldzhrqlm9"},
@@ -2679,6 +2682,8 @@
 {"v":"0.0.1","e":"^1.47.0","h":"00k8izn8m5mrfyl35xp19slra6i5nhkdlimwf3fnflq5w55hfygc"}
 ],
 "dbtlabsinc.dbt":[
+{"v":"0.107.2","e":"^1.100.0","h":"0ngzvc378612w763fx5knk67mmgid67nml4nk1bfrw7wfmsigj7q","r":true},
+{"v":"0.107.1","e":"^1.100.0","h":"1a2bgs0iigqgikqazjkw09zhvbcg5pdl1kpd3lbbb14qrbww8fs0","r":true},
 {"v":"0.107.0","e":"^1.100.0","h":"167yan07wrvs4ij3nwrjip193ajshaq6kwrpl216q5lci9h6c0zl","r":true},
 {"v":"0.105.0","e":"^1.100.0","h":"0mqkgiba5j9lddw4l8xvfjz5hzdm8rq2bxjm1bcwd6654gqlmgrd","r":true},
 {"v":"0.104.0","e":"^1.100.0","h":"0ihl9vbvz1w7v4760ls2ajn7v49s7gfvfshz56g8zsd5ixi7rnbx"},
@@ -8402,6 +8407,11 @@
 {"v":"0.1.2","e":"^1.0.0","h":"0lz9lrz9ykgl3hp1xrqp6r5paz9j78kmkryp04zpkvi5skrpb98i"},
 {"v":"0.1.1","e":"^1.0.0","h":"0gfmpr600gqmi6jaia2qbc0mp3v6wzy0fhjjwp968i0mqs9gip2p"},
 {"v":"0.1.0","e":"^1.0.0","h":"1nzp6bibah129g8m77vdcgs77mmr56wma55jyic7bmrhn2rgf321"}
+],
+"picassoraynestudiosllc.codeology":[
+{"v":"0.3.0","e":"^1.100.0","h":"11k0mfzqpwpkzhlxxsa0m887fqn959z8985lv1dcwwz9i7sz4ywz"},
+{"v":"0.2.0","e":"^1.100.0","h":"1fjmxsjqz5wj1hh66y6vfcpkm0nx8lahi1vnmdbzqzw8458d5psz"},
+{"v":"0.1.0","e":"^1.100.0","h":"1l9h41ff635c2h6s53g9rg3fk7ccafk9kkgb9480grcs7zxj5sxb"}
 ],
 "pimzino.local-snapshots":[
 {"v":"0.0.22","e":"^1.74.0","h":"13hgw5rn03psxm688d1f6xvyll0fg7l0l4s8slqb62m9xmvk0l50"},
