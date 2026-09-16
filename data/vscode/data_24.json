@@ -3428,6 +3428,9 @@
 {"v":"0.1.1","e":"^1.86.0","h":"0klssbbb9i8cf4fp334zqqnz1bknc2bin7i0asqnvz91gs3rjpmi"},
 {"v":"0.1.0","e":"^1.86.0","h":"0vyklwrhph86y5afkqp5d1ybp97xvs1b46bdfrk2ysz3wbh0f8nv"}
 ],
+"hrvanovicm.hs-task-timer":[
+{"v":"0.1.2","e":"^1.85.0","h":"1av7bwxppa6w2vr62g7mm9c3csd3vw5nixggwijp0njrv2qa7yl4"}
+],
 "hs7.git-diff":[
 {"v":"1.0.2","e":"^1.98.0","h":"0a3dfd0a9l8058w6fjfl50i8x6d573cwacq7jmd76rwv9fdzc6r0"},
 {"v":"1.0.1","e":"^1.98.0","h":"1cp1zv1fkrl1x7j45a70xmy1626mjp45ick0zwcga15d2r6inn3y"},
@@ -6771,6 +6774,11 @@
 {"v":"0.1.2","e":"^1.93.0","h":"0b6a0nqmyl7w7prl0f6qwjrxlxv5r5xx32k6vpqnl24926l6zrwd"}
 ],
 "paulober.pico-w-go":[
+{"v":"4.4.0","e":"^1.137.0","p":"darwin-arm64","h":"08krg7g9d3f90rcjbmzbqhr3c2wkpjgxh2h29izam2pvsfq4iz2m"},
+{"v":"4.4.0","e":"^1.137.0","p":"darwin-x64","h":"0qjzc12202lrmq9fkpr2whkwqsx3jfa1gdj062l419m7bq4dizr9"},
+{"v":"4.4.0","e":"^1.137.0","p":"linux-arm64","h":"1yfbqkxgz9x5c6fzjj06mizb21pqnvd5mv0fkgwfiy5ywinfvh0p"},
+{"v":"4.4.0","e":"^1.137.0","p":"linux-armhf","h":"1n0p641pcb1bzy9d5lz30r0xzywhrgxswfg988rxhwf7knsf0p3k"},
+{"v":"4.4.0","e":"^1.137.0","p":"linux-x64","h":"1kvr7y6pl0cv6zc35dvmk1rxy2197x9hp391f5bqn2ij5c0gm4f6"},
 {"v":"4.3.4","e":"^1.99.3","p":"darwin-arm64","h":"0sfvazxyq4ibm7akp53f40j463gxsnpidhqq07nj8rnh3brqzb2v"},
 {"v":"4.3.4","e":"^1.99.3","p":"darwin-x64","h":"1jlckzcxk1xbhiylr0542n8cykr1qjwh477za6pdhk5ich3p1cgb"},
 {"v":"4.3.4","e":"^1.99.3","p":"linux-arm64","h":"1lfyj79vyzqa13wv7zs37bdz8vdnwzgmgk4ip213gczlgw6mlnhk"},

@@ -5391,6 +5391,8 @@
 {"v":"0.0.1","e":"^1.51.0","h":"03fzpfyx8h2v4ijvkayfsiz5zby180ilgkysr2pfcmx56dk4rrb1"}
 ],
 "jhonbar.claude-code-mirror":[
+{"v":"0.1.234","e":"^1.85.0","h":"0xsdwmxpzpw279q25a3nycpya55aq3rmjmrx9fc0abgc52fgw78z"},
+{"v":"0.1.233","e":"^1.85.0","h":"0nazkrr9knq0rfj1gk4xf4mr3z5m2rk65zw1shh04hsk2snrx1ip"},
 {"v":"0.1.231","e":"^1.85.0","h":"15wl7sakw7z3rypcrzhkwhjr0slgr4hglib7kxvkrwkdglzc0xdn"},
 {"v":"0.1.229","e":"^1.85.0","h":"1yajxxz13237yik9di2gvd55h8i3mrhsj92q52ds7q18iqchgs45"},
 {"v":"0.1.227","e":"^1.85.0","h":"1cjjkf3b1ln130gbg0zr00ri3wi1h0rviy01k6m2zgw6sjghvbmz"},
@@ -6035,6 +6037,7 @@
 {"v":"0.0.1","e":"^1.75.0","h":"0cwqh38xmdjgn79hlr98q1hnq3zy86gc4vwdyhrzc8vid39q664s"}
 ],
 "kanaihyakumar.call-web":[
+{"v":"1.1.0","e":"^1.85.0","h":"197gjk6f5z6ndjgi75vxy1n66f6xg1l275mpq2d1fx144warvs11"},
 {"v":"1.0.0","e":"^1.85.0","h":"1wbny9kf4mcmiqxqgbspj4wylxn1xsvfavllqq5zrqdbsffxcxzy"},
 {"v":"0.1.0","e":"^1.85.0","h":"0a7syc771d96by4kbdzy2bwalwp0qni3h0w1dphvygd1j4giyg66"}
 ],
@@ -6226,6 +6229,7 @@
 {"v":"1.0.0","e":"^1.90.0","h":"11aqs0fzfxxpvhn1jvfkcpz7qx804fbiprnwbqwkfr216srq3rrp"}
 ],
 "kratos-multiphysics.cad-preview":[
+{"v":"2.3.0","e":"^1.136.0","h":"0a4d8ldqy67giyhrhbjccr5chr0l1fc4fvbkyv7s4j51mq5hr21x"},
 {"v":"2.2.0","e":"^1.136.0","h":"1f5yysi27pm0sknxb4fi83wnfp9cd91r6lml28zbpv963vc2g3qb"},
 {"v":"2.1.0","e":"^1.134.0","h":"12vwci50yyba9lqd70ghvi667xx9smlkgfdv00lzzqs8azy028sm"},
 {"v":"2.0.0","e":"^1.134.0","h":"0n63xma3naib4bpjnxzfkfj97m5jdvjdbn140m0vyy94sxhjcip8"},
@@ -16295,6 +16299,11 @@
 {"v":"0.1.2","e":"^1.60.0","h":"1j8s6x6c6jxhcisdrljbcn96rdc6dqg8jx1y84z57zymji0yy4pj"},
 {"v":"0.1.1","e":"^1.60.0","h":"128lns1pgfxd6zzr2fb8qmvmplbysbcm6nj0kp69mbwbs206r59p"},
 {"v":"0.1.0","e":"^1.60.0","h":"0rvi8i3ifpxi1cgwagjbzaydqqhlr9rw2s9lpp7zlx08jmd8d74z"}
+],
+"turtledsr.itt-autocomplete":[
+{"v":"1.1.1","e":"^1.137.0","h":"1ii2c12b2525f5l4y7wg8mji4vc8wvgpdgzli8xh78lphdrln9bc"},
+{"v":"1.1.0","e":"^1.137.0","h":"04fia2aj8v76c7qlg9nqp3ljli9p9rrm4180a0d1q7y2gsyh4zhi"},
+{"v":"1.0.0","e":"^1.137.0","h":"0wxkayqnxs8lxifv8nfwjpjnb7dymaax4sn4z3s88ifn14m35946"}
 ],
 "tw4.nova-language":[
 {"v":"0.3.0","e":"^1.74.0","h":"1b25qz8d8q1jpw7sfrmzdwpd9hjpmgkcqlp1hwmvbbppqhx58fkw"},

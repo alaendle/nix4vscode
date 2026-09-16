@@ -1090,6 +1090,8 @@
 {"v":"0.0.0","e":"^1.81.0","h":"1cl2603wr1mh3nchkzqxhb44wfd6slpjmnsk7bh52qzp3z9x3sr2"}
 ],
 "belfegor.vscode-bazel-java":[
+{"v":"0.8.6","e":"^1.80.0","h":"0j8hh82xgkm2hazwh63f400w77iynxxg3ycw9z0zn6j9122bcl4c"},
+{"v":"0.8.5","e":"^1.80.0","h":"0njb3nwzj0sssw8i63799v2i8ll0r7z92lry1c4z6px563nzzwkk"},
 {"v":"0.8.4","e":"^1.80.0","h":"026nvgnp19sjfg1gv1rca4ws4hynyy1mnkw09bkl01qm7f6rrisw"},
 {"v":"0.8.3","e":"^1.80.0","h":"0qwawc4fy3hphg2jrs11krmkbh49navvfvjg119qxxp0kj64hz8c"},
 {"v":"0.8.2","e":"^1.80.0","h":"0ama3f283228sa91b5fickk4v3gpbzlldyb88vs1s9ray3l8c38k"},
@@ -2682,6 +2684,7 @@
 {"v":"0.0.1","e":"^1.47.0","h":"00k8izn8m5mrfyl35xp19slra6i5nhkdlimwf3fnflq5w55hfygc"}
 ],
 "dbtlabsinc.dbt":[
+{"v":"0.107.3","e":"^1.100.0","h":"0b4wggmklz55p06jqgvfkq476yxr1ic1bhnrrr0ypskg4rpjvl0n","r":true},
 {"v":"0.107.2","e":"^1.100.0","h":"0ngzvc378612w763fx5knk67mmgid67nml4nk1bfrw7wfmsigj7q","r":true},
 {"v":"0.107.1","e":"^1.100.0","h":"1a2bgs0iigqgikqazjkw09zhvbcg5pdl1kpd3lbbb14qrbww8fs0","r":true},
 {"v":"0.107.0","e":"^1.100.0","h":"167yan07wrvs4ij3nwrjip193ajshaq6kwrpl216q5lci9h6c0zl","r":true},
@@ -2915,6 +2918,7 @@
 {"v":"0.0.1","e":"^1.54.0","h":"187yrvfdm8fvdqbfj508cvfpxqvxrhmwr3gfkr2dwrbpiqzrypys"}
 ],
 "degory.ghul":[
+{"v":"1.27.26","e":"^1.91.0","h":"13iradrngh8ffpsm5j8qx0d47qdpp2plxzqimi7q2kxlds7a8msn"},
 {"v":"1.27.25","e":"^1.91.0","h":"0f5facgck9g4dvkn8yhmhv8nm1kmqxxpqv9fd7gqcq0vhbn882lf"},
 {"v":"1.27.24","e":"^1.91.0","h":"1lc35vzpsj0i6nzwyf6xf2qvd9wr0k6gbq0bf85hr52wv1r6s1hr"},
 {"v":"1.27.23","e":"^1.91.0","h":"0387lb3ndg4k2v04yykbd6vz8949iwkb2iv42vcic5ryn7nckk7d"},
@@ -7139,6 +7143,8 @@
 {"v":"2.12.0","e":"^1.8.0","h":"196rg78nw4gh35hqq2v2dns3rnh0fry0x6f70d2jsv777qm3l8dp"}
 ],
 "metrosoft-application.markdown-easy-visual-editor":[
+{"v":"1.1.8","e":"^1.100.0","h":"1pmlyvf8pcp4av0v74k30dnpj9byd4cv7zq010rxf2x935al02w2"},
+{"v":"1.1.7","e":"^1.100.0","h":"0xgnyaqh7530844yr41xbv1hl01f6rpp508bp65jqwnbjkjw5scp"},
 {"v":"1.1.5","e":"^1.100.0","h":"10yrr6afkk6q06q2q4gq1wvjzxni7lxcp4hsx75h9gv6mv5bmpjs"},
 {"v":"1.1.4","e":"^1.100.0","h":"0srgxp2m9zr4abphzxwj377nr7snl5xac0crl52w7qgxnwgz3a4v"},
 {"v":"1.1.3","e":"^1.100.0","h":"1pb00j90zkmkwb0c5c8b9n5j6d5zkkxxya85ab6sj1j8zsbrvxsc"},
@@ -8409,6 +8415,9 @@
 {"v":"0.1.0","e":"^1.0.0","h":"1nzp6bibah129g8m77vdcgs77mmr56wma55jyic7bmrhn2rgf321"}
 ],
 "picassoraynestudiosllc.codeology":[
+{"v":"1.0.2","e":"^1.100.0","h":"0nn2cqw8c1zaaznq4rahaw182fvzllp8aflqx0rvzaz29wdh4pl3"},
+{"v":"1.0.1","e":"^1.100.0","h":"104byywl7zmnqxhcs51ph9m7sz0aifyc38j3b8a10ry55b8ks4zj"},
+{"v":"1.0.0","e":"^1.100.0","h":"1hg6hq4995ac3h5a0q0yhdgsxj6074y99rk5cby8h66scglzmcjl"},
 {"v":"0.3.0","e":"^1.100.0","h":"11k0mfzqpwpkzhlxxsa0m887fqn959z8985lv1dcwwz9i7sz4ywz"},
 {"v":"0.2.0","e":"^1.100.0","h":"1fjmxsjqz5wj1hh66y6vfcpkm0nx8lahi1vnmdbzqzw8458d5psz"},
 {"v":"0.1.0","e":"^1.100.0","h":"1l9h41ff635c2h6s53g9rg3fk7ccafk9kkgb9480grcs7zxj5sxb"}
@@ -8547,6 +8556,7 @@
 {"v":"0.1.0","e":"^1.99.0","h":"0z3xv3pw2kh8nxi1q4if440wa7lf62qanih3ykv60y0lb3fx8l5m"}
 ],
 "progress-software.progress-openedge-mcp-connector-abl":[
+{"v":"1.9.7","e":"^1.85.0","h":"0qdfcmdr905r6ry21k1c8v21vy03d4b8vdpgpcrp7w9h88d0zfym"},
 {"v":"1.9.5","e":"^1.85.0","h":"1kix4v34i6aww27ajbymgv17fb5rg4dqnkp4f2l47b4cscwkwz1q"},
 {"v":"1.9.4","e":"^1.85.0","h":"136xrrrgqbdcpvvg7sbn4padvb2flqprgiizrnaq968idmn5y35q"},
 {"v":"1.9.1","e":"^1.85.0","h":"1f9mbgic39rp0xv81xhdgqvrh9fjmfnjznxhk0vvgz7h8m5v3szh"},
@@ -11001,6 +11011,8 @@
 {"v":"1.0.0","e":"^1.90.0","h":"054aw3jf203y734wqcpkdk24s3qk8d4zdhr816qwcgqslwl3m913"}
 ],
 "vmware.vscode-bosh":[
+{"v":"2.0.2026091500","e":"^1.75.0","h":"0z5bm6k7i7c5jg87j0vnb5zr73fij5gzgky43m2a4hgf23n8dh1k","r":true},
+{"v":"2.0.2026091414","e":"^1.75.0","h":"0nassl3qzgn7i8zc2jyn2l1afbb0bbjhvmkmjcgsnm12lhn5lxp0","r":true},
 {"v":"2.0.2026091200","e":"^1.75.0","h":"1sh2sj6fg9cgm0gj999zyhb01syc2nfnlhc21v6l5wr65v2prhsx","r":true},
 {"v":"2.0.2026091114","e":"^1.75.0","h":"0bcywlsrni5h13b0g8vb436y5dwxkg00kfmazsqps2w7v93wvl4d","r":true},
 {"v":"2.0.2026091007","e":"^1.75.0","h":"1zhgx3lbf69z4d0c5r6bv92f3dc2k7g3gq08ispxr0y0iwr8dziy","r":true},

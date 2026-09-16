@@ -509,6 +509,10 @@
 {"v":"0.1.1","e":"^1.85.0","h":"1y6pcashnx8a8gq6ag0yf35kx93axigd302dil4qhxj8d07ybx1w"},
 {"v":"0.1.0","e":"^1.85.0","h":"1w3lakf213l0033s77x9fp4hqna9db1rqs5dncbdcx438hrgjwmi"}
 ],
+"appversestudio.edgecase-ai":[
+{"v":"0.1.1","e":"^1.90.0","h":"1fmr60amn5r3i5gkxa7wqap2s66j19gg5ch8v0bqyifl8b5xyjah"},
+{"v":"0.1.0","e":"^1.90.0","h":"1mv7qf64xs4l1dk4bhdzsvqiz2s5f546ws77ip5jxcrwgb96lh2l"}
+],
 "arbr.lime-green-dark-theme":[
 {"v":"0.0.1","e":"^1.73.0","h":"1jblniryv0hfnysf3p3r24hj4bmfxkij72h09hhf9kn8cfl10qxx"}
 ],
@@ -6219,6 +6223,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"19i5jg2bbf5lxcvc1x0lsr6d6swlx174mzka88kiqypv683w6qcn"}
 ],
 "lizorcube.lizorcube-pilot":[
+{"v":"0.2.18","e":"^1.85.0","h":"0fjgwrz3fnbaasfa4f202cb6n3skfr3r4yxxj5m47xma36b4l4nn"},
 {"v":"0.2.17","e":"^1.85.0","h":"0vlnxps55s2xkxmk9l87x24p2hzjwl2mxg00r1lznlicp7jv8kxa"},
 {"v":"0.2.16","e":"^1.85.0","h":"0c328ykki8kgwvfcnhgaag934bbrzbz0lcf3grdyjiijpn165svv"},
 {"v":"0.2.15","e":"^1.85.0","h":"0c7q37l2n2ga9lxyqfp9bjykciawsixm76j8pcz2pr81d415j2ni"},
@@ -6640,6 +6645,7 @@
 {"v":"0.1.2","e":"^1.90.0","p":"linux-x64","h":"0ssfy0xvgla2687r9xr0zflsbl44j08kr1jx5jpw4d45ppq3bcm9"}
 ],
 "mieraf-tadesse.mm2-syntax":[
+{"v":"0.2.0","e":"^1.75.0","h":"0s00qf3l1h8ajpi13ra5rsq2k2v79f56lcch004a4dc61qir0hpv"},
 {"v":"0.1.1","e":"^1.75.0","h":"1rn04wrhzqmlgpdyi32l2k5lzj1gfzysxcv3nmzcp9vf7jrh0rmr"},
 {"v":"0.1.0","e":"^1.75.0","h":"1s8jkc7qikj67s8kqdncpcmgq62wfypq8knjg2cn2yvvn9kna4jk"}
 ],
@@ -7662,6 +7668,7 @@
 {"v":"1.21.13","e":"^1.31.0","h":"1pfkih9qbdz10sbmxa9hj58xa92jc9pq8arxmzfv55h7z7j0h2sr"}
 ],
 "ms-python.black-formatter":[
+{"v":"2026.7.12581004","e":"^1.82.0","h":"1nvphgizpwrm5psg5wy23lcq3y628b6g7q3ixc6206xaj2a7vjsz","r":true},
 {"v":"2026.7.12571007","e":"^1.82.0","h":"0ba2wz66ick6azk5rsj0l3y5kqdv84gfh6zzx4x866gg49dgcdg9","r":true},
 {"v":"2026.7.12521008","e":"^1.82.0","h":"01gch4p45amjzvpqbypccrq7mzbfshizzpr2jb83c0y7bb526i34","r":true},
 {"v":"2026.7.12461009","e":"^1.82.0","h":"0xwga758fiiif6vn99pfxl3xppfjdp0i0rpicq3p8kcv4f1rnqzg","r":true},
@@ -9660,6 +9667,7 @@
 {"v":"0.0.2","e":"^1.101.0","h":"1wlfbmj0zsx75vkg1y857wwhvglp4iz9vclmv4zz7n4rw7fsfm2y"}
 ],
 "royadler.policy-studio-tools":[
+{"v":"0.1.36","e":"^1.85.0","h":"1fispw60fd3l0jf409x5h72w858i6n7zalvijy9jc30vwhzm8f8r"},
 {"v":"0.1.35","e":"^1.85.0","h":"08n9q5z6bc65333skhnnm8mh9qp7sp9ajf8l0bx8gv0fy78kidxx"},
 {"v":"0.1.34","e":"^1.85.0","h":"1wkp8l6hl3ry8x67wf6hw5ylfd0vwfqxf4mwh5mx8xqy602lnz6h"},
 {"v":"0.0.33","e":"^1.85.0","h":"1kk0ps880x98q0y58r9hd07m28ar20s72sqb4nvycdqkwp0k61xc"},
@@ -9756,6 +9764,9 @@
 {"v":"0.0.3","e":"^1.32.0","h":"166nd6099cppvh2dah9fn11yw8k0q3vvgbcfhiz7n3da3y4nxkc3"},
 {"v":"0.0.2","e":"^1.32.0","h":"0ims2b2bp8m3k4a8b778qm0n44xy5n8ff9zx2pndwy5bipd4fdmp"},
 {"v":"0.0.1","e":"^1.32.0","h":"1scmbxzj23ssx3v8n98qklgnm50aqcsq713mkfyy41injw5wm2iv"}
+],
+"sandlada.material-design-css-snippets":[
+{"v":"0.0.1","e":"^1.82.0","h":"1l1jamk0fbdpyifb65pj8r4r2icsl6xjv8m2xx39q04586db1y71"}
 ],
 "sandy081.999-test-pack":[
 {"v":"0.0.4","e":"^1.62.0","h":"0v0a9lyyycsk96b3y4ssmpn8h33hsi776rdgzxz8268vmd876jvr"},

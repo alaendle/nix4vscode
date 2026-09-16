@@ -4780,6 +4780,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"0qyvjjd6zpw2f83m564gk8dh9lnd1fwm3gil943nl9gp51kvmspf"}
 ],
 "mariuszczyrnek.tia-import":[
+{"v":"3.1.83","e":"^1.95.0","h":"0jknpckm2lwv96l9b3pn2x35axym5p89bssrjvy7ibby1jpd1fdi"},
 {"v":"3.1.81","e":"^1.95.0","h":"0jn2xhqclcdz6vjczgknk7jl8jhd06kd00k8s3k1bl7bi6bhnn8f"},
 {"v":"3.1.80","e":"^1.95.0","h":"16yl05g6l0ph096s84cmn8n4lgwl4r9j3a0gsynjrq0nax6023f9"},
 {"v":"3.1.71","e":"^1.95.0","h":"0n9x7gnqj06r81h6wy8fxfd31jp7fhiiflg661a0zjagjh7g9lar"},
@@ -6027,6 +6028,7 @@
 {"v":"1.0.0","e":"^1.80.0","h":"0j4cz8i2vhldjdlddpsbf0k7yssn15hh749jkdrm8cc23147nbnh"}
 ],
 "playkigai.godot-bridge":[
+{"v":"1.0.4","e":"^1.134.0","h":"0bjdnbhb1l9gbzh1bml4mw2lfwwjfiak6ksrca3f41ka825bwyx0"},
 {"v":"1.0.3","e":"^1.134.0","h":"1fj2fpr1anygvkrprksdcl7xwjz2bzamkdf82rrpi6xa96v57pzv"},
 {"v":"1.0.2","e":"^1.134.0","h":"187jjg894hpg43p7kybr0d9223mk40f1yz66lf4mv2mnvp240d3q"}
 ],
@@ -6823,6 +6825,9 @@
 {"v":"0.0.1","e":"^1.95.0","h":"02i38ws9vh112lwl7ki0sfd1mr8kfhbrxphaz5aw6smrjmkvfzfi"}
 ],
 "sayaib.hue-console":[
+{"v":"10.54.0","e":"^1.86.0","h":"0mfzq0qkpf3whm90qwaxar53as1p089mwc41zywqmv79da1vlqi3"},
+{"v":"10.53.0","e":"^1.86.0","h":"185gk2543g0z147q8678sma79sjyqzqhc3nrjn5qkzifjbyw1wmw"},
+{"v":"10.52.0","e":"^1.86.0","h":"1lic0wqrshmwn58g80ijh7nyb19kgpm55388ah36pifixc90gz4a"},
 {"v":"10.51.0","e":"^1.86.0","h":"1m56acssnsb0mfkmjp3jwi475pw79g4sk21yjlvm7lzrmgpah7wh"},
 {"v":"10.50.0","e":"^1.86.0","h":"0di4kqbwzz9d82dq4zrijy0bmmbhnia5iliyp4vpzmj8k43bcxg1"},
 {"v":"10.49.140","e":"^1.86.0","h":"0zxvnx0ja9c7daxipc0wy9qdyq5qkbylgjp6rkvambv95piv7gqw"},
@@ -7025,6 +7030,9 @@
 "scapigliato.vsc-odoo-development":[
 {"v":"0.2.0","e":"^1.43.0","h":"0v8ahx2jjizx71y2whmrjwbaizz4ivwn11gdb6ring1mrbliw05g"},
 {"v":"0.0.1","e":"^1.43.0","h":"0zxdz27mj0w7dfainc025fxlvj47n78gg68gpa01rsinny0grgya"}
+],
+"schematiac.schematiac":[
+{"v":"0.14.1","e":"^1.74.0","h":"15qc6zqlvp1pn2ns4nws6da1jd2j1y8ldlfikl5jy6adpc0mjyfl"}
 ],
 "scrivener07.papyrus":[
 {"v":"1.0.0","e":"^1.21.0","h":"1s1dc1j6d6710i3kvp2lz6jxxmaaygab4h64gvb8chb4zm716ckh"},
