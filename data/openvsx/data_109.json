@@ -76,6 +76,7 @@
 {"v":"1.2.0","e":"^1.85.0","h":"0qbfkza2ps33kznzj0lxl9sq4ddnivjkvdkn4xywb2vc0s5nr2ki"}
 ],
 "brano.bikkuri-theme":[
+{"v":"2.0.0","e":"^1.95.0","h":"1qf9i3d96bmspjjnq4mshhlmwh256m28day0qy10g7brgqf653dh"},
 {"v":"1.1.6","e":"^1.95.0","h":"02gdqy07zl0fn634aw3allpd3cpmbj25y6dxpjlglclb8g65sp0y"},
 {"v":"1.1.5","e":"^1.95.0","h":"1q6ipp8bymm9ma1g9ls8p8yd9zn1q5v5zyl7a0pqyvs3kxrnzw5i"},
 {"v":"1.1.4","e":"^1.95.0","h":"0i4sbnzwms6vmh2n8621zp73c3lly3935167rdk9qczhl6yjfshz"},
@@ -1442,6 +1443,14 @@
 {"v":"0.1.24","e":"^1.75.0","h":"0vg47pj06f1b1b492yxv8wkjpdcd71j4qp8bxf4s2wvg7w15fwbh"},
 {"v":"0.1.20","e":"^1.75.0","h":"1x4ma24s0hq1vwrk0vrr214gj6zx7wrkbxyr1c3518qys6x99f4p"}
 ],
+"tony-l.scene-breakpoints-vscode":[
+{"v":"1.0.7","e":"^1.85.0","h":"1qggzy65kkcqyrwz20z07xf3smy6h92pk5l5w9mnzk2g0d77v12w"},
+{"v":"1.0.5","e":"^1.85.0","h":"1yh6lbxnv4ff96ki60lk42il3gj4i5yg9asabv7n41nl8gnr6yvb"},
+{"v":"1.0.4","e":"^1.85.0","h":"1gcsjnrfmcj3gl4p9sbspqc9s45ibbg66hgvhi2kfmwqp9hkvsdy"},
+{"v":"1.0.2","e":"^1.85.0","h":"15dvg55539ndqmx60df2n6lzd9n1pr1594qv7307a8lzvx7wwmz8"},
+{"v":"1.0.1","e":"^1.85.0","h":"0r8iyrzz7b066b6xij74qlry2jaiz1ads857f5gjpjdlidnbl90c"},
+{"v":"1.0.0","e":"^1.85.0","h":"0ajpn0q8ca8yv6zkysiq224vr1xxa2brbgcy2f8lr6schak14qfy"}
+],
 "toragonite.claude-code-orchestrator":[
 {"v":"1.5.3","e":"^1.90.0","h":"0pgkir75jmjfwdn991hvma5dk3cb8hincy0az1n6nn5xmkzj9a17"},
 {"v":"1.5.2","e":"^1.90.0","h":"0dzvji859hhn5vw8p38cz1irfpcv4wr9987x7y2z8p3dr1q2afva"},
@@ -1666,6 +1675,11 @@
 "yusukehirao.vscode-markuplint":[
 {"v":"4.9.0","e":"1.99.1","h":"1b04k8pj2jjb6y0m1d9aka3y0ky1mm5km67givp5rzil59729w9z"},
 {"v":"4.8.11","e":"^1.102.0","h":"157hhdn05br3yx8yy2va9p2crfl1s8ddk8hahskbxp0i2hcl89ba"}
+],
+"yychuiyan.dsh-for-web":[
+{"v":"1.0.5","e":"^1.90.0","h":"1ygmq1mkx3gwq05qi1xi5l6najl7viad7fpjrkdn6c05ywwcsh0m"},
+{"v":"1.0.4","e":"^1.90.0","h":"13g8mdy60i23fiwgcpas3jqy1l2z4hy86x6jyxfc3knr8k6j312w"},
+{"v":"1.0.3","e":"^1.90.0","h":"18qv7706k1y495r2yg92bdnb9dywss01mj95r436d8wn3hb7kxff"}
 ],
 "zardoy.inline-debugger":[
 {"v":"0.0.1","e":"^1.76.0","h":"1hhaxk4ydj1vzf5z4nz90pr018sfn58wbq1nchs8q091y1kkm8vv"}

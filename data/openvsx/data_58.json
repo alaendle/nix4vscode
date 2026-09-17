@@ -544,6 +544,8 @@
 {"v":"0.1.1","e":"^1.85.0","h":"19yfsx5cgdg6cvh32bb33z11rcp5a5f5jir70lwrcxw7r5mm1rbk"}
 ],
 "huaweideveloperserviceplatform.harmonyosdevassistantforvscode":[
+{"v":"0.1.70","e":"^1.85.0","p":"darwin-arm64","h":"05cgp78xrsn4d0xqkzcsqd76bhjp7ifzz757c5q2v802dbaxnvlh"},
+{"v":"0.1.70","e":"^1.85.0","p":"darwin-x64","h":"1li67zdjlyd4myz6ks206b8nhkq2zhcnby3vfddwc7032rxvnz1f"},
 {"v":"0.1.68","e":"^1.85.0","p":"darwin-arm64","h":"04q0wzwj32yzzhd69hdj40znlgwvn8drsp3pycg7ab3a506c9662"},
 {"v":"0.1.68","e":"^1.85.0","p":"darwin-x64","h":"16minmnipahrpbpr939b2asj5kimsgn4rqmfdak4kfj78czxzirk"},
 {"v":"0.1.64","e":"^1.85.0","p":"darwin-arm64","h":"1jkabhfwwccizaxb1l6s5wwiik3sxijjifxbbzwhqj9zj9br692g"},
@@ -927,6 +929,9 @@
 {"v":"1.5.1","e":"^1.90.0","h":"0zdv7la7yiil2x1qsvv410hw4hm8l8glhmdis4qrm6wc8ah3l2dd"},
 {"v":"1.5.0","e":"^1.90.0","h":"10n9vpk5ccdkg14zd01rw3429yc0rs3z9qf0f313l8wi681qsqj6"},
 {"v":"1.4.10","e":"^1.90.0","h":"1cgm1bzg8cw2yzcrf3225ck255742bygmf4b21anfl5iyjnz9hxq"}
+],
+"northwang-lucky.git-commit-geniex":[
+{"v":"3.2.3","e":"^1.103.0","h":"12j9m996v7rhqp7wzsxchcy2gl7jpvabv105f6m6szwybsjhyr8m"}
 ],
 "open-post.open-post":[
 {"v":"1.4.68","e":"^1.85.0","h":"1v1acmwx22rjrr4hj9l51kmhhk8fy8mj91wyxhvi5s16fizld0r0"},

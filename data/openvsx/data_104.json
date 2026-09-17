@@ -126,6 +126,9 @@
 {"v":"1.0.1","e":"^1.74.0","h":"01ihy0s14826pr60z3ck8v3bwzh8bwxf08ljzkf0zc4xj7am199r"},
 {"v":"1.0.0","e":"^1.74.0","h":"17q3r0avhadbbndj2y4c81biivpk2v9rmak07kbxk5ra0kwclgw8"}
 ],
+"centyc.qa-pi":[
+{"v":"1.0.0","e":"^1.85.0","h":"1d40ii7fh9shli2fbq7fdkxs6ip3yyz7n211cfzwwjnwff6qkvbq"}
+],
 "chrisatcursor.vscode-bicep":[
 {"v":"0.40.2","e":"^1.101.0","h":"0223i7fvn9nz39qav73hmgyhxwsnfz0bgwbkgl9kh80dn5vww7bx"}
 ],
@@ -171,6 +174,9 @@
 {"v":"1.5.0","e":"^1.60.0","h":"0q5yvp7vp30cji2lbyq12kr8dnfjs48k8mbdz0lj36n8219cs30q"},
 {"v":"1.4.0","e":"^1.60.0","h":"0n66h8cg57rpsq19dlfxljx2h6kmk5f6y8g7akkhxk9r9a28q84x"},
 {"v":"1.3.2","e":"^1.60.0","h":"1qzibfwhb4w9ahpzpviad6fyq18ggyajk75g1aim21xk30b22xhf"}
+],
+"cywcd.yc-dev-helper":[
+{"v":"1.1.2","e":"^1.95.0","h":"1nmpcm6q6yajfllr0h0f8p7ddjxx6i45rpj3p40yaay17a0ml5qw"}
 ],
 "danieledep.vscode-color-provider-everywhere":[
 {"v":"0.0.1","e":"^1.97.0","h":"10zm7cq2116cxz81xz8dq11pblrw04chz30b41vnckq3czlw9c0m"}
@@ -251,6 +257,7 @@
 {"v":"0.7.1","e":"^1.90.0","h":"03mkn9z867g4xychjpgrvqvl732v51yh7nc3ayaikjn4gyrs2vja"}
 ],
 "fracarma.music-tagger":[
+{"v":"0.0.4","e":"^1.125.0","h":"1qllvw9v2kj64k9knaycyh2prgqpdrvfxxp834qfvgn3f0n9sjz7"},
 {"v":"0.0.3","e":"^1.125.0","h":"0wbdf8pmssr33zmq6hnvlzwi8f6i1hvgi9cfaw96lvanaybqc1dk"},
 {"v":"0.0.2","e":"^1.125.0","h":"01qr854n665g7w7j4qv4lghwbgymxq7hs01s3sqk9z4is519nz9j"}
 ],
@@ -1430,6 +1437,10 @@
 "rasikalakmal.knex-vision":[
 {"v":"0.1.1","e":"^1.85.0","h":"1h6s26b8spwv0b6biyjl7fbrh2x43cd7fsf5c1iyql8wmizx7w34"}
 ],
+"readystack.wordpress-privacy-lint":[
+{"v":"1.0.1","e":"^1.75.0","h":"0xr0fqhf68gb3dcvls0h513p6fw7rvd729a0qvrgaxvlpgnp1b7n"},
+{"v":"1.0.0","e":"^1.75.0","h":"1ablgh4p34f6962sz0lvbc014cnbky0bs9k5q7r91sx7n58zcka3"}
+],
 "reekystive.pnpm-workspace":[
 {"v":"0.5.27","e":"^1.99.0","h":"117p9a5ivffziqzlxb4qycinwai516n9mh2n9bl5bbl4qzig9wwk","r":true},
 {"v":"0.5.26","e":"^1.99.0","h":"0bg79bzsspd9ss70y6b71bb7d66riqbck9r8cc1p0vz0a39da20j","r":true},
@@ -1876,6 +1887,7 @@
 {"v":"0.0.3","e":"^1.53.0","h":"0fyivyp55fhr6dkfdzri5aa4s1bvzxjaxadyp8w6lx5mzplvhmw2"}
 ],
 "willbot.orchestrator-vscode":[
+{"v":"7.2.0","e":"^1.99.0","h":"1zpcr4lkjm23x08rq35mh1091nyprg0n6i4ybb7n772nwlpcyg2y"},
 {"v":"7.1.0","e":"^1.99.0","h":"067c0f9fh33dhkzk0nyc1km1jhi3b2rl3zgfqpfy0xm9z4g25kwk"},
 {"v":"7.0.1","e":"^1.99.0","h":"0mvrfw7h0ml5awl2avvspdr1bqiydcpzr9mnqprfnxhqbb102v1a"},
 {"v":"7.0.0","e":"^1.99.0","h":"1zs4x8fwalrhbfgcw96lr6xm0c1001gvnikccy3r7bl4wvh1ancw"},

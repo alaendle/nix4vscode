@@ -740,6 +740,9 @@
 {"v":"2.0.1","e":"^1.37.0","h":"16827h0rpa2hrk81gkqin6dsicrc29spis0v6g04qq4rhnjhppfh"},
 {"v":"2.0.0","e":"^1.37.0","h":"0wqwfs29hq0vxd3c51g1fvx2zp93pd18gswzdy1zy5kpiq4dy3jr"}
 ],
+"readystack.pytest-deprecation-lint":[
+{"v":"1.0.0","e":"^1.75.0","h":"1z1013w2h0s6rgmc9ykn386gzlr9377j62pni9bddscx4h7v8ifj"}
+],
 "release-candidate.vscode-ocaml-expect-inline":[
 {"v":"0.7.2","e":"^1.65.0","h":"1a7wb284m7971d6m37y03a9ha968n93nm89c0kvd6cf84x3bj7kr"},
 {"v":"0.7.0","e":"^1.65.0","h":"19rdqpwziabw00saiym2q5ixdvhc1ngjlbl6f7awrvg79wsyrg0i"},
@@ -1112,6 +1115,10 @@
 {"v":"0.3.1","e":"^1.96.0","h":"1imzcr3nj9g6f6adjj7slvdk7pdw9bxxlhxl1w6aij5s7va9nydf"},
 {"v":"0.3.0","e":"^1.96.0","h":"0xjjk15j6vq4hnl38n6ag7m94ff9b0dcfq0d9ah3867wqzzij6ky"},
 {"v":"0.2.3","e":"^1.96.0","h":"0dfp373jiqphi751mnkgf6ra07q0wpdxyqlq0g1i4amnaky28g7a"}
+],
+"vdzhagaev.ashen-coal":[
+{"v":"1.0.1","e":"^1.90.0","h":"1wlbm7ib4mnfn873xg54jfwc3ywcimzjvkjk9jdf9hpnlw1gsb0j"},
+{"v":"1.0.0","e":"^1.90.0","h":"1bc3pf58xqfal3fb60bdfxmarzjw00fx4vl1v30f9vr4l9fq7lr6"}
 ],
 "viida.viida":[
 {"v":"0.3.5","e":"^1.81.0","h":"0n2f65v58ng5jg3n6lvb41836jq751zcdp2wvk61clvaw8766mmz"}

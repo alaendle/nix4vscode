@@ -1560,6 +1560,13 @@
 "pinage404.general-improvement-extension-pack":[
 {"v":"1.3.0","e":"^1.21.0","h":"1ljp4lmycc5ggf4hyj1ry9z7nc955wp71qpmsc0l3vn987vkpr97"}
 ],
+"polykodebyprocogia.polykode-assistant":[
+{"v":"0.1.6","e":"^1.85.0","h":"1drp13kr7liv89kyw2hmb2ds4fgdh1504cc1bdma5mn2k2yhqpsg"},
+{"v":"0.1.5","e":"^1.85.0","h":"0z7yix95dfvf0y5fb1yd4ry0yrr3893zlsblvb2pmnrd4xsiwfph"},
+{"v":"0.1.3","e":"^1.85.0","h":"1478ay5dwbq4r2rn7gmj7hpli4l7dbxpxnf8gvzb8xv2i745aimi"},
+{"v":"0.1.2","e":"^1.85.0","h":"1qxqawkp8xxq083xmws4wgzj0lcz61rshhih2ky665madk3p3fvs"},
+{"v":"0.1.0","e":"^1.85.0","h":"12qbjsdcrrqxwz14yfp5ryypc83ii1ygi5b4j3wrxddvywhlkhwd"}
+],
 "prettier-vsc.vscode-prettier":[
 {"v":"11.0.0","e":"^1.80.0","h":"1b1kv6wsydxms6nll8sa469y5vwcq39ss1ghk6ism19cx460myws"}
 ],
@@ -1775,6 +1782,9 @@
 {"v":"0.1.1","e":"^1.90.0","h":"1ij3vqpqy0iigjdaq8msfw2rc5gl2a8iab7bsanbm7mpsabyhv8z"},
 {"v":"0.1.0","e":"^1.90.0","h":"1p7l4z2d45hw1q7m8npc3b2hvzqlrrgx6wgyk9mfwnpin8laln4y"},
 {"v":"0.0.1","e":"^1.90.0","h":"02v0kczrsv68y9m6ipl4nbwbsd178lg1vd2dys3m77valc6l9wng"}
+],
+"taze292.zen-theme":[
+{"v":"0.0.1","e":"^1.137.0","h":"0c3ykx383gysd02lklaws4138448wbysabx9a3nkbd1l4rz38hmm"}
 ],
 "testspectra.testspectra-vscode":[
 {"v":"1.0.8","e":"^1.80.0","h":"1r1338irjkz27ddyzjhmvp3nxrji292fplkf0mw3p96k56j1f27p"},

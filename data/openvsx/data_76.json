@@ -454,12 +454,17 @@
 {"v":"0.0.1","e":"^1.98.0","h":"0fidshnym363r4h26qglkf3cqf6xlx4zr2bnpaxkpjp65xpa1h8g"}
 ],
 "genomestudiosinc.o3de-development-tools":[
+{"v":"0.4.0","e":"^1.90.0","h":"15c1bir29k7wdf4ihr0wsfd54hyripd1blbagh8hpsak3kyan4hd"},
 {"v":"0.2.3","e":"^1.90.0","h":"1m5hhgm421zfrcpyvkrclcybv88j1127iza1107523rrz6v0r6b3"},
 {"v":"0.2.2","e":"^1.90.0","h":"0csmmrs9kvraczg342n1lbmw1v2zrgsv5gkadisfcvfvakz8yczm"},
 {"v":"0.2.1","e":"^1.90.0","h":"0xarv636p01hvkb6y9vi2i9v9v3kz18hqgpmw42xrvaszg3w3s8a"},
 {"v":"0.2.0","e":"^1.90.0","h":"10srfrpzdy65m5slqdnwn95pqvzp9n0wl2ypv85v83vq2hf0lfma"},
 {"v":"0.1.2","e":"^1.90.0","h":"14a0lcqjfnjql344a99m7wcj5zwnmm3djd5n14l6nhsfdls0j9xh"},
 {"v":"0.1.1","e":"^1.90.0","h":"0c3zzkaf2aglc6115pf8wc7yvw6ii04pin7v5hdfyhnxzmn91lpj"}
+],
+"geometriccross.qiime-language-server":[
+{"v":"4.1.0","e":"^1.108.1","h":"1mxyz627kk94fygiis1y8b7761ck8gfj80mjcz7br35i0vwg6nq2"},
+{"v":"4.0.0","e":"^1.108.1","h":"09jbzibyj6g2rwc134g1cazz25xqv90xhpnvng1s83069glfd0pk"}
 ],
 "growthjack.claude-code-usage":[
 {"v":"2.2.2","e":"^1.74.0","h":"07rsdmsnaqcji6i3cy31ab1f7gvvc8zk61c0lbh7a8baj5djpy1g"},
@@ -540,6 +545,10 @@
 ],
 "imgildev.vscode-kumbiaphp-pack":[
 {"v":"1.0.0","e":"^1.46.0","h":"09v31fs257n2wa4aciw05hsi1xxr35bjgwi9bgyxkhy3p5rxb1bm"}
+],
+"ivol.ivol-code-agent-5":[
+{"v":"5.16.265","e":"^1.84.0","h":"1qiszz1xrq2j4yilizq52if3h7r14hdiigwnjapi3r1pbg7y9c74"},
+{"v":"5.16.248","e":"^1.84.0","h":"0ja05iicsn23ii86damly1xmq16kvipvg1n7p9n20759maxghaph"}
 ],
 "jeff-hykin.better-cpp-syntax":[
 {"v":"1.27.1","e":"^1.0.0","h":"1qzv08p0pz09msjh6sslqhy738h6rqn7wqq3h522d78hc093sxn5"},
@@ -813,6 +822,7 @@
 {"v":"1.0.4","e":"^1.0.0","h":"133slf4gdl2y612077xiargpjwfdqz34x0pnw3l43ia91mix5cgz"}
 ],
 "mythreyak.open-remote-devcontainer":[
+{"v":"0.7.2","e":"^1.110.0","h":"1g06g69iip9p075lqbj7ghjnxq3hrxic6mslza9s1p4mpnlgwcw0","r":true},
 {"v":"0.7.0","e":"^1.110.0","h":"0a18vmx5mm7q68v32hfiwg7apk1g925i1msf43arpr2vvh7madv5","r":true},
 {"v":"0.5.2","e":"^1.85.0","h":"04shnvrrawlzl22d0p5nx0q2p6grwvvrmigc6gaphvfxm0hry9jh","r":true},
 {"v":"0.5.1","e":"^1.85.0","h":"1422ql0psrrn80lgw7mp3v50m0bvd832x7mx9gifj8d1xb5yzkfp","r":true},

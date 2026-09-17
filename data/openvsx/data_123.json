@@ -756,6 +756,7 @@
 {"v":"0.8.3","e":"^1.66.0","h":"1g0a3pphazjysl3v1j8raxlxm6n1wsjfmckpl40s7di6s7hhn109"}
 ],
 "h-taek.agentbridge":[
+{"v":"0.8.0","e":"^1.96.0","p":"darwin-arm64","h":"1lk5awhlg5l60rhkm7whqd5akja0l5k1f5ffrlzym75gw8pr7crd"},
 {"v":"0.7.0","e":"^1.96.0","p":"darwin-arm64","h":"0q1v2fkg1jy1anipmfprhmn955iv2byfzn7nhgp5s3hxzrak56mr"},
 {"v":"0.6.0","e":"^1.96.0","p":"darwin-arm64","h":"1gw7rkjbsjbh6ps1h03k65yh14m0c6ig5lx5fls42pcn64mjr87d"},
 {"v":"0.5.2","e":"^1.96.0","p":"darwin-arm64","h":"1knd0d7ij8j5cpizvnjvjz7svfyqpgp1lvw4qvnc8lq7rj8qcwqc"},
@@ -1524,6 +1525,10 @@
 ],
 "rbuckton.deoptexplorer-vscode":[
 {"v":"0.0.1","e":"^1.85.0","h":"1zgh6ih66dcyv7q1laad5d9sny2bkkc2vhr3pxxabic29bfic2m6"}
+],
+"readystack.dora-register-lint":[
+{"v":"1.0.1","e":"^1.75.0","h":"1f6414ch3nnyd78xq68gy0prvy775jvvwzpvxwpb9z0sbzk0x0m8"},
+{"v":"1.0.0","e":"^1.75.0","h":"0wzym9clvmwwhcw55g33s192gfl780qfn0i2i1864zvyj9kd1dl9"}
 ],
 "redhat.vscode-rsp-ui":[
 {"v":"0.24.12","e":"^1.54.0","h":"1vmjbmfgv17a9xjc9si3w1hj762j6rny8n6rv5fcxh4j2v4xzkcb"},
@@ -4226,6 +4231,8 @@
 {"v":"1.32.1","e":"^1.74.0","h":"03fb2fyvi19kjxsj98nklk5cz4q9xdgqq2p3jsw0rk7bgm52rnvh"}
 ],
 "xjchen.cursor-viewer":[
+{"v":"5.4.2","e":"^1.64.0","h":"0xvarv872xb6hqrivpyysm5j028j55wnp6a1y7g4yhws3z542s2l"},
+{"v":"5.4.1","e":"^1.64.0","h":"0nd3q8p8043mhaivy255k72jhs4c84n3kv8s1fp1havh1lg5n71q"},
 {"v":"5.4.0","e":"^1.64.0","h":"0jqvn5asq9gal295066q0ibazwh36vsviib9801fag1c2pgpbxr5"},
 {"v":"5.3.1","e":"^1.64.0","h":"19bfmklz9qjvw9v5qx4151n704dwkpi569402myxhws95wiqv32c"},
 {"v":"5.3.0","e":"^1.64.0","h":"00mii0cvnxkhbfak4ican27vdwiwqs58gc8qnqlk064iqal9g1qi"},

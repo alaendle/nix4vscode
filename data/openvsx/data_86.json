@@ -1076,6 +1076,7 @@
 {"v":"1.0.0","e":"^1.96.0","h":"1kawjmfidwwn6s77icy2lg95g55blcrdzplgpzqianp6dqnap14h"}
 ],
 "connorontheweb.alpinejs-tools":[
+{"v":"1.9.3","e":">=1.60.0","h":"1m69kky00hrzicgwrgb6y20kgrn89nx62q5sx31fqr2rl3kpgn3j"},
 {"v":"1.9.2","e":">=1.60.0","h":"042m68gfjnlb00wi0z7g97c0mbi2xl8iqmp1ayzzybfhn7im1blg"},
 {"v":"1.9.1","e":">=1.60.0","h":"14j8rka7wnpcm7hncml729lgv51c0pj11hymqnndj9iywnbqbrq7"},
 {"v":"1.9.0","e":">=1.60.0","h":"01ls3w4mhb5rabx1sb8xd01nx1hdhwi1ca166azsch3008mx1iv5"},
@@ -2217,6 +2218,9 @@
 {"v":"0.0.3","e":"^1.60.0","h":"1jghvads9yrhsr5245bv176327a25d0ya15kn4sk67kbpnqcb7hk"},
 {"v":"0.0.2","e":"^1.60.0","h":"1hzsharfsx2yixinpdjkwz7d1sga5cq49xi7w6748vqk4b05fm7h"},
 {"v":"0.0.1","e":"^1.60.0","h":"1fsl6mw0lnznnivg3bdm4388zq4k4dpxzg0hwmjcmzybz6plxbb4"}
+],
+"stevanfreeborn.lavender-dimmed":[
+{"v":"0.0.0","e":"^1.60.0","h":"1zdfqxcdwxwvvjj1ghjcyrq58wxgy3pldk1vc28p4d25641aq3s3"}
 ],
 "stuartsessions.burgertown":[
 {"v":"0.0.2","e":"^1.103.0","p":"darwin-x64","h":"00wdbmkypl4fk0w7cc8gwkyi41797wsfqlvgv75b0knbrni5007z"},
