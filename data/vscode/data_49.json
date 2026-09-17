@@ -3394,6 +3394,9 @@
 "gggdgh.kzro-local-ai-agent":[
 {"v":"0.0.2","e":"^1.85.0","h":"19kynhjdwfca976gq8m9s2fvdbz3fgm52rdaz5l4qbampi6h37d3"}
 ],
+"ghlcode.nvidia-gpu-scope":[
+{"v":"1.0.0","e":"^1.95.0","h":"0394zmq5mj8bjxj6ncdajh8qbxyddbkd0a2w4di1la30p9fknry2"}
+],
 "gig3m.zero-dark-matrix-reloaded":[
 {"v":"0.0.1","e":"^1.16.0","h":"04ya8y4bbl7g7wwjacyrkz6hl6pj32qdasrzpix3dylpxzf7zvlc"}
 ],
@@ -6197,6 +6200,7 @@
 {"v":"1.0.0","e":"^1.101.0","h":"0brp0706b7gl16x1wgbcnr8q77dac1p1ii2qazcp0vsf7yrkhz0z"}
 ],
 "ms-vscode.live-server":[
+{"v":"0.5.2026091601","e":"^1.109.0","h":"16l45r63z90wbzmcxvapvyc116mbjwj0g6ab01s6n93y289vj01r","r":true},
 {"v":"0.5.2026082601","e":"^1.109.0","h":"15rhy4lqx4i8c1ry7p3pjsq0air5knqnwv4a81qkg9by2c9xhh5i","r":true},
 {"v":"0.5.2026072301","e":"^1.109.0","h":"1d1gsd6wrw9yza0s2i20pqr3y553b52p5dq6p6k00hwpljpmjl17","r":true},
 {"v":"0.5.2026070201","e":"^1.109.0","h":"0lgdm9xsr0prymafc8qz6pjh4vcn0kgy7x482wplyp7g2220842q","r":true},
@@ -6800,6 +6804,7 @@
 {"v":"0.1.0","e":"^1.116.0","h":"14w0n79m75wbpg8kjxgpxnzaxmsim8s9v3vmfxk2jv55yrrw1wj5"}
 ],
 "onemore.mylua-lsp":[
+{"v":"1.0.4","e":"^1.85.0","p":"darwin-arm64","h":"0srflgi1jp3km4xywp8nqa9pwfh7px1pkd1jhfppybs0igjryc5q"},
 {"v":"1.0.3","e":"^1.85.0","p":"darwin-arm64","h":"063wgwsgk7fn1fnnycnd575q0mvprpbjm6225pl429r7bjfwsxyn"},
 {"v":"1.0.2","e":"^1.85.0","p":"darwin-arm64","h":"1z5i60dyjr3xqxj5kj0f3ga5bcx77wk11njk658nnfipwpf203fb"},
 {"v":"1.0.1","e":"^1.85.0","p":"darwin-arm64","h":"0419r96818kd8kig6vy7lkrvd0an83p6nanbbh04frdn5v14h7rl"},
@@ -9557,6 +9562,7 @@
 {"v":"0.0.5","e":"^1.40.0","h":"1a8ygzyfv8r32sx44nblxz7j19siz2rigg06yix3906gxgf31wxb"}
 ],
 "thousight.lumen-themes":[
+{"v":"0.4.3","e":"^1.80.0","h":"0d0spgr7rnjdaifcvr41swndx80v44f2bpqng414060n1sb7nyfq"},
 {"v":"0.4.2","e":"^1.80.0","h":"0sr818q44khdi8h139pmp9ah6kwqndmwfkjzm03lqyx3f9pf3k18"},
 {"v":"0.4.1","e":"^1.80.0","h":"0fa34j1szbimcny2vhg0sr0xb2nncgc9lzmplcdxi6sx1finz62p"},
 {"v":"0.4.0","e":"^1.80.0","h":"1d8g74zc7j6byk86rcp4m3j2glz4zn9xsnpasgg5yh1b8y7bvl7n"},
@@ -10099,6 +10105,10 @@
 {"v":"1.0.2","e":"^1.0.0","h":"0zm2b7nh524m75gr9fdpgwyczlvaw46ik38m6j3m2jjhcg2h9rl2"},
 {"v":"1.0.1","e":"^1.0.0","h":"0sfp9cbsp0b9sjmnwcld4a9kdqx50qqq9slh28yajpz9p9nwykqx"},
 {"v":"1.0.0","e":"^1.0.0","h":"1an5iawd686l6ifgfcmx6bzw3lj1lz9hyxmxchi8c4wkcgfm96yq"}
+],
+"vivaceeditorsnippets.vivace-editor-snippets":[
+{"v":"0.2.1","e":"^1.80.0","h":"1yv31win23fhqp8yh2jfb7j7cpn0iv5ap8j1vr1lip42z5vv5gq0"},
+{"v":"0.2.0","e":"^1.80.0","h":"19bl7gklc6mfsy4i6ch9jbi4q7c80jnpavbv58253a4h9jd4386a"}
 ],
 "vivid-life-theme.vivid-life-theme":[
 {"v":"0.2.7","e":"^1.74.0","h":"1jzkwfql9har6z6ym5xfmcs7309i1dx37j4kljqyprcaygd3xpss"},

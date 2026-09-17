@@ -1005,6 +1005,8 @@
 {"v":"1.2.10","e":"^1.94.0","h":"1p4ds5svmlw5n77im4j84x6f8sq392hdzjkpbxi1bv2f2114hrh4"}
 ],
 "binobi.vscode-bino":[
+{"v":"0.96.1","e":"^1.85.0","h":"16ai3rpyyb39gily77vb0vwn6ajyd0wwgddb4v5pa5762siqmbjm"},
+{"v":"0.96.0","e":"^1.85.0","h":"11kcv0rl0p8calicr3flazii254hbx1bx0lr51fwhzh8hs837vgx"},
 {"v":"0.95.1","e":"^1.85.0","h":"0bpbclbrh51lxac8f963vgrcm1rhhdj8fyjv5lmafdbnmga20a00"},
 {"v":"0.95.0","e":"^1.85.0","h":"1f7vfhg7q4i5k8cxv2s5mvp2qfzg92ib0carlwxq6wzpvf2fvmgj"},
 {"v":"0.94.0","e":"^1.85.0","h":"1y52ic3gy6sin32d58fx8jg4m2664cflqm8wlaqhgg6j5gvm3fh1"},
@@ -4613,6 +4615,7 @@
 {"v":"0.0.2","e":"^1.5.0","h":"09g956hyvwadhys6mb71r7hqdxlxsihn2ffrybyiibjq0v3s5g9x"}
 ],
 "lispace-ai.siada-plugin":[
+{"v":"0.4.5","e":"^1.101.0","h":"0ww02wsvqmgahmagbjvh6cvgfhf0gfhmdk5lbjda2f1cjygmy124"},
 {"v":"0.4.4","e":"^1.101.0","h":"126y9zsi4174fq4n00dp5zg9v392hp4byxjl8schjdzvwpp83ndi"},
 {"v":"0.4.3","e":"^1.101.0","h":"131d68n5i13k5x4wxn8wyr4xx6zh2x9936h74wsdaz0qby4d8d63"},
 {"v":"0.4.2","e":"^1.101.0","h":"0ca3m6603g9443vbqalizwznbd0z1xc5ds5xyspla12lkmv6pf8d"},
@@ -5761,6 +5764,8 @@
 {"v":"0.3.0","e":"^1.85.0","h":"1mibr8iagc1xbi3481j8nxbyq3yxnycy89r50dpi3j929mdmi8x2"}
 ],
 "nola.nola-vscode":[
+{"v":"0.1.9","e":"^1.85.0","h":"0fznpn8qw39kszrmflxql96snz372h2r80fc7i5say5f4anaavpy"},
+{"v":"0.1.8","e":"^1.85.0","h":"1y6bqwdjd2nzk1pzh560hdk2g7dnx3p3h4bdkiix6v86w5bv4q2d"},
 {"v":"0.1.7","e":"^1.85.0","h":"1i93va3cxf7klf181p220wpxpzrzlj7jnr6x0l16w1c1jblw5kqm"},
 {"v":"0.1.6","e":"^1.85.0","h":"0k6n6hsp3wam6prxzhdbg75hr1w09y9rygskwdk4p9qldakwy7cn"},
 {"v":"0.1.5","e":"^1.85.0","h":"0nxhskjsyhinsgl4ggymqpz294i6j9wyvw3hja91j9a2bifsbi68"},
@@ -6863,6 +6868,7 @@
 {"v":"0.1.0","e":"^1.42.0","h":"1h4846968hv9n5lqwqlklrq5b8mhk0hkn2bpshdyvvi3jzwmbzfw"}
 ],
 "salesforce.salesforcedx-vscode-apex-oas":[
+{"v":"67.17.16","e":"^1.90.0","h":"0dhdimn78lkwl85wpqb92lcdr6ifk8qq9zch0zp4w2i41yh5i58w","r":true},
 {"v":"67.17.15","e":"^1.90.0","h":"1n533asyv5zwplifzffkgr6jdavlhzqa1vidh7zns9zhi7ncfsl3","r":true},
 {"v":"67.17.14","e":"^1.90.0","h":"10adkhi8p2mglzsfhn90hk7zi21r5w6ij47wgggphp3jyc61wnjp","r":true},
 {"v":"67.17.10","e":"^1.90.0","h":"0vm4rblqazzmi89i2942681qk2ism0kh64w5cv4yydigd4690sp5","r":true},

@@ -1425,6 +1425,7 @@
 {"v":"0.1.0","e":"^1.57.0","h":"1ds2x2cappqs8w19qpaf0z5l7a1vnnc875455n03h7239d0s5rhl"}
 ],
 "cade04.orrery":[
+{"v":"0.3.6","e":"^1.85.0","h":"00wvkq5jz7dh2cw616hf1pfrdw9ymgd66rmc23jzc03mzj2r1vmv"},
 {"v":"0.3.5","e":"^1.85.0","h":"1vfbj5zyhrgigwf5ycry1mrswxp0vv35xf0gqngplbkd259jhz6i"},
 {"v":"0.3.4","e":"^1.85.0","h":"1ynnmpgxd8a2s5pkqwy3vdcnjmag0w5zpps1pm51l1cf64rj12ji"},
 {"v":"0.3.2","e":"^1.85.0","h":"0zp4rn76gych91rsarjl4wvld92p68nkhv4gkgl6fkf7vqpdpx2s"},
@@ -3310,6 +3311,8 @@
 {"v":"0.0.1","e":"^1.47.0","h":"10vw8mc6ma9w4dal5rs4p844bv81yhl8yc8z1znl8lrblf72sv0n"}
 ],
 "huanent.toolkit":[
+{"v":"1.7.2","e":"^1.125.0","h":"0x77k3xbisawq0ybs8g3dbm4qb3gpkvkb2xvihcpp98x69d6j32y"},
+{"v":"1.7.1","e":"^1.125.0","h":"03k38h221l2plmzc72ddi38n57y5lj4l2xh9nap48kz36phs7dsa"},
 {"v":"1.7.0","e":"^1.125.0","h":"0ddqrqkblr52z90khi0wm31i95f8jlvqivnhy1717rjm0n1wlkz2"},
 {"v":"1.6.0","e":"^1.125.0","h":"0nay9arzxkib4wc3xvgmjbzjm6jcxydfkkfgan81q81f2kd2zh56"},
 {"v":"1.5.10","e":"^1.125.0","h":"186h5bayk9gxsz65jnyncyca79ks56cfq9j163c0ghqzcvc9ah8v"},
@@ -8676,6 +8679,7 @@
 {"v":"1.0.0","e":"^1.104.0","h":"0jfzl1qksf854m19qb7szdv2gkqxgaxhw7w2fa5bfm85lmk9bbxv"}
 ],
 "neo4j-extensions.neo4j-for-vscode":[
+{"v":"1.19.32","e":"^1.75.0","h":"1l7vdfdg2gqjqqmqrykhx8cy95kh8mzmh17vd9hi09b1mhpr9pcm","r":true},
 {"v":"1.19.31","e":"^1.75.0","h":"1k8xz90v7gq484rga1bxs6zdj0jd7vhyac279dmy33nxg6b34iy3","r":true},
 {"v":"1.19.30","e":"^1.75.0","h":"1cd5bncx28i7clf1zngm39y2s6910xlcmp24ng469mqjj5vqlxgz","r":true},
 {"v":"1.19.29","e":"^1.75.0","h":"1cfjazc64817mp7bf8npx03rxkx9xz5i1bazvfwfwykxz5nb3z0a","r":true},
@@ -10086,6 +10090,7 @@
 {"v":"0.0.1","e":"^1.68.1","h":"04linajw1kj83m9ypd2jppyjmyglakpg13q6cjs4w6j8xwrjb4f2"}
 ],
 "pll.python-language-levels":[
+{"v":"0.1.0","e":"^1.101.0","h":"1v4gfi6j1d2nl4qll249fbh7j01ppfcw89rjxm6szwzvdyiyzpik"},
 {"v":"0.0.8","e":"^1.85.0","h":"0d4jdd6fg77gliw12dr8576xykf2fc793c1ky1q98xn6m0aacv2d"},
 {"v":"0.0.7","e":"^1.85.0","h":"1sscnm4chpriqf8n0wnx3bdfrphlmkslkkjvbgbw92bkhx7q3cj3"},
 {"v":"0.0.6","e":"^1.85.0","h":"0b1lh373y4bssw1pmzyvjnmcmpnq778vl9756arhngqrfgcr7rh8"},
@@ -10754,6 +10759,7 @@
 {"v":"1.0.0","e":">=1.84.2","h":"01262k8jip6hzyksv0k8qwck9v8zq9mzf32igsqa17vv35b0qs2i"}
 ],
 "salesforce.salesforcedx-vscode-apex-debugger":[
+{"v":"67.17.16","e":"^1.90.0","h":"048y3l15ybybf7zglj6yw2qhcgvjfgqg2ngv0qzjwl9qvkmwpyri","r":true},
 {"v":"67.17.15","e":"^1.90.0","h":"0bl37yawiimcq7mh870mlf9d3a5divpi4ycks9s0wrg36pdd2h6f","r":true},
 {"v":"67.17.14","e":"^1.90.0","h":"1vj2bhi0dwyk4n9hg1g4dd54zd422pj4d620xgvbpjz0r38xc19z","r":true},
 {"v":"67.17.10","e":"^1.90.0","h":"04pyd7d2f8xxnp34y5vv3wlxrlkw8y2xb1cryx1nglsmhixlyk5j","r":true},
@@ -12042,6 +12048,7 @@
 {"v":"1.6.0","e":"^1.102.0","h":"0h7sp868il6whqi0cqvbmxkmgp6if0nlyi19mbggad8031wl4ljq"}
 ],
 "truxt.truxt-ai-coach":[
+{"v":"0.3.30","e":"^1.96.0","h":"02kk08ccgipk8vkrzdwbxq19kgzgg6vi23k2qmhd1vsp8sd27qd1"},
 {"v":"0.3.28","e":"^1.96.0","h":"1vsns7xj2ndzcj9q6s6wjj5pgv3vx7ij90ivncslxhfdllsgpj0p"},
 {"v":"0.3.26","e":"^1.96.0","h":"1826w20ksr3l6lyf0bbhv7crina3snwa8abc9i8dbcam8vivk78g"},
 {"v":"0.3.25","e":"^1.96.0","h":"0g0xjqb8ji92xhxl78wsdsq6zxvc9jyzcx60j9qd9nc613fv0rqb"},

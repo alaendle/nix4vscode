@@ -2139,6 +2139,11 @@
 {"v":"0.1.2","e":"^1.81.0","h":"11b27qw0iq494xfx2b419m52xim76rck1kx2d35ya42byi18x1nr"},
 {"v":"0.1.1","e":"^1.81.0","h":"0791mx3zby2qmfmmxqqbpl8mr0iggaybgy8v5byr0s3jk6cang91"}
 ],
+"desousak.remote-shell-here":[
+{"v":"1.0.2","e":"^1.85.0","h":"1qwzr781lcwxs4hpylpqnwmnrixpc58mfnmnasnx287y8z86x94n"},
+{"v":"1.0.1","e":"^1.85.0","h":"0rl6xhmqzbmyfb1qd0gcs3m507qizrfnxvcb67ipiigga8vvlpic"},
+{"v":"1.0.0","e":"^1.85.0","h":"1560dm8c99rnxy250zlqrwn50wiilw5k9ga88k55gidly1q2k3fr"}
+],
 "desyann.vscode-git-paste-patch":[
 {"v":"0.1.0","e":"^1.85.0","h":"1ayfmcia7bm33m91zdpk1fghznmjvilpyn285pm6kc23nvkcyrwb"}
 ],
@@ -9697,6 +9702,9 @@
 "react-depict.react-depict":[
 {"v":"0.0.1","e":"^1.95.0","h":"18pj4dak6qmbmnar3zrswss902y90rwfg57by9q0w58b0l0ya79w"}
 ],
+"readystack.model-card-lint-gpai":[
+{"v":"1.0.0","e":"^1.75.0","h":"1j7c1rny0grai88wjx732g00i4c4gpn5jim4fj90m9ksn8n1qrnn"}
+],
 "rebornix.better-jupyter-errors":[
 {"v":"0.0.1","e":"^1.57.0-insider","h":"1a4x6vp5zv31klq158fzn3ql3s0ni5g28kz549rlalnv6xp8wrl2"}
 ],
@@ -11014,6 +11022,7 @@
 {"v":"0.1.0","e":"^1.58.0","h":"1cx6vw8zz81x22aanysg9hww51q2m70km95gsf28v8z00hgmdmgi"}
 ],
 "tuguidragos.tapetum":[
+{"v":"1.0.9","e":"^1.70.0","h":"0gzy7dpbhrh2ifijk2jxxgq577dvc6qacdcia3rsvf9v7y9j210q"},
 {"v":"1.0.8","e":"^1.70.0","h":"1dfjbxnhnqp2g0yjvqzxd0796hdibsh9gw5mc3xa2pyyl8239y8s"},
 {"v":"1.0.7","e":"^1.70.0","h":"1fk0gylyx9z8cl79ldxmpg6syns5pk419s3zpa13lk3wgbkn3mv1"},
 {"v":"1.0.6","e":"^1.70.0","h":"0iv3pi9irid6rvx4qw9snf4wsbl45fb3my06g4cg71fc62cspj5b"},
@@ -12396,6 +12405,7 @@
 {"v":"0.3.0","e":"^1.52.0","h":"01prv5a1jy9sk5x30gkzk5jzf9w4428a022zabl5k4ny1p0hc1sx"}
 ],
 "ziex.ziex":[
+{"v":"0.1.1552","e":"^1.125.0","h":"0lzkxam4v64pj7916aisxlilgpdjizbfvika0rpkxrs8f2vy60sd","r":true},
 {"v":"0.1.1531","e":"^1.125.0","h":"06knfqmr4rsqlw20fazzwf1lvj4z8gw46l5c5zaa52hjly787x2s","r":true},
 {"v":"0.1.1508","e":"^1.125.0","h":"0wfv13y9zywxyhfv5fmpf044sc8s5z1h0zc4l168p8ff7bmcc2fp","r":true},
 {"v":"0.1.1141","e":"^1.125.0","h":"0imjyjbmml7v6awxfnh68plp84g4n1wvijgygp1ilbsgwbrlqrd9","r":true},

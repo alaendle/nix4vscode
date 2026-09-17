@@ -2050,6 +2050,7 @@
 {"v":"0.0.1","e":"^1.78.0","h":"160v1v1li6kh63igfr9m2ivkw95xmwnkn1q4d97ysb7qa85f66cz"}
 ],
 "carlosperate.bbcmicrobit-micropython":[
+{"v":"0.3.0","e":"^1.91.0","h":"19s310k4a1zxygrilpy53c882abmq0dp9gvf362djxy4925nacx2"},
 {"v":"0.2.0","e":"^1.91.0","h":"1xlzib4s7w746y7yrd3hyp6a2l9v758gsjp0b20bmvp5qshkz3in"},
 {"v":"0.1.0","e":"^1.91.0","h":"0vxq7ad2an96rv761jz79wcf3nz85pq3kmbp0bclbqhj6mcn3lvv"}
 ],
@@ -5766,6 +5767,7 @@
 {"v":"1.0.0","e":"^1.70.0","h":"0rmmlqy2rm64azc03fvvhgla9w1rmcpp3skzr8i3kndxbv9xa5rz"}
 ],
 "matterai.axon-code":[
+{"v":"6.8.6","e":"^1.84.0","h":"18b2qdqc5f5g7g9dp6ds66xib4hzmqa5vja0b2vhj36ynkkd9di2"},
 {"v":"6.8.5","e":"^1.84.0","h":"09i4adkjw92dd73c5dzmsd28ka68hmwp1nb99ygcgxa2qlmz4rfn"},
 {"v":"6.8.4","e":"^1.84.0","h":"03fpiladz0f0v8hpidn247zczbycar4ahfgn5wmmd6dv3djkkmyh"},
 {"v":"6.8.2","e":"^1.84.0","h":"0qy4v7a2kd24sd2vpj09szi2nvar5bh3zkz2xgdnrxp4gm15sxy8"},
@@ -7457,6 +7459,9 @@
 {"v":"1.1.0","e":"^1.70.3","h":"14zgp5biyvgfa91657ab28a5ffvqskybcls04agb0sl6nzm6kz6v"}
 ],
 "mrakulis.opencode2-vscode-gui":[
+{"v":"1.0.2","e":"^1.96.0","h":"0vlq6174z7m6fxb7zbai5favh9g77b324i63ysifns6bhrqmd2v5"},
+{"v":"1.0.1","e":"^1.96.0","h":"0f13419088jvrc90xqz7vjv67bkkpn97p9rsmgb8bz50gxmyn9ii"},
+{"v":"1.0.0","e":"^1.96.0","h":"1ns8ppipfb62wpzlj6padisgriq46vigq0wsv1alsph6hi8ajbgk"},
 {"v":"0.6.86","e":"^1.96.0","h":"1xyd8gskkzasy3zghn30v1y4k29s68jwhfr3ny33v0847zrrqmij"},
 {"v":"0.6.85","e":"^1.96.0","h":"05bnxmsrl2smsrn9sqbnjssyh7n22bgqz6mr5zpdbwghalhgc0x3"},
 {"v":"0.6.84","e":"^1.96.0","h":"046zaisj64dcprdbcsvr17bbjw7mz6czz2r2v166wcn91ffx2vri"},
@@ -8684,6 +8689,9 @@
 {"v":"1.0.0","e":"^1.85.1","p":"linux-arm64","h":"1h7k0sl11wbq6xxsca15pdk4bwh79abfamsb2ppwpl9k7gw051h8"},
 {"v":"1.0.0","e":"^1.85.1","p":"linux-x64","h":"0qsvay59w2mz2wbmlixxdag2a3w4mdcb0d7mq6jz03v07wkyyp37"},
 {"v":"1.0.0","e":"^1.85.1","h":"1h4046mhlwnk3hy0js573463y249shdvgxbcn3llmvv3n6j8qp4x"}
+],
+"readystack.pqc-deprecation-lint":[
+{"v":"1.0.0","e":"^1.75.0","h":"0z1b2n495ldnd0i1kin6ph1f8jra56nxydwcr2zghgfgjx6p7kz7"}
 ],
 "realcodeai.real-code-ai":[
 {"v":"1.0.0","e":"^1.102.0","h":"0ifj3i37y35ls291ghhp261sl3kl6699jdsknb9ksx9h8144xzsf"}
