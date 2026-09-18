@@ -850,6 +850,7 @@
 {"v":"0.0.1","e":"^1.106.0","h":"1gb075mxs9pwzwlsbylva3qp2306y47r2ar5g4mpviz1c1rg829j"}
 ],
 "averenium.averenium-nuget-manager":[
+{"v":"0.9.3","e":"^1.85.0","h":"1lzsg6f90yks4ad5316a45bmyn5jsckapm08gqqr2siilbv43pl0","r":true},
 {"v":"0.9.2","e":"^1.85.0","h":"0zfcl153aihnmapjjmqjjl854fgkjdv4lf2sbazzkr762nzgj7ld","r":true},
 {"v":"0.9.1","e":"^1.85.0","h":"0w90k59ab70b18glkxrgy66mbcqkqh7qhvy10kqxn5i048w46df1","r":true},
 {"v":"0.9.0","e":"^1.85.0","h":"079cbwz7jj1pw2j847zwb9cv04yv3vs2m2p5s9w6wpbndskppar8","r":true},
@@ -3086,6 +3087,9 @@
 {"v":"0.1.1","e":"^1.85.0","h":"0j64n131l5znm26iwqifxmsfgqjyahcgskdr76sw4gfh9q91rwd8"},
 {"v":"0.1.0","e":"^1.85.0","h":"0c2n7s33s1prcrhmdsrsxvcsyhwihvyf42jj06d2gsyr7x8750a8"}
 ],
+"ensemble.ensemble-ide":[
+{"v":"0.1.0","e":"^1.94.0","h":"17krr7c444yq48qcrqrfhnikyi0jcd025k0c9q72plpskpvrkqrr"}
+],
 "epi-project.branescript-syntax-highlighting":[
 {"v":"0.1.1","e":"^1.74.0","h":"1xi1wprrn5ldvfsjlmxifv32b24721wnxyd4q9yhblvzc6pkzlms"},
 {"v":"0.1.0","e":"^1.74.0","h":"1a7jlw7w9c1ywqkjk0mqwxpdfw90rg9nn0cb40d17x4p4s93jai7"}
@@ -4378,6 +4382,8 @@
 {"v":"1.0.1","e":"^1.77.0","h":"0k36dpjl39jxzj5w4wi7wa4w7n7jb9c83rrgk4swy7h1krdf8ia3"}
 ],
 "jay-youngn.codoc":[
+{"v":"0.0.5","e":"^1.137.0","h":"0p0rn0ixigz6gdr08q9j6560laqy6mha8llja0hr97d7gqxx70z0"},
+{"v":"0.0.4","e":"^1.137.0","h":"0vfc1imypb2ma3mgv9ijq29s9fsaj1gvphcpag0nqmsvrclaadsw"},
 {"v":"0.0.3","e":"^1.80.0","h":"0hhgbrzl0l1yyr9s1hvsppzbsak9cwkly3gszgkdsvdy46afrn7n"},
 {"v":"0.0.2","e":"^1.80.0","h":"0v16brnc3zhc19lbbgdqqhiv6x8hlrn3jjwbrwmhhiya0avba8h8"},
 {"v":"0.0.1","e":"^1.80.0","h":"1ck3ll27j2dp3jyg25mn6brq4pqp1cw5n9plyia843drwlgg1c7v"}
@@ -8928,6 +8934,7 @@
 {"v":"0.59.0","e":"^1.84.2","h":"1gpyd5yy161dwhr2fnpgyjikxx9x2d4g6631rf80nkhzvaisrllk"}
 ],
 "thanhtunguet.vscode-git-client":[
+{"v":"1.21.3","e":"^1.90.0","h":"0s333vk74gyp2nwaaqp5d522r1yc120nbi6hjas3yh8jngmd3q6b"},
 {"v":"1.21.2","e":"^1.90.0","h":"04vk72xrq36ikkbf8vyd9g4712h11wrflc8lyz8i7k2938z4d08y"},
 {"v":"1.21.1","e":"^1.90.0","h":"1j94q2shmgrf03k70sfx8lf24lks1gjyhc4kp50k2dwqhx77jg7r"},
 {"v":"1.21.0","e":"^1.90.0","h":"0mqjsf1h8p2611labjqx0nx8q4hfwxszlcgydqdmp3540gkhy8xd"},

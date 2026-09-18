@@ -1555,6 +1555,14 @@
 {"v":"0.0.1","e":"^1.96.0","h":"1xhvjs4nn5jfgzg0zaa5vrl2ick6d5x231ws5i1sfafbmhvn787w"}
 ],
 "contextstream.contextcode":[
+{"v":"0.7.227","e":"^1.95.0","p":"darwin-arm64","h":"1i11x101gpmqn7bk1nragbkw96ijxca7fpwqbd2idfzsy8vkpjn4"},
+{"v":"0.7.227","e":"^1.95.0","p":"darwin-x64","h":"1slgflgby6zfdhdndacb56a071qicp16ra3gi5sz6r0h3lnh03am"},
+{"v":"0.7.227","e":"^1.95.0","p":"linux-arm64","h":"0xvd9db6dk0k00nwsnvx8m8zz1r0avkgzwjb539x88jv5b8h3s9a"},
+{"v":"0.7.227","e":"^1.95.0","p":"linux-x64","h":"1436wifakjyc1gj4241wc0vcs46cww7cn7g5426azybpccpb4sj5"},
+{"v":"0.7.226","e":"^1.95.0","p":"darwin-arm64","h":"0hdd8vryayn08ph3yrxz5a09dm3xib3h3vrnqf8ffcz87vpd0s6f"},
+{"v":"0.7.226","e":"^1.95.0","p":"darwin-x64","h":"1vam63ia3125y3mcqs3zkllpmjfy8vbwknp901pmldiq82b6wxbj"},
+{"v":"0.7.226","e":"^1.95.0","p":"linux-arm64","h":"13cwnwwv6nmpd7wwm0aiz3zljk8zmd5wviy6ns2lqw7n5hf5lqnl"},
+{"v":"0.7.226","e":"^1.95.0","p":"linux-x64","h":"01w02q3619g43aail3kkd5hb9ccclp8yha9xmalpmjvy0v6xzzbj"},
 {"v":"0.7.224","e":"^1.95.0","p":"darwin-arm64","h":"116wx22yj0f4idpy6w0r7n8sncbajwdakqj1fj6jivddvjgl5m3a"},
 {"v":"0.7.224","e":"^1.95.0","p":"darwin-x64","h":"00m7v7bg1qcckkmyqm2fbcsljd8fcfj6yh2lxjsy786ar9g48x8r"},
 {"v":"0.7.224","e":"^1.95.0","p":"linux-arm64","h":"0g4d2cl9ny3b5m2n20zqb1axrgp4jyrya5dfdv912m9yv5lhyszy"},
@@ -5879,6 +5887,8 @@
 {"v":"1.0.0","e":"^1.75.0","h":"017mg3zqwryxmil71lsmgwvys1hyhsm3nyjrhkq4c2gjh3fzfj19"}
 ],
 "litosai.litos-vscode":[
+{"v":"0.1.24","e":"^1.90.0","p":"darwin-arm64","h":"0xm3hv3a4yb3xi29p7cqapb7l36qw0kf2zsmkph62gs9ly3x56sy"},
+{"v":"0.1.24","e":"^1.90.0","p":"darwin-x64","h":"0jfwvf351li75rixf4p1r6839nypkgsxdnpy6p158zhzzh1f6mdf"},
 {"v":"0.1.23","e":"^1.90.0","p":"darwin-arm64","h":"044yh5nxy11yz9hpbgza9kbbs8kp5q0qdjc94bpgg6i3k6m5gf1q"},
 {"v":"0.1.23","e":"^1.90.0","p":"darwin-x64","h":"14zwvsd6xkpx1d245l01mgj0n8dkcbd132pb22br2ghz0rbrkq19"},
 {"v":"0.1.22","e":"^1.90.0","p":"darwin-arm64","h":"0vpk4jj2iw5bpdhxds2qsblqlki49qxm6a55wfdakjdmgj0di0b5"},
@@ -7948,6 +7958,7 @@
 {"v":"0.4.0","e":"^1.85.0","h":"0dszzkkaqmjpv38bg7wm4bdpdgsc95q329wjlw23p14y0jkd81x6"}
 ],
 "qazdefense.1c-tools":[
+{"v":"0.17.5","e":"^1.74.0","h":"0f4fl05gqpw9nbxllzl5702ypkdaff8k0gzq2ajh9nx2qcm2diqf"},
 {"v":"0.17.4","e":"^1.74.0","h":"1zxf5nbmcs34ack9bw29ks8831a75j4m96628f0dnbnf6yzha69f"},
 {"v":"0.17.3","e":"^1.74.0","h":"0y39xifxqz61srz38rxi01gq4h0mk79p2gnrjcr93n0qgx206kcj"},
 {"v":"0.17.2","e":"^1.74.0","h":"0cy8s94lyarai3izvrkz2cbl6bj1l8nach37n5br4l95irym0iz5"},

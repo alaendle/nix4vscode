@@ -2878,6 +2878,8 @@
 {"v":"1.0.0","e":"^1.99.3","h":"1m7qvbhykc9y5mnx1c1gzhjzv9y81557c5ha6sc6s83xadvh11bs"}
 ],
 "genroc.genroc":[
+{"v":"0.8.0","e":"^1.85.0","h":"0hwnrqkap8hsyg55j4k5kgqbfa72kchp65div9w1lwgldf8gs9bz"},
+{"v":"0.7.0","e":"^1.85.0","h":"01b33dc0wl3snxa8n7i41nna857kv0ylzwwxdkf7jmx2gcr0p3sy"},
 {"v":"0.6.0","e":"^1.85.0","h":"07ynbc19mv95lkf06l7dsvz20akpydki5iv2cnmy84ch8rsf1rn7"},
 {"v":"0.5.0","e":"^1.85.0","h":"0c7xznsvv06j9mvd97avkpm3qr97pk42k4xp61vvkx252zvr204w"},
 {"v":"0.4.0","e":"^1.85.0","h":"0fvzccf07vh0qzdnlc8sz4x144xr9xswh12q31rzxf131pcbs8pc"},
@@ -3196,6 +3198,9 @@
 {"v":"0.0.2","e":"^1.46.0","h":"1lcgq2l0ar78zlfb4q6w4jg7gllysznnwsqy6bxddsjblyjq6617"},
 {"v":"0.0.1","e":"^1.56.0","h":"0xa30dfzwx5gzgfmi3zv52n490m3mlszs58ym75ag8glsc3ijd9k"}
 ],
+"ham-chan.listdatasyntax":[
+{"v":"0.0.1","e":"^1.125.0","h":"1nk6kgvwyc7961db326riik41mmgkx85d7p95481p4kqqyhjkmzw"}
+],
 "haoyang.newfiletemp":[
 {"v":"1.0.8","e":"^1.2.0","h":"1km34ajmv80659hrcjyq0wlvfki33y9rcl4c4zailmkshrsn8niv"},
 {"v":"1.0.7","e":"^1.2.0","h":"09kf3h0bh6scgpm304frbdwhbdylfhflgp9s50mcg5nlpnlkmaq5"},
@@ -3379,6 +3384,7 @@
 {"v":"0.0.1","e":"^1.51.0","h":"047l11lk8j8mb35a9w17ygwdhhrm6rxxk6x16ziv31facpf71qk2"}
 ],
 "hummerbor.pi-for-vscode":[
+{"v":"0.0.129","e":"^1.85.0","h":"0rmgijrjas5hpm2k8lawzdd25ahm7pwzjzf89yjqgzvigllx08b3"},
 {"v":"0.0.98","e":"^1.85.0","h":"0rif35qgbzkndbbck1zhrhmm7gl49r18hmw6z73svcis3vas6g7f"},
 {"v":"0.0.97","e":"^1.85.0","h":"0jjl2wmhsgbra0w1ah0r0fy3q0ymp80kj78sijyp5qqj4da6pli9"},
 {"v":"0.0.93","e":"^1.85.0","h":"0syzd6s5s585s05j4kzdd89vknd2x7430nwscx2sag669k508m5s"},
@@ -5389,6 +5395,7 @@
 {"v":"1.0.0","e":"^1.14.0","h":"0wjh9rb95xhmcr0lzb3iaqgaads088sj44mfscg6bms4dgsvmw71"}
 ],
 "lupee.file-studio":[
+{"v":"1.0.9","e":"^1.85.0","h":"0c1lylrwd7vszmzjg9k7wl8lk3plzixq8raymlz5f6pfavz1g1f0"},
 {"v":"1.0.8","e":"^1.85.0","h":"1d171840jzpafrxsbwr4xjrhjabaxxlpv71gjbs9qaa1cyp078sj"},
 {"v":"1.0.7","e":"^1.85.0","h":"1h1p6fyjrw4374ldfdxc6f75pz6wnwaj3835ibfzy2znsxd6hnr1"},
 {"v":"1.0.6","e":"^1.85.0","h":"0wscds54bakb39p3mhah9m5022grcj0s6l1x71rayl0mcb9c9x8m"},
@@ -8041,6 +8048,8 @@
 {"v":"1.0.0","e":"^1.56.0","h":"14b4p8nqgi3iyzv0x86i54wgvvxwyg7dzdivf7azbd8wb35p5y5h"}
 ],
 "seredalabs.editor-toolbar":[
+{"v":"1.3.2","e":"^1.85.0","h":"0lgwgifhnyp1x1116ng8a22jgri3g13nzqsa40qw1himx8kd9znq"},
+{"v":"1.3.1","e":"^1.85.0","h":"0zs676yn4v8k6bchm6ng2zlw3i7mpgrfwhxi4avy8rmib0msjgpz"},
 {"v":"1.3.0","e":"^1.85.0","h":"1aj3kymlqmcly1kil7sqpx33dcx0l5braq5ckfdqqkl11idfpvqc"},
 {"v":"1.2.0","e":"^1.85.0","h":"13jf19chba164qincf77vrllz889ihsxmg9h5r27jg1q1fag9iwl"},
 {"v":"1.1.2","e":"^1.85.0","h":"0grcmbrdz2riaw1zm1sz306s0p16ph3vcr4mh1vx8flkhw9y2c6y"},

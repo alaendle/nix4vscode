@@ -1229,6 +1229,8 @@
 {"v":"0.1.0","e":"^1.33.0","h":"13z211d0z44xbwqm8qanq1ymvja5l0byd6klspq0bh7k4lp04dmj"}
 ],
 "cascara.cascara-lang-ct":[
+{"v":"0.10.3","e":"^1.103.0","h":"1lijq7yrvb4xkbm442rvwz9f78ivmx3m7yils9zsly5pa8m6vlc3"},
+{"v":"0.10.2","e":"^1.103.0","h":"18drg5xkw5npzkbkwrg9540fhrk0zyhwrwq7za4lxmjrk6rs6n9h"},
 {"v":"0.10.1","e":"^1.103.0","h":"1by4pandn3kmbmszxz1mdnlqhrzgki0pdgjmsg81msfjfx7mnb9d"},
 {"v":"0.10.0","e":"^1.103.0","h":"1shaasf08l5hkvlkmjfkpkrrx33zw6ayha2kkvrhh64acs0q1i95"}
 ],
@@ -1904,6 +1906,7 @@
 {"v":"0.0.1","e":"^1.5.0","h":"0vk6rzx7g2br19n925781mvyzm19am9rcgwdx15kas20rn18ckhb"}
 ],
 "dbcode.dbcode":[
+{"v":"1.38.5","e":"^1.101.0","h":"0lil3bmm263axblg3qqy0sbp4j7af6w6sag7a0rcp41yl818vdkj"},
 {"v":"1.38.4","e":"^1.101.0","h":"1f42cj8jgcdndskb0k0d3dgaf8mqq2859294hj0ljgdkfyll35px"},
 {"v":"1.38.3","e":"^1.101.0","h":"16msn22gv4nhj2yiqywk5410w5ysfn3zlf6jqr8v1rcbj53463pk"},
 {"v":"1.38.2","e":"^1.101.0","h":"1f02ybrk49b47xz4qnz34s34qlnhisgzibj4gd6iva9n77jg5vmm"},
@@ -7074,6 +7077,11 @@
 "phalguniw.poetry-tools":[
 {"v":"0.0.1","e":"^1.105.0","h":"0ac2cx751z568w2lzpjy1441ygv1zd65kflab2nhfb8dhrzyfrvk"}
 ],
+"phap-nguyen.moritsuke":[
+{"v":"0.8.3","e":"^1.90.0","h":"1h5sgpd5iri5aczq47vpbz9dq92brbc5hywddnyflpv454n1s3sj"},
+{"v":"0.8.2","e":"^1.90.0","h":"0qx7np0zxvg171wr8j629z879zyb540d0fw28m44cpzi3p1jnbfi"},
+{"v":"0.8.0","e":"^1.90.0","h":"0dqmrc6yyzqpp86yjgvlki1g6a8x9xcdg8mnmci2hjhdkza87ql3"}
+],
 "phillipelacerda.golang-midnight":[
 {"v":"1.2.3","e":"^1.93.0","h":"1sr71flc8941by9vmlfr398xnc2kmm9mdijggj3wz59lqyx75s9j"},
 {"v":"1.2.1","e":"^1.93.0","h":"1n0n50nsb949mf2h4f5pxgj66mq18m0karb1859rxnzpb7a3br87"},
@@ -7766,6 +7774,7 @@
 {"v":"1.0.0","e":"^1.87.0","h":"1wrrdqb81c1wwmq052vslqzsbmkkzwrfn5nx1iisxl0gwmghpvl6"}
 ],
 "rakshit087.easy-worktree-switcher":[
+{"v":"0.0.4","e":"^1.90.0","h":"0600gyfvnr7wcr259yap2mn7df92kj01klxzssgx3g5c11galafq"},
 {"v":"0.0.3","e":"^1.90.0","h":"1sxhw205g8v14q2fvdk4bzjfwa3byvaqldmgy80j1576vap1in3m"},
 {"v":"0.0.2","e":"^1.90.0","h":"0ql8305r2xy8903jyqjfg23sfpnz36qx76hf95mry00k6bcdppky"},
 {"v":"0.0.1","e":"^1.90.0","h":"10n9rpbi6270cw1k3gn1x2vpgjivb0wb11lywv7a1697fnh1q8wj"}

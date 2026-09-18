@@ -202,6 +202,9 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1jm0nb7sr1lr9rk0zizg9hr5mra10919i0lvpk68dal6c2m5mk4a"}
 ],
 "ai4you.vscode-openedge-data-administration":[
+{"v":"0.1.135","e":"^1.101.0","h":"1z6vi14r06famr1iasn4xxwi8gwa5ig2rdyhvw1ms0rvysa2chbp"},
+{"v":"0.1.133","e":"^1.101.0","h":"01xr9rgf4kpgas9xfqlhh6by2w85i0ppyi6lhqzyg9lfvzcxacpg","r":true},
+{"v":"0.1.131","e":"^1.101.0","h":"0zsi3sc874kgcg3jmpdjmh6sk5y4d7zavpjbbi653aas9xr5xd8x","r":true},
 {"v":"0.1.129","e":"^1.101.0","h":"1bghwgbw2bgwwjz0zp05q2vlf84vjpjcxcjysi56fyj9fxdymy4v","r":true},
 {"v":"0.1.127","e":"^1.101.0","h":"19i0pxgx1j5q0r8xaq9c4l6bnbra4vp5n6c5jcx7h06gvpil7pgp","r":true},
 {"v":"0.1.109","e":"^1.101.0","h":"00cl2mzr2c1sjl8nfq9s6frzjnabl82czf2fxq3hsb2f7pcn6g28","r":true},
@@ -4782,6 +4785,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"0qyvjjd6zpw2f83m564gk8dh9lnd1fwm3gil943nl9gp51kvmspf"}
 ],
 "mariuszczyrnek.tia-import":[
+{"v":"3.1.84","e":"^1.95.0","h":"0nf9nq8acj9p8ipgjsiiaihdzqrk1928qjscikc2d79k27hma8xl"},
 {"v":"3.1.83","e":"^1.95.0","h":"0jknpckm2lwv96l9b3pn2x35axym5p89bssrjvy7ibby1jpd1fdi"},
 {"v":"3.1.81","e":"^1.95.0","h":"0jn2xhqclcdz6vjczgknk7jl8jhd06kd00k8s3k1bl7bi6bhnn8f"},
 {"v":"3.1.80","e":"^1.95.0","h":"16yl05g6l0ph096s84cmn8n4lgwl4r9j3a0gsynjrq0nax6023f9"},
@@ -6658,6 +6662,10 @@
 {"v":"0.0.1","e":"^1.20.0","h":"08xcrfm7xwfh7p8r32dbfyc1mhfmx10k238d94gd2pv45bazlgsg"}
 ],
 "sailantis.phpthunder":[
+{"v":"2026.1.92100","e":"^1.82.0","p":"darwin-arm64","h":"1b2pixrp2s5mxq8wibnsli5ln48yb6qfkyw7gkacmmb1a2bbfwgg"},
+{"v":"2026.1.92100","e":"^1.82.0","p":"darwin-x64","h":"0wbsq6xqrjhiqp0j9jaznnznqk9b4kbdkqcggnz5amgg5i4fsfad"},
+{"v":"2026.1.92100","e":"^1.82.0","p":"linux-arm64","h":"0a18l664kfdjw6p16xivnllrw60whgd135gpxcgiy5wm5z547cfd"},
+{"v":"2026.1.92100","e":"^1.82.0","p":"linux-x64","h":"1a18njsw6c3krlrgbb1j9969y41fsg4sicy0j3ayw85cvp7vk4mx"},
 {"v":"2026.1.92000","e":"^1.82.0","p":"darwin-arm64","h":"1qqqa5rssnmpas2g13bagd21c3agxlbls6i1fj3lg9jqjsx2lfb8"},
 {"v":"2026.1.92000","e":"^1.82.0","p":"darwin-x64","h":"019ggqc1mc2g1yfqvahvwnlkbrp3vbmi6vn7v9ih42a9ldv0picf"},
 {"v":"2026.1.92000","e":"^1.82.0","p":"linux-arm64","h":"0nrxgqqbh4irq70l1dax89l133p66nlvi5c85wlzbig8aqcznv74"},
@@ -6828,6 +6836,8 @@
 {"v":"0.0.1","e":"^1.95.0","h":"02i38ws9vh112lwl7ki0sfd1mr8kfhbrxphaz5aw6smrjmkvfzfi"}
 ],
 "sayaib.hue-console":[
+{"v":"10.56.0","e":"^1.86.0","h":"0q7yqd4r9idfnvld1cirf34gs9vz4pc71ya9n1kzijd3fq7wbsnm"},
+{"v":"10.55.0","e":"^1.86.0","h":"1lbi3mci00pjyirrzb4lf562cx2xv4vpxkh9v7xgmmacz5nj8vb5"},
 {"v":"10.54.0","e":"^1.86.0","h":"0mfzq0qkpf3whm90qwaxar53as1p089mwc41zywqmv79da1vlqi3"},
 {"v":"10.53.0","e":"^1.86.0","h":"185gk2543g0z147q8678sma79sjyqzqhc3nrjn5qkzifjbyw1wmw"},
 {"v":"10.52.0","e":"^1.86.0","h":"1lic0wqrshmwn58g80ijh7nyb19kgpm55388ah36pifixc90gz4a"},
@@ -8681,6 +8691,10 @@
 {"v":"0.0.11","e":"^1.80.0","h":"1rmfd7qxm69izqn1xkxz9ikjimxm8rf9zjd7qh8n0ghwlgkj302k"}
 ],
 "viberails.vscode-viberails":[
+{"v":"1.10.13","e":"^1.125.0","p":"darwin-arm64","h":"1rxl5jl35g6z8lvp6fvyk6m5q13q6wrmiwmslc98y33mjk8ybn9d"},
+{"v":"1.10.13","e":"^1.125.0","p":"linux-x64","h":"0jg0liy2ra8fx32dvilvmkya5pc1ssjxgzd6df1kfmgcj4fcmdvw"},
+{"v":"1.10.12","e":"^1.125.0","p":"darwin-arm64","h":"1p1y3drrvah7k35q7gx9war5ay1qjvcbnph3nf1aiiswxjm3nc61"},
+{"v":"1.10.12","e":"^1.125.0","p":"linux-x64","h":"1s4w7q6f20fhk9qmxmx8yzslkpl90356nvp6492pr0kqw1lgfhp7"},
 {"v":"1.10.9","e":"^1.125.0","p":"darwin-arm64","h":"0g9m7366c0qfsnknmmc33xg2m1ca62nxhk9xglksi396x5mycp71"},
 {"v":"1.10.9","e":"^1.125.0","p":"linux-x64","h":"15lm7hknkr24z0rq25m8dmlnmsrd0wmnwabhw8qrdqr8651p6jap"},
 {"v":"1.10.7","e":"^1.125.0","p":"darwin-arm64","h":"1dzbf9wlz46rbb8vglxrsmpbigsqg2xfn1pkrdi7agsfwnawfma1"},
@@ -9364,6 +9378,11 @@
 ],
 "yousefelbrolosy.project-broccoli":[
 {"v":"0.1.0","e":"^1.106.1","h":"0yg09ig887hppwl9jfi0acdw8rpi0igswk1m7h09h1jd5sw28vin"}
+],
+"yuanlonghui.copy-code-link":[
+{"v":"0.1.2","e":"^1.85.0","h":"1d6bg11d5cvsncmpvi3dxn39xjzagp6gpspn3i3dy1nywzrc81wg"},
+{"v":"0.1.1","e":"^1.85.0","h":"16qb03zaby2x29gk3gjgwx31jvwmd4wd79lbbkvxcpapcavavw0i"},
+{"v":"0.1.0","e":"^1.85.0","h":"1r8zm8ch5q42y4izyb7lyhykzcgkrfl7r81gabfhfy2hvani63yr"}
 ],
 "yuanxaingwei.y-cors":[
 {"v":"0.0.5","e":"^1.78.0","h":"1nwbrlb42yg6w5whfa0if6qbp83r4pq7jwdja8b92q6lbxj80mfr"},

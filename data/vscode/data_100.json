@@ -2771,6 +2771,9 @@
 {"v":"0.0.2","e":"^0.10.1","h":"04wivzyazpyxa6304viwnl1wniaj66q9pn2p7lzpxklmghnb925v"},
 {"v":"0.0.1","e":"^0.10.1","h":"0900rfsyn1r2p97j3w0r8a94s00jnrvvv0z4ckvl0pjd3gifrds6"}
 ],
+"ghielectronics.micropython-debugger":[
+{"v":"0.2.0","e":"^1.85.0","h":"1xvn9li7hjbgxs7cypm69qvjgd1w09hv0qkv68w8ly4fi395p7nb"}
+],
 "ghostcode.apex-copilot":[
 {"v":"0.0.14","e":"^1.80.0","h":"1r6bs4a1vrg5nzifmqa4c4gxjdbv85031yfd3srj6f5a3ibnscnv"},
 {"v":"0.0.13","e":"^1.80.0","h":"08bl1q4k1l9g7hjk2cj2ww82c9j59wql7di9y965jvnc6pw7qr6x"},
@@ -2782,6 +2785,7 @@
 {"v":"0.0.1","e":"^1.78.0","h":"1xfm7ycj9nklfgbfz1yqq75k8j0b7jq6rf6z5n2mhnz2qx3q8vqi"}
 ],
 "github.vscode-pull-request-github":[
+{"v":"0.167.2026091704","e":"^1.137.0","h":"09hr6h1k9li0g63bvcyihlbq3xh2907dkv8ivv7k7ngc556pfv8g","r":true},
 {"v":"0.167.2026091604","e":"^1.137.0","h":"00makywcry7vkindb6437kds56c4mj179w6fan4msdcg296xl5q5","r":true},
 {"v":"0.167.2026091104","e":"^1.137.0","h":"0kmwmblca1189lcdavdx41yqh3hv3gc257vlyckjdpxmxs7bdlya","r":true},
 {"v":"0.167.2026091004","e":"^1.137.0","h":"177nnvhh8368q9mmc8z8p49xm5m4saqdd59rkbkk88c4p8f370yj","r":true},
@@ -9478,6 +9482,7 @@
 {"v":"1.0.0","e":"^1.56.0","h":"0agpqqjijbmjf96g71ivi8r55scf9hpya7x9lsans0h6vnw08nc2"}
 ],
 "seeligmx.radar-for-claude-code":[
+{"v":"1.3.0","e":"^1.93.0","h":"1x6wxkk35ji6chmmas3qj3v5g1hbs5i24k76b73jvgrpn5z0c51y"},
 {"v":"1.2.0","e":"^1.93.0","h":"0aa7gjq4ld4zv8pzkv9hxxwvvmsg10vm9x2ndns79j1rr3mbv2hv"},
 {"v":"1.1.0","e":"^1.93.0","h":"0sh78g33f9bh7vnqxfc01gkn82v6yzld1wsm4pg1bhf1zcnx743a"},
 {"v":"1.0.7","e":"^1.93.0","h":"1vp6cx1v0b60g9v37l6q3vhxhw37gp2pch092a64vy1sya5jqy20"},

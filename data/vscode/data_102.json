@@ -151,6 +151,7 @@
 {"v":"0.1.0","e":"^1.125.0","h":"0wzbpiw1ghsz7mm7bxhipvpyr24k0kxd4pp8l4f64gcbn94imwlp"}
 ],
 "adamwojcikit.cli-for-microsoft-365-extension":[
+{"v":"3.0.72","e":"^1.90.0","h":"0c0s5i1r1f571kra8jr85ra3bdrcs8lwpdl8qcmhgd9yplfwxpza"},
 {"v":"3.0.71","e":"^1.90.0","h":"0nz3wjcv105hfny92n4xzm9v82bkbbm2n3kvas71yyhvw25y6f2b"},
 {"v":"3.0.70","e":"^1.90.0","h":"10fm8ml80ih32c6bl4dwsi5a7ars7fky4yqkxwdin6cl1wnviyxd"},
 {"v":"3.0.69","e":"^1.90.0","h":"114sm9y3zx9zh3xp6sg00x7wh79kmzxqhxibbckhr4kcryy48gx0"},
@@ -3515,6 +3516,7 @@
 {"v":"1.0.28","e":"^1.75.0","h":"1ampbvzg02j0il2jfri9r76plnc85dqjqmysn63n6gpbqpprj72y"}
 ],
 "halls-byra.wkt-viewer":[
+{"v":"0.8.0","e":"^1.99.0","h":"1nk43kjmnf2qsds3a99zb70jhq0q7f7pqsl1frxspdpcm58yk806"},
 {"v":"0.7.2","e":"^1.99.0","h":"0b8sb4x2ggh6g16m26cmij21n49ix1n72lvcbvl65h7ypsi8np2j"},
 {"v":"0.7.1","e":"^1.99.0","h":"066a5dbcrspvfj995061mw16r97iwh390ms28m484pajj5s36p9b"},
 {"v":"0.7.0","e":"^1.99.0","h":"00bc6qlzg9hr6w1w482bhbmh8xqm1yginj3rnv5nqz4kjgfak4k8"},
@@ -7912,6 +7914,10 @@
 "qiangcraft.markdown-publisher-wechat-zhihu":[
 {"v":"0.0.10","e":"^1.96.0","h":"1yh66qnrynsjz5ixqa0g69s1xpjp2h2wszq61nwdh7kg02054bn3"}
 ],
+"qianxunslimg.qoder-vscode-bridge":[
+{"v":"1.0.2","e":">=1.106.0","h":"06zc3nbpfgj7pcx2gk0ma95l70hxydnqbyfhxgl8lzl86xgj171d"},
+{"v":"1.0.1","e":">=1.106.0","h":"0n07xz17qyq1dvqm8kxpq465xb4kbwvg1q00sqd1yd8dfqp3f9pq"}
+],
 "qualiture.basenvsync":[
 {"v":"0.0.9","e":"^1.88.0","h":"1cd4zxyhxkfv3z4mlwl2wzifvs0m8608yhb77lk0vaf4smfszvrr"}
 ],
@@ -8681,6 +8687,10 @@
 {"v":"0.1.1","e":"^1.96.0","h":"02zm7cla2nc0c413vvzyzbp10bwf4cz47d2ypm51723x76f3s2hs"}
 ],
 "stephaneberthoz.sandforge":[
+{"v":"1.24.2","e":"^1.95.0","h":"1gbpmyiw7gga8l9pf7r4y5k10s91g769in81pv1v9jj9fwksf40i"},
+{"v":"1.24.1","e":"^1.95.0","h":"1znrgd1xng9fwh26j9482n9d6b5ms0a9m7kdj2fzi7p9cm9yrxnz"},
+{"v":"1.24.0","e":"^1.95.0","h":"0l3gb694jhhi942whwn4bwc70yqw20nsh53fkqypaz1q5hr047k8"},
+{"v":"1.23.0","e":"^1.95.0","h":"1gy1lh4aj4v9wc4i2h7ls0zdi4jrdravj6c2vmq6kcbid2n7bam0"},
 {"v":"1.22.0","e":"^1.95.0","h":"0ya76kg49hrl40v356h1kybb6bqwjm2fi5kb9xb1jrfpmam95jdr"},
 {"v":"1.21.0","e":"^1.95.0","h":"1fsp55l147aa1jv092ig4a2as1sy6b28nn5ycknfkl40ha3chi9f"},
 {"v":"1.20.0","e":"^1.95.0","h":"1clap69r8pnvw847ll44bqwzxgw0vz0fb09qgbnzrrv9xfgvrcdr"},
@@ -9046,6 +9056,7 @@
 {"v":"0.0.1","e":"^1.62.0","h":"00mc4bmi58q94r50q0wb3bzgkk29qc74ksgil2d31kgrf2y3ciq2"}
 ],
 "techtheist.engram-alpha":[
+{"v":"0.9.6","e":"^1.106.0","h":"1aw4l8l22fd9za84r1sqq1ksqz2qwvfpy8c4qnvvybqyz9fl8f0m"},
 {"v":"0.9.5","e":"^1.106.0","h":"10ybcwrxv9jsfdfdm9p30782j16swvf6llc8glmn1a3wjsva4c4l"},
 {"v":"0.9.4","e":"^1.106.0","h":"1xffwl9yil1ncpwxm0hhp45wyvwmrpqak58pkfcgizsq2yrqc72x"},
 {"v":"0.9.3","e":"^1.106.0","h":"0l5pqrdal2ckv9apd0z026flil1ffq4h5nhchfzycgil5y61sabk"},

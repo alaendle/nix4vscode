@@ -2861,6 +2861,7 @@
 {"v":"0.0.1","e":"^1.102.0","h":"0l7ls1s4b51kd7r8pbds12dbqhy7rpd7cpd0d03lcg4giv41xwbs"}
 ],
 "dtstack-easytwin.dtstack-easytwin-devkit":[
+{"v":"0.1.1","e":"^1.90.0","h":"0dbjchmjd7cmjksml44sl63sh6ijymimqw3cylpsam8ym1kw90f3"},
 {"v":"0.1.0","e":"^1.90.0","h":"1xflz6x75j9i42nqyqg8lwbywv82k1qrb42ixkcklfg2s9z10973"}
 ],
 "dutzi.ignore-whitespace":[
@@ -2894,6 +2895,7 @@
 {"v":"1.0.0","e":"^1.90.0","h":"0ykfxdizy6hwfq0k05pxkkygm0w0wj7mdyqivbq1xlmc207zlf62"}
 ],
 "dzantemir.esp8266-idf":[
+{"v":"1.93.6","e":"^1.75.0","h":"1p5q5xj9ghwi48hhh4pybchxfp474gvy9cdwh0jg5sk36j4rq4py"},
 {"v":"1.93.5","e":"^1.75.0","h":"1f24dsgqqsmsfr6m68x04r9a9hz36p42v7nm47zrslcjp6jicnvr"},
 {"v":"1.93.2","e":"^1.75.0","h":"074v9xg1ra1lqx3jj1zdqa9ypl3m4x3yp3zb3c8vaqrmb4x3a9i3"},
 {"v":"1.88.6","e":"^1.75.0","h":"1lxv64bggrv7n6afh8y91kz78gjhnqwpgax0k4zbmbsq0zspyggs"},
@@ -3197,6 +3199,10 @@
 {"v":"0.0.1","e":"^1.33.0","h":"0kf70lk0ngxj8ffw01i006l650sbqyvy9kwclrg40dhyhrf6al2d"}
 ],
 "flotic.minitok-extension":[
+{"v":"0.3.13","e":">=1.90.0","h":"1910i03yacbqs6a76dz8napgxc2b2dz26lcbdzh02zhlxirfnah2"},
+{"v":"0.3.12","e":">=1.90.0","h":"12w5dfryka9pxsvfvzb1id09m4hazkgdpcx0bmg613n3x83bbvw0"},
+{"v":"0.3.10","e":">=1.90.0","h":"0jplxzz23m6sg0g1pm0nbdwdyqbfpnzdcwrlqx8wl2h7d06p7j3b"},
+{"v":"0.3.9","e":">=1.90.0","h":"1gijjrdszf6bnyazr2vdxy3hnb64kiqgxcdq4icc192z2sllgaq3"},
 {"v":"0.3.8","e":">=1.90.0","h":"0vpjdxj726lk0dmk9srd8sny1ymf7qlp74jqhz8v4qy5a4j8cxik"},
 {"v":"0.3.7","e":">=1.90.0","h":"0wcb6rd4yl78fvxlw5dciaq9ri0s3jk1h03nskl7y2b3dqlsfrrs"},
 {"v":"0.3.6","e":">=1.90.0","h":"1sh6ifyzj0as3qx4rm8cgnw90vmfx45rck379d9vnqkl8pp41p4z"},
@@ -6382,6 +6388,8 @@
 {"v":"0.0.1","e":"^1.36.0","h":"0icp5dpnqdwmcz14g757imvfjlw7nv8bw38kk9949f1rmv2m9mb3"}
 ],
 "ms-python.mypy-type-checker":[
+{"v":"2026.7.12601009","e":"^1.75.0","h":"1sipic29sc7zvspgv2a4pmy1ilhcq5glwrs6xa27wrd34fkz618j","r":true},
+{"v":"2026.7.12591010","e":"^1.75.0","h":"1pws7al7fr09v6vl22prlicx2inmgcwk83j454x28idgz2h24gz0","r":true},
 {"v":"2026.7.12521004","e":"^1.75.0","h":"0is356cji4f6dyddfbrimzjr2sbyglmz6sr5prn7263qdbj6rm2m","r":true},
 {"v":"2026.7.12471011","e":"^1.75.0","h":"1l709xp89xlwyp7lwrw1pza47iczg6c59a5gqqljkxwa6crk5gzi","r":true},
 {"v":"2026.7.12461010","e":"^1.75.0","h":"0wacn7wma441p14vgysvj8v4xa3jzz9qbjjdd022yz3jpj0489gr","r":true},
@@ -7974,6 +7982,9 @@
 ],
 "shikakeru.digital-life":[
 {"v":"0.1.0","e":"^1.85.0","h":"1azhkwq2ydwxvki1d6w7d62g21iagdmfs8n41pwjw5xf7a2k1j56"}
+],
+"shippingsink.autobuilder-for-c":[
+{"v":"0.0.1","e":"^1.137.0","h":"1md6nblziz9aybb73yw8pq0q4mnnglllx7hag4nzgpcd2025kg18"}
 ],
 "shivamshukla.js-code-snippets":[
 {"v":"0.2.0","e":"^1.30.0","h":"1z87wkvzs5yf3f1k98h1h9la5j49rvvjmc1x0mx0ssihxrf99d58"},
