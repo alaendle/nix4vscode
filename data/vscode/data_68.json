@@ -1243,6 +1243,9 @@
 "bibu.schema-ext":[
 {"v":"0.0.1","e":"^1.43.0","h":"0wf5vyl50gbqczgqd8l634h1r34v1c7ragw3g3ndxm2hfn0ihnpj"}
 ],
+"binaryoutlook.binary-markdown":[
+{"v":"0.3.0","e":"^1.85.0","h":"1gmy66pa3njqnzygqc222gv1nxhalh4wkkwvjqh5zgq4yz203pfd"}
+],
 "birukbelihu.autosaviour":[
 {"v":"0.8.0","e":"^1.104.0","h":"1gw80snpw16jb8m01j5lzp86rjm4b83v93pch0c28imiy28i5pni"}
 ],
@@ -3380,6 +3383,9 @@
 {"v":"0.0.2","e":"^1.70.0","h":"04hfp0z63zwwi2mi5dr2b0j7dzgsqd8irs5hfsc4hvz818mqdwni"},
 {"v":"0.0.1","e":"^1.70.0","h":"1ywc7q60c2zw83njlcg6d7a6f7h20mfssi6rvgk0p7pnk93ris3q"}
 ],
+"frankxie.verilog-rtl-connector":[
+{"v":"1.8.6","e":"^1.75.0","h":"1syykfk86ni5bphhmgzds4fhspbwk018y1qsd2x9a60jsqr311nb"}
+],
 "freaxys.better-cron-tasks":[
 {"v":"0.2.0","e":"^1.92.2","h":"18a7ilp5i1vdig8d88sq8hp9h4bjf44sw7zs2w4i3db6ajxgbqk1"},
 {"v":"0.1.5","e":"^1.92.2","h":"1ddr6aqd7sc84pdq851pdcci3qa60x6kzizlmsqvlpvcxp1kp3jh"},
@@ -4227,6 +4233,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0q660pj8ls9552phqa65mfzg3cl2g4cvmx86h6z40n90d5lk143m"}
 ],
 "jacksun.mk-intellisense-updater":[
+{"v":"0.2.1","e":"^1.80.0","h":"1b224x1lb0ydvxmc0r6jgq01ga57b4vkwnld7c5wxc8i4kyr2sf6"},
 {"v":"0.2.0","e":"^1.80.0","h":"15pc7mm7l7bqsplqrrfyvxxdv80a1cnljxkjs9g7h7ir1mwrmwdc"},
 {"v":"0.1.0","e":"^1.80.0","h":"0hf4bvb9h8jmijh71k7qfpfb789p587b8fmg901ydp599xv3x2qg"}
 ],
@@ -5402,6 +5409,11 @@
 {"v":"1.1.3","e":"^1.41.0","h":"1wwxbzzriygbm18myamsri550rfy9jcnlscwc7r29z8q825c65rs"}
 ],
 "meta.pyrefly":[
+{"v":"1.3.9001","e":"^1.103.0","p":"darwin-arm64","h":"1mq7wfs0fs7i5dc2c1psg9lviwqbl399qgb64jd4ms874y3xhzy6","r":true},
+{"v":"1.3.9001","e":"^1.103.0","p":"darwin-x64","h":"0dpwm8yv4601l53d8347j2ll8v6g5bl4rmj6sjapb7a4yclp09lq","r":true},
+{"v":"1.3.9001","e":"^1.103.0","p":"linux-arm64","h":"0hns7yh8n5q9hvm6qp4xhkh3zdy0rvn9gdwz2hdyrc665nw5j574","r":true},
+{"v":"1.3.9001","e":"^1.103.0","p":"linux-armhf","h":"03frn7b52d32fqv9slmbk8gipnbgwbl6qi8l0pmmg9bjnwzsxgpq","r":true},
+{"v":"1.3.9001","e":"^1.103.0","p":"linux-x64","h":"1d8vl4kvxfqmszaarp6jjrb2j96b3a1gpm3w8ay99p2xkibzanfi","r":true},
 {"v":"1.3.1","e":"^1.103.0","p":"darwin-arm64","h":"13xa6ivmvrmfqn894zp44zsbr1ckgd32ganizpnrkfblg4yh6yqa"},
 {"v":"1.3.1","e":"^1.103.0","p":"darwin-x64","h":"017d5i945vqn5yxyq5apqa7d7i65dcg2zlx853785dipbw02jkbp"},
 {"v":"1.3.1","e":"^1.103.0","p":"linux-arm64","h":"0pkrpf62j8995q9w5480nw2si91njq2hi43rxpbs5059zz398zqj"},
@@ -5427,6 +5439,11 @@
 {"v":"1.2.9002","e":"^1.103.0","p":"linux-arm64","h":"0pgsakw6j0vbppy43jfvkzwbwm689sc7glk2vzdibjfwfibsv3qr","r":true},
 {"v":"1.2.9002","e":"^1.103.0","p":"linux-armhf","h":"1waxp5d2xx3qb378di1g5k16j4s2hm81a48cg5n7pb3wy2xd4ahs","r":true},
 {"v":"1.2.9002","e":"^1.103.0","p":"linux-x64","h":"1wxjqprv17g6yprgnq741hbhb5iksp67xpccvljvvdi5xrsilsgc","r":true},
+{"v":"1.2.1","e":"^1.103.0","p":"darwin-arm64","h":"0c76q5hmris3j3fppsyk5hn88lhm70akm5md5nga42qxwwjy02h3"},
+{"v":"1.2.1","e":"^1.103.0","p":"darwin-x64","h":"1mj8pa5lx1pa7vz2b6f2k65rxbb5g6xcabz3kd9bgbadqdbzmf77"},
+{"v":"1.2.1","e":"^1.103.0","p":"linux-arm64","h":"16mdl9gdyr9d31w1vrzkgxx4raip1qk7gia9lwngy55kisi310rm"},
+{"v":"1.2.1","e":"^1.103.0","p":"linux-armhf","h":"0m9zlxsgdw6mzdiqpqsi4ydalqgygr42shgqcw7wgshvi5fx4m6x"},
+{"v":"1.2.1","e":"^1.103.0","p":"linux-x64","h":"1v9glrvn5yxfk20ndi36f7v2xffb41i7hzl4arb70zs91wfmn3j6"},
 {"v":"1.2.0","e":"^1.103.0","p":"darwin-arm64","h":"11v6fpr03an68kxjsgpvdc3g5nqilhh827jsfvxbkx7m5ljj8kdc"},
 {"v":"1.2.0","e":"^1.103.0","p":"darwin-x64","h":"1851g18vfd8mc6iriz29h24z14sy5nx1pa51zqriamvvag1z2rin"},
 {"v":"1.2.0","e":"^1.103.0","p":"linux-arm64","h":"1dbz9h7mwydiccan45m0adv0bm36s0b7amamralpmzd4644mrvx0"},
@@ -9761,6 +9778,7 @@
 {"v":"0.2.0","e":"^1.75.0","h":"16wl2bhmg27fn2gj6h4118r1wk9x0zl3y8s4ssrvfv0f267pv3f8"}
 ],
 "vishalguptax.claude-manager":[
+{"v":"2.13.0","e":"^1.90.0","h":"0slyk1mlm6zzaj9i8f5ypsmam41i9im7j1n91wsp4x101jj5z7z4"},
 {"v":"2.12.1","e":"^1.90.0","h":"1fhqb0bgdawh5vac0ijr3x821p8ygb54malhmlj1zj0gfmpx2z9m"},
 {"v":"2.12.0","e":"^1.90.0","h":"1hvkgshpir97af2s4y16ii47vam6nc4pp26n5lwqsaayri6f1dfl"},
 {"v":"2.11.1","e":"^1.90.0","h":"03dqw2ylrdpnffbvb5p3rnh161dvn6l2nm914p4bs359aab9siqd"},

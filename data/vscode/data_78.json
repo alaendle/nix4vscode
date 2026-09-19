@@ -415,6 +415,7 @@
 {"v":"1.0.0","e":"^1.75.0","h":"0w0gjwdnzq9p5awp0nr52zai81lznhj52s1n97bwf9ljvj7nbirp"}
 ],
 "anaer.git-log-0":[
+{"v":"26.917.1748","e":"^1.85.0","h":"168lzqykall31h3pvj9mqk2pmnvb4n02dixg8wh696sy2sv88605"},
 {"v":"26.916.1624","e":"^1.85.0","h":"0f9nggzj02w41yadfi7d5vfyph7f402japgybaidh328qp598sx4"},
 {"v":"26.916.1516","e":"^1.85.0","h":"15sd15wf0k16xjww8801dbx772ik1aidazcnrpxx7ix7dciprcbr"}
 ],
@@ -2152,6 +2153,11 @@
 ],
 "davivbrr.snask-debugger":[
 {"v":"0.0.1","e":"^1.50.0","h":"11wydpmcjmmsyw69c2g24xzwxbgyf9b2qb50ln88jkrr9s4w5mp6"}
+],
+"dbink.youarehere":[
+{"v":"0.2.1","e":"^1.90.0","h":"0pyr4pi41p0yx5bv2pl2r1mv8n7vx7sr0im5l6yyakqnisnyfxq0"},
+{"v":"0.2.0","e":"^1.90.0","h":"10zlixldnlc34iyfdg1hrl0gg9sd2pz0gxsjw3g19ywc53yszwxj"},
+{"v":"0.1.0","e":"^1.90.0","h":"0x8a5n617mdami1x31d524mdc3clzvm0zql195j2gcxkm61kshgk"}
 ],
 "ddarkr.antigravity-bridge-extension":[
 {"v":"0.3.2","e":"^1.85.0","h":"1r8rk29ikdf6172nl8bn57ha5flggvcp537n64gqx69p3ddmmisj"},
@@ -5805,6 +5811,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"0h7l346bl29k8mgn98b90p8k0cycjm76px8sw4c0r0x834c28bns"}
 ],
 "meridianide.meridian-docs":[
+{"v":"3.0.3","e":"^1.85.0","h":"1w5sdwnm85fh1q2f87avd1irgqrvkfdb1cv0lcb8kc8c2lz1s0dd"},
 {"v":"3.0.2","e":"^1.85.0","h":"1nhbyjnga9p9sr944gmdps0ym93cim70ilj2dklgw1b9jn8z6hpw"},
 {"v":"3.0.1","e":"^1.85.0","h":"0w65aw7i1lblfspiskffv8lb59gr1r0ihr0h6hirk78vwzpfn7by"},
 {"v":"3.0.0","e":"^1.85.0","h":"19c5fc2nsl8wm422c0vp3i9rca62972z9d6r9yxz4giwz3lf2fmq"},
@@ -5888,6 +5895,7 @@
 {"v":"0.0.1","e":"^1.95.0","h":"03qkb292dp1yzkwpy4j8qdr536s2fdmswfkz35j9mp02griiapsk"}
 ],
 "mixelte.md2gost":[
+{"v":"1.5.1","e":"^1.101.0","h":"0khjlp8mai9l0pkwkxslwq2dwvv6dxbfhqz0ivyvkdmpqxfn7gs9"},
 {"v":"1.5.0","e":"^1.101.0","h":"1f7lpw2k92i1hbqk6mjnrccqmz055slivsf88ww7inawsnxacyn3"},
 {"v":"1.4.1","e":"^1.101.0","h":"1mzfnb21lr49nbznrj2z8dnmzkns0ds706r6vdzwjalsanwj8l8f"},
 {"v":"1.4.0","e":"^1.101.0","h":"1m6wwc4w34a0xmlmn30zzw9v4kjl3zw46x3z1lbv3a0501xamfgi"},
@@ -9194,6 +9202,7 @@
 {"v":"0.1.0","e":"^1.88.0","h":"1msn9hkm68qsj3x40j6s75dh7vqclgsrbnc3qkkym7q4ywizb7m2"}
 ],
 "readystack.wcag22-css-lint":[
+{"v":"1.0.3","e":"^1.75.0","h":"1pccja82zjkj43l1zfcvly0pyns6rkaizkhqrfaxxlrc2wpvv91h"},
 {"v":"1.0.2","e":"^1.75.0","h":"1zbpfx4ccvs2hs3ai3z7ma1k5llj5xapyph2d7rs9cj716qxrvhm"},
 {"v":"1.0.1","e":"^1.75.0","h":"0v8wqa64rns04kgga1f5a3v2kj3h9bkkf7qwxfa02w8qxq2f2fqp"},
 {"v":"1.0.0","e":"^1.75.0","h":"1hc316v47gllc42byxzhcyw6bqq132p1ha0ls3kvxazrlqcmpj8y"}

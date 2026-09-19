@@ -2702,6 +2702,8 @@
 {"v":"0.0.1","e":"^1.86.0","h":"0apcmg4j1hgnkh85igpj6vf9wfbzhdvcqs9p4n8l8s06mf8s79d1"}
 ],
 "denysdavydov.task-runner-ultimate":[
+{"v":"0.8.3","e":"^1.85.0","h":"17l79dgjwpimgxiygx0n4cddkdh9fs98k0q2jm7sfi9x1ivzbk2s"},
+{"v":"0.8.2","e":"^1.85.0","h":"1kljgp768sc6n0r9f2nagc1x5yv364xf68qc6x4yw6f8lhlhy240"},
 {"v":"0.8.1","e":"^1.85.0","h":"1lyb9ir6f5913481v07qca9g4i5lhvmx7xd3zlwayc30bcnr27j2"},
 {"v":"0.8.0","e":"^1.85.0","h":"1j7jn3b6g0ijcb0322w166rjp6rsbv36kzg4lr57x8wc84z4wpqn"},
 {"v":"0.7.10","e":"^1.85.0","h":"0fb8ydpvnxjkqm6lnm7iqh93byykqg2n63z74fnmswpz695f9w97"},
@@ -7594,6 +7596,10 @@
 {"v":"1.4.0","e":"^1.70.0","h":"0srp9w9wyb8sarsfz2b627dsx5d16lbhiiwy2zk84m2ls775kvx5"}
 ],
 "optersoft.kotlin-toolchain":[
+{"v":"0.5.0","e":"^1.105.0","h":"1pi9ji42h3h4g0sm3kj6i5xg4ai2l0wj1rskvaqzh2fxz8b90fgn"},
+{"v":"0.4.0","e":"^1.105.0","h":"1dcnzg83njvgrfmh82l9m2pzhdja3z54ikby17n3qm1c7sfnmmfr"},
+{"v":"0.3.1","e":"^1.105.0","h":"1a07545g75qd791gzl5q4i20m88hx6cgvg97nwdqicnx6g3l10ph"},
+{"v":"0.3.0","e":"^1.105.0","h":"1xmsl81cpxn7z1747d5bg9j1d7smlv81p1bf6w43plf9663hm3sz"},
 {"v":"0.2.0","e":"^1.105.0","h":"19v4sp8n6facr66xmafs1vqakkqdwfx3yxs4sl5868h5i4axs7qd"}
 ],
 "orka-ai.orka-assistant":[
@@ -8750,6 +8756,7 @@
 {"v":"0.0.1","e":"^1.85.1","h":"0f9gs51llpaaabicwbr55axc4vssciamqyi0wbj2wg53ry47hnp0"}
 ],
 "sanderronde.phpstan-vscode":[
+{"v":"4.0.19","e":"^1.64.0","h":"1hy5d0ycfcb7jp6glcxznagxgl4nsypcfmxab4q1pi4j8x2bzf4s"},
 {"v":"4.0.18","e":"^1.64.0","h":"1kmxfzl4jyzvr214ixvn9hqdknw9craxr4xx3xvl4yqzmwh0784y"},
 {"v":"4.0.17","e":"^1.64.0","h":"0wyaak9fvfn899lcglljcpvy6pnr9mwqqaizpb2y3z48r1pgf3dk"},
 {"v":"4.0.16","e":"^1.64.0","h":"14zaj0xwcbai8606xd19i5sbakm2i7cjmv01h8akkgx8bpxnwcz7"},
@@ -8944,6 +8951,10 @@
 "sarneeh.vscode-node-tap":[
 {"v":"0.2.0","e":"^1.26.0","h":"18kd6flvkm46mabfjm2nyz542kr6gml14rycp9rrkl1g3cl0kp2a"},
 {"v":"0.1.0","e":"^1.26.0","h":"0jhqmhxp5p3cjbf97a7gglk2xysvn1x6mqg1bhk1p31qdli2cz0a"}
+],
+"sayed.polymoly":[
+{"v":"0.1.1","e":"^1.90.0","h":"05kpr6csgcpdb8c2cflzxiyhzf8f8qi5kgzsfw75rb1ik7rvgni5"},
+{"v":"0.1.0","e":"^1.90.0","h":"0nplv577czkawn9phmhdwcbcvl4l8vsq3rp5lr64h2r9s7d4q53n"}
 ],
 "schulke-214.orion":[
 {"v":"0.2.4","e":"^1.13.0","h":"1qjc3kx8v291npyk0ma6wi03ir2k49jd9pgc86s18dq9mm16k8jx"},
@@ -10101,6 +10112,7 @@
 {"v":"0.4.4","e":"^1.70.0","h":"117lhlz6yv7q1hp1jfgq61p6rhbmgampr2cxls68yfhrbk67pw8p"}
 ],
 "uaibritto.viken":[
+{"v":"0.1.1","e":"^1.75.0","h":"04glnsq69qacs3ha5y5yk1zbg7gfj75nj775x5vazx9a7snq31ym"},
 {"v":"0.1.0","e":"^1.138.0","h":"1v5q0z3w3fv9vxyz7agyfmb48mzc8d9b2s4045ifflsgcni8d2xq"}
 ],
 "udenbaguse.javascript-dokumentasi-indonesia":[
@@ -10338,6 +10350,7 @@
 {"v":"0.0.2","e":"^1.44.0","h":"1wx74pryqc7ababh6h2jqw1w2d6gixm9vzk6vxs3bxgs0pnq7d3r"}
 ],
 "vkhey.remarkd":[
+{"v":"1.0.3","e":"^1.85.0","h":"079qn2yg5v3wk129zxvx45si4bd761iwqdsy8q3iydwyx8r4cdhw"},
 {"v":"1.0.2","e":"^1.85.0","h":"1sfdd0di9jg3l04i153cmjk6lq52dvbraq7z3alf2lzy500y8dyc"},
 {"v":"1.0.1","e":"^1.85.0","h":"13sxnq0yrbggs7q5gp8xnk5anx436b3bfb9bhihvrjnc4qwl9s21"},
 {"v":"1.0.0","e":"^1.85.0","h":"0a1rz8ys3p1jlv0cad4g30p08m53i0kxkm6hb7ki3hgnzwl7bhy5"},

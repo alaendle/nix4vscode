@@ -722,6 +722,9 @@
 {"v":"0.0.2","e":"^1.75.0","h":"0g474888pir7w1dxbvn6l55m6h9cfkd8jva1m6sy7vi39lz63f0i"},
 {"v":"0.0.1","e":"^1.75.0","h":"12az2kl569j02m0yw2p0qd6sccfms45jkpzxvckxwmh7k7n7qpsw"}
 ],
+"atulhritik.benchmark-pin":[
+{"v":"0.1.1","e":"^1.85.0","h":"1gr12jy7lbgn1gfck23p70ifl3haimxhwqxl4cpbd45xz4vvp03s"}
+],
 "aurorasoftwares.hydrogen-language-tools":[
 {"v":"0.1.0","e":"^1.85.0","h":"06gn74g3glp8vh2b3gbhjh5xxlci714qqhpn8d2kdxn36hn6v1rn"}
 ],
@@ -2382,6 +2385,7 @@
 {"v":"0.0.1","e":"^1.32.0","h":"0jbk8z0p4pcclhzqgwnjc77wpb8d8ls1qkbaqhmh103lja2vk9gl"}
 ],
 "denysdavydov.tab-browser-ultimate-promo":[
+{"v":"0.5.24","e":"^1.85.0","h":"1drffzjib95i89s9x14xy721wbsb8pwy5sjazz6jdhiz04s02c9s"},
 {"v":"0.5.22","e":"^1.85.0","h":"09y1jagp4451dji51033c361mvsvfgxssf5ncm8jwvygbcp455lr"},
 {"v":"0.5.16","e":"^1.85.0","h":"1qaj5ymck3yw05jc7ffgi7mfqjlpfi2c3al000sjzxfhwdw64ysc"},
 {"v":"0.5.13","e":"^1.85.0","h":"1nzi7icm71v02zpzd5f9s6ghswpwjpw4xckmdijfimw6mi2insxp"},
@@ -7170,6 +7174,7 @@
 {"v":"0.2.4","e":"^1.85.0","h":"11q2pjxsrxqzckkji4qxp7mpy9zg20nzmja1znph92l86kxm4ihv"}
 ],
 "patchloom.patchloom":[
+{"v":"0.8.0","e":"^1.90.0","h":"1sv9kczaxq3y5y5gkxn06hb60w80y7pz4hkhaixsv9qyrxkd8lc1"},
 {"v":"0.7.0","e":"^1.90.0","h":"00jxksaxnxaqqvv3k1kmqp45wf0z5sl5s2q7qi044cs6ypqlwqs1"},
 {"v":"0.6.0","e":"^1.90.0","h":"0vidag952inxiqv6322j67mdd811by8h6qc8ls887n6fqiamnw2j"},
 {"v":"0.5.0","e":"^1.90.0","h":"16nz9076kq326d4f5fmhnf1vzimgx6pn3313xjaaxgx2b4rcdcws"},
@@ -7806,7 +7811,12 @@
 {"v":"0.0.1","e":"^1.58.0","h":"1296q5q0p845wrnidnqm9gkd2r8mlal0kh2d157d5ix132pc8kic"}
 ],
 "readystack.firestore-rules-guard":[
+{"v":"1.0.1","e":"^1.75.0","h":"0kygsclkrxdqzfz91wd61kgbdx522zi8f6xnslvpc6xpililaaqg"},
 {"v":"1.0.0","e":"^1.75.0","h":"02zm9pjpl2pyrsq8sm56905vdwf0srqlwlsw442wcmjaqdf71l3x"}
+],
+"readystack.maui-ios-submission-gate":[
+{"v":"1.0.1","e":"^1.75.0","h":"1my0frs6syfzrb2pxhnjldq4z948clp8y4y2h07aw3vv0kwr7j2p"},
+{"v":"1.0.0","e":"^1.75.0","h":"0xj308fy4523ha0wghdykfyqsk2kqfdj4sixziar479xmansayk7"}
 ],
 "recoil-snippets-with-ts.recoiljs-snippets-with-ts":[
 {"v":"0.2.1","e":"^1.49.0","h":"1cs100b1l6ywsyh50k9dvj2zfgk60ilz64f70zpcf20kcwr64gg6"}
@@ -8030,6 +8040,12 @@
 {"v":"0.0.3","e":"^1.58.0","h":"128bp94gn1m2svza8wpnq30mgigx68rix8y1xpclc0brcv3v19mv"}
 ],
 "rust-lang.rust-analyzer":[
+{"v":"0.4.3054","e":"^1.93.0","h":"0snh5srppmg03jj504q1prc7rq3di80cwqh5v5h49y13hn0rzkl6","r":true},
+{"v":"0.4.3054","e":"^1.93.0","p":"darwin-arm64","h":"06p815wb7j9g020dw4pr9qf4s3cvig5q0ss3v2chw2bnqs0y019z","r":true},
+{"v":"0.4.3054","e":"^1.93.0","p":"darwin-x64","h":"19lgnkhs503gr8szw5kpq9i6zpw4vxjp87gdrm97kxl0139bpick","r":true},
+{"v":"0.4.3054","e":"^1.93.0","p":"linux-arm64","h":"0li7rbscs9avhak9pwh0pzb0mnyh5bm8iisxc8a52sf62xpxr7ih","r":true},
+{"v":"0.4.3054","e":"^1.93.0","p":"linux-armhf","h":"1jjwk2shhlkppyzr2l8cryp5vrxrbvm5vn78458hrrr9af8v3kfj","r":true},
+{"v":"0.4.3054","e":"^1.93.0","p":"linux-x64","h":"03x16wpg5j4r6pag5ji875j8hgm41j91vk63d6dszj6fnydg0356","r":true},
 {"v":"0.4.3053","e":"^1.93.0","h":"18d2savgbqr46m8xppgs85cp9ad23w6sp4152r6xlkd6jj7f0mzy","r":true},
 {"v":"0.4.3053","e":"^1.93.0","p":"darwin-arm64","h":"05x84hpj44bk39k4kfqvvrq36xbm1q161zf5i2wrjhwfy54glh6a","r":true},
 {"v":"0.4.3053","e":"^1.93.0","p":"darwin-x64","h":"04na5qlb1xdiydk4jvv3b16x2xnisb11mf19a83fbmpaddiqyl1r","r":true},
@@ -17599,6 +17615,9 @@
 {"v":"0.0.2","e":"^1.37.0","h":"1a7qcqa3jwqnj917bj5c63wmxpdrm2agx14ayqlc9idn2l5nixks"},
 {"v":"0.0.1","e":"^1.37.0","h":"0kjn5ak6485yk7vlwsxpigkmhqhl1b2kx3ldx4wmlmdx1khfv9b7"}
 ],
+"shilpachauhan.sticky-code":[
+{"v":"1.0.0","e":"^1.75.0","h":"0a9m0zms9dab6r2n41fyg9bhbzvpk2nafzkirihl4knjrfgci7jv"}
+],
 "shipitsmarter.stitch-integration-templater":[
 {"v":"1.7.14","e":"^1.66.0","h":"1nqfd9m96z6gnl834w6y0cg0wp71gwdq2ypc4b4mb0klv9dcwf4m"},
 {"v":"1.7.13","e":"^1.66.0","h":"03lvvi0snwzbxix2gl56sqsziz5gqzj347014izb29pklf404pg0"},
@@ -18400,6 +18419,7 @@
 {"v":"1.0.0","e":"^1.61.0","h":"1dk2h9gi0rlx4j1x6ymq7q87dhl5gqqi5r2hf1rvcm3siz31ynk2"}
 ],
 "tulasi-chittiraju.onephc-vscode-extension-pack":[
+{"v":"1.0.1","e":"^1.90.0","h":"0sbzvm4z6fxgx01fhm56hxmfszvzy5bxmqxs1rvj1kk687jlkfqk"},
 {"v":"1.0.0","e":"^1.90.0","h":"0psgby55lc7a3h3p1z95n36cwvwa10jq5aw3k3mrpcaqx727bpj8"}
 ],
 "tumido.cron-explained":[

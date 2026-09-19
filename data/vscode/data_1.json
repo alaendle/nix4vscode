@@ -159,6 +159,7 @@
 {"v":"0.15.0","e":"^1.93.0","h":"03566xv1251kbs3xqar2c3849k7dnqlffbspmga7bnyy4df8rgjf"}
 ],
 "agent-smith.agents-vscode":[
+{"v":"0.2.5","e":"^1.90.0","h":"0wbg200i9pywqw0p8lsgd0d3f9z4q6bzp3bhpb854qp0mihsvv2l"},
 {"v":"0.2.4","e":"^1.90.0","h":"0mwksbklzlkzqnimknxryak9p4vby0n634pkj38spsvzyi6ac5qi"},
 {"v":"0.2.3","e":"^1.90.0","h":"0zk84jyvqnx3wlcxixwdpmkl39za6a0014qi4i5dhkprz1pr42zz"},
 {"v":"0.2.0","e":"^1.90.0","h":"0i993fzkgc0w3n0qwb66jfm4nvsgcm7kmqzw0fp891gaygsmhbjx"},
@@ -261,6 +262,7 @@
 {"v":"0.1.1","e":"^1.104.0","h":"1kbkl57q9xbvi1vdq89lkbsk5k2q1svgmry1hxkr0lpbrab14sgp"}
 ],
 "alisexchange.alis-build":[
+{"v":"2.9.10","e":"^1.98.0","h":"1692w8k81l86rkcrbdd70i2llin9pqg9b5qjw2x20w6in3gzmm71"},
 {"v":"2.9.9","e":"^1.98.0","h":"0i4a9arizyv46a56nyfg6kf33m8n3pk4x311lzbav0qb2dci98nn"},
 {"v":"2.9.7","e":"^1.98.0","h":"1l1dwp6vinlh0mzza4g2gpy41yi4la4vhgsarkfzps5v5csxaxdn"},
 {"v":"2.9.6","e":"^1.98.0","h":"07n4x8cz6a9q47m1gy5wi775fjvaqmgf5x1hqb8nw5s2ip868105"},
@@ -2205,6 +2207,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1mqlllav1r96akq2z2wkn2yw251zbxp0y2hdv5h6q7lvbwig74d3"}
 ],
 "discloud.discloud":[
+{"v":"2.29.12","e":"^1.138.0","h":"1gswlhb17kxnkgkd306a0pac8fxxp9ziy7r2w1ks1jp7ss0z0fk5"},
 {"v":"2.29.11","e":"^1.134.0","h":"1h41lfrg77dsrjd3v74ya7xgnr74pr033708mzqw3wg7hl41p0s2"},
 {"v":"2.29.10","e":"^1.125.0","h":"15fjw1059k790kzn3d9h7vrw30m4859c3smzr4567rbhw58mnldp"},
 {"v":"2.29.9","e":"^1.125.0","h":"11h5qrpdx4na08pm92wq1g2dzcy2lr3glkybr23wgg0dkpwwrl6m"},
@@ -3764,6 +3767,10 @@
 {"v":"0.0.2","e":"^1.74.0","h":"0mpsacplzza2i5cpihkqp052k6y79ww509ayxi9mnckb8n1lwdhq"},
 {"v":"0.0.1","e":"^1.74.0","h":"0h4zjdrwyh8p9ilsdb6301x8f0nxi4k885zhxmprigg3l6vdq6ig"}
 ],
+"hxyou.make-it":[
+{"v":"1.1.0","e":"^1.75.0","h":"0pdwgsx42mdfgbpw447pidlj8bz3fb3l559hrp4x63i02hbf6gc2"},
+{"v":"1.0.0","e":"^1.75.0","h":"0jv0azdi11fcka40hq4yzq5dqzjg6gi52m004b4b0dj3ycwns60n"}
+],
 "hyperian.hyperian-hypl":[
 {"v":"0.1.0","e":"^1.60.0","h":"1nz0xvf0z243gynqkc5a5529nhcpflvfii08bm6bib14w0b90zy1"}
 ],
@@ -4447,6 +4454,7 @@
 {"v":"1.0.0","e":"^1.78.0","h":"1ypnsp8vlcmnbqv0gf166c39vp7vfn419z857gm21g2nw6anim02"}
 ],
 "jetbrains.hexana-wasm":[
+{"v":"0.11.0","e":"^1.102.0","h":"0zp27lwm8sfak18m6f8l74sdqis6wri55f81f7qmjwgwkjdljiqq"},
 {"v":"0.10.0","e":"^1.102.0","h":"1jsfac4i9k70fg19rksdwpfxy22lhkqnydgwn5nn9iiwrhyg4ns6"},
 {"v":"0.9.0","e":"^1.102.0","h":"0qvwg5blm4l0a7nxfx32p9xg76468vksbygpl803h43g7k70s94i"},
 {"v":"0.8.0","e":"^1.102.0","h":"1g7ij3ljjccys9f7nm2p0lpy33dn6h5339997hjlyri60shkkj9l"},
@@ -7087,6 +7095,12 @@
 {"v":"1.0.0","e":"^1.70.1","h":"1q3d0s4ilw2imbpxkpjrg5d48c1lpv7gcf6xc67zh35lv8s6vkwb"}
 ],
 "piyushdoorwar.gitable":[
+{"v":"1.9.7","e":"^1.96.0","h":"0c1f21mpk50xaf05qv38df9pdyywhw8v5ql9yzwszcxvn0q07kv2"},
+{"v":"1.9.6","e":"^1.96.0","h":"08zd618wi407wfk64rlzsi8wrjxzg6279sjy46y4k4s4b2kmi4yg"},
+{"v":"1.9.5","e":"^1.96.0","h":"0saq1hc8769grzm17r38ncqj2z3qf70w062ixdsk76lbkh0nfvs5"},
+{"v":"1.9.4","e":"^1.96.0","h":"156cvky0rd8fgfvnj7mv18f6yscipqyxva4nrjqfllnmq77l6yfh"},
+{"v":"1.9.3","e":"^1.96.0","h":"1wfdlg2jgfjn90s2vcc8zxasjjl5708k3h3sa468jhfykrivbdcw"},
+{"v":"1.9.2","e":"^1.96.0","h":"1rz1ai248gzhfhxhhqkhrkyblvc9jl0zz2a1bc6vx807jd31wrjq"},
 {"v":"1.9.1","e":"^1.96.0","h":"1mvg9jxmr96gy0h30kvpjlldyd4vkwikvgqhg8g5sr7jpmx0xnb3"},
 {"v":"1.9.0","e":"^1.96.0","h":"1jqwnxcdh3107pcgp562879f4wpqnf2h0i9i2rpiiz3fqhfd5jsi"},
 {"v":"1.8.5","e":"^1.96.0","h":"11i6xachxvaa9jcv9g5j4qj08z8mwdya1qa8k2sl6ssmsfbakvq5"},
@@ -8712,6 +8726,7 @@
 {"v":"0.0.1","e":"^1.54.0","h":"0r2p9dz4x7j4xvia72nim5vdj9yq4hm94zn88iwzgg8myhxz0sd1"}
 ],
 "tobesoft-nexalap.nexa-integration-builder":[
+{"v":"1.0.8","e":"^1.80.0","h":"0j048ikcf3z7x8a3paschrygx3l94sw73gx4ws0rns1dypd3yvmk"},
 {"v":"1.0.7","e":"^1.80.0","h":"0zgj8mgahlx9s16ms2mv5aj9gyyr1spwg2639qkg7q5ki1zpjjh1"},
 {"v":"1.0.6","e":"^1.80.0","h":"130rxhy0c1w2mn9swil7bbi7k9hznanqac2rzrjvly9ywr1p45by"},
 {"v":"1.0.5","e":"^1.80.0","h":"19kfp6sg94msb8nnzrjxbsi3x0j5ikarb98a7wf1jblkxcqmb2a0"},
@@ -10023,6 +10038,7 @@
 {"v":"1.0.0","e":"^1.27.0","h":"15naxnrlfa7wjj2ycc7kx3gr9dlbfh9j4fi1apqlziczc04w3yyy"}
 ],
 "ziadshalaby00.code-merge":[
+{"v":"0.2.0","e":"^1.85.0","h":"10i47lgyd0818w4zxhl8581ng3n5bjpklas2mqds658kf5c5d5zr"},
 {"v":"0.1.0","e":"^1.85.0","h":"06cgk85a8xyipv2vvr8dqy37z2ijij07n7xyd3if65fjd9s9zkkh"}
 ],
 "zjx20.my-env-injector":[

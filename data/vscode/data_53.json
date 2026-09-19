@@ -1661,6 +1661,7 @@
 {"v":"1.12.10","e":"^1.60.0","h":"1lzx4897mcjb95rq0b84djp69mm0wf8in638gfqqyshrwp8xm1y2"}
 ],
 "atomgit-cloudenv.cannlabdevspace":[
+{"v":"1.1.2","e":"^1.92.0","h":"0q9qk9qdgmvg04pmqw3d341kypkxjadh4jgr7pgw7y1m8plkzhn2"},
 {"v":"1.1.1","e":"^1.92.0","h":"1qklc102rh6rw00ckcfxq6131kj65k218gb853n19fkxr4qg9bv8"},
 {"v":"1.1.0","e":"^1.92.0","h":"0i7kxbix7yx66kmhf80bfpb4iw63n13w6b8ncfvrlycnph51wlij"}
 ],
@@ -6949,6 +6950,10 @@
 {"v":"1.0.0","e":"^1.0.0","h":"0ggd83fd9486qsn3xkbiiiqvqhmqxvvxn2v8wzc1z1fa291d4zkc"}
 ],
 "neophack.git-graph-rs":[
+{"v":"1.0.24","e":"^1.38.0","h":"089mnjjp6vinga4iwdcz4fkn673vsjd7il342h8b1r3klmxf9ncn"},
+{"v":"1.0.24","e":"^1.61.0","p":"darwin-arm64","h":"1cq9qljj467dygzk3kzbavyx451vvpvs7yg6kmhzs1wwf5zwzbmk"},
+{"v":"1.0.24","e":"^1.61.0","p":"linux-arm64","h":"0d20zhfs3nrf2cmx7gfx6kgnlr9aw2gim6lh2pgc8q9zi9cdsbm1"},
+{"v":"1.0.24","e":"^1.61.0","p":"linux-x64","h":"0m8p19w6d40db310dnyggaagg3s6zk4b9bb3w3m80y0mbldhmypn"},
 {"v":"1.0.23","e":"^1.38.0","h":"1d9cb24rl1fblmzy3a80wk7xjzcjgm2hjxn2jlz00dh4n9bpr3hn"},
 {"v":"1.0.23","e":"^1.61.0","p":"darwin-arm64","h":"1mb03vmvgjs1qj942lf65dgjmj53zx0bf61axw5zv83kqpb13n4x"},
 {"v":"1.0.23","e":"^1.61.0","p":"linux-arm64","h":"00bninbq8c5iqq55yvazbzl8hygfhlhdwpy18fx5i01jz1081z8g"},

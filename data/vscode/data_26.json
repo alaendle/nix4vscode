@@ -3074,6 +3074,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"0lj8c7d49kmjvj93k2kal9g2vcb57md4wrhw8c7girv9kyg6dybh"}
 ],
 "fedaykindev.openchamber":[
+{"v":"1.24.2","e":"^1.85.0","h":"0yrb3g4cnw075k48l10j3mbvya3drvygc64al9yv4rhd334fjskk"},
 {"v":"1.24.1","e":"^1.85.0","h":"1np0na39pliz3sy320mf8wqnlbf504rdsdqwd08hrynmcgi3ckwh"},
 {"v":"1.24.0","e":"^1.85.0","h":"0mrp1qcjn0bvsm71xf5qy2dy4bahgr9hamb30mcpzdzg1xlq4w8x"},
 {"v":"1.23.2","e":"^1.85.0","h":"13wjrjn9z3n6yj43kmfrrm9fbgwwgwi9hk7i3dmj2apvf7j291l4"},
@@ -5253,6 +5254,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"19yrv6iz72cayi989gkvvc1j70sk0fx96v1zyyhldx81gx5i1nh8"}
 ],
 "lambogenius.biztalk-binding-viewer":[
+{"v":"0.3.0","e":"^1.85.0","h":"1bl9zvgqka85agvii80zynb235pmvrr3xzd78sqs2yzvy3wkm2w3"},
 {"v":"0.2.0","e":"^1.85.0","h":"1v1grp404d7p9ga1412b763rfnnrff53wcdl1hry9xp20ify3njc"},
 {"v":"0.1.0","e":"^1.85.0","h":"1a2k6xd8jzabmz80alymmfyhgvp5ll231g2z0bd7vkr7c4z6zyqw"}
 ],
@@ -8200,6 +8202,7 @@
 {"v":"0.0.1","e":"^1.97.0","h":"1nfamqnr2f92cgngyzzcrr2lsxc2wjjz0a710h8kyh59yj2b30vj"}
 ],
 "posit.publisher":[
+{"v":"2.13.8","e":"^1.105.0","h":"09aph2hgrhkyksnzmy33cixlnd3xc48cr1g8rssxyfjnavfrna7g","r":true},
 {"v":"2.13.4","e":"^1.105.0","h":"1b3nh2w652i3sn1ldhlqaxw17kx39n7jdb5x6kzv8h1n8hzpnky6","r":true},
 {"v":"2.13.3","e":"^1.105.0","h":"1gvxhkcmv3q4qm4glz5vcpjndyi0smqkpy2g4g74djn9wgzqk93c","r":true},
 {"v":"2.13.2","e":"^1.105.0","h":"0545m3kzm53dqb9ky7ndxz6rhgf53av869ipj2fgwfd172j0jara","r":true},
@@ -8948,6 +8951,7 @@
 {"v":"0.0.1","e":"^1.79.0","h":"0na2brcwz8lzkf5kx1v6fniccy5nzahllj3rjagjm496cnrrb9p7"}
 ],
 "readystack.pg-migration-lock-lint":[
+{"v":"1.0.1","e":"^1.75.0","h":"15l9smdk35p6152qrrdpa2q28myls4d3r04gmygb5qq5f9c0vf22"},
 {"v":"1.0.0","e":"^1.75.0","h":"08sdvcdhxd3v7v0g19d5pa4jqiq9q343h3iyn3cxxgjbis7nab37"}
 ],
 "rehanineil1409.json-snippets":[
@@ -10052,6 +10056,8 @@
 {"v":"0.1.0","e":"^1.95.0","h":"02vji28d3qdbj74mf3nq2125r352cippimqj56j1n1nnidv7wbw3"}
 ],
 "sukantasaha.opentelemetry":[
+{"v":"0.2.2","e":"^1.90.0","h":"119mm8appr2g2cnnfs0f964g1vyjaq67qy9lvw2gzcrizcpbj625"},
+{"v":"0.2.1","e":"^1.90.0","h":"0n3wqpibdkx2f1x7zpzw4qj3xbxf6fni9kdxb4p418qxfp42syiz"},
 {"v":"0.2.0","e":"^1.90.0","h":"1s58ziyqgx8gji1na5gd90ddz3nhqngql68y746vbgwnxpigjqxg"},
 {"v":"0.1.3","e":"^1.90.0","h":"00lfdd9y2zprsnrsc07077379jw6v20bv5c63yxp9m5ka48gxfw2"},
 {"v":"0.1.2","e":"^1.90.0","h":"08agz7mx53p1bw92w8fdi82px0m3n8vx93n9j3harg55iva7gc1w"},

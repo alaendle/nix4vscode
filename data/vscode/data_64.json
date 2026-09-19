@@ -790,6 +790,9 @@
 {"v":"21.5.3","e":"^1.34.0","h":"16xgcgx8zg0lkvjf1d0vndhnkwdw4byzsq8fasn65c6sw4qm4b48"},
 {"v":"0.0.1","e":"^1.34.0","h":"17vk1hvsvgn0l5jpg809c7qid8xz3yd2p2jjdf51arldkr5ksndi"}
 ],
+"apex-log-insights.apex-log-insights":[
+{"v":"1.2.0","e":"^1.96.0","h":"06zx6f0zmdycgprylk5wvg6dbbj0kb1sgw5548ydr9z2gphjp02b"}
+],
 "apiswan.unitwise":[
 {"v":"1.0.9","e":"^1.60.0","h":"1w5hb9zdb2vqxr185jz0nmf1kcc0d7xi4qsvzcnw4gvj3yds2hby"},
 {"v":"1.0.8","e":"^1.60.0","h":"1as23rvf1lx4v2fh91gql9rj0pi7fx7pi2fzc320bchlg2hla01s"},
@@ -4009,6 +4012,8 @@
 {"v":"1.0.0","e":"^1.105.1","h":"1z3ajzq4h0rdrklcrap7vv8pj28nilwj4l2yqw3yafz2iz45qwlb"}
 ],
 "icedq.mcp-server":[
+{"v":"2.0.3","e":"^1.101.0","h":"06lrb4s6ajf93l2vlclbb1vcxdnh6hv6wsj8ci16h4fjpx0w78qi"},
+{"v":"2.0.2","e":"^1.101.0","h":"1yjx7ihisgi455737w2g6bbdg92x4cl022jpd9xaymffs7mzznmy"},
 {"v":"2.0.1","e":"^1.101.0","h":"07ak5hi1dw84x1pvicnlabh3ra89q19n9hfb5vqfsa5pkrnnik0n"},
 {"v":"2.0.0","e":"^1.101.0","h":"1h6ldaril8nmd5n9sgi8dicw473668wdixn7jz3dc7gqa56l4mwg"}
 ],
@@ -4631,6 +4636,7 @@
 {"v":"0.0.1","e":"^1.89.0","h":"02vmi3dhy4aaaxz3v15mv3z85lh3pn08klxf1bfqln07r520n04n"}
 ],
 "khalidcd.test-pilot-qa":[
+{"v":"1.11.0","e":"^1.103.0","h":"0158a9p9bh29v0l1vk0892gvi7x3m0fky724v516551mmqrh70i1"},
 {"v":"1.10.7","e":"^1.103.0","h":"12895hc4zqk03szh5xsqg2h5bcf0akwmfyrm6zkk5qr1zswqgl6w"},
 {"v":"1.10.6","e":"^1.103.0","h":"1qi0jrpkwmp249yavcx8q887y54vjnm4xla8n9k04h5bdqyxb0fd"},
 {"v":"1.10.5","e":"^1.103.0","h":"1xh8nvfkl47nmpcq6saq69gayb2fyr9pf5jja3db3ay26sck4qzd"},
@@ -5170,6 +5176,9 @@
 {"v":"0.1.2","e":"^1.61.0","h":"0pdfkv9m1i8y8zf59lgif444h1lppd8qnrimhzylcs4v552w78rc"},
 {"v":"0.1.1","e":"^1.61.0","h":"0d3fvaxah7sn9yvq7gqf2zyr4kks3vqsfhqwc3j6irkdb4van17h"},
 {"v":"0.1.0","e":"^1.61.0","h":"1j3hcfizzz15ymnxkik1x34qyx317kn8d5ypxn6gv6qbcy0jmlfw"}
+],
+"lorin-speybrouck.wireviz-yaml-injection":[
+{"v":"0.0.1","e":"^1.8.0","h":"061n74g5rk4ww6lqz6831is3midg1k4z7c15snlhgppja7g8vpi1"}
 ],
 "loukas-kotas.breakpoints-manager":[
 {"v":"0.1.4","e":"^1.92.0","h":"1hjbwvpmvmmgifw5wmsd24ywq5przcyl3k7432la05lip0wf4fpr"},
@@ -7262,6 +7271,9 @@
 {"v":"1.0.31","e":"^1.63.0","p":"linux-x64","h":"0dqjvdgfi0kq0kpjkd66n5wb4abwjm0ipciv4a8c2j5ms06g1qc1","r":true},
 {"v":"1.0.31","e":"^1.63.0","p":"darwin-x64","h":"1nlh2izy93gkbmbc9vqbk2fvk7d9kzwlqdhcpd6n2snv7nscp85s","r":true}
 ],
+"orbit-os.orbit-studio":[
+{"v":"1.9.7","e":"^1.85.0","h":"1dyn20k6llz17zhz9bqjb711la3vvziwwhpl9bimw226sxp6jizk"}
+],
 "osam023.pwgenerator":[
 {"v":"0.0.1","e":"^1.19.0","h":"1ma02gwrklryghvfm5170b2xg1mwpnk0m1z5fsj1ivc894fx0v21"}
 ],
@@ -7321,6 +7333,7 @@
 {"v":"0.0.1","e":"^1.94.0","h":"0h5wf9hqxdi5wn4ws7zxllvy1r45gb046mxxrnz0kx1w9fsfzx92"}
 ],
 "oxsecurity.ox-ide":[
+{"v":"0.66.1","e":"^1.95.0","h":"00hri2yzh1hqglqrjrl4xd6rl1l3js6pn4lws24psh6l98xjph58"},
 {"v":"0.66.0","e":"^1.95.0","h":"1p5fmins5xhn1p03z0cgd5wsh4frvahgzncrpsxbjncxl8rgb7jj"},
 {"v":"0.65.1649","e":"^1.95.0","h":"1ihah3zr1xfdsyvz7lp6ddn9fnwr0gai02v6r4n9kzs0nig0jnqx","r":true},
 {"v":"0.64.0","e":"^1.95.0","h":"1mzkks7p1g7xcl9vr23bli5n7ll9q8pddynrgc0b7wx29g3m0kzc"},
@@ -8390,6 +8403,7 @@
 {"v":"0.0.1","e":"^1.80.0","p":"darwin-x64","h":"08chfik9xbzvfwmsh2z082p8rsdzk2wkwahzmmrhnsk6dq954l4n"}
 ],
 "scientificai.zeolite":[
+{"v":"0.6.4","e":"^1.85.0","h":"181bn196rh6vk05l5mx86fcwfy8zw959y6ymxjhicwdr6qjgs5wm"},
 {"v":"0.6.3","e":"^1.85.0","h":"03aalzvkfxr16iyq8kxhvr6sfm6c9fppvfjjhdnm2b57xg6v61kj"},
 {"v":"0.6.2","e":"^1.85.0","h":"013pv90b189xc56cqvgqx0bjmc2d2rh2iihxykny2j4ix8qc3rvv"},
 {"v":"0.6.1","e":"^1.85.0","h":"1snh37nfzlw1mdza0dlkszybadzcs9xy2ac7w5iwmh0r8ybb4y0x"},
@@ -11205,6 +11219,10 @@
 "wondacorp.yaml-code-injection-highlight":[
 {"v":"1.0.1","e":"^1.75.0","h":"0rmsi0znwh6mybvz9cj394qjdwvnn74w1rqwkq4sfxshqf1wlvii"},
 {"v":"1.0.0","e":"^1.75.0","h":"07msrvas5qii6rn7784afa8a6kphasr8k12fiizxaga5029x0ik2"}
+],
+"workjerry.it-tooools":[
+{"v":"0.1.2","e":"^1.90.0","h":"1h4x8cdbswsvp2c0qirzv6w4bmh3lf3827aq7q4v57wwlz4h4cfk"},
+{"v":"0.1.1","e":"^1.90.0","h":"0ajspz20b7by8pkpk82h14xkfafl1bjwqs153q6ab8hc7z2621wc"}
 ],
 "worksome.worksome-vscode-extension-pack":[
 {"v":"0.2.3","e":"^1.55.0","h":"13nvizj7s652s8b9cm878nmznk1rg06cicavr4z98y9smzd0p57k"},

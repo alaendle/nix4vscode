@@ -3439,6 +3439,7 @@
 {"v":"0.1.0","e":"^1.86.0","h":"0vyklwrhph86y5afkqp5d1ybp97xvs1b46bdfrk2ysz3wbh0f8nv"}
 ],
 "hrvanovicm.hs-task-timer":[
+{"v":"0.1.4","e":"^1.85.0","h":"1l8diriwx663za084wnpbpr43vdglf4vs664fmzqzzdkbbizr8fw"},
 {"v":"0.1.3","e":"^1.85.0","h":"0zirnchal52szv2hj63451ww9z22idmk0rg716m8apj0y56w5adm"},
 {"v":"0.1.2","e":"^1.85.0","h":"1av7bwxppa6w2vr62g7mm9c3csd3vw5nixggwijp0njrv2qa7yl4"}
 ],
@@ -4681,6 +4682,9 @@
 {"v":"1.0.1","e":"^1.92.0","h":"1czjpr3nd9n378rsx5jbn7ayq2riv7l09d395469z4m6givb2x76"},
 {"v":"1.0.0","e":"^1.92.0","h":"18hv3gqj3b78ir5my935c0a1chhk27mlq4xc6wd9dyn56phd4p5k"}
 ],
+"jvvflx.sable-helper":[
+{"v":"0.0.1","e":"^1.126.0","h":"049j5kz1m1zy62ailn74c52ydk4h04bzcsw7v39almm1abcjzdxa"}
+],
 "k-dynexvibe-bug-tracker.vibe-bug-tracker":[
 {"v":"1.6.3","e":"^1.90.0","h":"0mb8a1da4axbbb0717c4l5rv2v8irf4xyvgik0nkxsdb07cx09qm"}
 ],
@@ -5639,6 +5643,9 @@
 {"v":"0.7.0","e":"^1.90.0","h":"1a94i4fsc7183678ffn7ikx96fgs4s2sjsks6i9zrl7vk00jvy0m"},
 {"v":"0.6.0","e":"^1.90.0","h":"11fq98jpw83vsk4lxgssv86mpppdznajhg2hvz32fkliadn6c6z8"},
 {"v":"0.5.0","e":"^1.90.0","h":"0i3b4kljqapfqky9jsal3y5gsx6zi84k1rzsj0nvv7j67bj00kk9"}
+],
+"markusvankempen.lf-mcp-summit-demo":[
+{"v":"1.4.0","e":"^1.90.0","h":"074xvd2xzvxknzr68dc6ahjp6cnzidm562lnrim36wqamkn836z2"}
 ],
 "markwhen.markwhen":[
 {"v":"1.4.4","e":"^1.81.0","h":"1yv6wy5gn4qk8zv4qqw0rvfls8lwwaxy104gvwm3j5cc7x7amidg"},
@@ -7607,6 +7614,7 @@
 {"v":"1.0.0","e":"^1.93.0","h":"0vnyaan8v86lqpvxpig2cx92mwmnkzbn6sy41v8bcdwp44hxbrzl"}
 ],
 "readystack.soup-list-lint":[
+{"v":"1.0.1","e":"^1.75.0","h":"1dc5jsc6wn82hxzzsvx4g1x35jmvhpmbz6ji2lram7i333cy1bab"},
 {"v":"1.0.0","e":"^1.75.0","h":"1klrwxdm1vx07dlzpg03saqyj85l375qc1jg9x93r9fifkb72r4k"}
 ],
 "realazy.elmx":[
@@ -8785,6 +8793,7 @@
 {"v":"0.0.1","e":"^1.102.0","h":"1n83hxblzlwmymx0mnqamyrfzc73gwnw4p75p76m4zg0kngmm9j1"}
 ],
 "victorquilgars.git-vertex":[
+{"v":"1.35.0","e":"^1.85.0","h":"0763kdx8k7bnvzzqmmbynmy52j9sk4jplga67qz47nnc91bnbn3z"},
 {"v":"1.34.0","e":"^1.85.0","h":"0z2zkr5i88d31zjxqiry8qwjq20m73rx5aafhmh3vjwklgqa3pjg"},
 {"v":"1.33.0","e":"^1.85.0","h":"08wjy42cm140kzj28xypnrqyb4q1qgk4ig5cw63cxnchggyr2784"},
 {"v":"1.32.0","e":"^1.85.0","h":"1jvqlfy3qv5kg7mymci4w0b9b8czgj33qsmsss212gj531nr2s1j"},

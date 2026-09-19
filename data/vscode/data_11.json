@@ -2661,6 +2661,10 @@
 {"v":"0.0.2","e":"^1.18.0","h":"02f56c5mn86v88drfwmvv1glf07x68mmhfdjdl8x5qzdkr6pv6sw"},
 {"v":"0.0.1","e":"^1.18.0","h":"1npg0kmlgwmdnyki9by607h9spwrcb9xfnlzv1wk4b3802c758i1"}
 ],
+"formulahendry.wechat-ahp":[
+{"v":"0.1.1","e":"^1.110.0","h":"1a7ba7mfglr2wjb673pqrkpm2hzrgcqmvsivc7fz0g7w45cvg8n7"},
+{"v":"0.1.0","e":"^1.110.0","h":"120zdcky0gcj1wvv6llwkxlr3zbws59f1xysvrxy390jw13ynql0"}
+],
 "fortunia.fsc-syntax-highlighter":[
 {"v":"2.3.0","e":"^1.75.0","h":"1xq2p1gfx73m4639f0ii0q5s6p2a3ndwhvkdlzicwl4lniy5541n"},
 {"v":"2.1.0","e":"^1.75.0","h":"0zj0chvm5frr7nwyxk2pr8ccgbav5q8fp5f4gsl2w7x1jls1g4nm"},
@@ -2820,6 +2824,8 @@
 {"v":"0.0.1","e":"^1.32.0","h":"0hmfri5zg9yzjswrhpj7v9pkzww0dg5mglq1syy2hbjyq6cc86f8"}
 ],
 "gabrieletassoni.thecore":[
+{"v":"3.9.0","e":"^1.85.0","h":"0970p0b55pqj5rqlqh9hynriyyi1k6rm8g5v98vfp9b3sik8s91s"},
+{"v":"3.6.1","e":"^1.85.0","h":"0vk3dpi8ml5r9rsg4b45clyhv4cr6cqkq7fjz3n75lnqlh472n8v"},
 {"v":"3.6.0","e":"^1.85.0","h":"0pasq10afa5jcvr4ym1vyh2s2yqq5c0aar07qf274hinmy1ml9pz"},
 {"v":"3.5.0","e":"^1.85.0","h":"0gp5fjwgwrx3yps968z18m2y5k5cgcv660z4n3pjd52mq21i5jgh"},
 {"v":"3.4.0","e":"^1.85.0","h":"10vv0xky491zyx6fmqi2r2cys40rj7ykjkncjdp6yn8d9vinb0ff"},
@@ -4938,6 +4944,10 @@
 {"v":"0.0.1","e":"^1.96.0","h":"1jd7j5cldjz66zf6y26qv0azq3y9pni34fz4slw1yzygcxj6qik8"}
 ],
 "mai-engineeringsystems.mai-papyrusproxy":[
+{"v":"2.20260918.6","e":"^1.98.0","h":"0g1jq1qsm2mx4vzf3rq4fg2xziqcdxvgr5zbcqkj6q6lv4x0wfzr"},
+{"v":"2.20260918.4","e":"^1.98.0","h":"0yvc6x0rf6aw140zgzhglacrq1qmhwi54mjkyq1bw97xp9nc5yxf"},
+{"v":"2.20260918.2","e":"^1.98.0","h":"0zw0wb4jisqav689ha0bkcimdi681sf2iqyg33fj0mvk2z2ngvxy"},
+{"v":"2.20260918.1","e":"^1.98.0","h":"1d76drhy7d5pzf65aj749665zkxyk8zk4n097fzv73cjs13is9jq"},
 {"v":"2.20260909.1","e":"^1.98.0","h":"07ph5gs28sgmzq1x897hh8dsw66nmhylphf0w5l1lkq6ck5h3ipp"},
 {"v":"2.20260908.9","e":"^1.98.0","h":"0g89vss1vfr0v9h9h91vz51c9qn3q83krdjxkfl2lkf1q6r0d4jp"},
 {"v":"2.20260908.5","e":"^1.98.0","h":"0wwdl7vwcikf5y0blj2jwsfsyv8m29kbn1r6zfqw12na4hfnm590"},
@@ -6432,6 +6442,12 @@
 {"v":"0.0.1","e":"^1.46.0","h":"1kj8y2jh4pdvgcj6wagy3p9cq7bprr6g83kvnbwzjlj0vpjxbqba"}
 ],
 "onpointepm.codebridge-onestream":[
+{"v":"7.0.111","e":"^1.60.0","h":"0h3dprn00gr5qb6dmgzsggbg9zy4nw635lrdmcs9yry1c6bn8dsz"},
+{"v":"7.0.110","e":"^1.60.0","h":"01jk70xxaj5gx38z9g9sw4vv3mgicr8sc09r19n2w365wnqvzvzn"},
+{"v":"7.0.109","e":"^1.60.0","h":"1av5qavsb5hnf7rc2dwn1k8h9c1gn9gk4b3ndgpy3pgkpwkji3yg"},
+{"v":"7.0.108","e":"^1.60.0","h":"0wjs3mhkiyfdd647xm1i0ibc2a7g8jrnhdqh5sl2mzzs5lnqphi7"},
+{"v":"7.0.107","e":"^1.60.0","h":"1bmxiybsf92c4i8rh2bi4h57n1k3xa60pjxv7k90c0dib2g1l8m1"},
+{"v":"7.0.106","e":"^1.60.0","h":"1gfn06vqzl5mpffisdp1p9461827k70fxxgai0ipnl76lxpl4wpi"},
 {"v":"7.0.105","e":"^1.60.0","h":"1m19c6aki8ix2kmaj4qvdq4b9sjh02p1qi6v38mppdgc3isx0lj5"},
 {"v":"7.0.104","e":"^1.60.0","h":"16amrw6690vkdwikbicaajvmyi3ibg803yw5x6j6v2iv2b8s3ngv"},
 {"v":"7.0.103","e":"^1.60.0","h":"1m5wg2iykkh5sawjhalk4nar027x54i67bg22qcy9bavnf58a5zf"},
@@ -7095,6 +7111,11 @@
 {"v":"1.0.0","e":"^1.75.0","h":"08qi0484qqnmh2i64v8ff0kiqv6qnssi9fc5vh5fqfla5pzn6y89"}
 ],
 "redhat.java":[
+{"v":"1.57.2026091808","e":"^1.77.0","h":"07ldd660bmy167nny2ril86wgc8vbvbikbqjaibc1apkh1nf1vg1","r":true},
+{"v":"1.57.2026091808","e":"^1.77.0","p":"darwin-arm64","h":"1k9p7863vlr2f4nhl3xb1i99n4nmdsn1vqn4j57s0lwhn8xc8zh2","r":true},
+{"v":"1.57.2026091808","e":"^1.77.0","p":"darwin-x64","h":"05dsm0khzikvviw1gys92vfw111kgl6z8673bbkcirza2a6f1fya","r":true},
+{"v":"1.57.2026091808","e":"^1.77.0","p":"linux-arm64","h":"0da9p6fq91r4p2hpmbsv7z7xaarclfxccpxiibkwpwwzd1cbc6a8","r":true},
+{"v":"1.57.2026091808","e":"^1.77.0","p":"linux-x64","h":"135ii8qyfraxh9wk9ddy1gsjh6l03ps99pwgwarvaqkqmp1fkmyf","r":true},
 {"v":"1.57.2026091208","e":"^1.77.0","h":"19zj85wxb2jji3jcjymirzrhyxdilv9pw4jkjjxzi55z49mqmjjw","r":true},
 {"v":"1.57.2026091208","e":"^1.77.0","p":"darwin-arm64","h":"03mpbin6p4plxdrkzxrykzbfrjzfwyp0495gdv492g7a5bbgawgm","r":true},
 {"v":"1.57.2026091208","e":"^1.77.0","p":"darwin-x64","h":"0a4l2mx6gc4y74v4m73wnbwfzwcs426gmiiqnxhgdyyw2sl5xsj8","r":true},

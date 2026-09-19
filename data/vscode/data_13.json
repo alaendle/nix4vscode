@@ -1502,6 +1502,10 @@
 {"v":"1.0.1","e":"^1.82.0","h":"07ll4rk6nla0a5cbd3jq5iy7885bvvfx36afszwcizfbj46c2xl3"},
 {"v":"1.0.0","e":"^1.82.0","h":"0hqp6wc40v9r3cgrf4z41fhvs1kbzd8aw2x2cvzwxjh6p9w7jvdl"}
 ],
+"atiassiansum.trello-boards":[
+{"v":"1.0.1","e":"^1.80.0","h":"1sm2kvx8z7pmxcrmz1n11b9n1zhwnf8jqix2igh2n65vhzrmfs98"},
+{"v":"1.0.0","e":"^1.60.0","h":"16q07mclr3yx24x91jdphrrps52fwljpliv4wjjf1day1bjvq420"}
+],
 "atulhritik.social-commerce-intelligence-mcp-vscode":[
 {"v":"0.1.6","e":"^1.105.0","h":"12yn83s90yh10c4rv3qf4j1sqkylrj1j1nbxl8aa3j6qxz3lprin"},
 {"v":"0.1.5","e":"^1.105.0","h":"1bxyaqndjn1xbm6ikc1nn35hff1x8fm3rpa1m2aq0a1w3ahc539w"},
@@ -1842,6 +1846,7 @@
 {"v":"0.1.0","e":"^1.84.0","h":"1av2abb8vsv0yvlxg1233qpq04icfwldp7xd1iw15p5mq7vc8w08"}
 ],
 "beanarch.mdx07-templates":[
+{"v":"0.1.9","e":"^1.89.0","h":"015vvw0hjb0wn3iiay7s8166fs3hxzc7nsi2zd6iwcm97spls269"},
 {"v":"0.1.8","e":"^1.89.0","h":"1pb89bq032v2hbjl4wqk0bgaaczbnss5pb47a9adflk2xd39p8w3"},
 {"v":"0.1.7","e":"^1.89.0","h":"02v4f2x55if4hn78mwnpj0xvdvn1scbm8bzdaqa8js59anl9pr5r"},
 {"v":"0.1.6","e":"^1.89.0","h":"0z1rx39shl8c9r41q1g3g41gjrah7j1k7d650nr38vnvrp5nz4hn"},
@@ -2723,6 +2728,12 @@
 {"v":"1.1.1","e":"^1.79.0","h":"04m3sy9r86awcva14sipg0kvanb6xk0k98f87ciq2j3ik8saa58q"},
 {"v":"1.0.1","e":"^1.79.0","h":"1q5kfba8f55g72qziicaibdh2wzpx2kv34pwbp57yb2q0sdczk4b"},
 {"v":"1.0.0","e":"^1.79.0","h":"1fnz120bc8sy9spfgblw8ymah1xhhykws3a7kps5klnj8cdyy0lx"}
+],
+"code-imagination.code-imagination":[
+{"v":"0.2.2","e":"^1.95.0","h":"0cf7vc0vl229wgk532q6pmhgy7mn98vh3iswdhf4f82bnr3jqf6b"},
+{"v":"0.2.1","e":"^1.95.0","h":"1k8mqbkjzxsajqnmxrbldir9xwhfwjrr5jk59gipnchvy13r6ign"},
+{"v":"0.2.0","e":"^1.95.0","h":"0gdx1sh817abq25kcmrf9qrbgdf5m5i700gsjzv8d70yip77rkl4"},
+{"v":"0.1.0","e":"^1.95.0","h":"1yi55vvchaisfv6ppjwlv2gsgjbi1llkaj8r9lsiyhr6vlhhjsg6"}
 ],
 "codebaseos.codebaseos":[
 {"v":"0.4.1","e":"^1.85.0","h":"0s3gyc6q0j127gbc96pbimqk57awvy48c5hdfdyl52yxwidkpz98"},
@@ -5265,6 +5276,10 @@
 {"v":"0.5.0","e":"^1.60.0","h":"1c4lrd0sybjdj39i70znpcwrglnk80cqz07q32sg5zv5lm6240g1"},
 {"v":"0.3.1","e":"^1.60.0","h":"14x5sd5l3bdkb0van1ydf8gh7r9whdp3345xybadv8kdim9y86hi"},
 {"v":"0.3.0","e":"^1.60.0","h":"0a83drd7xjafqfwpcnvc4yw485wgp0683nz4cbcz7naf02rx4sz9"}
+],
+"jocky.jocky-language":[
+{"v":"0.3.0","e":"^1.75.0","h":"1llh5ipw7ac2r8sf948ywz5mg38y8vwypskzax9xxclqqz9qxndh"},
+{"v":"0.2.0","e":"^1.75.0","h":"06iqwi3zkdrwk4gdhmvmf6sg38blakgqbw9vy12pci2ymn3v4hjm"}
 ],
 "jolie.vscode-jolie":[
 {"v":"2.0.6","e":"^1.36.0","h":"12s6ffz33v84jzykckhkx2sjczvlfs7mv0176snw7krn708jvjhv"},
@@ -13467,6 +13482,9 @@
 {"v":"0.0.2","e":"^1.0.0","h":"1gml41bc77qlydnvk1rkaiv95rwprzqgj895kxllqy4ps8ly6nsd"},
 {"v":"0.0.1","e":"^1.0.0","h":"18pd0fh85dr6c10hlq0jail9vm639rgrzfk20avkql3qbq6wk9ky"}
 ],
+"rvben.rdfscope":[
+{"v":"0.1.0","e":"^1.95.0","h":"1676xh8486wq9ys7mp3fq8p8x47378igckaapy0ldmyqg9ydga6h","r":true}
+],
 "rysah.notthevimguy":[
 {"v":"0.0.1","e":"^1.88.0","h":"19iydn589nsa230dlajp1kb8y3vfm6ql2f9yf7jn7iw990jbxr70"}
 ],
@@ -13712,6 +13730,11 @@
 {"v":"0.0.3","e":"^1.86.0","h":"0lmby3nh5dk6by0dc8d6v5bw60vph1ns3y4dd290flh19czisyf2"},
 {"v":"0.0.2","e":"^1.86.0","h":"1hp4rz4gs20lw8higcs8n5mvy1d7i3y1g9c8wk0d0ahcfbffa6rk"},
 {"v":"0.0.1","e":"^1.86.0","h":"102hwx73ywblh4j49fc0731kq7xj9jd7h3paaizk6yipw3kmv37j"}
+],
+"sebbsoon.sql-maker":[
+{"v":"1.0.2","e":"^1.85.0","h":"17kyvm68y7hblg8dk5475f98lwdb1574gixdnnxcm4mghb2b3ppp"},
+{"v":"1.0.1","e":"^1.85.0","h":"16cxasxbi96ijd8vggb72m2kxjcgbcc5zbhwmzkwrhjrfdpz6hg1"},
+{"v":"1.0.0","e":"^1.85.0","h":"1zbz3m85h506g0sa14qy2nmy6dq6w580k4g3msnw17ln17g9sbbh"}
 ],
 "seedling.seedling":[
 {"v":"1.0.1","e":"^1.48.0","h":"1kximm51g3wclqfachgkbljhnnh3mdi12v47shgcaba8qpgvn0g1"},
@@ -15591,6 +15614,9 @@
 {"v":"0.2.0","e":"^1.19.0","h":"0d2h1xc405l2n81cgyjfiap6vfbdxjzy315xi3yhkny0jshd6bvi"},
 {"v":"0.1.0","e":"^1.19.0","h":"07dnr7cz7hp8hzh20jbk5fc5szxvj0chs89dg929iqjcc0syvprw"},
 {"v":"0.0.1","e":"^1.19.0","h":"156bqdpvz9n1385mf51rfvsnwxk13ljqyjkcsm787xn881sjf70y"}
+],
+"yuvisingh.comment-hider":[
+{"v":"1.0.0","e":"^1.80.0","h":"0lk71kjs8xjgvan87rv55z3d1y2aam9s67ra0ycnsvdqfi35g7r9"}
 ],
 "yxandam.vscode-screen-extension":[
 {"v":"1.0.0","e":"^1.60.0","h":"1pk8j5g6qkbcvz70n7759iyn17nmwxzsf1mc2cfr97478h9gvl39"}

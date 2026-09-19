@@ -1683,6 +1683,7 @@
 {"v":"0.0.1","e":"^1.107.0","h":"1gj1p8cd4j2bw5y9ijw8vwsgpsb2iadap0bj9hkmv7imrgv46iwq"}
 ],
 "danlambiase.lmstudio-copilot-provider":[
+{"v":"1.30.7","e":"^1.104.0","h":"1j30kpnjv5rabkcvpkxkw1yzzy0nxyl5h9r40wpz5bz7b1mkbikp"},
 {"v":"1.30.6","e":"^1.104.0","h":"02vyp8ysvy6mhf1xhdjrnlkfqx3lgmfvcq29a69mmzgh10hcpji4"},
 {"v":"1.30.5","e":"^1.104.0","h":"03bn0gznswr1mff28ibg6zbji3ca8398gcq71kga9pjl37gddxi8"},
 {"v":"1.30.4","e":"^1.104.0","h":"0bzyawqbzhjnrnzc80qi21gb80f8bqll2hcnpins1smg6i2ylrwh"},
@@ -5276,6 +5277,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1483vjppmyip1bwng3ywfbwpmz0wd6cgvwdrl319rmasyf0z80h7"}
 ],
 "mdeditai.mdedit-vscode-extension":[
+{"v":"0.1.2","e":"^1.85.0","h":"1d873b4h29v5lr9n51ll40xfyg9i1q20k9xq7p0wd2yiljsjd8mf"},
 {"v":"0.1.1","e":"^1.85.0","h":"0ywcw6i9smggpbq81cp14vajq305hvml35n8hpisiryplvxp9qgk"},
 {"v":"0.1.0","e":"^1.85.0","h":"0v5xa2yy2n2ysbvnx00j503vagqid40zai0mw2lr2w5fh0wqda7h"},
 {"v":"0.0.15","e":"^1.85.0","h":"111gx70ajldbdqi70515jj5qwv4z334636jq4qg1p7gw7yqr6yls"},
@@ -5776,6 +5778,8 @@
 {"v":"0.1.0","e":"^1.56.0","h":"1ff7zkxwshwivvg9xa20y1cprxdfiavd4269nskqhbzqmgmgmbr0"}
 ],
 "na2co3.na2co3-light-theme":[
+{"v":"0.6.3","e":"^1.139.0","h":"0b7542cqf7rr6v48v7cn8pmm8j4gv70ib0a7dgazcvg0kqxjvhvs"},
+{"v":"0.6.2","e":"^1.136.0","h":"17zzswhx25jy7gplv7p9cdk9w8jg8y0av8cgisc3z2vsmv4fbmyh"},
 {"v":"0.6.1","e":"^1.136.0","h":"0czg01dqpw8wnmgi9xjycgsmks19fvd5mb9hyal328m8wma25yz7"},
 {"v":"0.6.0","e":"^1.135.0","h":"0rbyj7hxvl2q142pr26acfpp1nj1y1vsrfkb7ig1zja7vz6c72nq"},
 {"v":"0.5.5","e":"*","h":"15r6r98bqglrycpgazhdn8v0azh73k65lp1c439xjklwcxafix74"},
@@ -5895,6 +5899,7 @@
 {"v":"1.0.0","e":"^1.20.0","h":"1xrv9ws47flwkv466lz364rp58487xfdybqy6wpwdrw8bi13qbdj"}
 ],
 "nickeolofsson.dbt-anvil-vscode":[
+{"v":"1.5.57","e":"^1.115.0","h":"1zhy32b3hys2dyzygg4ch82s0nrgqazx578s35ml2jqk5fr6n4ig","r":true},
 {"v":"1.5.49","e":"^1.115.0","h":"0y88qbwg6c71p8qpsqwibyrmfcmrfksq50yg5170ijpa3h33mif8","r":true},
 {"v":"1.5.44","e":"^1.115.0","h":"18j90f9nbfpazz0vgbq4921bsp0lql2ib7cfr2irpyxbp67qqvpk","r":true},
 {"v":"1.5.1","e":"^1.115.0","h":"14ia2kx57pkw62jvwz08wqkwixlmj10gh8p869w4rc4k6cidfj6g","r":true},
@@ -6149,6 +6154,7 @@
 {"v":"1.0.0","e":"^1.46.0","h":"0g56lgcb31fll53pnk1mb1d11zxa369ayaza8r840cnsav0zihrv"}
 ],
 "ovt-chris.ovt-vscode-explorer":[
+{"v":"0.0.6","e":"^1.87.0","h":"0npzkr6hwfc7hk6syc96dpx13yjr91qy9bzga0r7yyr8k02hkglc"},
 {"v":"0.0.5","e":"^1.87.0","h":"1q1p2mas3wjfmsh77qf8g1idpy7ngnnl8hzs8wcihd2j511kw5ls"},
 {"v":"0.0.4","e":"^1.87.0","h":"0z1bk0gyxrzzmrh46ni150lr20b37lwqgqa5nmrw2r2i7f9nnp0i"},
 {"v":"0.0.3","e":"^1.87.0","h":"05mpavb7zzpw2yvlqp6j56ia4v2c7z3gdkfh4fcjhk1jylyis39c"},
@@ -7910,6 +7916,7 @@
 {"v":"1.0.0","e":"^1.50.0","h":"04s584y6h71aaknaj1nka31k2faj7cmpjzxa21myazzzichyavcm"}
 ],
 "tuna-ex.gitnav-workflows":[
+{"v":"0.21.0","e":"^1.92.0","h":"0q6iy5dvvxmllh14hm4v2aq92mwig6j5415mnp20l0nipxqmsijm"},
 {"v":"0.20.1","e":"^1.92.0","h":"1i6y653xmyikw7i2q7ps2imf048p39hq5ii1k1mlhkway4p38xiq"},
 {"v":"0.20.0","e":"^1.92.0","h":"0wnnqyjcnh4fmsf8fhvsxmfi5h44znvymd4gd40179ajqpz0vsmw"},
 {"v":"0.18.0","e":"^1.92.0","h":"14fjdvzciis4ssk3j8a295ckwv3xxbxcxiw9rcwlglwbsm90lwdx"},
@@ -8312,6 +8319,10 @@
 {"v":"1.3.0","e":"^1.80.0","h":"1nardlqwwybq2jvj8vsdwwv62xiiikpdpllwb0mjakqw4qxqflsd"}
 ],
 "vexp.vexp-vscode":[
+{"v":"3.2.3","e":"^1.85.0","p":"darwin-arm64","h":"0s777lka4q7f09zqcdphxyb7gpzgm882gn1c4vqwqchkn9nn16aa"},
+{"v":"3.2.3","e":"^1.85.0","p":"darwin-x64","h":"092ck8p4qpqwckzad74bwwl0i4wy61wa22fm8lfh2il4n2rhv4ni"},
+{"v":"3.2.3","e":"^1.85.0","p":"linux-arm64","h":"02pxd46xnchzj80c1k1c7fpza5h5a9iqmsip9zmcfxqbgjxb2mfn"},
+{"v":"3.2.3","e":"^1.85.0","p":"linux-x64","h":"12nj6rdqyk26j1wq96pr0k82azi3c8x4060d96kyidqsd5jszc61"},
 {"v":"3.2.1","e":"^1.85.0","p":"darwin-arm64","h":"0i2mbwpqzlyacgwqdmzbpmkjrbw4svczfb0mw9h1iz8wpb9x6gx6"},
 {"v":"3.2.1","e":"^1.85.0","p":"darwin-x64","h":"0qq5hhfhh5silvnjh4z76szwlrf21s7mj9xkvzm1im1xvicwzm0p"},
 {"v":"3.2.1","e":"^1.85.0","p":"linux-arm64","h":"173baa4k3xa11yr0vm4fghlfxll98w7v37md7whgqgc5salkn9qi"},
@@ -9407,6 +9418,7 @@
 {"v":"1.0.4","e":"^1.75.0","h":"1cdv0df2zbf0ab3m2jh9w8d2brhfvyzpc21cg3zaywkidv8vimnp"}
 ],
 "yuchenzhong.verdict-judge":[
+{"v":"0.1.3","e":"^1.95.0","h":"1vq28xlq3z9bp7w6x8agkvrkcz1sy702gj23mf68dxbi4j5fjldl"},
 {"v":"0.1.2","e":"^1.95.0","h":"11i5d7jydgi0fsarf5i0w2bh4lxfj7lr2iw2p0cd7pn769dx0cjk"},
 {"v":"0.1.1","e":"^1.95.0","h":"06ik6i1drknxdjdpmgznmb6sxaczm1qqdjdhckqmyvl7ys6qjky0"}
 ],
