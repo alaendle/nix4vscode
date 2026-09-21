@@ -382,6 +382,9 @@
 {"v":"0.0.2","e":"^1.70.0","h":"08pjk9nkjmazk7nbxjjl37h2ds4hgwkjrjl7sc7zri28vx12azwz"},
 {"v":"0.0.1","e":"^1.70.0","h":"185shxpv2a5zah8673fpn1qzgmxcb2v8pq0f7yv94jgn7rnsacsk"}
 ],
+"algobars.algobarsx":[
+{"v":"0.1.0","e":"^1.85.0","h":"1xkb2xdsw8w2cg94d60z0j6d7xg15gwdl62xjl464fcmn1awnbwc"}
+],
 "algor.monokaiplus":[
 {"v":"1.1.0","e":"^1.31.0","h":"0d0kc2x144xw7l756q4a3zi1yg9van0v8k26rnfmdafp4lx3ljaj"},
 {"v":"1.0.0","e":"^1.31.0","h":"1kqbdkv3hafx7d9zr2syalghb3s4b5jqqvi61s5bfv2jyyjad9sr"},
@@ -533,6 +536,7 @@
 {"v":"0.0.1","e":"^1.86.0","h":"0kyswdj3kc1j7vwpszqp8px1hpyikfvh3572laz3cgga2pp8znxy"}
 ],
 "alvin0-dinhai.token-watch":[
+{"v":"0.2.5","e":"^1.90.0","h":"15bg2y5zlfmnd0bgsdznps1n528s6smzi6qdrndnnmqnjn6vzv6j"},
 {"v":"0.2.4","e":"^1.90.0","h":"0433isdsmsn0qjqrvs1dsfmxscl1jg2n6qsr3wrlcbw9sck59pc3"},
 {"v":"0.2.3","e":"^1.90.0","h":"1k1aksy00ksalkm8v1lkjhny3hlk5gwd38q6qdqwz2mi2gja1n3n"},
 {"v":"0.2.2","e":"^1.90.0","h":"1xj6dccq7mvknhdyn4c0jms7mjqs5lpw6i87dfnh9vks4z0i1nwf"},
@@ -673,6 +677,7 @@
 {"v":"0.0.1","e":"^1.51.0","h":"1d6iv4drrjcz4xwm54q97zcwa3vy5a9gc2xcv8gwjix5lsx2qk0q"}
 ],
 "anelembangamashy.b4x-intellisense":[
+{"v":"0.1.483","e":"^1.95.0","h":"0n6bvmj7l5xaj42i8vzhsj6s0aiifsb42a9bv2k047xa2wwlf40g"},
 {"v":"0.1.419","e":"^1.95.0","h":"1ffzkl0j11jzb7mig8b8n4fmb1a8ca5fqmay7z61w22l27cld830"},
 {"v":"0.1.390","e":"^1.95.0","h":"0a25a0c3xz9p64dd12xvkzhpqqi7zlh1csljhsmgkccsxw66dkz2"},
 {"v":"0.1.389","e":"^1.95.0","h":"1k1hc69gj9c332k67ykhyjzd2dj015r3b9m7q1ipkw6v8pyrl6gb"},
@@ -2539,6 +2544,12 @@
 {"v":"1.0.2","e":"^1.103.0","h":"0s53hc0bwyw2v2mz2s9h7h8xxzikmzkzn1jpmhz039pjd69wk1jw"},
 {"v":"1.0.1","e":"^1.103.0","h":"1x9axxl0rf6l7i63m084yxq6jhadhmsqpxa3wrjawcb66pf8h50h"},
 {"v":"0.0.1","e":"^1.103.0","h":"05ib51wg90qrnlm7a9kziqwk66fj5q53kcd0bjy8nd6bhbgbhsv6"}
+],
+"everdev.mentat-code-evaluator":[
+{"v":"0.1.3","e":"^1.96.0","p":"linux-x64","h":"1rmsjfvk5mwfjx46s4yy0i95navbyc9crwhlxjm1dcykdix8yi5q"},
+{"v":"0.1.2","e":"^1.96.0","p":"linux-x64","h":"0riif4cj1nwxr01lhjnxibqc2a5zxvqnfmsl9rdrrvn4ys3rhxii"},
+{"v":"0.1.1","e":"^1.96.0","p":"linux-x64","h":"035bywa7pidqsa452gd5sixl9zn9ayzns3pf5v2zpk5mnj6d0fk5"},
+{"v":"0.1.0","e":"^1.96.0","p":"linux-x64","h":"1jnqhzi5qmmc629ihi10q424zb9f9qs9mx593x6pl98m54jvg4nv"}
 ],
 "ewwwdp.darker-horizon":[
 {"v":"0.5.3","e":"^1.49.0","h":"06hwfg5csqwc43a6c4x3wxcrfhl38izrc9szkf6aw68402z606mk"},
@@ -6376,6 +6387,9 @@
 "osmosianorderofplainenglishprogrammers.portugues-puro":[
 {"v":"0.0.1","e":"^1.85.0","h":"0qphwwmigk7m5iigd3s7zbf1bxsmq4vip9m5m9wri6j8zh8x4nk2"}
 ],
+"ostrin-project.ostrin-language-support":[
+{"v":"0.1.0","e":"^1.85.0","h":"1c5jky9yqw60jwddq396hj8n9159fv6w02j2ars3cw9q5dz2b5hs"}
+],
 "ot-stanislavchebukin.ehr-view":[
 {"v":"0.0.2","e":"^1.85.0","h":"0z8q6mp5ksifgf6hw7hdwgy2sjc3ssflznv54s64lrhss1s8rig7"},
 {"v":"0.0.1","e":"^1.85.0","h":"1iidjvf6nyv16lbmz7ck0mma51hs22cb9p6jd46hv785flx9jinc"}
@@ -6923,6 +6937,11 @@
 ],
 "rhemery.typescript-to-gml":[
 {"v":"0.2.5","e":"^1.134.0","h":"196n19g22z7n6kh3xvk6srn46yyl3a3i25n76drq427gc8wryxi9","r":true}
+],
+"ricardaskauneckas.bonsai-lint":[
+{"v":"0.1.2","e":"^1.90.0","h":"06vz6frws10k61j3i2h8fjs3r80wl7zv90pynh53c74za2zmwvj3"},
+{"v":"0.1.1","e":"^1.90.0","h":"036c63k7lgpjy2a6bbs3zs4j9zzkjgbrj7l64rbs156884nmbnz0"},
+{"v":"0.1.0","e":"^1.90.0","h":"15q86nfnlbirvcsa7fx0kvdrmzxhwwfrqa9dnpm93wv0ymk4a2q0"}
 ],
 "rinonguci.routes-suggestion":[
 {"v":"0.0.1","e":"^1.32.0","h":"1cz3v27hmk7vfkgjild7h87i9j77394m7mas5rpwlkgqgvlyq42a"}
@@ -8100,6 +8119,9 @@
 {"v":"0.0.2","e":"^1.90.0","h":"0qh2yzjrwsjvh5f047hz59byfmfkm5z1vmkbac2d5qc7mbca58gx"},
 {"v":"0.0.1","e":"^1.90.0","h":"12ymvl0kgnswfkby34861gvkza2dj15fg3b8n1jj4pa7422ipijr"}
 ],
+"srdev.auto-readme-generator":[
+{"v":"0.1.0","e":"^1.90.0","h":"0plz0rbzh8l4xgyhfs8cmkihmr6vp6vdaq02sq875d7qgz1n6d3m"}
+],
 "ssegning.lightbridge-governance":[
 {"v":"0.0.0","e":"^1.104.0","h":"17y8mqaxvgxvs96m9kafbmfkrn56pdyqh72y3bpzz9phavpdjgbs"}
 ],
@@ -8286,6 +8308,7 @@
 {"v":"1.0.0","e":"^1.115.0","h":"0hrv79shz1l0lp7pqyr0qz35l8cnci84psfzvh5i8k1w4ks06zla"}
 ],
 "system-sciences.vllm-copilot":[
+{"v":"1.36.13","e":"^1.128.0","h":"1lfp2sigkyjz8nzgifzjp23ab9r5xzm2zk5nq13n110h1psrk9cc"},
 {"v":"1.36.12","e":"^1.128.0","h":"06kjfig4c1q4g67hvrvrmgs5s7xfh8nxna69qx7ij2dpmzfk7djs"},
 {"v":"1.36.11","e":"^1.128.0","h":"0ppkxdbxqx6qzp7dy7jqwainizgzpikjs2d16jbn142vbk8w38jl"},
 {"v":"1.36.10","e":"^1.128.0","h":"1r5pq3qa945nbaazvv9ckq2kfjfjzmdz0pa7vqz3h56d361xhjzp"},

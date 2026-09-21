@@ -197,6 +197,10 @@
 "addvaluesrl.plsql-executor":[
 {"v":"1.0.0","e":"^1.82.0","h":"0ajnmmsm007ixxmqyr895p9c6s57nx91x5xpms7aw184d2yk9a1g"}
 ],
+"adfrolic.adfrolic-vscode":[
+{"v":"0.1.2","e":"^1.90.0","h":"199d45z9jsxb30a3ii6ma32m7l7ajpv2cnknrchbqssj9v7npz40"},
+{"v":"0.1.0","e":"^1.90.0","h":"1g8vyg8m7jhk3agblrqh92774qryywzb7wj3d0bf8cnfjhxpjkp6"}
+],
 "adriankollarik.draculish":[
 {"v":"0.0.3","e":"^1.26.0","h":"12ak6wp311dxg4nwsdzrvj3imnw5nj9xqwv4iqzwzihynk155c2b"},
 {"v":"0.0.2","e":"^1.26.0","h":"0kysacyjzw97s0iablqffldd8l4hgjsndl93x6gjw8g6vhpflwxy"},
@@ -853,6 +857,7 @@
 {"v":"0.0.1","e":"^1.106.0","h":"1gb075mxs9pwzwlsbylva3qp2306y47r2ar5g4mpviz1c1rg829j"}
 ],
 "averenium.averenium-nuget-manager":[
+{"v":"0.9.5","e":"^1.85.0","h":"11x0xxlx7dssdjahgmbrq38cq5pfc5wqc44lc7pgx5lq1xnwlixd","r":true},
 {"v":"0.9.3","e":"^1.85.0","h":"1lzsg6f90yks4ad5316a45bmyn5jsckapm08gqqr2siilbv43pl0","r":true},
 {"v":"0.9.2","e":"^1.85.0","h":"0zfcl153aihnmapjjmqjjl854fgkjdv4lf2sbazzkr762nzgj7ld","r":true},
 {"v":"0.9.1","e":"^1.85.0","h":"0w90k59ab70b18glkxrgy66mbcqkqh7qhvy10kqxn5i048w46df1","r":true},
@@ -2062,6 +2067,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"0r5g0ami9aq68rpi7lypgd086jsv88sj8j04rsxdbm00lxc6fgvf"}
 ],
 "ddh4r4m.shadesai":[
+{"v":"1.1.0","e":"^1.96.0","h":"1c56hlm0p47j8yh8l9qggclyidbgdr5h7xrjw5g2cpjlsh0m5d3d"},
 {"v":"1.0.8","e":"^1.96.0","h":"0zn3q4jac3dx8cayb313x5if1svr5jk8rd819nxwjhal8qf3xa72"},
 {"v":"1.0.6","e":"^1.96.0","h":"0mjmshywcj8azs2h9ac093bic2psnrchb34wp33yxjr51v0cdx6k"},
 {"v":"1.0.4","e":"^1.96.0","h":"0920sacvnp38x2zjp7ginjknr0x0500xlb1p7wpzj04k6sl5bac5"},
@@ -2098,6 +2104,7 @@
 {"v":"0.1.0","e":"^1.63.0","h":"0km4d40dwiip5h44vnmfzpyrgd45jjfdahf4d7ahcx8z5fap6rwd"}
 ],
 "devantler.ksail":[
+{"v":"7.186.1","e":"^1.137.0","h":"1qx62k6d1i7qv03ylp9nrk4fzjh5gy8xa060yspmw0njhfakk4zz"},
 {"v":"7.186.0","e":"^1.137.0","h":"04ilyx458fp3qj6c9yhjvpag13id0kx87hf759y0y4pq8p38gp1s"},
 {"v":"7.185.0","e":"^1.137.0","h":"0vzlab7cv5g50qch45jxs8d7wprz9q6askjy1wbc4hfdsdvw2bmk"},
 {"v":"7.184.23","e":"^1.137.0","h":"0ikv1pd3wb7y3xw8ialzsyzkyqb3lrh2hz1fwhy4xdpfibg1hgq1"},
@@ -6660,6 +6667,7 @@
 {"v":"0.0.1","e":"^1.135.0","h":"003xph4md3ij8c882nz5wv6g608s8kp2ryf9fyh3xdqdkmh1c8km"}
 ],
 "noname.clang-biome":[
+{"v":"0.1.6","e":"^1.100.0","h":"0h70hg55cpw5g9apnjyf8f0k8xgzbpssizsl4wrrmwqx3w3gn82s"},
 {"v":"0.1.5","e":"^1.100.0","h":"16vzg0knfdqf0fdmf7wrpq78bd0ixlmh0h2nv9wix4j5lsgiz002"},
 {"v":"0.1.4","e":"^1.100.0","h":"0fmwbhi1pw2h1dxbsg2q218yg4zii6hpcc3znak37in2bnw22brv"},
 {"v":"0.1.3","e":"^1.100.0","h":"10wjvl20m287px9pla75zh7glss8mvlz73niajw1szi3jxyfxxiw"},
@@ -8957,6 +8965,7 @@
 {"v":"0.59.0","e":"^1.84.2","h":"1gpyd5yy161dwhr2fnpgyjikxx9x2d4g6631rf80nkhzvaisrllk"}
 ],
 "thanhtunguet.vscode-git-client":[
+{"v":"1.22.0","e":"^1.90.0","h":"00rc2ndqg742g135da091kw6y71lfh0dy8z22hlhk8sqpcadwjis"},
 {"v":"1.21.3","e":"^1.90.0","h":"0s333vk74gyp2nwaaqp5d522r1yc120nbi6hjas3yh8jngmd3q6b"},
 {"v":"1.21.2","e":"^1.90.0","h":"04vk72xrq36ikkbf8vyd9g4712h11wrflc8lyz8i7k2938z4d08y"},
 {"v":"1.21.1","e":"^1.90.0","h":"1j94q2shmgrf03k70sfx8lf24lks1gjyhc4kp50k2dwqhx77jg7r"},

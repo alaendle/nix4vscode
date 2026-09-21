@@ -364,6 +364,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"1dnax2g3k2wy6z5lz6hqf8dv2j6hjz1zdm6hl07zjg989cp241am"}
 ],
 "allenhori.zhao-vscode-ext":[
+{"v":"0.6.4","e":"^1.90.0","h":"0qh3w8159pv2rpc073j8cwvla122m8pa2xsp09hffiv42jcjl4wr"},
 {"v":"0.6.3","e":"^1.90.0","h":"0l9njxl6rjspx64lja3dihsjayrwbinigmvcykpb6k9agqcxn4r8"},
 {"v":"0.6.2","e":"^1.90.0","h":"14j7dfhi2y0irfm9y7d2hk41ibqh1scyydxmq67dqljwsy2av90a"},
 {"v":"0.6.1","e":"^1.90.0","h":"0v0j6c3b1g5jh2zqb1x70m207v23nzzayhhcz45hfq2q5qmdqk6b"},
@@ -1279,6 +1280,9 @@
 {"v":"0.0.1","e":"^1.56.0","h":"0dib8hhmmh588s9h8jbh351a6482y9m0j4x8nl2v7vff7yqnkc2r"}
 ],
 "carrick-tools.carrick":[
+{"v":"0.3.84","e":"^1.90.0","h":"0svg2k44vb5ywggjwc8z18naqmk8gg6dnf5lcwf4pkrni1lciz6q"},
+{"v":"0.3.83","e":"^1.90.0","h":"08h6in84zns22vvl04sqxky6026vs297gc8a2m9acwiq0zxh4h8v"},
+{"v":"0.3.82","e":"^1.90.0","h":"05ddrwfywmw2z47yvxw07qlyl3wa2f12c17kh0hcg2rhmnj7rsp4"},
 {"v":"0.3.79","e":"^1.90.0","h":"18zpifm90s2y7gifl99f40isrixd6l383mkajm7rg2qdgi8rqdbp"},
 {"v":"0.3.78","e":"^1.90.0","h":"1xd2640kkw8q1pxfcr0anlg2dm550zk548arh8920xdc5yjfcz30"},
 {"v":"0.3.76","e":"^1.90.0","h":"12c817wz0gm9x5kaj7x54vnnnr5c8cm4my6090vpnvvc3q98mf3q"},
@@ -2001,6 +2005,11 @@
 {"v":"0.5.0","e":"^1.38.0","h":"153l3nm858ckpiphryff8x2yjssck3y3bpirpfnhysw31216da39"},
 {"v":"0.4.1","e":"^1.38.0","h":"0dk1kjqm6krijycll0fx6phngf6pvh5cnjzimfn49wy7ax7p2833"},
 {"v":"0.4.0","e":"^1.38.0","h":"06dylazbsxk93ymhasd6vhm1jdb3pxhflyjdjszi1kirlmk4zfgi"}
+],
+"corebyte.canvasstudiodev":[
+{"v":"1.0.3","e":"^1.80.0","h":"0352iihg8g1q56l4zjq7s3sjrhmh6x5wmqafd9qwd7hf8mfjc63d"},
+{"v":"1.0.2","e":"^1.80.0","h":"0b0ysrs7hnkqqwi2pa1swjy8q64f440x796kwjyl6f902hd1qcwd"},
+{"v":"1.0.1","e":"^1.75.0","h":"1z0y5ixyjymvh3iadzakrh8hwfamn7b2qpfv94x0jf40wb8776p7"}
 ],
 "corklang.cork-lang":[
 {"v":"0.3.0","e":"^1.85.0","h":"03cb5gswii3kc8i7cxlkkf6dcds5dk1pyp242y6kpdw4k6pxr71g"}
@@ -2961,6 +2970,12 @@
 {"v":"0.0.2","e":"^1.79.0","h":"1dakfka45p2j8z8ra977rghjgjbx1ac6k013sp2gzkr5n9qqcfyf"},
 {"v":"0.0.1","e":"^1.79.0","h":"0q1c36f2390zkrnj1435is6y05pmphgz07xlg7nb8vvld7ai31yg"}
 ],
+"donty14.notebook-context":[
+{"v":"0.1.3","e":"^1.90.0","h":"0c6dhwnpzjf4vy10j7wlha6c7xs67jmkpzwhdphvk2k1ng6w0l91"},
+{"v":"0.1.2","e":"^1.90.0","h":"1v6lbxm2jcgzd08340jiqd8m8sc58g6c8w923f4zlkpjia13zv3i"},
+{"v":"0.1.1","e":"^1.90.0","h":"090y5r55mij8yh5zghbdklshk1hvfsvqylx6vk6nllilvvh86hwi"},
+{"v":"0.1.0","e":"^1.90.0","h":"1jb9j4qdk8r2546cs7c7qgcdhyq6fa88ys9qw53wpjpsw29knk66"}
+],
 "dorofino.polyvoice":[
 {"v":"0.1.19","e":"^1.90.0","h":"069847f8ism691w6fz4b57khzzsq2a70jiw2imlfpghdmh432nmq"},
 {"v":"0.1.18","e":"^1.90.0","h":"1lyv7n1n45681d2iilisajyajvzzz11m66pvykrjq9anfy3dq0fi"},
@@ -3488,6 +3503,7 @@
 {"v":"1.0.0","e":"^1.67.0","h":"16n4zs6zrhp1v0v2jyv3yrlg0li5y527v932xbha173v5whyc6c7"}
 ],
 "fabiocicerchia.depwatch-vscode":[
+{"v":"1.6.6","e":"^1.85.0","h":"16zz0v1kmyrizbms6bvhbjxijqaljq28341177ghlj79h35jg7pp"},
 {"v":"1.6.5","e":"^1.85.0","h":"1knhki0mdrwjwyslh9vr3ab1i6214jxdrifd5226fc3zrbwb9rfy"},
 {"v":"1.6.4","e":"^1.85.0","h":"0bb60ylq1aby2h27v3akxn9bsabzv90k4p4dnfl5w1mb13n57kdg"},
 {"v":"1.6.3","e":"^1.85.0","h":"19vfjvj45kcpki57ivp2k72ffl3n8hr5g6ar7p4hn5i0rdiaywjp"},
@@ -4120,6 +4136,7 @@
 {"v":"1.0.1","e":"^1.79.0","h":"1ncvycpwx2lp1b0s2vg9l36783b06bvy5al7rix0gsallzgzr3la"}
 ],
 "hejian991.immersive-translate-vscode-plugin":[
+{"v":"0.1.2","e":"^1.80.0","h":"0gqhyzqx8qgb27g235pazyzlfnp8ydlvr7rpl2bg2vrfwdmykq9g"},
 {"v":"0.1.1","e":"^1.80.0","h":"0gzda7m8z4ns3kf88n9m2k0wip5fw4gj4qysgzi380mzzb4r5405"}
 ],
 "hexagonproductionsoftware.hxpsvisipostprocessortoolset":[
@@ -4175,6 +4192,9 @@
 {"v":"1.0.1","e":"^1.91.0","h":"1rj35yz2fdxi2fmlkm1v8xsjgx1hk46h681n0rlss8b8lgnlfywm"},
 {"v":"1.0.0","e":"^1.91.0","h":"09c0bgwi71qcwxn79awh5rip63cdg0ghfn04m5438ww5zp28vqin"},
 {"v":"0.0.1","e":"^1.91.0","h":"0zp9z9ly65bkd5x5ql6q0pxj0w5nzx8nkaqlvgjfasfxam3c0zkm"}
+],
+"horatiogwells.horatio-mono-01":[
+{"v":"0.1.0","e":"^1.85.0","h":"0ixqrnhw81vik433jc86b14iba79c56jymkc904pizif48034lii"}
 ],
 "hrithikvishwakarma001.fetch-axios-snippets":[
 {"v":"1.0.1","e":"^1.74.0","h":"0rjh5204hlrvyny8lijqlwrf6j8lxmx232r8ry79vpygz97037rq"},
@@ -5884,6 +5904,7 @@
 {"v":"0.1.0","e":"^1.98.0","h":"0fn3m0b4i3w7jf6qv7brx7sril6klsbqkz9gfl1xhxc5sxla03ki","r":true}
 ],
 "microsoft-isvexptools.powerplatform-vscode":[
+{"v":"2.0.154","e":"^1.101.0","h":"01g54g6mq8l6gys6ki0gxzqr4nkapr4gv40qr7nw09l10v1ky9vv"},
 {"v":"2.0.153","e":"^1.101.0","h":"18gf9w8a3x3x1wyv640diixgbp5jzp7y0phgxc1yndhl370ijwrg","r":true},
 {"v":"2.0.152","e":"^1.91.0","h":"032nba2g9srmx5yglgz1jqy5jdlg1k16dd95rmbws2r11kgld9wf"},
 {"v":"2.0.151","e":"^1.91.0","h":"14inhsdlki9qwszmydgaqvr3vbjfmcdb4kvgzs3d709lx8fqldsn","r":true},
@@ -7614,6 +7635,9 @@
 {"v":"0.0.1","e":"^1.108.0","h":"1sanlzbr0lg79v62a76m8zjcq7dvpsxlv5fcnajhkqiz3yrff84d"}
 ],
 "readystack.ai-model-retirement-lint":[
+{"v":"0.1.5","e":"^1.75.0","h":"10llm6wvz88aaf1kwwd1g8danyiz42ygial4c2prcvlpw2dpw6li"},
+{"v":"0.1.4","e":"^1.75.0","h":"06q28f93km102nb2mi2vdisk0cwyi20iim0x035vcnixl6539b0f"},
+{"v":"0.1.3","e":"^1.75.0","h":"0r1b337m0km0wfdjnligar9nz9riclsp5isl98001750p1gva5hm"},
 {"v":"0.1.2","e":"^1.75.0","h":"1g7knqs32v2gkklk117j8wz3iaj75r9j3a25pkwr8861jiqfmrxx"},
 {"v":"0.1.1","e":"^1.75.0","h":"1s027091djcswixs0kqbnn9gp2qi36r6ra9w04j81h3v0bknqihy"},
 {"v":"0.1.0","e":"^1.75.0","h":"18fmvhlvy2w786xp11wablaaf2ibls730qj2wz05wammyd8nsn3v"}
@@ -8060,6 +8084,7 @@
 {"v":"3.8.2","e":"^1.76.1","p":"darwin-arm64","h":"0w10h94yv9f8cmr809nz6psh7ril5fzhha3aznychv9bp1jg5am0","r":true}
 ],
 "salesforce.salesforcedx-vscode-visualforce":[
+{"v":"67.18.2","e":"^1.90.0","h":"1gja4yi4srvxi7bqnazmsyk70zl145h6jqs9yxbx2v6n32z2p429"},
 {"v":"67.17.16","e":"^1.90.0","h":"14b05psbwf7q493f2flb7glrmswlx91n661bwslq64v1fi8h178n","r":true},
 {"v":"67.17.15","e":"^1.90.0","h":"027lv4nldj1dz1vzy0yvrvi0n6higmw04i9asp0wx7kaz0232mnv","r":true},
 {"v":"67.17.14","e":"^1.90.0","h":"02dwznmsc5hh0ckglb473zf8ny0ymr6ghcyv5f15np7rhls6737x","r":true},
@@ -8848,6 +8873,7 @@
 {"v":"0.0.1","e":"^1.14.0","h":"12vz9xvpmqrf81l22f3rqpnjp1x0qhdvah9jzm4avs5xbvjfvm8m"}
 ],
 "somshrestha.somshrestha-claude-prompt-monitor":[
+{"v":"0.1.1","e":"^1.80.0","h":"0v9q68a4jkfj2c08k08dlp3p6kd917lwvkx2fwb1yvly0lbkfm1c"},
 {"v":"0.1.0","e":"^1.80.0","h":"0psi4h3827x7k3ldvazvng2j1nd78358bi92igpc8prwyaa8ssp9"}
 ],
 "song-chaoyang.uuyc-cli":[

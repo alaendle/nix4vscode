@@ -94,6 +94,9 @@
 {"v":"1.1.0","e":"^1.107.0","h":"1cvy8cvwhkvxa5lrqm6arbzmk0916c2ib9pvrrp2hyycfbahschc"},
 {"v":"1.0.3","e":"^1.107.0","h":"0dhxd70mqvjpimjgig79sjh29px2lixjh5ql2703z39fvml4h69z"}
 ],
+"acadmyai.relay-ide":[
+{"v":"1.0.0","e":"^1.85.0","h":"0m2yz9w41byq3j6zr24alrifn097b72ir12kf0wsyfn1rmbasg9k"}
+],
 "acedatacloud.mcp-fish":[
 {"v":"2026.906.1","e":"^1.99.0","h":"1vldhbvi06nh6scnbfkywrxhsk5dficx6687r6viz9id7j3kd13g"},
 {"v":"2026.906.0","e":"^1.99.0","h":"1d2hgnkv21rr7fw3s1qifjdqw0z0xlc6bm00zrihbpqmcw0j7kgh"},
@@ -1190,6 +1193,8 @@
 {"v":"0.0.1","e":"^1.106.1","h":"1x76646c87vih5gmnykkzn5sb3cz37g28n43qv3yjqqgbcq74kjj"}
 ],
 "changqin.ai-diff-review":[
+{"v":"0.1.2","e":"^1.85.0","h":"0spsb4zw76ih6ndsh91mrd5vldd9vwlanad4hrdax90d07b8p5qh"},
+{"v":"0.1.1","e":"^1.85.0","h":"019jaly46nqqb5bblh82vr2p6n3jx3fbyc84zhh1sdy48jdxmy9z"},
 {"v":"0.1.0","e":"^1.85.0","h":"13bhf1cv3jc6whc5fmmiai82kqlb06xwgmsgdd8y86q7fa9b1wps"}
 ],
 "chaowang.eastedu-vscode":[
@@ -8343,6 +8348,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"188j3n6c6i47h3383jmrdgpc3kva9plf5axxd9mdwc3hzzrsaivv"}
 ],
 "ratnadeepdeyroy.aiwatch":[
+{"v":"0.2.1","e":"^1.95.0","h":"142q8g3mvim8wvk3hby1b0i4hzxn7c0s5g0hpksfdki6hny594r0"},
 {"v":"0.1.0","e":"^1.95.0","h":"0llbybp4hd9f24hrlsvg0qf8mfz449jxic6gp41s804sksa95bm4"}
 ],
 "readermate-dnslin.readermate":[
@@ -8523,6 +8529,7 @@
 {"v":"1.0.0","e":"^1.80.0","h":"105gxlsbsf6kng06wr2695v0nmwmggp3ag1yj80dh8mnzf4k9idp"}
 ],
 "robinreiche.csv-grid-editor":[
+{"v":"1.22.0","e":"^1.80.0","h":"0qy5d2yf5crrb0xcmrfzb88n7jnhl8fn0fpqhwk6pndhx4zm3xq4"},
 {"v":"1.21.0","e":"^1.80.0","h":"0fpfrsadw2py501ji055q1cm4pdh9izc5hnxm4cy6c3dbs8yi4h5"},
 {"v":"1.20.0","e":"^1.80.0","h":"1dk65n49r60h2xx8qc2f21rck5g4jc33c9y5rmh8gg21j3lv0fxp"},
 {"v":"1.19.0","e":"^1.80.0","h":"0gfmiygklan4dl1bisb5dw44cghrv88vgy44qzkrrhvfd7dr1n1s"},
@@ -10093,6 +10100,7 @@
 {"v":"0.0.1","e":"^1.50.0","h":"0ykxfpmyx4dz7kj3aic9fwwal1kpca45wsm3jg54ajz3ipzsnfsa"}
 ],
 "vallentastudio.vallenta-studio":[
+{"v":"1.2.6","e":"^1.85.0","h":"05655pcf7sgq4cssbcn510kbx2zm4lrdav6q0cg3s9wv1f5j60gp"},
 {"v":"1.2.5","e":"^1.85.0","h":"035xk1lwcidn4h21kh0jnp10caw94vlkw4cbw1wjrd4f4ibwbyxw"},
 {"v":"1.2.4","e":"^1.85.0","h":"0a12yziw1s9ikvhnqwffi88j0gsjrmr0pmxadrwvw7kclsv6ddxz"},
 {"v":"1.2.3","e":"^1.85.0","h":"003ysvlgzf9jhmq1hyk9jhrdpbp5i8sgvlgnkc1ny4xdvkqx93gs"},

@@ -7,6 +7,8 @@
 {"v":"0.1.0","e":"^1.90.0","h":"14gvzldx6a8xc5g119s264grpar87pgnc6lfmjaij1qq3l3szgqc"}
 ],
 "11ru.markdown-structure-tools":[
+{"v":"0.4.4","e":"^1.85.0","h":"1g4vx9gzpr2z3mpj18vj8qswivcn15z7b0x04fm14clgz2a0h5pf"},
+{"v":"0.4.3","e":"^1.85.0","h":"0qp8r8db8560whcxys6sw3qp0lfd7cvmf6qfbxplhni1ks1ra8lv"},
 {"v":"0.4.2","e":"^1.85.0","h":"1zr4nsyfj2k99v102y0gn2l1xg3s5674anc8k0xarfnpwmrln9bj"},
 {"v":"0.4.1","e":"^1.85.0","h":"1aivwdryk2w2fm08vja9bmvasj2dr9raz12vhjd9ywfvs5pah485"},
 {"v":"0.4.0","e":"^1.85.0","h":"14vss4iisq50z5v5vq97mx8rvmgk4w69816bklg1i7wv5ajah6c8"},
@@ -5667,6 +5669,11 @@
 {"v":"0.0.3","e":"^1.106.1","h":"0s1grgx2hqy8wm5rikcgxn0p41yvbwrb3jqhv66iy6kwjxwnwc3p"}
 ],
 "malloydata.malloy-vscode":[
+{"v":"0.3.1789753698","e":"^1.82.0","p":"darwin-arm64","h":"18wpq6ac1802x2cp2x7xswbr5l54f6y7lr6bxyc5b7vha1klyhhl","r":true},
+{"v":"0.3.1789753698","e":"^1.82.0","p":"darwin-x64","h":"1ic5yk4hy9s38j29k1k85jgjp31dvs4fy3x8k6r6p6zd1xvbjavn","r":true},
+{"v":"0.3.1789753698","e":"^1.82.0","p":"linux-arm64","h":"0krqgf908ylkj5mmjkg0sf2z78s3kzjn26v7qixlzgld9d1bbzj4","r":true},
+{"v":"0.3.1789753698","e":"^1.82.0","p":"linux-armhf","h":"0dkz79ns4iilh3r4p2p7977rnv0ynz3lxmz8ppp6vcd9m4yrkj2s","r":true},
+{"v":"0.3.1789753698","e":"^1.82.0","p":"linux-x64","h":"0yvzgzak1c7348igyvxcg137ycl1cjw5f562hd4hp6i0sq3ps1gv","r":true},
 {"v":"0.3.1787949486","e":"^1.82.0","p":"darwin-arm64","h":"1jcxnrn03fh1xz2g7mbym4dlrb1gna4c0fmlp84yrd3q944vp4r6","r":true},
 {"v":"0.3.1787949486","e":"^1.82.0","p":"darwin-x64","h":"1y4pzgn58iq7imvy7v3h8qlrz5mvds5pzbwihms43s241dzmpgdb","r":true},
 {"v":"0.3.1787949486","e":"^1.82.0","p":"linux-arm64","h":"04akp74h06y8ya0anx8km6afqxg0rrwhx4c7zk5fyyjf0df4m636","r":true},
@@ -12489,6 +12496,10 @@
 {"v":"0.0.1","e":"^1.77.0","h":"1vsq3sx9vy7h3q761xlsysw4yiwcl9qsh78dir4kd1m6vlzg1lz8"}
 ],
 "readystack.hex-image-audit":[
+{"v":"1.0.5","e":"^1.75.0","h":"0ay9hgzppa1cy25rws7r28ihmv4ih55h97j74zg2d6r963g8lqpg"},
+{"v":"1.0.4","e":"^1.75.0","h":"0nvkk09p0j7ys86mlvjszc60741nibhizyp8zikl2mp78fj4g8bc"},
+{"v":"1.0.3","e":"^1.75.0","h":"19vldc0hvi20ma6j90q6i5inpqkqx9ah877cs77zb5g9xkjbxsvs"},
+{"v":"1.0.2","e":"^1.75.0","h":"0jlvz47rhypwpz71dbbsjzakrlyfqggvjpyhcbd3i3jrfmdbhy97"},
 {"v":"1.0.0","e":"^1.75.0","h":"1ck6by5pwx42y5kpwj4csia37v617ncxl2nb0s4l58xwc619gwlz"}
 ],
 "readystack.sbom-field-check-cra-2026":[
@@ -13534,6 +13545,10 @@
 {"v":"0.0.1","e":"^1.46.0","h":"1h75ipx9jyrhwdqkxm3jh9rs7kfdxcqc70xwkycb3wdi3m5y6cir"}
 ],
 "stirante.featurelab":[
+{"v":"0.2.0","e":"^1.85.0","p":"darwin-arm64","h":"1k8n44m51wpwsm4zl2hmdskq3qafpz3na69hacbx0j1ik5j34ghp"},
+{"v":"0.2.0","e":"^1.85.0","p":"darwin-x64","h":"1d429jc8j86vral94s4m4rvar1s30cpb1isphcapp1dplzvi4jm1"},
+{"v":"0.2.0","e":"^1.85.0","p":"linux-arm64","h":"008nmwjyr2p182mgsj8ysk15gljsjhn41lk3bi09rxii66fn8kxn"},
+{"v":"0.2.0","e":"^1.85.0","p":"linux-x64","h":"0ckglddri9ficr44ynxjsgmff5xny7vqk488bp6q0w7ybginqql1"},
 {"v":"0.1.1","e":"^1.85.0","p":"darwin-arm64","h":"1grnydq9af53gplx7njbrxxw59zrxqndgbsm9382akrf7qb0cmjs"},
 {"v":"0.1.1","e":"^1.85.0","p":"darwin-x64","h":"1s7phq2dk32k9h9r6mx16b5pc3m9m9gfx9xkyj7ppvfq0fvwws7n"},
 {"v":"0.1.1","e":"^1.85.0","p":"linux-arm64","h":"0rkcds5lyfdkq58all4xyyys3dami08sjayr8ml10lcphdqi55mk"},
@@ -14031,6 +14046,7 @@
 {"v":"0.0.1","e":"^1.73.0","h":"0hqars6z9jwyp49s6lg9i57kf4y3vll9c42ccj2bfcl9pjw19yib"}
 ],
 "vibebot.vibebot-studio":[
+{"v":"0.1.3","e":"^1.136.0","h":"0kq3gn6vbd46vxir7x5xi6542zr2rkyznpfm4i54g8p221g8pd5g"},
 {"v":"0.1.2","e":"^1.136.0","h":"0ci2xrnqzhqld3nk49jri2mpx8blnnfp2vl8z5x74yqjj1a42zgd"}
 ],
 "vibhanshujain.codeboard":[
@@ -15017,6 +15033,7 @@
 {"v":"2.3.1","e":"^1.80.0","h":"1k5s51vyp47bkr1mahhszhpr8z6dgqa9gxfi6bsiabijylj95ckd"}
 ],
 "zvord.hvp":[
+{"v":"0.4.0","e":"^1.85.0","h":"1s4qcrn3zc3mkc8wd1qb7bqypzgbxiqalkm9433alc70jp056qi4"},
 {"v":"0.2.0","e":"^1.85.0","h":"144ajw6f60packhhg4lr9zirag7vf0bc0rgx0nc74dd86j89plig"},
 {"v":"0.1.0","e":"^1.85.0","h":"04dvmnv3hy43vx7sbr11apdshhs234rp8cqslww6qsknaazyhc69"},
 {"v":"0.0.1","e":"^1.85.0","h":"1sz3jwph3k6vhpahzffx0a2n96fcw68s6zmmzixjy2yix39ji4d9"}

@@ -2354,6 +2354,11 @@
 {"v":"0.3.0","e":"^1.75.0","h":"0s5n4fffnhmpqk4jcjgq5b5x0sr7h46i9mc710sdz1r5c85q0wzv"},
 {"v":"0.2.0","e":"^1.75.0","h":"15gmws4hvw4vifilq3f8vpcdw55gdq2d0lhrg00sjjv27c8sznd2"}
 ],
+"doorsofperception.task-trail":[
+{"v":"1.1.2","e":"^1.85.0","h":"06nws6n4m4aa29iyj5nbdnfpnsi9kv7mf15dckp1w4f87hxjp2g1"},
+{"v":"1.1.1","e":"^1.85.0","h":"0wz4x350sldxv28y1sl6a0129w7bcqww5897drz8b79n77bg6564"},
+{"v":"1.1.0","e":"^1.85.0","h":"1clpg1b9z9xq6q6n7r6gi01fw10gjjm43y7alr09gna7n5g6s4xz"}
+],
 "douwe2.lastknowncursorpos":[
 {"v":"0.0.1","e":"^1.73.0","h":"017pgjmf6l2fy44p2dnc4dx4m9c997rpm3rnh831nimry4xyqr0x"}
 ],
@@ -2903,6 +2908,7 @@
 {"v":"0.3.0","e":"^1.85.0","h":"0daxa22hcwzhbcx4s8gh0pb1fmg07l5adrsrgyirj55msp01b1pz"}
 ],
 "ewc3labs.excel-power-query-editor":[
+{"v":"0.7.3","e":"^1.101.0","h":"021qkgfphd4gsa6ph5c79idgbd07b6s4y8bf7cdd9m0npiqpp3gk","r":true},
 {"v":"0.7.2","e":"^1.101.0","h":"108mx5gcc3275v9qxsa5m85w259m595nkv8c7rimgl3ylb5lmhhk","r":true},
 {"v":"0.7.1","e":"^1.101.0","h":"12wfxbgqs03mly98kd5ijlvgkjchw27rmh3a6imhavnvxqxbzwd5","r":true},
 {"v":"0.7.0","e":"^1.101.0","h":"06gf345zywk8qn7fz8c28bqvjg53dm274i62li8gjxfx46a3swq8","r":true},
@@ -3870,6 +3876,8 @@
 {"v":"0.0.2","e":"^1.109.0","h":"07xibhphgzagplk53fqxf4mbylk8cy6bccsrgamw2r1may3bxcz0"}
 ],
 "imskriaz.codex-manager":[
+{"v":"1.2.3","e":"^1.96.0","h":"1rnhq7lvbjnmmac8q3s1a61jrhiyb854bdyh7wf1mq7h4mdiam13"},
+{"v":"1.2.1","e":"^1.96.0","h":"1nw1ir100v5pkyy7j6psxfqy6p95s1ci5v03s7sdv459ylhhwhg5"},
 {"v":"1.2.0","e":"^1.96.0","h":"0wgm2rrhlfsrykcrysjv9sgdx8vdcdmn79ml7a0z0wxilr3jid7m"},
 {"v":"1.1.9","e":"^1.96.0","h":"1dzvbanpy0vkk5vr9l0hb8lhw0d0haqc7gql16843239lhl1nghj"},
 {"v":"1.1.8","e":"^1.96.0","h":"0dfqx34a2fmsddk55nl2s2n4619zrq24scwnyzf02g8m7d4r0giw"},
@@ -9777,6 +9785,7 @@
 {"v":"0.0.1","e":"^1.23.0","h":"02rpzq1r8cfk01ypk3vrjn8gnv2jxmv02ys0dbhv7m0j3n99hn26"}
 ],
 "tsrx.tsrx-vscode-plugin":[
+{"v":"2.1.8","e":"^1.97.0","h":"0d2vibzzblsmdbanj1fqkxls29b13g35vcgg6gmfi03m75glrmb6"},
 {"v":"2.1.7","e":"^1.97.0","h":"0ififv59l5zdncv4l0f3vfcsh2wvkpsgxxbj8z2msqqgx6qjbjl9"},
 {"v":"2.1.6","e":"^1.97.0","h":"0z4fzam47kb8fkb5w3x3sssq8lk9m07zmm3ybbfp1v3s4lpxrjr7"},
 {"v":"2.1.5","e":"^1.97.0","h":"1q68ams547mq22pczpy9npx1wacf9c9v0rz60a7wlb3if3b9dnhx"},
