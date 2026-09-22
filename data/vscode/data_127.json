@@ -3973,6 +3973,7 @@
 {"v":"0.0.8","e":"^1.95.0","h":"12zc895xfai1vs4w0qf16vikwpdcw675g4547737l1qgzp1zhwvq"}
 ],
 "gordonrix.oven":[
+{"v":"1.58.1","e":"^1.98.0","h":"13l8sah0q4v8f5ci050g14k7y5bdmgfxbx9ayfpd6yzp2hgvxds7"},
 {"v":"1.49.1","e":"^1.98.0","h":"02cvk3wb18azwid944gbxs5cfhj38jvh4ww6l2hbwly3g028xp5z"},
 {"v":"1.37.0","e":"^1.98.0","h":"03l2rzcmb5nzb0ngyyir1pfm35q462xvipjkfbdf1s2gxa3hgnhj"},
 {"v":"1.36.0","e":"^1.98.0","h":"11k187c97xzf27xs0njz4zb1108bgndxk3hqxs6j70w40s4inrvj"},
@@ -4647,6 +4648,9 @@
 "intelligent-guoxin.mybatis-method-jumper":[
 {"v":"1.1.0","e":"^1.80.0","h":"0pvksvbmvffs7rd2i3i2r7jxrmxzmg9bxxq8kv3s4lsw1w47710f"},
 {"v":"1.0.0","e":"^1.80.0","h":"0jild9790j86s72xvi7wsbcbk5cj4bqdj22qr66i6lnblh9cg81b"}
+],
+"iokort.pseudokort":[
+{"v":"1.0.0","e":"^1.75.0","h":"0hhkh6x7k5n9nz5kjzl02kng26lx83jik1vs8km0rp0ndi47mdzj"}
 ],
 "iotdevexbuild.test-owl-project-nightly":[
 {"v":"0.16.0","e":"^1.43.0","h":"05rja2ikb7gsqr0dp3f0jirhzqfpn7m3vinzxrvm5gh6bybmq1p4"}
@@ -10546,6 +10550,7 @@
 {"v":"0.0.1","e":">=0.10.1","h":"1h4zwc48p1qajvm6ja4ch04njr8dxz37pg7ypm9l56c53hqa34q7"}
 ],
 "to-omer.codesnip-vscode":[
+{"v":"0.0.13","e":"^1.138.0","h":"0slmbcdfyks5ylbrwhwzpbvx7kina6w5lcibdhb51pm0gbzk5bjr"},
 {"v":"0.0.12","e":"^1.50.0","h":"1lbjga64xrgj3n5963zz4mvn3k8155lzcw01rr82lw8qi7b9nl4p"},
 {"v":"0.0.11","e":"^1.50.0","h":"1vqw5vfq8pnkn9sb16kx9fi4q2amn1v1xhfflprad2sji5b8i09g"},
 {"v":"0.0.10","e":"^1.50.0","h":"0zb8ib0cmzipdfqz072pc2hdzzny3j44khyxkvfk32prxg9zchm3"},

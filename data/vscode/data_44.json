@@ -4723,6 +4723,11 @@
 {"v":"0.0.1","e":"^1.88.0","h":"16ilwxj6zp77hq93hm74j86885pi72yy9krifdzsy79jyhc82rwz"}
 ],
 "jaga.claude-persist-vscode":[
+{"v":"1.0.62","e":"^1.85.0","h":"1hrs2717csy2hbivi7nzbi2f8w5jz9f25spx4mxbfappigczcnf8"},
+{"v":"1.0.62","e":"^1.85.0","p":"darwin-arm64","h":"1jnkpvvzlwz59649rgfzvrxb48nw5mc2zpxcr5ql9iv2smlf47sw"},
+{"v":"1.0.62","e":"^1.85.0","p":"darwin-x64","h":"13ks0rinmqw8d5rvyp852fbzq8wfphvd9n5a6aiji7xha8j0csmj"},
+{"v":"1.0.62","e":"^1.85.0","p":"linux-arm64","h":"0n5nrwsiz8ljshg9s3amr9v9hs0r7ibmqbv97yk0z0l15h1n35hy"},
+{"v":"1.0.62","e":"^1.85.0","p":"linux-x64","h":"18bhknsvwj663diphpj51svsdg37jfpyb0vi72i366hxk13jj4qg"},
 {"v":"1.0.59","e":"^1.85.0","h":"0l1lb18p1ffazdx1ia3c7kq0yrmm3zsdnlv45wi5w0zp0cjyy2kj"},
 {"v":"1.0.59","e":"^1.85.0","p":"darwin-arm64","h":"07xm4v7ji5rcx97d1fmad6gdqli3zlj68979iz2nckqs2nwr535d"},
 {"v":"1.0.59","e":"^1.85.0","p":"darwin-x64","h":"15wjq8h3354466fbr6zf56056834dn6p4rdzi6yzryyncd9k91zi"},
@@ -5996,6 +6001,7 @@
 {"v":"1.2.0","e":"^1.90.0","h":"1ln73vwr1hhp07gpygqk52vcb56ld2xfq6assv319wyqjgviypp2"}
 ],
 "majj.ma-git":[
+{"v":"0.2.6","e":"^1.86.0","h":"1m6x71zqkzxy4j35qrvq2hv2nf0q104j1qy2q6kljb10wzc07q8k"},
 {"v":"0.2.5","e":"^1.86.0","h":"1c30g3pksgkgvw9gkbbx2jzfm4rb9i7p38krrxlg324xy72qa5dc"},
 {"v":"0.2.4","e":"^1.86.0","h":"0frm7vnlinr01lg9jz7777njmhjwipyzhv0vwdn329w2i57f8snb"},
 {"v":"0.1.3","e":"^1.86.0","h":"1sqxp19w56mwzrbm154qqgabdfwhjlj9054jq1vslkml5b14icnb"},
@@ -7660,6 +7666,7 @@
 {"v":"0.5.0","e":"^1.74.0","h":"0m1b1p7basxk69qamflxn7iymgx3p6agfn4jk2r616dswa19imbr"}
 ],
 "pourdev.pour-html":[
+{"v":"0.2.27","e":"^1.101.0","h":"1aamfzz2j1mgq88h1brcdr4p1h13hzjhfirba03l7zkyxava99z0"},
 {"v":"0.2.25","e":"^1.101.0","h":"1z7lnb304f9mycs3bbcb5g1ar7026vdw4vn90ygd3hxp8k020q99"},
 {"v":"0.2.24","e":"^1.101.0","h":"0l8x4pn9jmldpxfqn9305n9asi5zqli2jxc7csfpfwahn1a2p6dm"},
 {"v":"0.2.23","e":"^1.101.0","h":"19f8y1km4vjchzgg3zqd0i3b5bnwy5v7cbnmlp1hal6mq5y4fbzf"},
@@ -8052,6 +8059,9 @@
 {"v":"0.0.1","e":"^1.84.0","h":"0a9py9xb04mj8rb0v06hbn01kc872pwridr41b0mz45z1ik42x84"}
 ],
 "readystack.wcag21-aa-legal-baseline-audit":[
+{"v":"0.1.5","e":"^1.75.0","h":"0syghbcjl5m4ipcj4vka5s5nv67dh8qd3qr9d3dhac22gzrb2ww4"},
+{"v":"0.1.4","e":"^1.75.0","h":"0b3kivlbss26cjd1gmj7gymgnffj79j9pp39ivqd8v3lp1m1128m"},
+{"v":"0.1.3","e":"^1.75.0","h":"06sgix1vw1x7y39zi6ch7jzvaqdl3cpw20l4a3k0x6lm4qng8i23"},
 {"v":"0.1.2","e":"^1.75.0","h":"0av0qz0h7vag7n5wydwqhibvhkrybl0kvx5zs218czg4nm3f4yc1"},
 {"v":"0.1.1","e":"^1.75.0","h":"1pi916v1idis4kgjw0wq32p44frf583v7ng44y0wswyxdvgmkb9g"},
 {"v":"0.1.0","e":"^1.75.0","h":"00r8x7faw7f417d97icknl0fp8mi04368qddjcrcbxky6r3bh1ss"}
@@ -8219,8 +8229,11 @@
 {"v":"0.1.0","e":"^1.55.0","h":"1vmyjmvn0r6dsixx0hp3s5rs0hs15yv3m2clnhr5j8vx4753fw05"}
 ],
 "robbos.ai-engineering-fluency":[
+{"v":"0.18.2026092201","e":"^1.134.0","h":"1dm1f7d677srv23qvsm2y8adw5b24qy4176dw5jakfdxy4pdd2gv","r":true},
+{"v":"0.18.2026092101","e":"^1.134.0","h":"1ijmvwz89f5l5gpdz25z7cs9mca45czy4qaa7bdv6nck004mcrf2","r":true},
 {"v":"0.18.2026092001","e":"^1.134.0","h":"19l2h89j3xhmlmld0v4cn30nl54wxggcr9bbzvbv3wj0mi5g6b47","r":true},
 {"v":"0.18.2026091901","e":"^1.134.0","h":"1b8jgr4p1235xvs0fyly53gyk7va0agls3wl8yqzj6rq19mamcn5","r":true},
+{"v":"0.18.1","e":"^1.134.0","h":"1gd0wkp8wdnzysqvjyf4s3zx341wdzjqlzr38k3s8fjcaplg721j"},
 {"v":"0.18.0","e":"^1.134.0","h":"1x33x58yxm0i9fvxqa5w2jj81s6frqxkra6arcgwj9zxzgikqza1"},
 {"v":"0.17.2026091801","e":"^1.134.0","h":"18qfj3n6344m4plc0yl0gbr4jqf79bjyb896kc6v9wpzb42q6pvb","r":true},
 {"v":"0.17.2026091701","e":"^1.134.0","h":"0maa2bd2gn57l9b7x3i7blzn7zkqbklwkr212n1q15n0vivpdlvz","r":true},
@@ -8641,6 +8654,9 @@
 {"v":"0.1.0","e":"^1.73.0","h":"0cpf14l7jkvigr5h65yxy5zwln2l4a7xg26djsvsf29msw91pfdr"},
 {"v":"0.0.3","e":"^1.73.0","h":"11gq7cg5i21m3dm8n258g3lbn68qa2naj8i5avxqn3j5p66vxfqx"},
 {"v":"0.0.2","e":"^1.73.0","h":"0za4zr4zhv9h3cp2fc4h35nl8hrn5lqzmi3ff86j0m0av7wg3q31"}
+],
+"shou6.material-icon-conventions":[
+{"v":"0.0.1","e":"^1.138.0","h":"1rw4jizw01phlnjfggcfl3dhsm7zajp6p8v8vyg3pnh89yjngy73"}
 ],
 "show-comment-vscode.show-comment-vscode":[
 {"v":"1.1.1","e":"^1.85.0","h":"1kmfbcx5n4cc09gik36zvzi5822b792mb0l7781pdj75vkiyhhl0"},

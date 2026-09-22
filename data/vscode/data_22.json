@@ -4452,6 +4452,7 @@
 {"v":"0.0.1","e":"^1.6.0","h":"1jjyfj0s031s7c58ilr1x97nlbqsfb31ghybsdj78rs7hc00qcfi"}
 ],
 "holistics.holistics-aml-vscode-ext":[
+{"v":"2.5.32","e":"^1.52.0","h":"0kg8wihyxhhvqnkps2npnkadz6frg2g70bsfgpm0y303yfz7478d"},
 {"v":"2.5.31","e":"^1.52.0","h":"1pzz141p9s1ri61880q1spq46k16ax47b1cj8z257rkm676g2bkk"},
 {"v":"2.5.29","e":"^1.52.0","h":"1zchph8mi44d7m1wxif6w4sim2xc7h6nn6jpzxxv9bbis10a0lmb"},
 {"v":"2.5.28","e":"^1.52.0","h":"14c4y0c6frhzjsiig7rrc0dbrahhp2lz7fwnvs1sj4sbvrriqmy3"},
@@ -6205,6 +6206,10 @@
 {"v":"0.0.2","e":"^1.89.0","h":"02sn3idk3cyi84i3c6k4qfk79whqis5ahxb1dxsf7saanlf3dnxc"},
 {"v":"0.0.1","e":"^1.89.0","h":"1qxlc9flir1wvpilzsk0gdswpc36w5km3d6xkxyxs8nsjwqrd9a6"}
 ],
+"marslang-project.marslang":[
+{"v":"0.2.0","e":"^1.75.0","h":"0zlg7bc4bfhg5bh2fhm966f39zbx7c2bl2v177mrcfk4dm85pvcw"},
+{"v":"0.1.0","e":"^1.75.0","h":"1a05w2zxnjhaj93fxdvll459pgmwaj45444a6q80vf0bzbhg9kl6"}
+],
 "martinwepner.pascalcase-camelcase-to-snakecase-converter":[
 {"v":"0.2.2","e":"^1.64.2","h":"0yw7m1x2c5s960wig96v69xgj100y4d54hakjql1apz1cir6x94j"},
 {"v":"0.2.1","e":"^1.23.0","h":"0cl7g635w02cgsa3y6wv3ky3f1zd3dhc1gkdw6v30jv4yyz4rhl1"},
@@ -7593,6 +7598,7 @@
 {"v":"0.0.1","e":"^1.69.0","h":"1ag6c24vc5nqb5w55biq4wyrxkvzm2asbpd26bz89614vgxdg1s4"}
 ],
 "rast.rast":[
+{"v":"0.1.0","e":"^1.108.1","h":"1fpyyq23rjrqx6g21v2fkpz0m1n4sbkif906b2l3v7h55bdnnq6b"},
 {"v":"0.0.3","e":"^1.108.1","h":"12zi71n70x74y3d8j2rl7zqscani5aiz00wzjqi6ak3bknc90ils"},
 {"v":"0.0.2","e":"^1.108.1","h":"1jc5hiyx0l8vxlnk0qh2dn2fxpqdswaffgmm02q5j3b28lxxr0rz"},
 {"v":"0.0.1","e":"^1.108.1","h":"14bnyf1r6k4xgdyzfqw725dzj94jv8rp0vjchvnb6ai83z1mzlzs"}
@@ -7627,6 +7633,10 @@
 {"v":"0.0.1","e":"^1.116.0","h":"14msab733rbb9bn3vjjd3vqa8imbxqd347yipw3dahrnnvrnakaq"}
 ],
 "readystack.ai-model-license-lint":[
+{"v":"1.0.4","e":"^1.75.0","h":"1j652q1m2v63qlazfaqg3vbj932ifc3gnzvs428ng1y1v95fdwk4"},
+{"v":"1.0.3","e":"^1.75.0","h":"0gvm4k2ypyas91bhjhlxd206m5prvyfjsivl8gdgmkki74vh0sxn"},
+{"v":"1.0.2","e":"^1.75.0","h":"071d9x94lc229iypqyv7cdbbzh1b7jxsqnp3mr76nfx2p06wz6jk"},
+{"v":"1.0.1","e":"^1.75.0","h":"1dda4gik33pjma4szmjqflc955iq0sj9nc2xcwkd1l6ziygdr6pz"},
 {"v":"1.0.0","e":"^1.75.0","h":"03s7idjzq8mnxl6smwss97g5jc49j8dy9v0pr3fv74vpgv2zb8za"}
 ],
 "readystack.epub-a11y-metadata-lint":[
@@ -11111,6 +11121,7 @@
 {"v":"0.0.1","e":"^1.92.0","h":"022vb52hj0c5rai7kb79c35v68ahzizvh90i4wsra8hhkzd3252m"}
 ],
 "zhou491145.ai-novel-writing-system":[
+{"v":"5.6.10","e":"^1.87.0","h":"1yqak8nsg6kz069h6pkicpahm3gwlynzsr3cc56hshaqcar7z9p6"},
 {"v":"5.6.8","e":"^1.87.0","h":"037d8l2ssyxi1cz0yyj3znbjmcskbgx85px8i782z0lb16bhf1rf"},
 {"v":"5.6.6","e":"^1.87.0","h":"1f914qd3x47yz174nppqj73j86nmxrhrb5j9clckyycdmzz7j34a"},
 {"v":"5.6.5","e":"^1.87.0","h":"0g00s20l94hlv0dz4fa3wlqq727vn7gssjq0yx8d8r7v9saqd9ph"},

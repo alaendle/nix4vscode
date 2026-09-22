@@ -4315,6 +4315,8 @@
 {"v":"0.0.1","e":"^1.63.0","h":"1ax5s0wvxzz53l4an96s7rpadpjgj4910yfpq21imhdi3k9ki0i6"}
 ],
 "intel-corporation.simics-modeling":[
+{"v":"0.29.0","e":"^1.85.0","h":"0lr7yvd27b9r466lczk5vzyx8vd1bk68q8pfar9zw47nmwf7xxky","r":true},
+{"v":"0.28.0","e":"^1.85.0","h":"1gmww0j9hym8a8k9ssscqgbswxv9459xsxzrg04nwypywj00dffy"},
 {"v":"0.27.2","e":"^1.85.0","h":"1n06h3x6k17iy1hyqr0pwp1jpg74rhnmh23xv3r4jp49alf6cmbq","r":true},
 {"v":"0.27.1","e":"^1.85.0","h":"1qcx4mfl1xx4i3nbf11fay6gr61wcb64206v9azkcjqnfvv6ran9","r":true},
 {"v":"0.27.0","e":"^1.85.0","h":"04yxrbi59wib893pfdrds0hxaf15j1m6pjs8m56wfi0pl5dag472","r":true},
@@ -5689,6 +5691,7 @@
 {"v":"0.0.1","e":"^1.67.0","h":"09dypx9iknxrpgplxn8v58pdi6rsyaxy2giwwsw9zvdip38dq108"}
 ],
 "liangjunheng.vscode-gitk-pro":[
+{"v":"1.4.1","e":"^1.94.0","h":"1b2qhfh1ycp6xlm2ka147knbbad42l8iniksh1dic6r75cp8dvsx"},
 {"v":"1.4.0","e":"^1.94.0","h":"11z7nfmw7z2hl2lg9vqfis3dal0yjjmhl3ajf92la5rw84cllj2p"},
 {"v":"1.3.0","e":"^1.94.0","h":"0sw8ibkxhbvcvsfz7jbqgwd9947xk22yj3rhanwa4jsyb6lbjzcy"},
 {"v":"1.2.8","e":"^1.94.0","h":"1f1vgc4bqhzfqv1hladb656v1avc6q2zxv6z17l50zh6fl2i959i"},
@@ -6830,6 +6833,9 @@
 "mukuldagar.prompt-expert":[
 {"v":"0.0.1","e":"^1.74.0","h":"0xqv1pgk5nb9vr2jqfyi0g7xs0d833930crn6n3jrl8v7njpv74c"}
 ],
+"murilobraz.dataseed-xml":[
+{"v":"0.5.0","e":"^1.90.0","h":"1a0mb1x5b6hnbk8yvy8gr1f48ny2r56fgp7ymm99s2d3lrvws66g"}
+],
 "muxin.myadd":[
 {"v":"0.0.6","e":"^1.97.0","h":"0inavfhzxsjd64w4x5cxi43jc4lh11jrn868wxlvz1c04n7xl67q"},
 {"v":"0.0.5","e":"^1.97.0","h":"1rvc7pkij2zb29kz5f835zgf32aj16kmdv6005n3hwnj241wrj5f"},
@@ -7047,6 +7053,7 @@
 {"v":"1.0.0","e":"^1.67.0","h":"0wqx194fccyvvrnvvcqw43aiqk2a3ni6sqhm8fwz6iz6cjmwp2wp"}
 ],
 "noamzaks.jinja-ls":[
+{"v":"0.0.16","e":"^1.75.0","h":"0yjkmm27145hvsgawvs70bdsvxgv5r09n5hkak0h59m5fmycnnbf"},
 {"v":"0.0.15","e":"^1.75.0","h":"0d7k23kz7hjsrwqyibd1js30y7zlpkppdv0kvb7s1s6s3xh5gb4i"},
 {"v":"0.0.14","e":"^1.75.0","h":"1j2f1k42c4ihpywbfld289aqvdbmam1nysnxp5b3z2x28aym06z6"},
 {"v":"0.0.13","e":"^1.75.0","h":"0gynm3bbvfwqrmd1swz92w70hrjp8829igqd7vsj353pgdbjrvxf"},
@@ -7842,6 +7849,9 @@
 {"v":"0.0.3","e":"^1.97.0","h":"03a3s4jz10h6jzbv37k9qfnvkngxyck2padd4hc3j208x32ln74l"},
 {"v":"0.0.2","e":"^1.97.0","h":"021gavhzvm9xcv6fbj6iz5js566kwfn8ciln5fc1yh1plpfmvc4r"},
 {"v":"0.0.1","e":"^1.97.0","h":"1i6ll74izlhsp74da85221ifmadlrbf5bsrmfa44dxf9qm5vhss3"}
+],
+"review-buddy-markdown.review-buddy-markdown":[
+{"v":"0.1.0","e":"^1.102.3","h":"0073vpjrxl7y7ncpfcppg8krx02kn3chhy7k28vvlczpklwninkj"}
 ],
 "rifkijayaafandi.neospectrum":[
 {"v":"1.0.0","e":"^1.101.0","h":"0da0904mqrjqvyd76s36jx7siqfd3czpwjcpjhgzaa4zn3wx64ci"}
