@@ -202,6 +202,8 @@
 {"v":"0.0.1","e":"^1.80.1","h":"02jjwyphhr9izi4q7dpxr9lr4h1dsj1iglrgc11wkxn8wkm15c4f"}
 ],
 "alandougherty.assignment-guide":[
+{"v":"0.18.7","e":"^1.106.0","h":"1z4ad1hxva5q5y5jqv8xpx8p3i1wg8r58lck5gq0slyrnsqjk1fc"},
+{"v":"0.18.6","e":"^1.106.0","h":"14m1dnnhj3pm3vh6vb9rid25ybl49jqdp4rccn0wq5h200lfywkb"},
 {"v":"0.18.5","e":"^1.106.0","h":"0jmralilwymq3xqi7rd6kars7az3dfy7q46jdb00a5fadfppq0zb"},
 {"v":"0.18.1","e":"^1.106.0","h":"12q8603skbzp63kafhp7qwflqmc0n76yimm7i1ijlxm2i7c7iqxx"}
 ],
@@ -2821,6 +2823,8 @@
 {"v":"1.0.0","e":"*","h":"19kf0787i429s64l2s2qn26ijz4k6sa6q1zdlrzbs6pw4il9b1h1"}
 ],
 "guangsheng.catgo":[
+{"v":"1.5.4","e":"^1.96.0","h":"03bqhcgv11m8735a0w5vni1as23j6rdgjhf824n0js0pzdkwbz1f"},
+{"v":"1.5.3","e":"^1.96.0","h":"0j8lvmax75vq0hpr91f5cxf08aacz35aa9dcikmn3bhncag2b9wc"},
 {"v":"1.4.14","e":"^1.96.0","h":"1n4pb6im2lfqkx6n9ns7rjrp4r3lmrp00pxqd626ri45mvpmqsjb"},
 {"v":"1.4.10","e":"^1.96.0","h":"1y2fjnsyw0jc1g3k720chc1ln37jaagm1dd421q8xr7icmp6d2hd"},
 {"v":"1.4.9","e":"^1.96.0","h":"0rfszjds1hxw9q5cqbbdbb99mylyh40rzghii4l4r072ims4b5df"},
@@ -4074,6 +4078,9 @@
 {"v":"1.0.0","e":"^1.80.0","h":"0cg5kici8f2b95zzl7xvvmhcry2ibyhimjmaf4nzj3vivsj9b1sm"}
 ],
 "junjunshim.p2p-code-share":[
+{"v":"0.1.4","e":"^1.75.0","h":"08w55ykz81xkhd9qhi20fbffkfxkmcck6igbjnrf7342a79vlhy9"},
+{"v":"0.1.3","e":"^1.75.0","h":"1fg1j23saip480qibmz29gjf6sz6pnvbb6809xx4859hg96w0pif"},
+{"v":"0.1.2","e":"^1.75.0","h":"1rp53dhn9ijqia2nw5jbyd03gdjip8nclxd8pmakrd80n3s17ih3"},
 {"v":"0.1.1","e":"^1.75.0","h":"10afsd0148kv9izyk4787hsmpah7j7l8s0cnwbq5kd0rd94a60hb"},
 {"v":"0.1.0","e":"^1.75.0","h":"0z309fn4mdnlq6lkxr1k5cff5lzrl15383k596hyivdqbfixvlnn"},
 {"v":"0.0.9","e":"^1.75.0","h":"1w46jzw843irdvaw0hbn1ivf2d4lwibhpa1w3d0b936jwk3kxx4a"},
@@ -6851,6 +6858,10 @@
 {"v":"0.0.1","e":"^1.61.0","h":"1pkj9zzd20w0gswl746zsr4xgxh5xp0xz737iyiam4j070y8hrzq"}
 ],
 "rjmacarthy.twinny":[
+{"v":"4.2.1","e":"^1.93.0","p":"darwin-arm64","h":"0q87bj6mqwl0ksb2g0imkm9qyj35wn2nlxwj2h1m7s52jj2p0vpa"},
+{"v":"4.2.1","e":"^1.93.0","p":"darwin-x64","h":"14wq8gbl88hy2fjky5iqagmfzi40gx8kidzp2j75blzmjma2ggnj"},
+{"v":"4.2.1","e":"^1.93.0","p":"linux-arm64","h":"0xcr8xpfpxqc2dmmslc5ryic5wvwzgdjcpakbp3wi7hmfjijzqi3"},
+{"v":"4.2.1","e":"^1.93.0","p":"linux-x64","h":"1xnl9avg0vmrsy3bz29fm14zd9k46fzk4rcwcqqan4bffy1127nj"},
 {"v":"4.2.0","e":"^1.93.0","p":"darwin-arm64","h":"0iab9b43rafbb4bqfm0n7b7b1fp0rc8fipxc2xn43fqz26i9zajx"},
 {"v":"4.2.0","e":"^1.93.0","p":"darwin-x64","h":"1bs8cwk061v026gqxrk70b1d96cl3r2f293rp7gw3jq5clrv5pfw"},
 {"v":"4.2.0","e":"^1.93.0","p":"linux-arm64","h":"020kajkwn3ch7yabs07cgcycz5q21ahyisa5956k52waf3x2saz4"},
@@ -9670,6 +9681,8 @@
 {"v":"0.0.1","e":"^1.33.0","h":"1yb9srgz3nk2ifv8yzi9dnds30h1q6bz4add39kvwcf32xwn2i8c"}
 ],
 "tuncay.vyne-language-support":[
+{"v":"0.2.9","e":"^1.75.0","h":"047hcbhlpl10i1djjzl4gbc6b5bbbwi310zf8wg6s6gckzlnpp4k"},
+{"v":"0.2.8","e":"^1.75.0","h":"0k4c1kks70k267v19zvjg7gw1xq0gychcak80nh4v97mqfj38c5n"},
 {"v":"0.2.7","e":"^1.75.0","h":"1lsphpm9z6pkrrr06dp7v9zc9swdsqfr99xl71x9sx6dx2skszzp"},
 {"v":"0.2.6","e":"^1.75.0","h":"0jbpf4p4j5wx91vya48rk7zk7x0x0c8p6kwzx3z19p37gd7zl157"},
 {"v":"0.2.5","e":"^1.75.0","h":"1vhb4a0lxahk7anyd6kkqa54w1lslvv8j3dqzv7w243w2jlxaqjp"},

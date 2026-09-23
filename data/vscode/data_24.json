@@ -666,6 +666,7 @@
 {"v":"0.1.0","e":"^1.93.0","h":"06i2ra7nsp10vmkpz86cw40lmxzklrnrxp6pwnl9j0yc4clw1dhx"}
 ],
 "barsikus007.nix-injection":[
+{"v":"0.0.4","e":"^1.60.0","h":"0fj71la8sajjw6cbsqyi7xfbrw5r9g2p26qaj9n281qybk969693"},
 {"v":"0.0.3","e":"^1.60.0","h":"0m2221hv4dr811h1v7lab3284p7sd6pqdylk9pjj637k1gfgd555"},
 {"v":"0.0.2","e":"^1.60.0","h":"15w76k6yh4a7hpjid2jynlsbi4bm2fw5vwpj20pbv92ivaph3s9p"},
 {"v":"0.0.1","e":"^1.60.0","h":"0gzsc83nz7fzkh2ifihs8wc248zcx1cfjwn9jzhylmapswb4ib6g"}
@@ -2423,6 +2424,7 @@
 {"v":"0.0.1","e":"^1.60.0","h":"1d74hbc56h0zipldykngprynqlpw2ahz2lkpn76nccaq0fgwm98r"}
 ],
 "fazelstudio.floe-vscode":[
+{"v":"0.2.0","e":"^1.85.0","h":"1yjl6jqfjn0bp90719y6b8fnpzpzmqwsb58l0pybb2fsqkvr85q3"},
 {"v":"0.1.0","e":"^1.85.0","h":"13q75hlg1qv4d5y88y86ml4clbhpidgd6i6hlz1rggxz9wbw9jgx"}
 ],
 "federicoorlandau.noctis-fo":[
@@ -2825,6 +2827,7 @@
 {"v":"0.0.1","e":"^1.53.0","h":"1qcf0n7nz0wngmzrxzvij29g7kzxw8d1dnj7j7k95wc41h5pzzih"}
 ],
 "gigabates.68kcounter":[
+{"v":"1.4.0","e":"^1.101.0","h":"0l7wxlan1xlkyimklcv23b4lk11d5r3rgv69cd0pp2wr19n47sw7"},
 {"v":"1.3.0","e":"^1.101.0","h":"0pkd6sd5bq737ljs33qhggwnkaqm0kc3r9s4ygkb3nqr27hb45bm"},
 {"v":"1.2.0","e":"^1.55.0","h":"0mdkdz9ibrwjx9jlj29axzdbvvhzarvj7k3rzkw2hxd85adpai0y"},
 {"v":"1.1.3","e":"^1.55.0","h":"05da16ff823i3jgbw4siyy85gya7vbn7djw66jpmqi3jb2bll09f"},
@@ -3934,6 +3937,7 @@
 {"v":"0.1.0","e":"^1.63.0","h":"02zgfifi8adw3dg5xhaxmd6ki036jsvcchn1m111l802pas9sih9"}
 ],
 "jbramley.rewst-buddy":[
+{"v":"1.1.223","e":"^1.122.0","h":"0s43q9rhl6pl0fnpkji1f9w6ij9wgrvrzz5fzsa47xsklhz32qka","r":true},
 {"v":"1.1.222","e":"^1.122.0","h":"1swvpgkmfp8h4gm2y8mjcrda232c9pzpbf8nnizmmjvs7wn460mv","r":true},
 {"v":"1.1.221","e":"^1.122.0","h":"1srgxfnyjif3qg68xqhgnvz06pzsli9l2l09qncb9cj44l1981h6","r":true},
 {"v":"1.1.220","e":"^1.122.0","h":"1gcn0zlg3sr9yk0ilpjdnp6fbjzqy9cdyksvdcxv2d49s8axsafn","r":true},
@@ -8639,6 +8643,9 @@
 {"v":"0.0.3","e":"^1.67.0","h":"0zr0ac0k6662z3zxssm5124bp7c5415dx51hm0sczn2d5yqa7zqn"},
 {"v":"0.0.2","e":"^1.67.0","h":"169nsb7ki9dja8y25bmi4cwahfh05440id2nh5nsm8q0bmxiyr1v"},
 {"v":"0.0.1","e":"^1.67.0","h":"19isrm21sshncwllck4b0g6p8l63hbw40vbzansj0zz667kfm01c"}
+],
+"tpix.tpix-client":[
+{"v":"0.1.3","e":"^1.85.0","h":"1qq74ss9v0zjy7dha1qac8kjdjbyg2dvjxajjf3397saf9ns9vl1"}
 ],
 "traent.workflow-editor":[
 {"v":"1.1.0","e":"^1.76.0","h":"17ch72lina4swbx7b0rhl3kycjn8vl65g024z0a4kqyxrd0mzyf4"},

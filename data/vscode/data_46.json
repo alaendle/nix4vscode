@@ -244,6 +244,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1v0vz0r8s8mgrhzppb97pd1zx682vsra7fzh71j1gw1yf11gr8yq"}
 ],
 "alibaba-cloud.tongyi-lingma":[
+{"v":"2.6.10","e":"^1.68.0","h":"055136v077437kygx82mzmb6kq36v36b856jb3gadrsdff2cr93l"},
 {"v":"2.6.9","e":"^1.68.0","h":"1jp6xpcy039mj6rxvl1d1p3vmcqnf3jcrvkifnwk7k252ns2ngpf"},
 {"v":"2.6.8","e":"^1.68.0","h":"0wpdvla9z936bcvmqdc3vs717z385vcsmrmwax323iymfmrd7s4b"},
 {"v":"2.6.7","e":"^1.68.0","h":"0xff7g7s9is8vp5n50a8ag5ambm23jwc0b11s3s970amm9fvlnx8"},
@@ -4144,6 +4145,8 @@
 {"v":"0.0.1","e":"^0.10.1","h":"1plk52jvkj2nxznis8zcgq2xqjpmj8snjglhwmk0lldr36wm2d4n"}
 ],
 "housealwayswin.git-weft":[
+{"v":"0.11.1","e":"^1.100.0","h":"0xyj7xag47k96bkxgxamrsj6y8al9rv8cn33mydixydn86x1fbia"},
+{"v":"0.11.0","e":"^1.100.0","h":"1dxzvkyr7ymf43skn9k86vg4h52qzy1wlz9xnpiv0fmzz7x90ad1"},
 {"v":"0.10.0","e":"^1.100.0","h":"1qqlfpggvawrpcfx73z88x1d950brfs72dwx716n8ak3i2x7jdsq"},
 {"v":"0.9.0","e":"^1.100.0","h":"142zr2vigw1bqaslssjm63nadlr3ndvff3amp1iw7njk6qkx0cs0"},
 {"v":"0.8.0","e":"^1.100.0","h":"0af84p8vx6vjzzw7dc8kjn8irwnapfxr7iq4nfx3r16cs2gscw4m"},
@@ -4315,6 +4318,7 @@
 {"v":"0.0.1","e":"^1.63.0","h":"1ax5s0wvxzz53l4an96s7rpadpjgj4910yfpq21imhdi3k9ki0i6"}
 ],
 "intel-corporation.simics-modeling":[
+{"v":"0.29.1","e":"^1.85.0","h":"1zk39ha9j9bfnsm6pwdcwg504hqqp6r1yklbzqg17g9mz9y76irg","r":true},
 {"v":"0.29.0","e":"^1.85.0","h":"0lr7yvd27b9r466lczk5vzyx8vd1bk68q8pfar9zw47nmwf7xxky","r":true},
 {"v":"0.28.0","e":"^1.85.0","h":"1gmww0j9hym8a8k9ssscqgbswxv9459xsxzrg04nwypywj00dffy"},
 {"v":"0.27.2","e":"^1.85.0","h":"1n06h3x6k17iy1hyqr0pwp1jpg74rhnmh23xv3r4jp49alf6cmbq","r":true},
@@ -5049,6 +5053,8 @@
 {"v":"0.0.1","e":"^1.49.0","h":"0476fkamnnhjna9gifqzjkcaxkpvgp97l06f0zq8m80dyq4pgdgy"}
 ],
 "jniedzie.brainselector":[
+{"v":"0.6.39","e":"^1.95.0","p":"darwin-arm64","h":"04smsgqmwspdmcispk4b0hw8wmfyjn4ib0gni1bnz3z9bsya71x9"},
+{"v":"0.6.39","e":"^1.95.0","p":"linux-x64","h":"0yzq01hdhqk4kfvjm1ns3gmnr30zfz35dm2azjxsslj5fw167c0v"},
 {"v":"0.6.34","e":"^1.95.0","p":"darwin-arm64","h":"1396v75x13xvq1csa42l97i5vs6qjqdkxf268bfv60g5f5warqmc"},
 {"v":"0.6.34","e":"^1.95.0","p":"linux-x64","h":"1m10726n3kaa6v73md56ywjp7s14amd8qn6gbwxln3q10rsql03i"},
 {"v":"0.6.22","e":"^1.95.0","p":"darwin-arm64","h":"0g47akj0dd947vdyjz2dw1xq8figqir7533yk4aq7r9f306i37nk"},
@@ -5691,6 +5697,7 @@
 {"v":"0.0.1","e":"^1.67.0","h":"09dypx9iknxrpgplxn8v58pdi6rsyaxy2giwwsw9zvdip38dq108"}
 ],
 "liangjunheng.vscode-gitk-pro":[
+{"v":"1.4.4","e":"^1.94.0","h":"1p0vfcd41nsldrhqb30w6v9lp0ip8zrn652wzg5spvcwqwmfl62s"},
 {"v":"1.4.1","e":"^1.94.0","h":"1b2qhfh1ycp6xlm2ka147knbbad42l8iniksh1dic6r75cp8dvsx"},
 {"v":"1.4.0","e":"^1.94.0","h":"11z7nfmw7z2hl2lg9vqfis3dal0yjjmhl3ajf92la5rw84cllj2p"},
 {"v":"1.3.0","e":"^1.94.0","h":"0sw8ibkxhbvcvsfz7jbqgwd9947xk22yj3rhanwa4jsyb6lbjzcy"},
@@ -6633,6 +6640,7 @@
 {"v":"0.0.2","e":"^1.110.0","h":"1dv05xyxzf7j2xpiqzdfsixcbm5ml0a70wbbwrqpic9hi4alz5g1"}
 ],
 "miragon-gmbh.context-maps-modeler":[
+{"v":"0.3.1","e":"^1.96.0","h":"1kmk8vy21hpnj7996rw82rf7ffx06qqmc0jqshil50xl83rv5hn4"},
 {"v":"0.3.0","e":"^1.96.0","h":"19w9ax63b7laadzznsps02ycr5wfsmlsf9282v1k99mklxf9sr4v"},
 {"v":"0.2.0","e":"^1.96.0","h":"0kg70bv30k58z0clgmbl9vra0yycip9lxk04cf5cdg1jzn7ayvbp"},
 {"v":"0.1.0","e":"^1.96.0","h":"1xhyqvy7y7476s98dx8b26g33ldxynrq1vbcv201b65rvcy411hz"}
@@ -6792,6 +6800,7 @@
 {"v":"0.0.1","e":"^1.59.0","h":"158312kyrrx8m17gc68g3id8hi8xlkyw31219ymwdpkic40g1zik"}
 ],
 "mrchetan.php-namespace-resolver-mr-chetan":[
+{"v":"2.1.4","e":"^1.75.0","h":"1q65vp5w2d45vssvnpfgcl0lnyk9s4pspskw7p8mp7agb199dyg1"},
 {"v":"2.1.3","e":"^1.75.0","h":"0h6dyszp0f0ywk5rmqd6fx78xg60izij4p5g8cn7lh0dchylzqr7"}
 ],
 "mryan.chinese-english-translator":[
@@ -7757,6 +7766,9 @@
 {"v":"1.0.3","e":"^1.75.0","h":"03yj2vxi3fw97xdmk33gr9fysvjiyhjqzd7yai8asg3k0hri2lza"},
 {"v":"1.0.2","e":"^1.75.0","h":"1b90brzlj1a3pmbpxjss9dzwgg2yk5qz00f846xz4252c63kcgkr"},
 {"v":"1.0.0","e":"^1.75.0","h":"11gq4wll2i3bh5gc8l8rl8rlhy07f3hmm9h6068vbifj356vhzg4"}
+],
+"readystack.reisekosten-pruefer-2026":[
+{"v":"1.0.0","e":"^1.75.0","h":"03wpk0z0rpydcbqmgys5f2a5af713km7lw179an3s25d2nvq2ddf"}
 ],
 "recoskyler.vscode-perfection-theme":[
 {"v":"0.0.4","e":"^1.71.0","h":"1zf5w44ngi7ypfjyv962a9wh8q1chwn2q7cwzp7js30h84scz5d7"},

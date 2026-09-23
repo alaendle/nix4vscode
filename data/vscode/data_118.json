@@ -96,6 +96,10 @@
 {"v":"0.0.2","e":"^1.80.0","h":"00y1zcaylklz2xdzh6yjr6ccgqz22f615n3ywskxsgh9srkcgmxw"},
 {"v":"0.0.1","e":"^1.80.0","h":"1llb7ssjaf3sfrsbvybk05fc3r641s321z1ksidrq853jx6z279q"}
 ],
+"abstergo.pamd-file-support":[
+{"v":"1.1.0","e":"^1.138.0","h":"179ln5333s5rng72kpz556j1r2zmaskblnll9qgw7vrksr19p9c8"},
+{"v":"1.0.0","e":"^1.138.0","h":"04qacpvva0anvnickhwih6m4prpg2v269hin4drb3vfsyqizjz1n"}
+],
 "abxlcrz.interlaken-pro":[
 {"v":"1.2.0","e":"^1.75.0","h":"0w9nz35mxg8id3srvw0sb3c1l7bfhmbwf7i8hqwrs6ma470r9ahg"},
 {"v":"1.1.0","e":"^1.75.0","h":"07csj1s2ys670xx5kr7aysqdzh15v4p59cgdphk1bdhvbzd5p8qm"},
@@ -865,6 +869,9 @@
 ],
 "boardpandas.project-coder":[
 {"v":"0.1.0","e":"^1.96.0","h":"1w6mv5dwckdxvvxg1jlj9rp32mfslynkh2fd6rrc4apb0n09b8l3"}
+],
+"bobrowsse-tech.cost-of-code-hints":[
+{"v":"0.1.0","e":"^1.95.0","h":"1j75lq3x8305mxlvg81xz8rz8qjxvvszbr8jzc47jvzh238db988"}
 ],
 "bobsmith.syntax-lens":[
 {"v":"1.2.0","e":"^1.85.0","h":"0x8604azv8dad1kklfizzxy157795i0djxk4v3yhj4l5jmcskb4f"},
@@ -2471,6 +2478,7 @@
 {"v":"0.0.1","e":"^1.100.0","h":"0phc4j9j69idsr2jvfizmxnyamsgcmbfrsrpiikga4j4im9vv1ha"}
 ],
 "gearyworks.ticketpane":[
+{"v":"0.1.13","e":"^1.90.0","h":"0vbh8fplkbz8jclvfic6401015l5k4y6q6bdw23agdn711alfm0h"},
 {"v":"0.1.12","e":"^1.90.0","h":"0f06mcwbx43pkwx7ynklb588s9xdc559qm6557rapiwppc2xkajf"},
 {"v":"0.1.11","e":"^1.90.0","h":"0syba0jxgpahys9mlh23620pli8nq1c55q31pcknbrgscqs05mpp"},
 {"v":"0.1.10","e":"^1.90.0","h":"0733m081m5mg0kq6iffbi9m5fygv4w5pw68wcmywn0w3cvmsvq5s"},
@@ -5847,6 +5855,8 @@
 {"v":"0.1.1","e":"^1.79.0","h":"1bsx5968lh80vq1w87ncvchmqa70ia97bfbqqxni7i9fp5zri10s"}
 ],
 "ms-vscode.kusto-client":[
+{"v":"0.5.2026092201","e":"^1.137.0","h":"0n8qs2pgwgv6qab0dv9c5gxim16gnsihd2ml8zqh2j65nss1j751","r":true},
+{"v":"0.5.2026092105","e":"^1.137.0","h":"0v6g9l0hrs2jk5g74fp0vriymbd8g9ayp1vzx45hkmiyacp7ddrd","r":true},
 {"v":"0.5.2026091602","e":"^1.109.0","h":"0mrw2xgrmvv0zwhhjhyvrhsf835s5k558zbkrg0vps11w1gdx3kn","r":true},
 {"v":"0.5.2026091601","e":"^1.109.0","h":"0za5ypw2inbk8vy9fwa2xjh93krq9b2yzprk8cf2wfhr2iq7xq7l","r":true},
 {"v":"0.5.2026091502","e":"^1.109.0","h":"1y8k1vv7phbag87paayxp2q6l3y85vaxz43xwk8wd2rl96r4fws1","r":true},

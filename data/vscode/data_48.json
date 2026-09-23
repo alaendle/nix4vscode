@@ -768,6 +768,8 @@
 {"v":"0.1.0","e":"^1.93.0","h":"065ap76i6qbwq1wh00wbblry92llbb5hg1fddwppdi1hk67am1ap","r":true}
 ],
 "axonivy.vscode-designer-14":[
+{"v":"15.1.2026092206","e":"^1.136.1","h":"0vpnyw6a97qczai4sqcwwws26ldp438lhv2vxjzfaq0vylg6yxhg"},
+{"v":"14.0.2026092206","e":"^1.136.1","h":"07ds5sq47vlndzhbnw9yrwkp7x87qxdfvfcjkm33dbyz2a6rip28"},
 {"v":"14.0.2026091706","e":"^1.136.1","h":"1jg9h6ic7y4m7jx8zmv2gnnpkkwrcb2hrxj5b3cp59z0924n8mhc"},
 {"v":"14.0.2026091510","e":"^1.136.1","h":"0im4wn5l3jsz34n8j8wmf2khz7frdka4wwich8ff4grshwskqhk7"},
 {"v":"14.0.2026091107","e":"^1.136.1","h":"001pib2c3y0gjygmzm7100snmz17px4zh640cmbjf3xl3s8lc8qc"},
@@ -4313,6 +4315,8 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1c0ik57zsqrs9xw7hbb3kpnhs0f5g1hywazzjsa5ir0agh4yyhak"}
 ],
 "hamza-shewa.flutter-config-manager":[
+{"v":"1.2.2","e":"^1.80.0","h":"09xc1s86vd42grkyfap0qh68xi7kp3xccd5jslfn2c8xh139wz1w"},
+{"v":"1.2.1","e":"^1.80.0","h":"1xdjdn552hmwwii6b0cmcpzfwi2kh2i9vpa8bybpx32ac1mmi2y6"},
 {"v":"1.1.1","e":"^1.80.0","h":"07wn00192b8ifglmk4y7jcdvdiw2p43na92qdq6wbjbl6wjiak1p"},
 {"v":"1.1.0","e":"^1.80.0","h":"1pn1c390ys123yz4f460k3sn3nyk9ph0gbnfnhkf01x5hmjyi7kh"},
 {"v":"1.0.18","e":"^1.80.0","h":"0j4nj0mm10jilva5fjgv1pzkiszpallc507p2wlv50i35xmv6gfp"},
@@ -7867,6 +7871,7 @@
 {"v":"0.0.1","e":"^1.81.0","h":"0hkx0alynrj1x3mm4as7ls43wqfm2x0fsd6ms1ifycl4d732yznc"}
 ],
 "paicoder.paicoder-agent":[
+{"v":"16.4.5","e":"^1.85.0","h":"18rddq2dnmk563jfd6gqg8wfipkf9xp20jz8mlvz5jhlvy93b24r"},
 {"v":"16.4.1","e":"^1.85.0","h":"0dhbzggq374ii0qx7cwxzkbf36h7h25hh565yd3am9dxj7sllniy"},
 {"v":"16.3.21","e":"^1.85.0","h":"0pyl4jwn7a911nkdcq31z6vjppgx190jilm6c9adkgllz8kdlivl"},
 {"v":"16.3.15","e":"^1.85.0","h":"1dd4zscz4an779b40pz0r2b1g3zd8p5nfamnwibvkplcs2n5nm86"},
@@ -8417,6 +8422,9 @@
 {"v":"1.0.2","e":"^1.55.0","h":"079nd82bs8dh07sqlz9dy55rq3qy8axg5wqpc22f83csb0043wn7"},
 {"v":"1.0.1","e":"^1.55.0","h":"1j3bn57his9vzjkhamrbzgpx0kgafsd0y46kll304mma2z3lbvid"},
 {"v":"1.0.0","e":"^1.55.0","h":"0zp61v8cxx7sin8xjnprkxplbp2f1z2s1rfajx4yn2jxncy72fma"}
+],
+"rohitjpsingh.project-tree-visualizer":[
+{"v":"0.1.0","e":"^1.90.0","h":"0rylslb9r28xg54prdb4jwzfjhxadp6hh9iq8z98nr9phz3x2z2i"}
 ],
 "ronitgandhi.oxocarbonix":[
 {"v":"2.3.1","e":"^1.96.0","h":"0flqj01iv7wy0ny9ayl45grf7h27w5ypb0rcjrav1nx4yr81b3fx"},
@@ -9792,6 +9800,11 @@
 {"v":"0.0.1","e":"^1.55.0","h":"17wi09qlircacydkyzwccv10c3pr54qwqqbpn4wik6fgkq24mlf5"}
 ],
 "thekaroe.kob-ai":[
+{"v":"0.6.16","e":"^1.90.0","h":"10bjvbsji73simalbvcmkyhxa7dqk23cn2gigvw1kvlzxi3x0inr"},
+{"v":"0.6.13","e":"^1.90.0","h":"0s9myglvci12p1xy4aki1ygym5a1pggpryx5v21jc7294k54bns4"},
+{"v":"0.6.12","e":"^1.90.0","h":"0rn1gxz72nizcp2aq42sdmlkm91pm5pjv835ka2rwkrpnnyjkl29"},
+{"v":"0.6.11","e":"^1.90.0","h":"1q1zb79rajkrbblcskdpmr6rr5m5l8qms5mg47ws0kihf4428k1b"},
+{"v":"0.6.10","e":"^1.90.0","h":"00q7g4pljav00pi0yc8gqj33i82j03p9wk6mh1bfr6bjlb2zvk48"},
 {"v":"0.6.9","e":"^1.90.0","h":"1k2xljb5s9ydalg3n694plh3rbywiz0ppgpw10j83bjysd3nzp4z"},
 {"v":"0.6.8","e":"^1.90.0","h":"0w4dg9n956p28q22bfd8v22psz323wfbshrcvgnaq3jzsv9vzd8n"},
 {"v":"0.6.1","e":"^1.90.0","h":"0zjswladn7vympad9ip7pglk7hv6wk8x5kksr6z5hw1mjf0vhxq3"},
@@ -10082,6 +10095,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"0bh7s5v064zwi0zrqqh9y6nrg55vb16v9r1qvh85xjnnzxp3mhji"}
 ],
 "u9401066.asset-aware-mcp":[
+{"v":"1.4.1","e":"^1.96.0","h":"1cgk7ijzy2vfi0sz6ilsd9yhag0gjm2fbsil2cd1dmkii09mwh8h"},
 {"v":"1.4.0","e":"^1.96.0","h":"05dapafa7cw270lc5sb0w4cbkhz21j57vqhxpbgmxpj7drnc0jsc"},
 {"v":"1.3.0","e":"^1.96.0","h":"0g9d9dkbx2si1axgnczkvpncgfph1wy8hvf3vrvsdrhhsyaw4a92"},
 {"v":"1.2.0","e":"^1.96.0","h":"0bvqg92c94zwd7b4j4vskpmz525icnngi13v28fbxka4c5a73d12"},

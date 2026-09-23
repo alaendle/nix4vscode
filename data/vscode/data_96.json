@@ -2556,6 +2556,7 @@
 {"v":"0.0.1","e":"^1.5.0","h":"14ddzfxngk8lphkh37aggsxdq8685fh25s6gk6ymp6g64nxqw9ly"}
 ],
 "diffward.diffward":[
+{"v":"0.2.0","e":"^1.90.0","h":"0g3592dmgswpyrxlvh2alrsajvk534c2cqf22prxp9vlc8aa01bi","r":true},
 {"v":"0.1.2","e":"^1.90.0","h":"0af28xjdlxkc1042d2kc2r09gm2a5nbqnn2vii3ywrkvfzyidk0x","r":true},
 {"v":"0.1.1","e":"^1.90.0","h":"17zb8kr9syi5a56filaranf3a0ff80slx7nfrdzrzwda8jypcgac","r":true},
 {"v":"0.1.0","e":"^1.90.0","h":"0wpfagixgqwzaq62cfs3kc5kpiffdwdgslfv2avfgrch7w1wa920","r":true}
@@ -3588,6 +3589,8 @@
 {"v":"1.0.0","e":"^1.109.0","h":"0p67wxfk4ds4cjb98lllcpvqg0w9b8ws3z0wmfdssg386w96v3hl"}
 ],
 "gbs-internal-toolchain.gbs-software-agent":[
+{"v":"0.0.11","e":"^1.120.0","h":"0am584yppqffdnqdh44fsmw59airdp2360nnppc8h4icilb5886m"},
+{"v":"0.0.10","e":"^1.120.0","h":"10f48g8aj8ff5cx53nibryw9x0ibixnhwjnbv7sk80dndnsjqgij"},
 {"v":"0.0.9","e":"^1.120.0","h":"0bhm9hcdlscfbvjy9inzc45gsdswgzdkz63s2sj4c10k3q2asgb0"},
 {"v":"0.0.8","e":"^1.120.0","h":"1a9ssm2imxjv0mk0cpfdmlg5zhdigvdr6b0agiim1w5hn4azfyxm"},
 {"v":"0.0.7","e":"^1.120.0","h":"08kn9zb0dhy6jpajfjwqbnigrycmkhg8bzmqp89cw3v63gbv5jxb"},
@@ -9709,6 +9712,8 @@
 {"v":"0.0.1","e":"^1.24.0","h":"16n6l2p71wk5385f9x5g4xbspabfm9ik21n08gqzpifp4v430c9y"}
 ],
 "viway.viway-v3":[
+{"v":"0.77.1","e":"^1.90.0","h":"1rj53w01sdiaaykn67v76bksk8s4mmb11k45kl3x4qdgw6ya0qna"},
+{"v":"0.77.0","e":"^1.90.0","h":"1cf898mw6wdl8s562gzw32aqn22abkccy6zamqlddpdyrwiff1wl"},
 {"v":"0.76.0","e":"^1.90.0","h":"1kkx2x5wgbaaz9q586189j0j31vhplmq3246i35bpwzmd08dnky1"},
 {"v":"0.75.0","e":"^1.90.0","h":"0nfjq3gwibf9jrhrwpzw9x1b5m5j91wkrkki7dhm3b3wzhj8kf92"},
 {"v":"0.74.0","e":"^1.90.0","h":"10d85qmvpczcl75kccsnx0930iawxxdk19f69sgyjckkwhaasdc7"},
@@ -10774,6 +10779,12 @@
 {"v":"0.1.1","e":"^1.60.0","h":"0f6wz8cym0l47i6jzjn29kr48cq6alk9bgb0sl71cn477lwlwy89"},
 {"v":"0.1.0","e":"^1.60.0","h":"0h6ydwl3wxkivz7crpjj2zqxny4r1409f28xr5579ahwm7h1x1lc"},
 {"v":"0.0.1","e":"^1.60.0","h":"02n1kdlni42762zhw4649s6mbzz8dzfhzm9mbbixs4kgfc7ygs7j"}
+],
+"yashwanthkumar.oracle-cpq-api-studio":[
+{"v":"0.1.3","e":"^1.85.0","h":"0ylfmcynd1liyq6xipnhyps8n6vr1aviq9saq4w4rb4ymg9r26fl"},
+{"v":"0.1.2","e":"^1.85.0","h":"1c4x6arfz8by1afknmzw1z47bqbkixp4sydaid9wkwcqa24kfw36"},
+{"v":"0.1.1","e":"^1.85.0","h":"1ifr65nqrn1iinc72dv2ib4zkf4liagksybxzgjhb1r7wvndqs7x"},
+{"v":"0.1.0","e":"^1.85.0","h":"12isd39g3q9k6ah151jak2zpd4bhp1nf4jas43d11w3s4hiv6jl0"}
 ],
 "yazsquirrel.fancyt-jsv":[
 {"v":"1.4.0","e":"^1.83.0","h":"0xvb40diqdyvnvrar1xnbrdncc3ly78gdsfsvlz3q3ky6m0q2gjh"},

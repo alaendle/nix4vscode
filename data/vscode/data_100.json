@@ -767,6 +767,7 @@
 {"v":"0.0.1","e":"^1.80.0","h":"036i4xkh5zrmysqsx3d2k09dx5fzv7ijykafcjdslibin1397kp5"}
 ],
 "betaversion.termloop-vscode":[
+{"v":"0.4.1","e":"^1.85.0","h":"1f25nm1f5547nsry88q3dc61i5gnkzvj0vm5fm1dzq25ch567vgg"},
 {"v":"0.3.0","e":"^1.85.0","h":"0dvshwc47i3c5vlrxl2l5gd0b4yxadna80qpg1l86w4bhbhdg7n2"},
 {"v":"0.2.0","e":"^1.85.0","h":"1lnlhvy9jpwdjfflnpiw1xwizsh86bvp6m97rkxy4ncykm8vi61x"}
 ],
@@ -1351,6 +1352,9 @@
 {"v":"0.0.3","e":">=1.80.0","h":"019f3gpqw63rhnky40w7p1xx9kqm9snnjgivsqqn09fgxn69spgy"},
 {"v":"0.0.2","e":"^1.100.0","h":"0dgf7iv5nqlkplz5hrmwascwzg058z507yg98fc8y3jba9plvd1r"},
 {"v":"0.0.1","e":"^1.100.0","h":"0xaq0z73fhah5fpdh8k61n9hph5rm0vk9vvawkshcc2jzl8d395q"}
+],
+"coop-ai.coop-ai":[
+{"v":"0.1.0","e":"^1.92.0","h":"0v9w9dhv1bhc63d6pvqwpg82hir4yvz8zrnnic3z9yvs335fr89n"}
 ],
 "copiadordeerros-traeecursor.trae-problems":[
 {"v":"0.0.2","e":"^1.99.0","h":"05njyjw73lskgdfdvaj966bgabyjbsm4gfggg0i9nx3rwmv3inns"},
@@ -5158,6 +5162,10 @@
 {"v":"0.0.16","e":"^1.63.0","h":"1531708xyq9mqmql4v5ycb2f96yqh282cf72h3a1zrj0mkcdwg7y"}
 ],
 "kilocode.kilo-code":[
+{"v":"7.7.7","e":"^1.105.1","p":"darwin-arm64","h":"1skj47d566b7z7l68c39i6rwk3y0873pvz44q2c16rdjh1dlawi8"},
+{"v":"7.7.7","e":"^1.105.1","p":"darwin-x64","h":"13n3izm9jwjqc3hy02sgd6xiy1gzh1d2jdig38hhqgjs5r0mcq9i"},
+{"v":"7.7.7","e":"^1.105.1","p":"linux-arm64","h":"0fsvcxb9f510i5w0w1xaw7jpwwfxj33knxhh1jjd3yf4apvwh6mh"},
+{"v":"7.7.7","e":"^1.105.1","p":"linux-x64","h":"1mfl0xjfij18j0q50f2749rpx410pva5xq2lc2pag1njmrpxf7l0"},
 {"v":"7.7.6","e":"^1.105.1","p":"darwin-arm64","h":"1hiydhr30vwxcpbymfgzwif5ml0zy76bbjqrv3pcnsjmib05hlsf"},
 {"v":"7.7.6","e":"^1.105.1","p":"darwin-x64","h":"0fy43wbk6mhm22dbr1zcssrsvkask8c9ifqwr5afy85i88bzv6k2"},
 {"v":"7.7.6","e":"^1.105.1","p":"linux-arm64","h":"1a41hmsqjhq8qrr8dy3qf0pa2smypx5fpgdhbpkjcp5y9gv3wgr8"},

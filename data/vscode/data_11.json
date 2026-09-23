@@ -1736,6 +1736,7 @@
 {"v":"1.0.0","e":"^1.5.0","h":"1nda9s6p06897kxm64z0gx481a9s56qwlddrf34mc6skvi8p95c7"}
 ],
 "dce-developer.data-curation-environment":[
+{"v":"1.7.143","e":"^1.90.0","h":"1vqs81h3246zr2dskd661hak9rfhxc5706baccsqsqd6gl50nq8m"},
 {"v":"1.7.141","e":"^1.90.0","h":"10k7cpawyrlrfp205mz3mybvl01z5xqa98dvf7sy19y88gs0idql"},
 {"v":"1.7.140","e":"^1.90.0","h":"1givz12zrn8jqsh2vpmfkp2ph5yifmfdjyij3j5h4qjj6mw95yvl"},
 {"v":"1.7.139","e":"^1.90.0","h":"0jbkyqp9pvi5i2m2dzbldc1z8znpfd9zd4mp8w83kivfjqivhbjw"},
@@ -4922,6 +4923,12 @@
 {"v":"0.0.2","e":"^1.84.0","h":"12h2wsl8gfg0sp4bv0qkc0pgrmqw91yhcx0blwsb3cqabry4rq1q"},
 {"v":"0.0.1","e":"^1.84.0","h":"1gfn28g717rr956cqg40i2bfw2w51fcwmkpj7sxbh1syxb6xwcy4"}
 ],
+"luotianyiismywife.senseaudio-copilot-provider":[
+{"v":"1.0.0","e":"^1.116.0","h":"0xrafyydsn8xdpzmz41nzmq47rq2ahfzkbbkb7czlgb1h8q9mm55"}
+],
+"lynn-zy.vscode-agent-semantic-search":[
+{"v":"0.1.0","e":"^1.90.0","h":"1mjmy5vs2vp34qw7v1q15gvkmy0d0yf9s6lqdjkv3qg0vl6gwa6r"}
+],
 "madprops.kya":[
 {"v":"1.1.0","e":"^1.37.0","h":"1pajm7jva01mv6q0i1h9lq9xdfb0acwi5gbzsr8pn1cprcg6lhr2"},
 {"v":"1.0.7","e":"^1.37.0","h":"1r8k6rpanmdapdfhi73cf5d5z7rqkcfrv8lf5g31fhc5gm1npzwn"},
@@ -4950,6 +4957,7 @@
 {"v":"0.0.1","e":"^1.96.0","h":"1jd7j5cldjz66zf6y26qv0azq3y9pni34fz4slw1yzygcxj6qik8"}
 ],
 "mai-engineeringsystems.mai-papyrusproxy":[
+{"v":"2.20260922.2","e":"^1.98.0","h":"1vcckw93297mqhzpsgq09589a4pibbz2ci3i1m1784mi215p6z6q"},
 {"v":"2.20260918.6","e":"^1.98.0","h":"0g1jq1qsm2mx4vzf3rq4fg2xziqcdxvgr5zbcqkj6q6lv4x0wfzr"},
 {"v":"2.20260918.4","e":"^1.98.0","h":"0yvc6x0rf6aw140zgzhglacrq1qmhwi54mjkyq1bw97xp9nc5yxf"},
 {"v":"2.20260918.2","e":"^1.98.0","h":"0zw0wb4jisqav689ha0bkcimdi681sf2iqyg33fj0mvk2z2ngvxy"},
@@ -6985,6 +6993,9 @@
 {"v":"1.1.0","e":"^1.30.0","h":"0mzjvy63x9q36ibs7vccxa0gnsdnm20aa289gv3k3vp3rc3kg6yd"},
 {"v":"1.0.2","e":"^1.30.0","h":"16mcahq5vyl9wj2ida0mdkknfp60m8pi3j31dm070pzkp7ihg9av"},
 {"v":"1.0.0","e":"^1.30.0","h":"06w253xp1x1zxb7zxb4dzvxk2sdjhj3cn6phnihhm47dp558z6p6"}
+],
+"raghavchari.edith-second-brain":[
+{"v":"0.1.0","e":"^1.102.0","h":"1bi69gbsbl5yfcdisj56x0qnklb7dxrj7r59r4gyp23nkrpyfgvm"}
 ],
 "rahul-nisanth.code-brain-pro":[
 {"v":"1.2.1","e":"^1.115.0","h":"1q5ljf0l30b3nqs8zzg8q7y235pvg8c6hvvk52j4bhs86lvbcxxq"},
@@ -12473,6 +12484,7 @@
 {"v":"0.0.1","e":"^1.78.0","h":"17skdsfyf5avnbdbwip1svm06wm9xj9j45wyzx9l4x3pp2jn5b6h"}
 ],
 "vladstack.claude-control-center":[
+{"v":"0.2.2","e":"^1.90.0","h":"1s5mxzp0my9va1b5j0shk8pf4yakzv9y4rkhpzjll53mpkz3pla8"},
 {"v":"0.2.1","e":"^1.90.0","h":"1givnml3x0bdg9l0xc20pi19w2wimmvis3x5wa2azbp4hnx355gl"},
 {"v":"0.2.0","e":"^1.90.0","h":"0mpnyrmmmi1wx7cfy5m033fssvvl3lwmkbdfclw67w146k3rf2qq"},
 {"v":"0.1.9","e":"^1.90.0","h":"0wnqy4xchcs5kizhrvrmicj1brwiw9vrigjx3qjs4qidd0h4ra9p"},
@@ -12956,6 +12968,9 @@
 {"v":"1.2.0","e":"^1.105.0","h":"06mzrbkqcxp05v8dg4i87qg0ja777kmfg08hdqpgh8y533qbql7n"},
 {"v":"1.1.0","e":"^1.105.0","h":"09q5kxbmnfk70z341z1vz1aanlpjviz0q5ahn5c4286p1if5p4cm"},
 {"v":"1.0.0","e":"^1.105.0","h":"0x2mff5xagy8mjj8yyiv7wmq915z13zz88x04iqnw9nd5kfxqjfr"}
+],
+"xpertsphere.xypher":[
+{"v":"1.0.4","e":"^1.105.1","h":"0snyrkjjq2mi5mf8dd3djlybjgi5597snnpbqqqm2v01i86317ia"}
 ],
 "xuexb.mip-snippets":[
 {"v":"0.0.4","e":"^1.9.1","h":"16vkw9j11wjfva6ppg3wbbqcmjsl1mm5xr83051c5hj1ps445r6r"},

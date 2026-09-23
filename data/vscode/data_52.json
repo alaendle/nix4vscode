@@ -2681,6 +2681,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"0hk24hmqs14rzjciwg6fkds8nfj74z9y4gsgy56wnzjsdg13ag32"}
 ],
 "financialforce.lana":[
+{"v":"1.23.20260922","e":"^1.102.0","h":"01abc1aa8mglw8sg874jak69j3v86nbrwlfpbllwacnqrri1npfw","r":true},
 {"v":"1.22.1","e":"^1.102.0","h":"0c3kqgwja6bjhhzw7m6z1zip5r22lcqsqkcv46l18yrnmcwghziz"},
 {"v":"1.22.0","e":"^1.102.0","h":"0rhh7326kixczy851b1i8w635k66vk28b2922fxnpgdcfvzym23v"},
 {"v":"1.21.20260917","e":"^1.102.0","h":"1d8svw358m6kksvjp5mnhbz805f42p0lcnr5fm1w8ac5jyb7sif2","r":true},
@@ -2849,6 +2850,7 @@
 {"v":"0.0.0","e":"^1.71.0","h":"0gcvrjk5h3fz760vlhdbwnp5ciasa3wqz66hahiz4bkg8w2fy1hr"}
 ],
 "flexvault.flexvault-vscode":[
+{"v":"0.6.0","e":"^1.85.0","h":"19r7b7441kz7v5qvjswzgxvr8fwx09mkqc6xzbqz89xzyzvrd4vp"},
 {"v":"0.4.0","e":"^1.85.0","h":"0m5h1bbvkv4c49874s7qcbvcaih92qrv8ax3vdsz5gli0m4i9bx7"}
 ],
 "flianlee.gap-system-support":[
@@ -4008,6 +4010,8 @@
 {"v":"0.0.1","e":"^1.95.0","h":"0yyvy81ih1l23x4ibl7l7zl2rqd5sr3r5bnrpzsp34jklnndbzqd"}
 ],
 "jerrycrozet-electronicengineer.jc-lib":[
+{"v":"0.8.48","e":"^1.90.0","h":"0kkfkpcpx2lflqixbzbw1if3jvccsqspvv7fqvk9srrdpp5qkwbh"},
+{"v":"0.8.47","e":"^1.90.0","h":"1h4m17sdpw7kswk8a0lhlp2ikd2bjyv7jv0qmi0yp8960hi0dgd1"},
 {"v":"0.8.46","e":"^1.90.0","h":"03r2xkhkm50x56bxhn4k78mjqv7m8h39zzr43f7m1wv39d6ix6dp"},
 {"v":"0.8.40","e":"^1.90.0","h":"0nq5xx1m3429pi6c612d6ak0pvxrji1mh4bjy8k2sf1252rb2kzg"},
 {"v":"0.8.39","e":"^1.90.0","h":"172522921anbm33k5v0p1kmsw9grzw9gax2jfdmcbp4w9fzx6dlw"},
@@ -5375,6 +5379,8 @@
 {"v":"0.0.1","e":"^1.51.0","h":"0pj2shs11wnq4l34ppqac7jz59312r9c728r2z7b4rpg8d4abgyq"}
 ],
 "lorapoklabs.cursor-curse-monitor-by-lorapok":[
+{"v":"1.0.194","e":"^1.93.0","h":"0fk62nbblspdgxl7wf1jv32mfmmw0v9vmfpzvfhhi5diyhg839iq"},
+{"v":"1.0.193","e":"^1.93.0","h":"1x84aksknkfbq5qs1mcsz65fxfhap28mc31vcxb0mwdnndgzdfds"},
 {"v":"1.0.191","e":"^1.93.0","h":"19kqk5ak1vh0q44jd7sl5a6wsjq00j00npx8q3jdvfrglman8fbq"},
 {"v":"1.0.190","e":"^1.93.0","h":"0azdn16sncll7zbhj6fs1vhb146mv8pnydlw0pxh1hz9dgi2bqad"},
 {"v":"1.0.189","e":"^1.93.0","h":"0w7mbfxy083sf25lymkg1339x13b6m9p0rxnnr55scbmb1g4r1jn"},
@@ -6465,6 +6471,10 @@
 "mtunique.vim-fcitx-remote":[
 {"v":"0.16.14","e":"^1.27.0","h":"0dcnsb47cwwvrqswry9bw1f1n70p0kqmpic6rxqxqlhg47lhmmhb"}
 ],
+"multifly.multifly":[
+{"v":"0.2.2","e":"^1.102.0","h":"12vgbddcm9jiszldxir5ssff1xi3w26ql1w5li6r4chq6x79f7yk"},
+{"v":"0.2.1","e":"^1.102.0","h":"123c8gq05hpnir1m2xwdgm3n52b6qg3p4d363mi6j55qqy2fqhan"}
+],
 "mummareddymohanreddy.vscode-jsone":[
 {"v":"0.4.0","e":"^1.85.0","h":"18bnfyhnxxg2dm0plry2x2p45bj7l3jh19kgm1j00bxcjz4vn11l"}
 ],
@@ -7409,6 +7419,7 @@
 {"v":"0.0.1","e":"^1.76.0","h":"0imrxr2d4pg3i5v249iajwz475dhpvmpdnyfrq2rbb8i146zv5vi"}
 ],
 "qianshe.blackhole-vscode":[
+{"v":"0.3.153","e":"^1.107.0","h":"1prfgmifhkfxmqz3vamkgxmw2v18ay1lym68m6gvy055asq0ihfa"},
 {"v":"0.3.147","e":"^1.107.0","h":"04zihib1l469sgb1a0v8hvfj7w22nv4yynnnzks9l817q5kh6lgy"},
 {"v":"0.3.139","e":"^1.107.0","h":"05q2bszb3mvc19vp8bf23q4afkc0dmxnmddk2srwhpch4dmq2hqj"},
 {"v":"0.3.138","e":"^1.107.0","h":"1sq4f28jl83spid08zn8piagwabf5cd1vrl6v8av10nacqh7sy1v"},

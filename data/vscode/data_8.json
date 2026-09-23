@@ -720,6 +720,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"0d9fdys8nb3vwmlbs54aygd67kf8n3xkfnmjizs2hh7kz3v6wvza"}
 ],
 "ashtonckj.classic-asp-language-support":[
+{"v":"0.6.3","e":"^1.80.0","h":"0h99pgahz6kpndw4n5flfd26nivkf36z6ajzihvylbmy6rpza5pf"},
 {"v":"0.6.2","e":"^1.80.0","h":"19ph1sijk2px4ybbh6ihr5xk4nrj4kq2lb96f3nc89wm6v8wcz3f"},
 {"v":"0.6.1","e":"^1.80.0","h":"07jbpi8a4r41d3wbv5g3k8k8pw196vidr61bjjccyq50z6m40n4r"},
 {"v":"0.6.0","e":"^1.80.0","h":"0nw6caafysha3j42sjafvg94mg75s58nkvcfsmlgdvck1k97rca2"},
@@ -1239,6 +1240,13 @@
 {"v":"1.2.2","e":"^1.82.0","h":"07wghdqm680csnrnivzp4qarcz312pbhmdiqciaj0sw7g47ya5xk"},
 {"v":"1.2.0","e":"^1.82.0","h":"0a52a5d3gi7kh15m9m0b0r1qzpjrm1nzdiqrldxbg0g3w5jk13qr"},
 {"v":"1.1.0","e":"^1.82.0","h":"0bzvrfiyw6rdih2ipnc1q01xqmlw9cv41ni2slds51bd649smy0w"}
+],
+"chengjian.vscode-markdown-reader":[
+{"v":"0.3.3","e":"^1.100.0","h":"0w8ip13hf1yz18cswzkpz17d64msmccfwqw5v26z5kkgw6mz9xqm"},
+{"v":"0.3.2","e":"^1.100.0","h":"11m15h7l8v81a9b8spxrrgc8iv91id398cf505cvd0jdijzaazk8"},
+{"v":"0.2.3","e":"^1.100.0","h":"0m7gnyysxf3242clajjp6qx98zka7mk5pyzh061qg6fnd4x4bm56"},
+{"v":"0.1.1","e":"^1.100.0","h":"0vrf5y6ji6s5p20zg1v8rfbhn4zbfl2x3rla68gh0hpnxg47qsy1"},
+{"v":"0.1.0","e":"^1.100.0","h":"0z6rl0isv1yxicxpcddjn806lkzrfx86k8n52q3w1g7wdl8xmn10"}
 ],
 "chenzhiy2001.os-debug":[
 {"v":"2.0.1","e":"^1.55.0","h":"1zkbmwaggxp2xw82wwwwmz32lvf3kwykmgbaf9nfpj63ns36aa8z"},
@@ -5326,6 +5334,7 @@
 {"v":"0.0.1","e":"^1.64.0","h":"06nx7ccb5dh85ka2h80nphs0s20p8a8pv6j60zw5hs64z72md98s"}
 ],
 "martinriha.vscode-custom-llm-provider":[
+{"v":"0.6.2","e":"^1.120.0","h":"02hyz1w2kiky1wdq774m3v2fwsv59gx8l3ii91r63zg2bzn6zaax"},
 {"v":"0.6.1","e":"^1.119.0","h":"0zqpqjd6a5k70gzi4wpvgiv6a77p62jshjy50zxsv7hnw13pw2r4"},
 {"v":"0.5.4","e":"^1.119.0","h":"1s85ab56m7395zjdp3fbf3fn48ycy0wjrch9m81h59c039zpsclk"},
 {"v":"0.5.2","e":"^1.119.0","h":"095gi3d3dhf87znnny7zp8f3awpv5h4j4846d0w878qal9dlhrs6"},
@@ -9689,6 +9698,9 @@
 "theme-dark-blue-night-tai.night-theme-taibi":[
 {"v":"0.0.0","e":"^1.22.0","h":"1whsv6kv76byyds041jhs1f17n8fs7aqzsqrwxqxx24d6fd1f62l"}
 ],
+"thewaterdowngiraffe.robot-live-runner":[
+{"v":"1.0.1","e":"^1.85.0","h":"0qx5lwmgxnwlmskb8ymxhl6wq0n8wpjg7a987wfj5w0sdldd4an3"}
+],
 "thomasaustin.mail-zap":[
 {"v":"0.0.6","e":"^1.25.0","h":"0d0wiyprllmh04ynnnq6sl9l75rifi2wkd9qiajw3b6b7b2l7rmh"},
 {"v":"0.0.5","e":"^1.25.0","h":"0fwrdaa32j6yw7sayk89vp6dzhc2lk9q2lgffvnkjnm8mwn3afgd"},
@@ -11032,6 +11044,7 @@
 {"v":"0.0.1","e":"^1.80.0","h":"1v2ad4alk4yj5vn80aza8midahswrkvzx7076r9c16iihw5cf9qg"}
 ],
 "zerofinance.zerofinance-git":[
+{"v":"2.0.15","e":"^1.30.0","h":"0qfazla0632jz58ih9jvflxh2dbzgl11syw5ywr73lfaysg3j7lr"},
 {"v":"2.0.14","e":"^1.30.0","h":"0b2hg5lgbvgbjd7a14bc0qpc4s4nmyqwgmlhzd9nhkhhszz44fws"},
 {"v":"2.0.13","e":"^1.30.0","h":"1l7m4gf4k7m6md71im22addam30n6hr6fpdqsl2h0cfgwy559h2q"},
 {"v":"2.0.12","e":"^1.30.0","h":"0nrd9rg3z8ix6cz6ybfzcg55ibzn41wpzn04x160fr9c6qzx3als"},
