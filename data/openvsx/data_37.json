@@ -27,6 +27,9 @@
 {"v":"0.1.0","e":"^1.85.0","h":"1qm15225dj5bjz78zj3j4nkrnlzbh7nxmj5z0zn18mw67w7gba0p"}
 ],
 "ai4you.vscode-openedge-data-administration":[
+{"v":"0.1.135","e":"^1.101.0","h":"0vxgilfh7ym4227lif2j17rgk7q8jvbx2597m00agpy6g15vkbvv"},
+{"v":"0.1.133","e":"^1.101.0","h":"01j4i1a94kd8a8ariinqn3kmrn2a84xznq1pdzqxdqy7c5xqmkx7","r":true},
+{"v":"0.1.131","e":"^1.101.0","h":"11ygw5ykb08w3x2svrvb7cn7xiyb820g331329h44xlsav92d7cz","r":true},
 {"v":"0.1.129","e":"^1.101.0","h":"1lcph28lm01ks2sf9mhndxwwkv20nwh3nh25dvn8daglkqxpfixh","r":true},
 {"v":"0.1.127","e":"^1.101.0","h":"0ssym85c8lz2mjgz5q4bmgvjsn7qd5rhg85zjipmhqrzh00pyzfl","r":true},
 {"v":"0.1.109","e":"^1.101.0","h":"1bnbls5fhmc47z9mbfzhghj817v06182p2q9l5iqirva6k801866","r":true},
@@ -101,6 +104,9 @@
 {"v":"0.2.12","e":"^1.90.0","p":"darwin-arm64","h":"1vsb40ip9369s6damaz2hz1i47wspvqzqw00dxssd3jmqi78f4cc"},
 {"v":"0.2.12","e":"^1.90.0","p":"darwin-x64","h":"16lrlfbvbc2wfbbkmqyiwyg1wmn0x5ijj2jrgk2xaas5i0nf7l7h"},
 {"v":"0.2.12","e":"^1.90.0","p":"linux-x64","h":"15f7bpszlrm71rfn4v1dljc4w8l9syfcaz5kid4j7yiwqhm7zjp0"}
+],
+"bobrowsse-tech.preflight-check":[
+{"v":"0.1.0","e":"^1.95.0","h":"1ix2ia1kg8rk1527gzk7b7dhiff1cvi778k3npqgkvjfcjnag9pq"}
 ],
 "bromanprjkt.sundalang-vscode-extension":[
 {"v":"1.0.2","e":"^1.75.0","h":"1lmyjvx0lcqx3rl0spfccqik9ynxfgix444p9r8r3i4lszxwm9n4"},
@@ -593,6 +599,7 @@
 {"v":"0.0.26","e":"^1.53.0","h":"16hj4pp9nwhpy1a2mgflavbhwyiqjw561w2hk8fb9694lj07kz0m"}
 ],
 "moataz-aldawood.xplorer":[
+{"v":"1.1.0","e":"^1.80.0","h":"0grq8jlfh21an1cg1c8kkv19dsmwp268b7z4313dk15hvw7gp6i3"},
 {"v":"1.0.0","e":"^1.80.0","h":"02an60y2h51cywwm8sda1b94hgppdbm1kw48wwqjnyiijr7vp4x0"}
 ],
 "mohammadhemmati.php-auto-var-suggestion":[
@@ -1005,6 +1012,7 @@
 {"v":"0.0.0","e":"^1.75.0","h":"18ljha6nbqb8llgrxh1sb35vac33g0z1mn4brgh6z84bxhli7fcs"}
 ],
 "tmarhguy.frameport":[
+{"v":"0.2.3","e":"^1.95.0","h":"1whhz7cavdpckw42prmfqxc08sxhq1xpaadimrkij9hiprr0yahj"},
 {"v":"0.2.1","e":"^1.95.0","h":"0zw54wr9qljs3knzmk0m376niqa3aipriwk8m0rf3y9wrwzgg00z"}
 ],
 "toris-tree.vscode-exact-file-preview":[
