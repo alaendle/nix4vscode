@@ -2631,6 +2631,7 @@
 {"v":"1.0.0","e":"^1.18.0","h":"1hyvphbv42ljdgx7v5bmr94k3lj34vdiai21lrqhpr941gf5ifnq"}
 ],
 "ericcxy.tangramtokendisplay":[
+{"v":"0.0.18","e":"^1.96.0","h":"0plm88a3yhdawwjxmnhql9ar5b8sl3ayca0fhfxkflh83b81mnyb"},
 {"v":"0.0.17","e":"^1.96.0","h":"0bparh5sj0phnpm2x0gf2sn9ra3gpaswicqcryh2vz7xhmnrr6kv"},
 {"v":"0.0.16","e":"^1.96.0","h":"16p7dd0xd3y6klpnxrx5vkh2mffam6mdrs5ipn8hxdf87b6ffvcc"},
 {"v":"0.0.15","e":"^1.96.0","h":"01h75cajnh4i351ca7jily2xnbl6xfb7jly733i425m5i7hm0ac3"},
@@ -5455,6 +5456,7 @@
 {"v":"0.1.0","e":"^1.22.0","h":"1b63p8ai8z7v6al5bn2i1gwkz5n1kbg8qg8gdv4mg0fv3ckn9xp1"}
 ],
 "mboss.mboss-vscode":[
+{"v":"0.0.8","e":"^1.120.0","h":"02f0pd20lfzk96ch9r01hjygh07z4njjr6kbgdr73clxx90893vp"},
 {"v":"0.0.7","e":"^1.120.0","h":"0sl2r8a0ab76hlc7pp7ybbdq49znp714b407wh6aj4lla606smsh"}
 ],
 "mcpp-community.mcpp-vscode":[
@@ -7642,6 +7644,8 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1ff1snkvsg6if03vj50mq6b8j36vy74x60qbnhbh8wwmvk12q0gz"}
 ],
 "przpl.my-dev-tools":[
+{"v":"1.15.1","e":"^1.138.0","h":"1j508486id844s97zgn82p6xawjn7s6cf6n48k4mc7chazpak2k6"},
+{"v":"1.15.0","e":"^1.138.0","h":"1afggll7d1098hrkf5dv69pl468lh2yw4viqn4f3vry27f8ba82d"},
 {"v":"1.14.1","e":"^1.134.0","h":"13k5bxsm7vwjcbyilq9ckmivginpf524ycl7jjgjbqq7mj6labh0"},
 {"v":"1.14.0","e":"^1.125.0","h":"1xnbklfhbf6c0499m66419czzp17x35nhdrxzhf7xhyklkgghzij"},
 {"v":"1.13.2","e":"^1.125.0","h":"0cvw8ilpip7qak17wm83bj8hbddlp8r17zzmmx12qyy68m0zqldi"},
@@ -7774,6 +7778,7 @@
 {"v":"0.25.0","e":"^1.66.0","h":"06gam4cn3vd0fdqibh9pp5nga9s7qxaxfgdh7iln5x99gdk7nazs"}
 ],
 "redhat.vscode-yaml":[
+{"v":"1.25.2026092308","e":"^1.63.0","h":"1a5flvq5hc50d2s47ahmb4y0mdxazxi8lx15id2lir96xxphrz8i","r":true},
 {"v":"1.25.2026092208","e":"^1.63.0","h":"046n3jqfjvdixphyp86ifcmhjyxfn2r15wgv5fwa4211rdp97kqi","r":true},
 {"v":"1.25.2026091908","e":"^1.63.0","h":"03qczasm64vvpgfa4pk711jkscnq0fc1n2sdsckm860bzfj3w7kb","r":true},
 {"v":"1.25.2026090408","e":"^1.63.0","h":"1kpzgr287gdjl090wc3ls61hj868fgpqabkmyqm1ygb7a2dmnx3b","r":true},
@@ -11037,6 +11042,7 @@
 {"v":"0.0.1","e":"^1.66.0","h":"1zidfpzdsda289lj1aj74bcl46d8b70w62khnv9lqvn43vq5rk25"}
 ],
 "wandelbots.wandelbots-nova":[
+{"v":"2.1.1","e":"^1.99.0","h":"1wslcpaqnamf7n72f6cpbnn8ngfxdchdsm5qchrsb850c6slw7sb"},
 {"v":"2.1.0","e":"^1.99.0","h":"1z1zl5ccz2hivzmbmx6fckdbdgpsrv03r87wcz6wfa4bdhqlnj9n"},
 {"v":"2.0.2","e":"^1.99.0","h":"18crk15lihqdwy480z86p879ldrq4ylkr1niyg30ilnmb2bb4g9p"},
 {"v":"2.0.1","e":"^1.99.0","h":"0ss8jdhhn0bp1f47p5yc2md2ls6zrja00d3v367grqdg002bng0c"},
@@ -11607,6 +11613,8 @@
 {"v":"1.0.0","e":"^1.68.0","h":"1587n2p2pynnx1dh9p119cwajzy74v6mvdrbn8iivbq1mlzw11x9"}
 ],
 "zoocodeorganization.zoo-code":[
+{"v":"3.83.100515","e":"^1.100.0","h":"00wd283iny90qplkbmgymjmlfcp4xxhmmwpdg54jkf7hcih35pb6","r":true},
+{"v":"3.83.100514","e":"^1.100.0","h":"1fff88cgv9h5i0891ay9v4lbqyhina4jwrmrn0576gwqbhnsdd4k","r":true},
 {"v":"3.83.100513","e":"^1.100.0","h":"0cw14sjxcidrasz226zk1yzxi7cfyzf4vaibz1xss106d14pbll2","r":true},
 {"v":"3.83.100512","e":"^1.100.0","h":"1v9s6834sns106hxbp5bgcfswg59jqm782rcffwlrrxf29l92xzd","r":true},
 {"v":"3.83.100511","e":"^1.100.0","h":"0665wz6fy5aymdjmvzvb5mnrqfrryfxj6rpprvjgd4nkgmklwfyf","r":true},

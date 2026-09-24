@@ -552,6 +552,8 @@
 {"v":"1.0.0","e":"^1.57.0","h":"0jkbn5kjqwsi8bc11q7cby7cpjmby7v21qcpn6ljs622994n7hym"}
 ],
 "apptware-product-lab.markr":[
+{"v":"6.9.0","e":"^1.80.0","h":"1by89xm9xq39hddy58mcgqmg8iyi0kbh6vb7jfa9zkfk8gagk703"},
+{"v":"6.8.0","e":"^1.80.0","h":"01865jsxcbkn7703v22mrgnxyg3fra8dmxcg9mlxpw8zjisdcjn1"},
 {"v":"6.7.1","e":"^1.80.0","h":"0iawc1dy951ng35i3jvwa5l54gspgy16k35j0jj2rfav9m9nwc4k"},
 {"v":"6.7.0","e":"^1.80.0","h":"1ma9rrvj6ls195hfybinxrb01bgkyv4any7gmvdrr78h9hscn4cq"},
 {"v":"6.6.0","e":"^1.80.0","h":"1ik5l3i5kjv60hkm51gylfiwszn4yf66yrq2n8hnsb2i1l41y7pv"},
@@ -2423,6 +2425,7 @@
 {"v":"0.1.0","e":"^1.108.1","h":"115xymlvcl7yxic7qnrdszw028ynfds2m3w7yz2lalhrmij1d2nm"}
 ],
 "dirac-run.dirac":[
+{"v":"0.5.16","e":"^1.101.0","h":"06addydx15xdr6xpf9rf5350s8qhnrwi0xiliinr4msh7k420v8x"},
 {"v":"0.5.15","e":"^1.101.0","h":"0arym5jjwfpzgavsj2sbhg6n9h64nj5z17rz66dw6dwp7mz8ml1q"},
 {"v":"0.5.14","e":"^1.101.0","h":"0zcqzxbbi91q5il8iql2jlkbnppswiknmx4h3cshhi5q9bnz8y2m"},
 {"v":"0.5.13","e":"^1.101.0","h":"06lw3yjwgmyfyykly3075418b8vpgzri3v4xw8y3vhfpmi5vr6pz"},
@@ -4491,6 +4494,7 @@
 {"v":"3.16.6","e":"^1.103.2","h":"11i3nqw3vqpwl86hz4fccxxdq8ds7j4nicrslqvyb3i3b0rd1dv5"}
 ],
 "kaierikniermann.language-check":[
+{"v":"0.7.0","e":"^1.85.0","h":"1gvmh3yb5v69l4xc2ba08mjfcch0q3x0rz6izyrpk2ma2yfa3xcm"},
 {"v":"0.6.2","e":"^1.85.0","h":"15zb7r4h0lkadhrrqnpq22gcmbd32gk7d2vcg5f6mv2sajfvv2c8"},
 {"v":"0.6.1","e":"^1.85.0","h":"0il8aari0caa6wjij25gh71m563pm364nii50d8c0b65sp0y2jnj"},
 {"v":"0.6.0","e":"^1.85.0","h":"13xj03wsxfx13b7afqqrgijgajzni4jrldsmcv5281yx51f330dm"},
@@ -6165,6 +6169,7 @@
 {"v":"0.0.1","e":"^1.101.0","h":"19npxbrmqqr6gir82mj39cdbd71s5j602kqkmxlmf444jdjlmp03"}
 ],
 "notethink.notethink":[
+{"v":"0.4.3","e":"^1.137.0","h":"1b2fa2bswc44h3cxr8rcmjn4p10bgfmnvciwsqj9dbjljgy1q9kk"},
 {"v":"0.3.69","e":"^1.137.0","h":"0bx8c5w6cly5zjsc584q6sv1xabcdaiv9x2wnaqb4r6hx5kz0cfg"},
 {"v":"0.3.68","e":"^1.137.0","h":"172f2xqdw83fd0dhwzrxirs21kn76x0px9jkxcdw67hwqa1rynff"},
 {"v":"0.3.66","e":"^1.134.0","h":"1fsxyarbyna1m3gzchzbrxn9vcpavdijspymd2bw2dnr7m546r59"},
@@ -6335,6 +6340,9 @@
 {"v":"0.4.7","e":"^1.46.0","h":"1pzgaj28b9d7pz6880m9iff38vfgamjfwjymba0rwq6wd3s4n9q9"},
 {"v":"0.4.6","e":"^1.78.0","h":"0v8j8468q9hivg81jjflsyhgfkj3ayf0nw9yq2v1ysjfqz9fziy9"},
 {"v":"0.4.2","e":"^1.78.0","h":"1a0plnaysa4i5hh5rsjigkia8r29czph0zwv8rdc959j7p03lv95"}
+],
+"orbittech.weavelab-prod":[
+{"v":"0.0.1","e":"^1.60.0","h":"074xxjjziadwza81g4cc4dc2zh28vhs03gsfaryzapszsqfskdpd"}
 ],
 "orientluna.chatglm-router-vscode":[
 {"v":"1.0.0","e":"^1.104.0","h":"04gry243ssd01v7045rq4y76d1bi80x4w180pzq965p2xqif0mgx"},
@@ -6946,6 +6954,7 @@
 {"v":"2.0.0","e":"*","h":"1yxphysgvqfip3h0fh3k8g4vxm55r2x43sbpzj3vbxbk6bpbz0mv"}
 ],
 "readystack.ssdf-attestation-workflow-audit":[
+{"v":"1.0.1","e":"^1.75.0","h":"1rhaswza5j1dvpcpw490b3dpwxdh363irbjvh3kn85rky8jl81nz"},
 {"v":"1.0.0","e":"^1.75.0","h":"18za5h1rac1lpn5zr8xj0k795dmk55mhbynrqildwdcgdgznxqy2"}
 ],
 "readystack.stema-kisei-lint":[

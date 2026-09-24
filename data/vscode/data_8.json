@@ -1242,6 +1242,9 @@
 {"v":"1.1.0","e":"^1.82.0","h":"0bzvrfiyw6rdih2ipnc1q01xqmlw9cv41ni2slds51bd649smy0w"}
 ],
 "chengjian.vscode-markdown-reader":[
+{"v":"0.3.6","e":"^1.100.0","h":"0sx5917vmd0rdlkixmdx5spmmmiq3ah96xqr9qqkjxhx9h8m59yd"},
+{"v":"0.3.5","e":"^1.100.0","h":"0l8gwmf4d00zb00ynpm9ggb5qj1hhv71n82xrgnjsam3h43mfkif"},
+{"v":"0.3.4","e":"^1.100.0","h":"0xhicwjzjcij3ls9i3nnczq0za81qylrpccjn13b0sp745nawr9h"},
 {"v":"0.3.3","e":"^1.100.0","h":"0w8ip13hf1yz18cswzkpz17d64msmccfwqw5v26z5kkgw6mz9xqm"},
 {"v":"0.3.2","e":"^1.100.0","h":"11m15h7l8v81a9b8spxrrgc8iv91id398cf505cvd0jdijzaazk8"},
 {"v":"0.2.3","e":"^1.100.0","h":"0m7gnyysxf3242clajjp6qx98zka7mk5pyzh061qg6fnd4x4bm56"},
@@ -6637,6 +6640,10 @@
 {"v":"0.1.0","e":"^1.78.0","h":"0g932zpzpxhf7x188rlbpjzfyjpmy78mhky1j523yz4mwiax4kjr","r":true}
 ],
 "ms-windows-ai-studio.windows-ai-studio":[
+{"v":"1.6.14","e":"^1.105.0","p":"darwin-arm64","h":"15fdg1qimg8mxg02chyny9d34pcjwc5gchlkmhbirzyxz58r9qyk"},
+{"v":"1.6.14","e":"^1.105.0","p":"darwin-x64","h":"1951q0wypw6s7yrdics8n9x65p5dvysx59f9273468a8hgbg283z"},
+{"v":"1.6.14","e":"^1.105.0","p":"linux-arm64","h":"0gzs8l4ippj05kslrji1fg1amfvwibx8j4116js42bhx2zf7085l"},
+{"v":"1.6.14","e":"^1.105.0","p":"linux-x64","h":"0hlsa7anlz2rmm1xizh4251z4i0jd0b9c004b86yi9a961nqm7rd"},
 {"v":"1.6.13","e":"^1.105.0","p":"darwin-arm64","h":"0lyn06624h0jwaxmmgpv5np6m7shdmczy371ssxapqqyjy5w0sbq"},
 {"v":"1.6.13","e":"^1.105.0","p":"darwin-x64","h":"1pa172z7g14hz3rbgmn0b6jyn0lgz2x8bgmf3ilh1x1fqa7zmh8z"},
 {"v":"1.6.13","e":"^1.105.0","p":"linux-arm64","h":"1xw98nysib1xlv8wmnlzain7cfqrzf5v8ydmgv0d9x6pibi2kv81"},
@@ -8376,6 +8383,9 @@
 {"v":"0.1.0","e":"^1.95.0","h":"0llbybp4hd9f24hrlsvg0qf8mfz449jxic6gp41s804sksa95bm4"}
 ],
 "readermate-dnslin.readermate":[
+{"v":"1.2.13","e":"^1.60.0","h":"0ysy7b05f85201x3p7w991manvpdhv7vzfhi1imi375bbx2xfrbw"},
+{"v":"1.2.8","e":"^1.60.0","h":"0sjd7an64b1fzgylh7sq4glzxsp8vznhv5q1xfa0rb38sk04rpza"},
+{"v":"1.2.6","e":"^1.60.0","h":"1kbi5xsgwahpn51v3scz655av9mg50qysxwi4h5lpd1q8x984v15"},
 {"v":"1.2.4","e":"^1.60.0","h":"0ihf5dwvnn6x52wg1ggs7wa2rknqgyn0fqb6q4siq0ih1lyz4vf0"},
 {"v":"1.2.3","e":"^1.60.0","h":"0zqasxnrp4mvgiwr6yb7ig4grfbfvc45v5paf6zxfx2ph15wis7k"},
 {"v":"1.2.1","e":"^1.60.0","h":"1rqi3n05lqxg079dwapdbb715l97b9j12d1nljcqq8hrn7hw2i48"},
@@ -9699,6 +9709,7 @@
 {"v":"0.0.0","e":"^1.22.0","h":"1whsv6kv76byyds041jhs1f17n8fs7aqzsqrwxqxx24d6fd1f62l"}
 ],
 "thewaterdowngiraffe.robot-live-runner":[
+{"v":"1.0.2","e":"^1.85.0","h":"199qhq4a3qv1l3hhc1xjdwk2mxbzlpbvv27p5cirz6ii98zx77ds"},
 {"v":"1.0.1","e":"^1.85.0","h":"0qx5lwmgxnwlmskb8ymxhl6wq0n8wpjg7a987wfj5w0sdldd4an3"}
 ],
 "thomasaustin.mail-zap":[
@@ -11044,6 +11055,7 @@
 {"v":"0.0.1","e":"^1.80.0","h":"1v2ad4alk4yj5vn80aza8midahswrkvzx7076r9c16iihw5cf9qg"}
 ],
 "zerofinance.zerofinance-git":[
+{"v":"2.0.16","e":"^1.30.0","h":"026b2z8smg1avswff6cfsppxz5i4cd02vmaj5nc1zk527shwi3yk"},
 {"v":"2.0.15","e":"^1.30.0","h":"0qfazla0632jz58ih9jvflxh2dbzgl11syw5ywr73lfaysg3j7lr"},
 {"v":"2.0.14","e":"^1.30.0","h":"0b2hg5lgbvgbjd7a14bc0qpc4s4nmyqwgmlhzd9nhkhhszz44fws"},
 {"v":"2.0.13","e":"^1.30.0","h":"1l7m4gf4k7m6md71im22addam30n6hr6fpdqsl2h0cfgwy559h2q"},

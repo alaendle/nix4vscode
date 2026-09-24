@@ -2889,6 +2889,7 @@
 {"v":"0.1.0","e":"^1.41.0","h":"1rg8309ac3zly9yssaqzk75bb6cgdqpfljkiqn7xgqjlfyms1rwp"}
 ],
 "hidenobunagai.commandcode-goat-provider":[
+{"v":"0.1.26","e":"^1.104.0","h":"00xp7h7bjw2hrbsipny44xn0mm1p30syjrd8mfijxabilpbqkxcj"},
 {"v":"0.1.22","e":"^1.104.0","h":"0gsvfl8b5gph6fz6lm04csmdf1h6js02yniafrsy4hhfw217nplg"},
 {"v":"0.1.21","e":"^1.104.0","h":"16wzpwrzr2vjdjhh4hv7367rlmlcga3a9c54q6j11dqfqpkdf65j"},
 {"v":"0.1.20","e":"^1.104.0","h":"0hjwg55ai2f5lbd5z7j2y3wxqdnlz5mrgighx7k025qsncrj6zf5"},
@@ -5248,6 +5249,9 @@
 {"v":"0.1.0","e":"^1.90.0","h":"10klcmcvnkjlkfqcqkl46c12fcd14alm5784rv3spmpqafk6jjal"}
 ],
 "mshobeyri.multimeter":[
+{"v":"1.43.3","e":"^1.95.0","h":"02rikvbpv2n9prvjmjylqhxj5w79wgd97zcn6qim7gpn277l37vg"},
+{"v":"1.43.2","e":"^1.95.0","h":"038m337c4088x9npkxpravi0x8pk4mg7lqsa7cqi5app9kyrkfs8","r":true},
+{"v":"1.43.1","e":"^1.95.0","h":"1k0mq55cpqms26xgcpv80065n8arnmgfd0h6pq5706m8bnh2g1sa","r":true},
 {"v":"1.43.0","e":"^1.95.0","h":"00frijxgx557zfayg0g82yc29bfz6x540gp2xaxaha8cl40s7dgw","r":true},
 {"v":"1.42.4","e":"^1.95.0","h":"0ry2svg526yzp67nlsb4nr81mxgck50wgvh1ai6xaav5xa35crcm"},
 {"v":"1.42.3","e":"^1.95.0","h":"0m70i9nwm14dbsqsm2hw1ya404h49h8jak74pq0laj1frh1hbzdy","r":true},
@@ -6344,6 +6348,11 @@
 "pozsarzs.modshell-script":[
 {"v":"0.0.1","e":"^1.97.0","h":"1ji75zrk5qbgc7g0n3n026hvhh0aq37dzpgadky18p7sl8aawbkz"}
 ],
+"pradiptahaldar.pradpy-vscode":[
+{"v":"1.0.5","e":"^1.85.0","h":"0p7lsvf8s497kyh8a9920p84xzs1pnwfxqlbfb93jc4418ybzyh8"},
+{"v":"1.0.4","e":"^1.85.0","h":"0fqqkm1bvnw0a08kvld0s73yw19fcjpjpl9g2mj4671vz9ik4rz4"},
+{"v":"1.0.2","e":"^1.85.0","h":"0rf82z9aksg3xn6flml8ga14ravizz4qha20a3la0wj4nzy1nhz0"}
+],
 "prashantadhikari.sleekweave-dark":[
 {"v":"1.6.5","e":"^1.94.0","h":"1nsg4agknvsx31lksr5dpra6k91kphslal2s7kns27cnm3sws7nf"},
 {"v":"1.6.4","e":"^1.94.0","h":"1x7lavijv4xcl62z7655c01gfaj0af9ivwzvnvwz0amc1ndn75i9"},
@@ -6816,6 +6825,7 @@
 {"v":"0.0.3","e":"^1.75.0","h":"1gck70pd6fcd8lg5gakhdgydckv9a60dajg29pk0j3in7m02bxqr"}
 ],
 "rayucode.rayucode":[
+{"v":"2.0.14","e":"^1.85.0","h":"0z3y6y39fx3qfb9pb939cma5qzym9v5fl2wwzzxlwpbwalz0lfl4"},
 {"v":"2.0.13","e":"^1.85.0","h":"1a69mc30jwsiam76smhrz04mgj9ijgzfxc5m7v8q3rh9npba9ykn"},
 {"v":"2.0.12","e":"^1.85.0","h":"0qv2w2459yd2y40p51nzvvcvgi1is8jhlwp3hnpx6b91zq48hinz"},
 {"v":"2.0.11","e":"^1.85.0","h":"1dbvly53b4awsw95801a7qqwvb3b51s566mk0pcgzg5qg44bas8k"},
@@ -8907,6 +8917,9 @@
 "valentinjacofsky.classnameextractor":[
 {"v":"1.0.1","e":"^1.86.0","h":"1l9rx6blk2jc5lra7gbp9qx39d6wwda6ql63mkqiqxz4agjvw28d"},
 {"v":"0.0.1","e":"^1.86.0","h":"18pyhknvliv7lnmyckgw8xkn0jyjhp2id7sq6qjqxz6bj9f1v0p5"}
+],
+"vectorinteractive.orbitwork-dev":[
+{"v":"0.0.1","e":"^1.60.0","h":"1cr2frhq8qc9bdq1z9nqa9yjdwqlgnhqf94s7psq1a5370wazn3h"}
 ],
 "veeanti.goldsrc-mod-tools":[
 {"v":"1.0.4","e":"^1.90.0","h":"1s7467liaj01jlcpd4ahkwzgmid6wa5yyj8y90fsc39qmwkcprpr"},

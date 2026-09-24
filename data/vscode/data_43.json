@@ -653,6 +653,7 @@
 {"v":"0.0.1","e":"^1.95.0","h":"09vhk8i1hgsi5wf058b84s0vhgbg6bc0mm1r025sqqiicr2f2lh0"}
 ],
 "ashvinbondada.gossamer-preview":[
+{"v":"2.1.5","e":"^1.80.0","h":"1s5gjr7slhlhjnbb4bscm2plii3dvv22l5a9zqxbwch8jzy8myar"},
 {"v":"2.1.4","e":"^1.80.0","h":"1prfl5qf8aamk6zxhyj522f2ff0dv1dplyzs2k0gwfji3sba5zv0"},
 {"v":"2.1.3","e":"^1.80.0","h":"0p6kshbgpgjmksf9ig6rkl48n6drrv96dnz7ksgr701xin82bd8p"},
 {"v":"2.1.2","e":"^1.80.0","h":"1f5apgnbl2mn5fikzdrsq9xfx588lyc9xshsq5c913in6ysb9ff0"},
@@ -2339,6 +2340,9 @@
 {"v":"0.0.2","e":"^1.63.0","h":"09pqj3a238lg0y5h01zyx5w8s3kcj8p6fmkc95bwx9rzqaixxnfq"},
 {"v":"0.0.1","e":"^1.63.0","h":"16xj3lr7pyf9hwhhysn6hmblg1wxdcad08k27qx6s21pwa873q7i"}
 ],
+"ehpalumbo.openapi-gateway-for-chat":[
+{"v":"0.1.0","e":"^1.134.0","h":"0cri0680lw37pl9r081cdagq8nq7wj4g0jhn1qvg8x4i0xgk2zjj"}
+],
 "elchi.elchcode-syntaxcolor":[
 {"v":"0.0.1","e":"^1.103.0","h":"1rm7f7hl23ad712if12x6mfxc1jcqqm23wc1fylw0x7lyl82k9bv"}
 ],
@@ -3359,6 +3363,7 @@
 {"v":"1.0.0","e":"^1.52.0","h":"0z3kd2zfdmsqj9yc9b2ay6ysphf1hrix82lzhnlsfqqcdrhgsfj9"}
 ],
 "hsz-qa.freesia-qa-ai":[
+{"v":"1.0.4","e":"^1.100.0","h":"0f9wfzqswdrym7gfaw0y88fpcjp1p2p2ab7257chr8466d6phzhy"},
 {"v":"1.0.3","e":"^1.100.0","h":"1rkri9ibql72avhjawmdmq2a5i4c1c96i8yhj7fg5lwwzg7a0fzj"},
 {"v":"1.0.1","e":"^1.100.0","h":"0bwzml2sjwscsypgm2wf15r69y4r1cwbinh7lj8kzbh0panpm63w"},
 {"v":"1.0.0","e":"^1.100.0","h":"03gxr49rz2fpyy3r8c6vgc55c9k71ldp6drsl50fllrsi8xfbc18"}
@@ -7379,6 +7384,7 @@
 {"v":"0.0.1","e":"^1.81.0","h":"0n4n2sb0wzzigsdjhf3hzs7z7p5byh3iwj1bm3fcw9agnjwnqr8x"}
 ],
 "saisiddharth.vss-language":[
+{"v":"3.0.1","e":"^1.60.0","h":"1nwijd70hn9hzl0sj3mdcpw3i8938adnch3vqbivpz0cs2wp6649"},
 {"v":"3.0.0","e":"^1.60.0","h":"0x97vlsga39n6g7jbjbv50qnvk1zy6vdc36f71pah9dhn21gxhla"},
 {"v":"2.2.2","e":"^1.60.0","h":"0sii31di26mg0hh7bq0rqh59p8bx98hniwhr08cbcjfa2vppmxbp"},
 {"v":"2.1.0","e":"^1.60.0","h":"01kyp5kvr82wlz3w1ixnqs03xdwhl7xw2abs778pzv3a4lb8l3m0"},
@@ -7421,6 +7427,8 @@
 {"v":"0.0.1","e":"^1.80.0","h":"0p601llv3b902ci02m7l28qnd3yl1h97bcczn628ks5k42mx47h5"}
 ],
 "salesforce.salesforcedx-vscode-core":[
+{"v":"67.23.1","e":"^1.90.0","h":"0h0wf73fz6k2gphmhknqrb0asps1kq76473j5fmhiiypszyg87z9","r":true},
+{"v":"67.20.0","e":"^1.90.0","h":"05lx56valyfvwmch93vi0zrw501k84m7mqbf08mda7fpnzpmlk1l"},
 {"v":"67.19.0","e":"^1.90.0","h":"0z5r76wdvimcr5cnx8wkm6910532zmlaf97ghr0iwpzh1w2vav1k","r":true},
 {"v":"67.18.2","e":"^1.90.0","h":"0c2dq7d2c38l7gy7x6h1403fg54wqwngjd2yaprclwgqf8nl0bhq"},
 {"v":"67.17.16","e":"^1.90.0","h":"0z5i7d85icfgzcvszgdx4p5nlqvq47r4824d0dyxmpq5c2i61kck","r":true},
@@ -9843,6 +9851,8 @@
 {"v":"8.0.4","e":"^1.34.0","h":"03rxg7d8vm2fdd6qalrgyriilqah55rlpkcxdbigil92n2dypzbj"}
 ],
 "vortelyn.vortelyn-office-studio":[
+{"v":"0.3.5","e":"^1.130.0","h":"0rbkwyak20w12by4mdvj6iv6fxwpiwbb6ybc5lcns0frvk5jmp3x"},
+{"v":"0.3.4","e":"^1.130.0","h":"10x1d1rjxbgi6v4rwn4ny0b48xjzvfdgr7q145vy5xw7nscjb1ar"},
 {"v":"0.3.3","e":"^1.130.0","h":"1wj5nblmmqwvy1h75l96d7q761lybv2r89wa72kgv2q0vwfxkk84"},
 {"v":"0.3.1","e":"^1.130.0","h":"1j28g5j74a3xcppgaay0lkrlh2g2sqw3wc3aknryqx33f10z92wl"}
 ],

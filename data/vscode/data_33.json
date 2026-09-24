@@ -4143,6 +4143,9 @@
 {"v":"1.0.1","e":"^1.99.0","h":"10dby4dj2bhr1kknjc5wlcxaxddm5j3fcxi7njgvav3wx9xi7h4y"},
 {"v":"1.0.0","e":"^1.99.0","h":"0n7qvv8j6sjg5f3a3slgpp8gpsdh30k6p79yk2zs3a9iv890xxk5"}
 ],
+"halodigital.rivetlab-dev":[
+{"v":"0.0.1","e":"^1.60.0","h":"0wkzy4d2ifjf077kmvamygr4dzldsl3l415wji2ni51r1crqib9g"}
+],
 "hamzawaleed.glance-claude-code":[
 {"v":"0.0.34","e":"^1.90.0","p":"darwin-arm64","h":"0jrd2brpfdlbf95psf2h0ws5yqrb3wyk6pxp43q7hm6v0kz517rq"},
 {"v":"0.0.34","e":"^1.90.0","p":"darwin-x64","h":"0nifbwxw4izkg2gaadyh17al0pm139m4kjr9rdidbmy7w008hh0v"},
@@ -6902,6 +6905,9 @@
 {"v":"0.0.2","e":"^1.67.0","h":"0hv1kcc4phv9xajvqyhmn6az1dfa5xqxgbgh797wwjvd2yjwwvry"},
 {"v":"0.0.1","e":"^1.67.0","h":"19qj9gy3nx09jmmjqghmp3649fwva5hyql7hbqchn5w8l68ddwar"}
 ],
+"nexion-labs.vura-local":[
+{"v":"0.1.0","e":"^1.80.0","h":"14dplashsr6fv6r0yzxv92rxz4vgj8jpgxbkbcqnj0s310427rgp","r":true}
+],
 "nfep-automation-team.nfep-bdd-sentences":[
 {"v":"1.1.2","e":"^1.00.0","h":"1w6rqm4yvggg1v39nnyxq331i4d9cb2y4qg6xsbb0xw4s92d42lj"},
 {"v":"1.1.1","e":"^1.00.0","h":"15ya90yixighy3xsxqq6ma4rzb8bag05fcxly3vxwrahrx4a6zcf"},
@@ -8635,6 +8641,7 @@
 {"v":"1.0.1","e":"^1.96.0","h":"0ck1j5y1xlcim956z50wsxyvjm3425czrkyslrhf56j1ms47kncm"}
 ],
 "shadcncraft.shadcncraft":[
+{"v":"0.2.1","e":"^1.93.0","h":"0c72122nawk74c1hd864c091b5gzdcslhaqni8js0vzp6wh7wfb1"},
 {"v":"0.2.0","e":"^1.93.0","h":"1hw3l6wn0sn8darx4pv892xr0266kvrwqbz11ny7a7hiz9q2hgqn"}
 ],
 "shai-alit.python-on-viya":[
@@ -9679,6 +9686,10 @@
 ],
 "ultola.ulti-theme":[
 {"v":"0.0.0","e":"^1.22.0","h":"0hr2f6pqg9w8f45rr1xrv4nnyfrb7mlwfa9mm5nd0s98aah2dcax"}
+],
+"unionschool.easy-deploy-vscode":[
+{"v":"0.3.1","e":"^1.90.0","h":"1lcjrzdam2y9yjgp46n804h8hir9zskdsdak64ycn0av5bygqk5i"},
+{"v":"0.3.0","e":"^1.90.0","h":"1fx2b7w6pnj84400lnsq1cwaqwlzsynsk7qdkw82lgppj41h500x"}
 ],
 "unouo.vjassgo":[
 {"v":"1.0.14","e":"^1.103.0","h":"0ycf4c5xvlyqx69q7br5fayi5vfdm8ka91b1j2qa1nr6vis0zfry"},

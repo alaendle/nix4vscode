@@ -936,6 +936,9 @@
 {"v":"0.4.1","e":"^1.85.0","h":"099gbvfhaibyyqxaiwha8gdbinpjybimkgmffh837xzhcq2s130f"},
 {"v":"0.4.0","e":"^1.85.0","h":"1ks8972qvd8qjm2v4bmv1zjgfkfk27s027ijz6h1sh1n2hdin3nf"}
 ],
+"apexinteractive.mintcards-prod":[
+{"v":"0.0.1","e":"^1.60.0","h":"0bnkd6r3wdrpb9wgrr2v1dsi3rp7yjfglkzqh75zxg99g1kf5hx3"}
+],
 "appforesttimetracker.appforest-timetracker":[
 {"v":"1.0.1","e":">=1.59.0","h":"1nx0w34q15zp077hqfgvzk7zjwpy2hrrws1py0d9ncq0nrn77655"},
 {"v":"1.0.0","e":">=1.59.0","h":"18ynpl08gj1j4fr77fj7sfaxcjqinaipg9i3n5ln8h5yxl2dhx7y"}
@@ -1068,6 +1071,9 @@
 {"v":"1.0.4","e":"^1.34.0","h":"13driykqxar2mxm1h55vpnv5wbawnhsg26gbyi67rwpkhprkbbr2"},
 {"v":"1.0.3","e":"^1.34.0","h":"1xaf84cn5249sgalnk6f8k4hax38zfsyaks0s3b28a2sw2np9rhm"},
 {"v":"1.0.1","e":"^1.34.0","h":"1gcl15hkrrhwx00awdr445449aqn0shzg9xnq5cdh007pcr91lfd"}
+],
+"auric-artisan.auric-artisan-formatter":[
+{"v":"0.1.0","e":"^1.74.0","h":"0dqmhg1g07nhva9i8qs3dbl7i426xskxdajcwbnna3fmh97m2fv3"}
 ],
 "austincummings.razor-plus":[
 {"v":"0.1.4","e":"^1.21.0","h":"04ay4kbc79hv2iliiy50yvxrk2gsmbscwrfyp3jccx0fvc6zwzrc"},
@@ -1786,6 +1792,7 @@
 {"v":"1.0.1","e":"^1.78.0","h":"0adnidwy6bqm5wacn8grqmahmwnnq3sn3i81k0lbn5q3l814ij6k"}
 ],
 "clauderecallhq.clauderecall-vscode":[
+{"v":"0.23.4","e":"^1.85.0","h":"040xfcpgwjmk5zgrdyww8dl5hapzwh1lfaa8dz0ja573iqgaxbx1"},
 {"v":"0.22.4","e":"^1.85.0","h":"01mi94ms4b8chxdns1l4vik0k3ig4raxp5y2z9fbw8wxl3s2i8db"},
 {"v":"0.22.3","e":"^1.85.0","h":"1wims2bmqhliq7pf81xg4qkx2qbv4cy4qv363vv98249q951yj1f"},
 {"v":"0.18.20","e":"^1.85.0","h":"13r2pq2xhq6gnxrvh7p06kig9hnwgjdlxyrwgidhwgd02gnr2snq"},
@@ -3420,6 +3427,9 @@
 ],
 "hossamtaha.one-material-monokai":[
 {"v":"1.0.0","e":"^1.13.0","h":"1m9abdva7pggfj1i712q3fvfnmwr6rwarglhq4x2nsfgpr54vl7w"}
+],
+"houengineer.sdw-he-vsce-workspace-sort":[
+{"v":"0.0.4","e":"^1.90.0","h":"12j17mn3mssb7zyhivgsncar86aymy226kkvj5g1174hbkz708i3"}
 ],
 "hqq.embedded-web":[
 {"v":"0.0.2","e":"^1.74.0","h":"1k0g8w4xlhz5d5nd44pm2lkzvz4pk2bav84qqqlg3gq264csdikj"},
@@ -5592,6 +5602,7 @@
 {"v":"0.3.2022013116","e":"^1.63.1","h":"1iwhrd8yyx202c04q020ai7lj78j7sqjl4x4liz06mmjcad1ik6n","r":true}
 ],
 "ms-vscode.vscode-team-tools":[
+{"v":"0.1.2026092301","e":"^1.100.0","h":"0n62rym1lfkwpi2kr0q3mj6i2iykqv9fjq10zzkgvh993mkir4f7","r":true},
 {"v":"0.1.2026092204","e":"^1.100.0","h":"1q1q6kf36qadvpzj0pksjsmm8p5x1akjc0ymhjka5yn46i87csw0","r":true},
 {"v":"0.1.2026092203","e":"^1.100.0","h":"155viq23sisny49l9djnb8dqa94shfpx0l4458y2h19sqmk5082v","r":true},
 {"v":"0.1.2026092202","e":"^1.100.0","h":"1mz8n18ci217c3mdab3c6hb69dmkj9jwjqpqdwyfk4ghyhsb0n7v","r":true},
@@ -6276,6 +6287,8 @@
 {"v":"2.9.4","e":"^1.100.0","p":"linux-x64","h":"0a3xnw0356fp9cra47imwsyirwaxb7a9vi380l8fqxs4qv2qlqsq"}
 ],
 "pawelhuryn.grok-vscode-phuryn":[
+{"v":"4.11.0","e":"^1.106.0","h":"191gv3br3mnrfd5v00gbpc9x1s3is8p6plrjxpvnb8cikw51z4l0"},
+{"v":"4.10.0","e":"^1.106.0","h":"1qlgh8z6ywd12zxi8r5nb31rxsccxqnnyksw5v2s32zg4mf5rxpg"},
 {"v":"4.9.0","e":"^1.106.0","h":"033mwm517x2xz23vq7mycgd9sh0cqlzhsbjsvy7zmdwqiac9akv7"},
 {"v":"4.8.0","e":"^1.106.0","h":"0m934lgkym4xzjrl2af4npw00dlf4shp7dlcls3w24vv1234rvrk"},
 {"v":"4.6.1","e":"^1.106.0","h":"00f32l1r8rpjsr6yl6sgd2kykmigzvr7ak1i6ccnrmh9qaxvs0mw"},
