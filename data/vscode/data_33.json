@@ -37,6 +37,8 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1yil3h57alc9jbj00pwylp3w3nad0q8zdvv8cg7m3vr87g297ljd"}
 ],
 "abechanta.vscode-ext-paged-media":[
+{"v":"0.4.4","e":"^1.138.0","h":"1vfm9gy0lgl0gd1iw23nbabyscdxfhc9wcnd45lrnfi76iv6k6sz"},
+{"v":"0.4.3","e":"^1.138.0","h":"1wvm5h1pnr1s2dpyqh6b3j5ippkms978czvjx63kpa65ypqaas7w"},
 {"v":"0.4.2","e":"^1.80.0","h":"1kfijd73qzzm89glmnzk829kp9lvz1pyy4fcc5vny4aiv2kfdy95"},
 {"v":"0.4.1","e":"^1.80.0","h":"0fwryw1wi2mk2j65yq637q92g1dixfah45k663k3151csp08257s"},
 {"v":"0.4.0","e":"^1.80.0","h":"0ydiz158np45n5a6h80isgrhy7f9na7c5np9mwbi2flqw4yl8zbn"},
@@ -2308,6 +2310,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"0k5sk5jqn100kxd2jx1is75v8p0n5x7k0gy408vvgnxx0phr490m"}
 ],
 "cherry-local.codex-config-switcher":[
+{"v":"1.6.0","e":"^1.90.0","h":"1rynhrz9njl01kij19rfyhcl4cg62pp5rr774siz8ybqmkp3phm1"},
 {"v":"1.5.6","e":"^1.90.0","h":"08zr6hmlk4kj73476s3kiyx1cqnfhj9dfgl787w0gffd23k11pds"},
 {"v":"1.5.4","e":"^1.90.0","h":"198fcasx7jwjj5vhghyvnwbpi0zxb2j2i41537q7bvk0rqv3nh63"},
 {"v":"1.5.3","e":"^1.90.0","h":"0z495dwbzqhilaq5bnbcxy4fs3plpbyhd6w7mzwca8z4v77v4v78"},
@@ -7683,6 +7686,11 @@
 {"v":"0.1.20","e":"^1.90.0","h":"182bjnhl1dsqd9hg82x1xsy4aynkfbd9j6bqdd3ni4sdmmqyiwnj"},
 {"v":"0.1.18","e":"^1.90.0","h":"16islxr3zavv4jnck8fm61dxsywk6n1c19bcwsd2d6ahx21kfd2w"}
 ],
+"readystack.action-runtime-sunset-lint":[
+{"v":"1.0.3","e":"^1.75.0","h":"1l81a4jsnqa2p6v0g8gha03mpgb8ykm2b214lhpaizn0am73j7f9"},
+{"v":"1.0.2","e":"^1.75.0","h":"0q88048gws8v0gpq8ib676yq5dz2m7fsp3dlzmmhahn0pqlf21lv"},
+{"v":"1.0.1","e":"^1.75.0","h":"10rdf7xaap0dk554l679y8dpp0rc286xypyqglxdg4bn5qwqfbyn"}
+],
 "realgolab.synaptic-sentinel":[
 {"v":"0.3.22","e":"^1.95.0","h":"1jm0hhachlqlwxksnnqif7na32c8p58gpw8i9a64ayv0xlbzr11m"},
 {"v":"0.3.16","e":"^1.95.0","h":"1czxzh393wav0s8a50f09nhha43i1jfddcj974j2x0d0y2s80cy8"},
@@ -7802,6 +7810,7 @@
 {"v":"0.0.1","e":"^1.90.0","h":"0l72d2q6124pz3ibqqbnxxwp36n429iz18kqy7jyxwqcy8m2wd2c"}
 ],
 "robertbreunung.ticket-sidekick":[
+{"v":"0.6.8","e":"^1.95.0","h":"045jl3alhn858rdzd9jdagsn964b7kxwzx153gwwa7s4j37hlxn3","r":true},
 {"v":"0.6.7","e":"^1.95.0","h":"0c3x90g7vsxmk6sji85wxsx2akaabb1qb4a2zj44n829z4mizgyp","r":true},
 {"v":"0.6.6","e":"^1.95.0","h":"09vc4y36s5s7phlyd1z8wi3972p9rf3dznj3gj5p0770bv1lyzcf"},
 {"v":"0.6.5","e":"^1.95.0","h":"1gkglvbikdmbx7xrdk9cms0d4ccgqyqs1mpwd6aj6nx6vz7vba2h","r":true},

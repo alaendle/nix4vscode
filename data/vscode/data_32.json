@@ -752,6 +752,7 @@
 {"v":"0.0.1","e":"^1.118.0","h":"1j7vad01cp626qipc50n4r4q2di6pz09svxxnc5jgkw5xp27g61x"}
 ],
 "atc-geo.datamine-macro":[
+{"v":"1.3.1","e":"^1.75.0","h":"1sxl3lp65wcsnj728h1q2xc2dwfky6vd5vac39fvbhpzii67r693"},
 {"v":"1.3.0","e":"^1.75.0","h":"103wf1nghyzzzv7cg5pqih7nain9mcfglwfrypprva05530vmrba"},
 {"v":"1.2.1","e":"^1.75.0","h":"07x9qm1yvr5f0dbfqq2v8pk3fcqlqm11c7filpprq9j1z30aflfm"},
 {"v":"1.2.0","e":"^1.75.0","h":"1m3hyn9hrv1qirwis9f2qql0nw72i3s8pmm9qkkiffl8n3kpmlkr"}
@@ -7919,6 +7920,7 @@
 {"v":"0.0.1","e":"^1.93.0","h":"175sln5lawgaiqad8nqi0b61h9v24ylwywwdwsh68g4lpia3q8vc"}
 ],
 "randynorthrup.muse-spark-code":[
+{"v":"0.7.0","e":"^1.125.0","h":"16g4bxm3h1dak68vn7p7g5dl4mqfh1nnaqap051p4ibh0zihsybb"},
 {"v":"0.6.0","e":"^1.125.0","h":"0swmg6xsrx9rggws6wg5iji47wf6cd5rh9zyk1slmf8mx8xv92v8"},
 {"v":"0.5.5","e":"^1.125.0","h":"0fzkxsm08jbbhhc3gbqiaqcj03n6avqpr5c8mxkk89kwc2xxpwn7"},
 {"v":"0.5.4","e":"^1.125.0","h":"1rib3l04vsi0ywzm91w5sbqgkza0gmpj249iyhv2n0fxarh5k3wb"},
@@ -8585,6 +8587,8 @@
 {"v":"0.1.0","e":"^1.42.0","h":"0nsi717hi4644saaqw1m333l38gqfq0zklb3sljmaxas43vjnalk"}
 ],
 "salesforce.salesforcedx-vscode-apex-testing":[
+{"v":"67.23.1","e":"^1.90.0","h":"154qd23gbqln16bipm4b9gb4pya5110sb6p4s8d85iy8mmxrilrv","r":true},
+{"v":"67.20.0","e":"^1.90.0","h":"03xiz0zy30n4jralfcydhmqbhhl2ahn8zcxbnwymjijjwg1q3pjy"},
 {"v":"67.19.0","e":"^1.90.0","h":"13mnhzva9a1wksmb1yappyggs3drqqd33ipqyfcfpd9prgby3hgh","r":true},
 {"v":"67.18.2","e":"^1.90.0","h":"1mylv3d8dza21cbzlrja8nbhv809kg6ff3rmkknvmr8i8zrcyg4j"},
 {"v":"67.17.16","e":"^1.90.0","h":"0hs6zjkcd1jyvw7glzwnb0vff65v150149haz0x6421rjqn80qfw","r":true},
@@ -8887,6 +8891,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"156gv8avif5kvjdm0k1n8xsw2ls02hd0wn7vw65736g0m3822568"}
 ],
 "sawyerslab.cde-plugin":[
+{"v":"0.3.0","e":"^1.90.0","h":"17azsj3g4g1ap04qj20k2cz1q56ckmsi7nhqxlijpgxnpdnqpgg7"},
 {"v":"0.2.5","e":"^1.90.0","h":"1lp37gqxrwkzm9yyqv57z41xyx03jvy43rilnb6x1qa5l9jdhxx5"}
 ],
 "saxon-chuang.go-imports-sorter":[
@@ -9568,6 +9573,7 @@
 {"v":"0.0.1","e":"^1.100.0","h":"1aqdwbq103f20b4rzws1plvmj8bjb58gyb4wz8406mhf55qlqifx"}
 ],
 "slint.slint-nightly":[
+{"v":"2026.9.2319","e":"^1.82.0","h":"025cg32iblg74xqjmlv8s27f3pk4dzdgx6dc5k2bwxpp2fwnm32s"},
 {"v":"2026.9.2218","e":"^1.82.0","h":"1njpamflsvmhnf13rvd8lwjk55jl5wnp9kpk59iqahnwmmr37kad"},
 {"v":"2026.9.2122","e":"^1.82.0","h":"0g3fkb6zrd11zb79zzqc4xm50z324chpiljkspashdh1l5gk8lwd"},
 {"v":"2026.9.2017","e":"^1.82.0","h":"07alzh24rm0ls338gvxaag3cv01m3cs1z4nypls059hrc5fvlyca"},

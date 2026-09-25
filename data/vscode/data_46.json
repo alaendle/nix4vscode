@@ -1811,6 +1811,7 @@
 {"v":"0.1.0","e":"^1.12.0","h":"0z8v02rk9qri70rg3czdnkfiz2p5ddkgwpda02jm17n0x3w3j667"}
 ],
 "codefox.d365-solutions-unpacking-agent-vscode":[
+{"v":"1.5.5","e":"^1.90.0","h":"13jg0vjpm0nvnfx1gxyi92sk9pajjcr5262mryhm5b6gnmmpf7n4"},
 {"v":"1.4.5","e":"^1.90.0","h":"1adzmfghsy7zbs1hi2y0w452k0jdsmgfgvybfxcnccm8bhpd74fx"},
 {"v":"1.4.3","e":"^1.90.0","h":"180269ywjlgm9z9zdc8n2a2k1rcgk2nhj0nm0wk4z7dllb4bvj21"},
 {"v":"1.4.2","e":"^1.90.0","h":"1dl28q39xff0p5mah5vvis4dlzi19q9i09z7i0q35nf2rd6m3y9p"},
@@ -3063,6 +3064,7 @@
 {"v":"0.0.1","e":"^1.60.0","h":"0xl4hxqc9h7m6z9wysjim62m6mhh1p1i97s377y3gixqlpr4py0p"}
 ],
 "dumpling.market-watch-mvp":[
+{"v":"0.0.13","e":"^1.90.0","h":"08anwlsk2yg7vbab4m1yxy4h99hb8kp6x48jlfz043jd4ksi6y8p"},
 {"v":"0.0.10","e":"^1.90.0","h":"0v6jcsk8vyr171789m30iz16yrm4a441awqim79sczn2n03x4aix"},
 {"v":"0.0.9","e":"^1.90.0","h":"0g4bgjqmwxz1kfbwsca6dawff2f96rjy1jfmq941pd207mj6rv0x"},
 {"v":"0.0.8","e":"^1.90.0","h":"0l268z3gzq41f68l4d6i4hzm5dz1r46labwkvfccgv6p4p9xqnrr"},
@@ -4951,6 +4953,14 @@
 {"v":"1.3.0","e":"^1.74.0","h":"02zdr0m3d0yysg6jd7g1hv5bsr66y429c49b2msjbjpws1nfqply"},
 {"v":"1.1.7","e":"^1.74.0","h":"0kbhccyfm9j262w122wyqmwg154v1xdp3ayy8jmxj3vnxlklar91"}
 ],
+"jenesei-software.nvm-manager":[
+{"v":"0.1.4","e":"^1.85.0","h":"16blwps4flp74ihd59495nsk88wkj23hkd1fw69bdwibh0cc29f1"},
+{"v":"0.1.3","e":"^1.85.0","h":"1wcbah52s2wng1aaiw94rpraymjv40jsy1xnjc0m2a1qyb846yiw"},
+{"v":"0.1.2","e":"^1.85.0","h":"1cc0rhf2bnc24ysxs03x6jvvdzbxwsyrfapxxiiybdf5zh8xs903"},
+{"v":"0.1.1","e":"^1.85.0","h":"17v3qdv1a0fmww482y8zmm4kiz677n55zbq3n3x5gihsbd1mvhrq"},
+{"v":"0.1.0","e":"^1.85.0","h":"0y0c46rlh3yjwpwwbx9pddzjd9wcsdpc945nnzxawp7x9gfp38c0"},
+{"v":"0.0.1","e":"^1.85.0","h":"03g2gn1cm0psdhw042cajmszd3jjn768bkg1zfkc4lk2b482zajk"}
+],
 "jeppeandersen.vstsbuildstatus":[
 {"v":"0.7.1","e":"^1.5.0","h":"1a459456lm4pbsy3nrlk40amrppcfqcvcpax74a6rl59yf0gjr3b"},
 {"v":"0.7.0","e":"^1.5.0","h":"1z3ds73l3nh55iv5k9scy3wqg6hc0dam3qms4qfcnsn3gnjbxz96"},
@@ -5711,6 +5721,7 @@
 {"v":"0.0.1","e":"^1.67.0","h":"09dypx9iknxrpgplxn8v58pdi6rsyaxy2giwwsw9zvdip38dq108"}
 ],
 "liangjunheng.vscode-gitk-pro":[
+{"v":"1.4.6","e":"^1.94.0","h":"0ns34mpvvixnd5vf4scmppjzip0fjr82pc6s8njdmbj2xyvj6knn"},
 {"v":"1.4.5","e":"^1.94.0","h":"0k06m2fimgjpgc375dnmzhz5ljg33a8k6n883ai6x47634xgiqlh"},
 {"v":"1.4.4","e":"^1.94.0","h":"1p0vfcd41nsldrhqb30w6v9lp0ip8zrn652wzg5spvcwqwmfl62s"},
 {"v":"1.4.1","e":"^1.94.0","h":"1b2qhfh1ycp6xlm2ka147knbbad42l8iniksh1dic6r75cp8dvsx"},
@@ -6811,6 +6822,11 @@
 {"v":"0.1.3","e":"^1.74.0","h":"1li89q6ixjsgch98ql20v4ncc0f0jk0wi7ri14vl147wnjpqscrf"},
 {"v":"0.1.2","e":"^1.74.0","h":"1dcvl68kgx1pqkqfzd8fi9wnj7vadmls5635id019dqmnf56p6r8"}
 ],
+"mparramon.vscode-language-pack-catala":[
+{"v":"1.1.2","e":"^1.80.0","h":"1ymcz276x9sgvczs4jrfnb664wpkrzcrcpzv37iagp6pxpgx11rf"},
+{"v":"1.1.1","e":"^1.80.0","h":"0i3wn3i5iysn9xc2rsjnl1sq7ndarhyrwirf5ksic0cfdz660f16"},
+{"v":"1.1.0","e":"^1.80.0","h":"0giyzbmpdpcbpyqfrcrxhhnkq20shklfaw46w3qv33pjc7s25im5"}
+],
 "mrairport.mountain":[
 {"v":"0.0.1","e":"^1.59.0","h":"158312kyrrx8m17gc68g3id8hi8xlkyw31219ymwdpkic40g1zik"}
 ],
@@ -7346,6 +7362,9 @@
 {"v":"0.1.0","e":"^1.90.0","p":"linux-arm64","h":"0ffrr0lmm3nj1xi9241xmfyd4nvzddarcnxsigb7pmf627pkipkv"},
 {"v":"0.1.0","e":"^1.90.0","p":"linux-x64","h":"16sm4pxx25mnynmiscckz8bggv3kf05b7x16p9vx534hdy7apjqw"}
 ],
+"pbsandtdev.swatplus-tools":[
+{"v":"0.1.0","e":"^1.85.0","h":"0dg85djf1ka8psvawy5f2zm6m9zxd1zc9jsmm1jdwj19nlrgailm"}
+],
 "pedrofuentes.gitnotate":[
 {"v":"0.1.2","e":"^1.85.0","h":"01s2rgasi8417r7s6y153qhiyc1sakwm4w8glchi80mdsjc6ywvv"},
 {"v":"0.1.1","e":"^1.85.0","h":"1f7fzwviyfh5ls4ayrmshwp886v29pdn5dj8lr6hr2zq9qf9a2yf"},
@@ -7777,6 +7796,7 @@
 {"v":"0.0.1","e":"^1.95.0","h":"0bm3nqllyyd1p3rv6xvs5aq0sbmv65m8660mg32msdzmlxgpayr9"}
 ],
 "readystack.latex-submission-lint":[
+{"v":"1.0.6","e":"^1.75.0","h":"17n3fhjv6rrr4450n8y2c6qkhn69j68w4c1iclrz479lkg1y3n27"},
 {"v":"1.0.5","e":"^1.75.0","h":"17ljjglkfd9wps0lqvl90grdiidhk45h8wkpnyrfxnrglg6wyzmh"},
 {"v":"1.0.4","e":"^1.75.0","h":"0v1w9b473sf3a0l799xyc0dph1y4zywh74wiwk7x025wakqvibli"},
 {"v":"1.0.3","e":"^1.75.0","h":"03yj2vxi3fw97xdmk33gr9fysvjiyhjqzd7yai8asg3k0hri2lza"},
@@ -7784,6 +7804,7 @@
 {"v":"1.0.0","e":"^1.75.0","h":"11gq4wll2i3bh5gc8l8rl8rlhy07f3hmm9h6068vbifj356vhzg4"}
 ],
 "readystack.reisekosten-pruefer-2026":[
+{"v":"1.0.1","e":"^1.75.0","h":"0z25nysrqyl9i0h5s04b9iwil6dgawxw343b9dcn2zrlbyzad15q"},
 {"v":"1.0.0","e":"^1.75.0","h":"03wpk0z0rpydcbqmgys5f2a5af713km7lw179an3s25d2nvq2ddf"}
 ],
 "recoskyler.vscode-perfection-theme":[
@@ -7901,6 +7922,7 @@
 {"v":"0.0.1","e":"^1.99.1","h":"1q68p0i7q3k83kgr9hgbl066mnmkngdvwy6853cqh1dpj2bxfxlg"}
 ],
 "risingfisan.dotnet-testing-plus":[
+{"v":"1.19.4","e":"^1.94.0","h":"11xn8g58yj7ms8ymq27gf3k1f0vsy7q33jr18ifzcw77pymzr9x3"},
 {"v":"1.17.7","e":"^1.94.0","h":"028nhsy9piinrn9gipcm8020r91j37hggxlb08gq25plrq0nhiyv"},
 {"v":"1.16.1","e":"^1.94.0","h":"06lkqyr6xyf2pj32gf0nfy48na0kcxyrxrfy1psqff5grjwkcalj"},
 {"v":"1.15.0","e":"^1.94.0","h":"0pg0bmz5rm2q54vg66qsra6rh1yrknnf8k9kdkwmknx7yh6cvny8"},
@@ -7979,6 +8001,7 @@
 {"v":"0.5.7","e":"^1.90.0","h":"15fac2dqx1l9l24j1gyc1iijsvpf0x1i7hbpbhprr00srz2hcfmi"}
 ],
 "rokucommunity.brightscript":[
+{"v":"3.0.0","e":"^1.81.0","h":"0nzwdy741nl8x9pgmfrrnd8817m9dx8rzz4c6hm94i5bdi48fhfn"},
 {"v":"2.69.3","e":"^1.81.0","h":"0szwzm75lrkyv5pkgvs19my2kxa01cly5563nkfjs0c86pbhsm9r"},
 {"v":"2.69.1","e":"^1.81.0","h":"1hrpfh110jfqh024xkrq131a7602g8cwnp14kh65q11dfrxx9spd"},
 {"v":"2.69.0","e":"^1.81.0","h":"1r08c0rxs265img0hyaz3nzvbc4a7q6apvdxv5vfqr107gkcmbmb"},
@@ -8613,6 +8636,8 @@
 {"v":"0.0.9","e":"^1.84.2","h":"0nmm3v8k5b49vk5zs29mb84nqw00ik28m2x2vgqcrh8a4biqg7mr"}
 ],
 "sinjmenaruchi.spec-lens":[
+{"v":"0.2.76","e":"^1.99.0","h":"0318p4n5gzw4zd9ng6933hs90p85mg6ckd91m1ci3h646j680qkj"},
+{"v":"0.2.75","e":"^1.99.0","h":"1g8n954cvh0p566k1hfqjfrj503dxnznh9v2xmmpn37h4fy29n7p"},
 {"v":"0.2.74","e":"^1.99.0","h":"1b0grxi0sikykfwlh4jjdc178pq42y2fsd71dkq4w15dgvv4b4f8"},
 {"v":"0.2.73","e":"^1.99.0","h":"1j4g4c5xzdczsghi3isspzgiq5nnk99jx0pg1bw8nm5mmf6xybdy"},
 {"v":"0.2.72","e":"^1.99.0","h":"1aw1jrnqcccam4qrr3kycw14fphgl980l0n4i77zw39vyf61w6ki"},

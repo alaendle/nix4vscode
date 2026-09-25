@@ -408,6 +408,9 @@
 {"v":"0.0.2","e":"^1.28.0","h":"0l4x40dq9ivxqdwh7ww24wj7cd612i0grjfv8ancp2m9hxqldbb5"},
 {"v":"0.0.1","e":"^1.28.0","h":"01sr5i25kq5qxn5qzsc1nvdw5agc4m44h70lf7d8m46wqicwrs8n"}
 ],
+"andrwj.saffron-ink":[
+{"v":"0.2.1","e":"^1.85.0","h":"1grgp2yc30n4kdzrfykn54r1lz103533zvfswjka8ng2jihhf91f"}
+],
 "andwerp.jank-language-server":[
 {"v":"3.1.20","e":"^1.100.0","h":"0fdxhjxn6gpkd8dmllslrlz3rkl2jwq7ffqmv4fgx6m3mdhnpf9b"},
 {"v":"3.1.19","e":"^1.100.0","h":"1d2qz3sjq08j0ls4k6kk2mbcwk4igrc4zbkgk9r9pdxr90gv97nd"},
@@ -4412,6 +4415,7 @@
 {"v":"1.0.0","e":"^1.18.0","h":"1jyrrswqxx29hc78mzp6qs5jka5z6qim1skk4wn4lgl1rqid4y03"}
 ],
 "juancarloscondori.capibara-pet":[
+{"v":"0.9.0","e":"^1.74.0","h":"0kc8nxgjs4hmxd2dsywpsvb8gdnd01zqpiwp8k4fb14zn7zf8dk7"},
 {"v":"0.8.0","e":"^1.74.0","h":"0b5mqm42jpnaxwywzh8zig1vn5z89cgglyxmn68404y3jpq1dzm8"},
 {"v":"0.7.0","e":"^1.74.0","h":"0hppwvaw6rpkkga70kpcyz4j6mqw5k0par9h1nzsgfjzxl6llvrk"},
 {"v":"0.6.0","e":"^1.74.0","h":"1jsk9j4l8lyg35l3dppmpib1ri4nr420gzw2fa6xlclgm0zbpasa"},
@@ -6169,6 +6173,7 @@
 {"v":"0.0.1","e":"^1.101.0","h":"19npxbrmqqr6gir82mj39cdbd71s5j602kqkmxlmf444jdjlmp03"}
 ],
 "notethink.notethink":[
+{"v":"0.4.4","e":"^1.137.0","h":"0vyvnxjpyk0ynjqmdn0gh9z1gzc5l69pgpq2fzd7w95xa4yk2qyx"},
 {"v":"0.4.3","e":"^1.137.0","h":"1b2fa2bswc44h3cxr8rcmjn4p10bgfmnvciwsqj9dbjljgy1q9kk"},
 {"v":"0.3.69","e":"^1.137.0","h":"0bx8c5w6cly5zjsc584q6sv1xabcdaiv9x2wnaqb4r6hx5kz0cfg"},
 {"v":"0.3.68","e":"^1.137.0","h":"172f2xqdw83fd0dhwzrxirs21kn76x0px9jkxcdw67hwqa1rynff"},
@@ -6952,6 +6957,9 @@
 ],
 "rajpal.monokai-extended":[
 {"v":"2.0.0","e":"*","h":"1yxphysgvqfip3h0fh3k8g4vxm55r2x43sbpzj3vbxbk6bpbz0mv"}
+],
+"readystack.meldestelle-hinschg-lint":[
+{"v":"1.0.0","e":"^1.75.0","h":"1d1zc38175449xbqaa5k9jfl41vyrbqlljqjm4yj3z74lvgj7f87"}
 ],
 "readystack.ssdf-attestation-workflow-audit":[
 {"v":"1.0.1","e":"^1.75.0","h":"1rhaswza5j1dvpcpw490b3dpwxdh363irbjvh3kn85rky8jl81nz"},
