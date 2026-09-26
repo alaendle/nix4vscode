@@ -1067,6 +1067,7 @@
 {"v":"0.0.1","e":"^1.12.0","h":"097g9sbg61g9bakjph64v1za3ivykns2yr8bw0bgpn21vfg1pxdd"}
 ],
 "brunovieira.pavao-discreto":[
+{"v":"0.8.0","e":"^1.66.0","h":"00h1pz7jaxwpy10q9gpywn9mcwl4wqx849dglbx1nvq36cfsz6d2"},
 {"v":"0.7.31","e":"^1.66.0","h":"14nr8s63b48s68jdy2h839cxzzhsswrqh79rzbgnjmky1glqcf55"},
 {"v":"0.7.30","e":"^1.66.0","h":"1kzibmk5yr41kpwdcqw6b7w3ylnn6cnf9ywhycvrzaxyspqz5bfz"},
 {"v":"0.7.27","e":"^1.66.0","h":"0jss7zm9dm33jblbn6vbjbrhi9awhvy0k8y1gdyvmid89np4dv11"},
@@ -1312,6 +1313,8 @@
 {"v":"0.2.1","e":"^1.85.0","h":"017z85grdjjx4vls2vx5wqgd8hrv57h6cxlxy6wm0bx9x01399bq"}
 ],
 "calkit.calkit-vscode":[
+{"v":"0.1.14","e":"^1.95.0","h":"1kjph60h8y5incqblg9gdxfwrfx0k3qyjcalnnqgcwl1y9cidqkd"},
+{"v":"0.1.13","e":"^1.95.0","h":"18w6cfvn3rhpy0qg58i3p6mpgbj4bjiaimrsaady8v0r699pxiwv"},
 {"v":"0.1.12","e":"^1.95.0","h":"05bbwzngba2gig55j7q9k9ccsf345jqcgvx38wdzq6ljfw60dr99"},
 {"v":"0.1.11","e":"^1.95.0","h":"0w8szz2dqdp2vxjb7ch7fg4vmj9qg54iaqmx3g0sf5a5h77gqjzn"},
 {"v":"0.1.10","e":"^1.95.0","h":"1vx6cm30l2kvr2g6i1axkfd4213ypfs1r4n85ax1b0md62m5dx7f"},
@@ -1987,6 +1990,7 @@
 {"v":"1.0.0","e":"^1.90.0","h":"0zjybb5qd1xfd6n50bn6v1z0hm1z3a8rk8751k3yh16gp036vnrb"}
 ],
 "debanshu2005.code-janitor":[
+{"v":"1.0.3","e":"^1.80.0","h":"15ybpb9ak8v7ciwqbwdsqsw7p0vjcjzzhyrpk9fixflcsk0yn0vs"},
 {"v":"1.0.2","e":"^1.80.0","h":"15n2nzyymichbmcfh6yz64593xwq2081hqg7rpbhhyva8hn1gcwd"},
 {"v":"1.0.1","e":"^1.80.0","h":"17bi6whvbbkb08gjv07gyb6zy70mn30pqaviizvldv8dygrr20vn"},
 {"v":"1.0.0","e":"^1.80.0","h":"03520hmnnhpmis84zpda7dkw1w2g28zb2nb9qf0axykwfm90gxif"},
@@ -2676,6 +2680,8 @@
 {"v":"0.0.1","e":"^1.76.0","h":"1x4m7c3rv1xybr44mz2qjpaa6cv4aql01qydkl3964afjpgk47a1"}
 ],
 "flowforger.flowforger-vscode":[
+{"v":"0.3.2","e":"^1.85.0","h":"1qkr1zdq9g1iscijkgnwi54rsgzg0nrkc1svas25q97cli483cxc"},
+{"v":"0.3.0","e":"^1.85.0","h":"0nxvhrzzcnyxnimjy3nm8y91ar4li1yk8jkvccqa8fpvvnf6m5fb"},
 {"v":"0.2.0","e":"^1.85.0","h":"1v5akkmc4qpgpm0gqxccic5lb4l2sgsc6ihj9qidda8hly9vpnp9"},
 {"v":"0.1.8","e":"^1.85.0","h":"08nl4jimbiq87bk1wjrsxiwzb04c7lny8r2i854zv02ndizj9q3p"},
 {"v":"0.1.7","e":"^1.85.0","h":"01fj5ji2nasqkiwhz0j5g68yz0ib30z6x7algrzl6kp74rsjlaxn"},
@@ -5798,6 +5804,7 @@
 {"v":"0.3.14","e":"^1.85.0","h":"1vh78x0dn0yc3qibzd0b460cc9d590l0vq8zsmqlh8iqvim4m2x3"}
 ],
 "ms-azuretools.vscode-azurefunctions":[
+{"v":"1.22.2","e":"^1.106.0","h":"0df19x22g185zmj7ik2rp7acz086chrkddzqmqr5byywwm0dc3lv"},
 {"v":"1.22.1","e":"^1.106.0","h":"1iy3rvvrrglgm7ia0f897vjyymcngcj2i3bh840nwbjlk67zailm"},
 {"v":"1.22.0","e":"^1.104.0","h":"18j1rn7bpmwhpyg6zkq7ggaq9xixbs6d5sssbjjhf6wldzhfsshl"},
 {"v":"1.21.2","e":"^1.104.0","h":"0j7l95yhx7b0bk3lxawpglw5mdqwqqb0wib3bim0bh4w5yk8k627"},
@@ -7198,6 +7205,12 @@
 {"v":"0.3.3","e":"^0.10.1","h":"117i2amrnbxk9y8ff191q7n5zc71sldc961kzghsilq9a9fnr4s4"},
 {"v":"0.3.2","e":"^0.10.1","h":"0zq0knbzdnga4qxgm3y4dz98gaxah77qqfij3jdpsr0674frsdvp"},
 {"v":"0.3.1","e":"^0.10.1","h":"1jwm6mg6lvcsr495bcwy2lmj3z6g5irsp2h1pl5wdc3jw5a9vna9"}
+],
+"readystack.aufhebungsvertrag-sperrzeit-check":[
+{"v":"1.0.3","e":"^1.75.0","h":"19l7f5hysdsxrd7dsx290sadwk1jbknbb9wpnvxhyfsyfcr22yfw"},
+{"v":"1.0.2","e":"^1.75.0","h":"176bzdvl6wp0y5hyvimsih31ibh0znh20sliza4yn3cpp4r4mk7z"},
+{"v":"1.0.1","e":"^1.75.0","h":"1zfmk14rdwwy77zzrhcqwqjrrmbmq1kwm648k1l34z78wyjpk9x4"},
+{"v":"1.0.0","e":"^1.75.0","h":"1v826pkrsc454x21skk6kvbr5g7kx5h82w2xnnpld2symzpwkm8y"}
 ],
 "redbugdetection.redbugdetection":[
 {"v":"0.0.2","e":"^1.74.0","h":"1d8gybfqjyf7sx1bxsmnamqkay5av7rzn4yl0644wdyc2837axqi"},
