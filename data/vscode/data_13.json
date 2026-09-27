@@ -321,6 +321,11 @@
 {"v":"0.0.1","e":"^1.85.0","h":"1yfbrm9515b50hhz3vcnzc0sypxlffxd0nfyifr4s1m4xz10s024"}
 ],
 "afunana.afunana":[
+{"v":"0.21.88","e":"^1.85.0","h":"1xh47g3808jgrx79mm1anf8kh6699bkm8ad4nczwcc5nkqgq3hcp"},
+{"v":"0.21.87","e":"^1.85.0","h":"0bq449zw1vd3im0kklqmbyw78a6qfnkcdlhrdxmwc8x93gbv5di4"},
+{"v":"0.21.86","e":"^1.85.0","h":"135j23y1fcs3zh7ziixj47sajshfn0v2n8lqqk33pphqplkizd3c"},
+{"v":"0.21.85","e":"^1.85.0","h":"1lalcd1z1xwnzlmv85wzl1a14fzjj08l0fzkqflpyl6d0b6d166v"},
+{"v":"0.21.84","e":"^1.85.0","h":"1km2qglih4vbb02a7v8kdi9bw4qh57k8q5a9dhmgxfsw4jxgh6xg"},
 {"v":"0.21.82","e":"^1.85.0","h":"0amb6zf9ymz0bhr4sgm3z23zmsl6yd90kkfr7kaz09wz80l1gcir"},
 {"v":"0.21.81","e":"^1.85.0","h":"1l3f5nq09ly0pqxnwwp15r2vs3iprwsvfsnh4ac5vjrs5xpafabb"},
 {"v":"0.21.80","e":"^1.85.0","h":"1pxqbap41y8nwbi4c9yrsjrmli6pxk6x75dbxxq0zvgwxpls4z15"},
@@ -6346,6 +6351,7 @@
 {"v":"0.0.1","e":"^1.75.0","h":"0krpwn3z2qxgagigrvzms5gaz71qvsy10hilmgd3i96baxg0p07q"}
 ],
 "medouille.lastcountry-server":[
+{"v":"1.1.6","e":"^1.85.0","h":"0c3ffpfprimi8pj533wr4wb1fmlc9i6abk70rkcdhdc6daxk49lb"},
 {"v":"1.1.4","e":"^1.85.0","h":"0xx981r8f37mnc154csabg858lwpajqxr3zhkb1llczp23gj343b"},
 {"v":"1.1.2","e":"^1.85.0","h":"1fkhzcrwd219jhhqh4lm6xp17bdsiidp64sflyb8bymf3rigg9rh"}
 ],
@@ -14729,6 +14735,7 @@
 {"v":"34.5.0","e":"^1.51.0","h":"13iqnimy7ra0f6n6klfj2kw3ylaijdlgvqadrnhix0kzivdqr3cb"}
 ],
 "tallbreadstick.ariadne-extension-vscode":[
+{"v":"0.0.3","e":"^1.107.0","h":"1zzzkzp3c0fqf7yixdwvk9varg40h34495k6n950frn4yjwzw77q"},
 {"v":"0.0.2","e":"^1.107.0","h":"1mn12dibiw5zy2zj4rhrdamva3gr0x46piij81nzbhzp9cqynvg9"},
 {"v":"0.0.1","e":"^1.107.0","h":"01kzx5n9ik3q261bpv40yg6bjh5py532s9nr469b7m8gxyzg693f"}
 ],
@@ -14784,6 +14791,9 @@
 {"v":"0.1.2","e":"^1.12.0","h":"14x3dlny10j1z2mvqym9yavbz1ikzdzx15rib9p8axplncv3jrnn"},
 {"v":"0.1.1","e":"^1.12.0","h":"0x3r5jvyb4jfwh2sml21hrn59aywxqna26yz63d37q5k5g7mwp0k"},
 {"v":"0.1.0","e":"^1.12.0","h":"1x1npl377d17bkrw9yxxrqk01h24xc49sm7l6jgjyji4x8zdgmmq"}
+],
+"tensorviz.tensorviz-vscode":[
+{"v":"0.0.1","e":"^1.106.0","h":"0dm56hqp36zhhxam40ph1qmh7v0spwzclsyyphn00gnbz560fdqn"}
 ],
 "teriyaki.ashokai":[
 {"v":"1.0.0","e":"^1.84.0","h":"052h3qn5pr7d3ais85fdkvbkhr86j1xpva2lw98bhdzl6lnf78ng"},
