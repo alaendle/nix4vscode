@@ -462,6 +462,9 @@
 {"v":"2026.0.1","e":"^1.105.0","h":"1r4fyn7001rxvj2p030x8ppcffkn0i36lf36xi0cpr170vxi6wad"},
 {"v":"0.0.1","e":"^1.105.0","h":"1fa0q2mvb2mfyz34n37gpw7i2m05di89ncpl93h1j5b6dzwkw910"}
 ],
+"andrewbenz.offramp":[
+{"v":"0.15.0","e":"^1.91.0","h":"0y2s2r6vwzc0gmwc298nwz1wnyp4k8f0ibwsci3a2fksz8jba05f"}
+],
 "andreykurdyumov.bcpl":[
 {"v":"0.0.1","e":"^1.94.0","h":"0lylxp325hy2arfhqq9ypg4irxq7q6ww6p11lc0kq89ql5bsg13h"}
 ],
@@ -1377,6 +1380,7 @@
 {"v":"0.0.1","e":"^1.50.0","h":"1vrm78z38dmzz1ic7963jxq1hvwz8bwnlnwmx47w6j26xlpj8vv3"}
 ],
 "buildsthenetwork.cisco-ios-xe":[
+{"v":"0.2.5","e":"^1.63.0","h":"1lvach10na4wxhmwh45lk3nvf04wkwpx6jc3zw37bj6ca579rqks","r":true},
 {"v":"0.2.4","e":"^1.63.0","h":"10cfv66igzv2m60w4b8k8j8ns06vvdsprw7k3039ywxz88x1p4zk","r":true},
 {"v":"0.2.3","e":"^1.63.0","h":"0zikf7cmyl2y70qgyd5v8chrzpx40hvcdh4zh11ksjpwkc4csip8","r":true},
 {"v":"0.2.2","e":"^1.63.0","h":"0kyvpqldniz8jmm7cx4yxps7a1crciaq5ski18y70q45s4m5wmnl","r":true},
@@ -11214,6 +11218,7 @@
 {"v":"1.0.0","e":"^1.74.0","h":"1hb94fsllw0lxxz56b6ix1yxx0h1ns9l9pk6s4r3bxzgv09mjw12"}
 ],
 "uta-orange-1214.call-atlas":[
+{"v":"0.0.2","e":"^1.85.0","h":"1jsl2xbr99gi4vd8f2wli0ck10xwrbqn34i5b97d94g8620a83kd"},
 {"v":"0.0.1","e":"^1.85.0","h":"03b33r08r7705l0hmxl3v4mpamzc67bs5ybvj8hia0pgpsg0lncv"}
 ],
 "vabole.whisper-assistant-mod":[
