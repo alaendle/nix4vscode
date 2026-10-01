@@ -6699,6 +6699,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"13jmasjvnlv10jxmki5qwgqy09pf0z05kdf4ph630hmp92lwiqnb"}
 ],
 "printagapublishingllc.pilots-studio":[
+{"v":"2.7.0","e":"^1.85.0","h":"0m3nqrccl4fand3l8ybq5vfhyhfrxn12i9kb08nykal8anrnyy4p"},
 {"v":"2.6.1","e":"^1.85.0","h":"10fvngaxw68nw0yk2f37hx4wiqg9c5fcky6d54wahy7pp3ywsyh2"},
 {"v":"2.6.0","e":"^1.85.0","h":"1wmiwrzvnngkf79lzkmgg3lk5bill5anf467fm2lcghnmvl9gah6"},
 {"v":"2.5.0","e":"^1.85.0","h":"0rfinv0yy922d03j2rg8rjl49nwvv9c6zil09s93305w33s5rgd7"},
@@ -8392,6 +8393,9 @@
 "swisstool.convert-to-folder":[
 {"v":"1.0.1","e":"^1.90.0","h":"0wdj992vzp9azf8x99y5nlx3hcshrzqjyh3hc74svxqj53a1gj3c"},
 {"v":"1.0.0","e":"^1.90.0","h":"0g00ajp6rva5gm4bysszidragqvn97xmxs8ib9iqsm4v5sig2jls"}
+],
+"swtools.swtools-antigravity-bridge":[
+{"v":"1.0.0","e":"^1.80.0","h":"1ankdfrbqmjjvvxvjb3pakgccan0janm80b8jls4qgsiyxhcl86k"}
 ],
 "syed-masood-divan-oli.azure-pr-comment-resolver":[
 {"v":"0.0.3","e":"^1.85.0","h":"0zy30yzj1vqbdnycc3m9axgbwn3fnhf52fzq1xxs900vrvirdbwy"},

@@ -1945,6 +1945,10 @@
 {"v":"0.0.1","e":"^1.17.0","h":"15ykk2zwivbvmbx1fjf842bswj03ryvbbyjyqvdm87cnbgm225cl"}
 ],
 "dixieflatline76.nacho-flow":[
+{"v":"1.4.3","e":"^1.80.0","p":"darwin-arm64","h":"136wzhs6iqx5x79im9pxl4734ks42lq1r6mjpw1ja25dfzfrmhbm"},
+{"v":"1.4.3","e":"^1.80.0","p":"darwin-x64","h":"1d2rcm12miaqc4hgzqvvsc5avn30rr97rg2wdwk473wgzjcdh5mc"},
+{"v":"1.4.3","e":"^1.80.0","p":"linux-arm64","h":"0bbsj95kp12i24yjnbz9lciwdfm4r3n253ny9b068sdaw7kddpfw"},
+{"v":"1.4.3","e":"^1.80.0","p":"linux-x64","h":"05l9pg5rfl4bh2zrgznx1wh0ih28smr51sygsmj62br0k8xf72wz"},
 {"v":"1.4.2","e":"^1.80.0","p":"darwin-arm64","h":"1y4fqzjbkr1b4zaqym1x709nq80hscavf3swrdd3sxarpvsr59bn"},
 {"v":"1.4.2","e":"^1.80.0","p":"darwin-x64","h":"08b3jmpjxk8q3ni8szr9dja5v0nskf9vsvg7zr7lil1x3g2sbyql"},
 {"v":"1.4.2","e":"^1.80.0","p":"linux-arm64","h":"0r2q43l78mrkqm88diq78p18b1nf6bq1vwpb4sfhxz6l39vf2xy7"},
@@ -2637,6 +2641,7 @@
 {"v":"3.0.0","e":"^1.40.0","h":"0d8crxw4mhbdhrhiqw7klbiz7a0k11b04ldixb2lfmhc33w4mdax"}
 ],
 "fucini-software.coverage-studio-vscode":[
+{"v":"1.2026.7","e":"^1.88.0","h":"1s856xv24pkrzkbw3flcy0f46hzsd0jki29czdklq33l48f8h9q2"},
 {"v":"1.2026.6","e":"^1.88.0","h":"00039wkpxc1nzyn7ibqc5nzln9ammfa1hgbhvb30rbhzd73dlncs"},
 {"v":"1.2026.5","e":"^1.88.0","h":"0f2fxiszd8gyrl49clh36rp04irdnvyqk7r3kh6mqs9d1yh0nvdw"},
 {"v":"1.2026.4","e":"^1.88.0","h":"1bs4l9ypw3clsmprl9992zsaan39x8kx4pn9lk7zxsya39vs6z2f"},
@@ -6604,6 +6609,9 @@
 {"v":"0.0.12","e":"^1.74.0","h":"15say9gpncyxjqxi8jm6sypnmjlb9db2qllp7hq7jmp6x5dk6hl3"},
 {"v":"0.0.11","e":"^1.74.0","h":"0ljbbk8z1bspn62dnjfy1jk6pi2rkysrh3w96jl51cyfpd61l6qw"}
 ],
+"prodm280dvtweek1.sulsonarlint-vscodem280w1proddvt":[
+{"v":"5.6.0","e":"^1.99.3","h":"0p80sxqz01bq7n22sz1pjki4viab79gd32v3nh38dbrp8z29l048"}
+],
 "pseudoincorrect.vscode-regex-search-telescope":[
 {"v":"0.4.2","e":"^1.74.0","h":"19na5hrs1a96wl5qsi7lhhcdqdvfccr3ah535zdymx8l68iifpjq"},
 {"v":"0.4.1","e":"^1.74.0","h":"0bjgy73dflr1b4ys2p0jqmq97pvmcjjqapmlz29rfrmriigdrdx1"},
@@ -7856,6 +7864,7 @@
 {"v":"1.0.0","e":"^1.25.0","h":"1r48war3s0041k795mvanzczyiqaa2hja185rb0nm5vk5fv18fr3"}
 ],
 "tafanee.vzoro":[
+{"v":"1.4.26","e":"^1.85.0","h":"1qsmp8pbycvdgpfdizncpaz0v9sh6cpg02n5hlj0qm552yx4iw96"},
 {"v":"1.4.5","e":"^1.85.0","h":"12sl2nd10vjmmqslfg0mqzwqbcvg2gzvnhzhxglfvsnllk7jjcnn"},
 {"v":"1.3.15","e":"^1.85.0","h":"091xg0sdxwhrp03brkqnvb0mrfhyd0z3k785z8z23c46qaqsm9q9"},
 {"v":"1.3.14","e":"^1.85.0","h":"1sq7l54l40aw51xrqswhrj67d8qcy59m4v4hw6p0ifc00gxppbc2"},

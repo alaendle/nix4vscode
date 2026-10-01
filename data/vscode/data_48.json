@@ -2723,6 +2723,9 @@
 {"v":"1.0.0","e":"^1.98.0","h":"1kib7zjmpqny3x047y6y86xr0knchc6ql0n02hh98g8m4yffr2vm"}
 ],
 "docpro.docpro-app":[
+{"v":"5.5.25","e":"^1.93.0","h":"0x6l38bczz28mbdsf23xmppyy8lfl3559yydhh6gmcrj3zrbyp9a"},
+{"v":"5.5.24","e":"^1.93.0","h":"1x45wfa8i762w46blsx3l7syz8ygzrv9w7j97wz4dwckhp5g9d7d"},
+{"v":"5.5.23","e":"^1.93.0","h":"0ndrjdlaiya6bw6p6dhvcn3fzcn3vpbr3a734in6ch7a0ngah695"},
 {"v":"5.5.22","e":"^1.93.0","h":"0dhiykv5113f85p1nw833ig05r7pkxbpvb3m2aqj3j92mn57sad7"},
 {"v":"5.5.21","e":"^1.93.0","h":"0igjv5snp71v7hz95aqvfsp4w8y44fz5zv152a48w3r07l5nxx0p"},
 {"v":"5.5.20","e":"^1.93.0","h":"1k8m0zv6l3dflpv61fpq27l6icb59afjv8imqwq90qgx5fp350i9"},
@@ -3595,6 +3598,7 @@
 {"v":"1.0.0","e":"^1.9.1","h":"0x8zj3p7z2051wqmk10cjql0iqxx11mka2k9q4330if81hq43hxh"}
 ],
 "enthali.jarvis-syspilot":[
+{"v":"0.28.0","e":"^1.95.0","h":"1qp39hbb6wzbslpwsi5x40rmxa22saphqv8pw0qjnmc2p35j3b0m"},
 {"v":"0.27.2","e":"^1.95.0","h":"0i7pw1aw8iw5dkvgkw6d4h307yiwnb4x7cwk2jdp62id2v9rj2hg"},
 {"v":"0.27.1","e":"^1.95.0","h":"0sx2dsrqf139lq5xg3bgisb1x12m206bjr1f9fb8z8yph9c2xnm1"},
 {"v":"0.27.0","e":"^1.95.0","h":"00biibpsyg19l7akcwg4w5fjlhbs4myq4bv82kg1hy0xr5kfm9wd"},
@@ -4552,6 +4556,9 @@
 {"v":"0.1.84","e":"^1.85.0","h":"1bijvr43d5x9in39clh7xnp2927xvzww9hj2b9167fiw8k0n54bm"},
 {"v":"0.1.65","e":"^1.85.0","h":"1yz9zzzybrc5ailav9fc881k3h9sz82i2fn5az7g3rcp0sg20kwm"},
 {"v":"0.1.12","e":"^1.85.0","h":"1923jbssc8gyvdy8cw4fz32vnp8l4vnpa5nbfz2j2k7s86saqmlr"}
+],
+"hevanaco.hevana-theme":[
+{"v":"1.4.0","e":"^1.85.0","h":"0nhrh3r2mb7zjnl1dp34jym1pjgdyzdy0r7rq4myspsjmzd1fm8q"}
 ],
 "hevol.animated-indentlines":[
 {"v":"0.1.1","e":"^1.85.0","h":"098npqnlqlkv65k32jfa2dpsawx3k5fgyp4jyhci33gp91sypidw"},
@@ -6099,6 +6106,7 @@
 {"v":"0.0.1","e":"^1.30.0","h":"109vczq6d9jsg7yddagv0qs68gxamny21vjjmwr0kzxxh0ap3qj5"}
 ],
 "matt17br.openwrangler":[
+{"v":"2.6.20260930","e":"^1.106.0","h":"0f2yk7cc1vlhff58ga5kq74w4fi43s3s96297lin71dv0n4hf6dr","r":true},
 {"v":"2.6.20260929","e":"^1.106.0","h":"0kzw59qm7pdybjvlwa7ifqw7gz0k43q4334ifl0lggh0v1lgp5wl","r":true},
 {"v":"2.6.20260928","e":"^1.106.0","h":"0i4ln47qdzzkziz8yp17w1p23s8k6508w81y8hql3hklbf0as0g7","r":true},
 {"v":"2.6.20260927","e":"^1.106.0","h":"1mq5c6hchn6m5jn5l4gv24zdxq31dc24mw1yn8vflgy4d0kryajm","r":true},
@@ -7932,6 +7940,7 @@
 {"v":"0.0.1","e":"^1.81.0","h":"0hkx0alynrj1x3mm4as7ls43wqfm2x0fsd6ms1ifycl4d732yznc"}
 ],
 "paicoder.paicoder-agent":[
+{"v":"16.4.21","e":"^1.85.0","h":"1s6vhf6spsdnrb8f161jyysfb68jh6pv57f9hdh9kjci5z4rx11n"},
 {"v":"16.4.14","e":"^1.85.0","h":"05bhx69ri9qd07fxvmzd51qxmq9297wc86wm9m6zq9n744x4janw"},
 {"v":"16.4.5","e":"^1.85.0","h":"18rddq2dnmk563jfd6gqg8wfipkf9xp20jz8mlvz5jhlvy93b24r"},
 {"v":"16.4.1","e":"^1.85.0","h":"0dhbzggq374ii0qx7cwxzkbf36h7h25hh565yd3am9dxj7sllniy"},

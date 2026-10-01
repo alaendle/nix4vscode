@@ -965,6 +965,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"19az10gkvbk81c1glrbs2nq2krinwn84r6dghgiz5w6xpxnkixgv"}
 ],
 "arturdj.markdown-link-resolver":[
+{"v":"2.2.0","e":"^1.80.0","h":"1gjc8ysa4r2dlkahw7lns42vljhvrl5z34h90pwid08zidbfxmi4"},
 {"v":"2.1.1","e":"^1.80.0","h":"05zqnasapiip250dj7r18lkwmclxn3jxb3liqxpdg84pr2ba8k99"},
 {"v":"2.1.0","e":"^1.80.0","h":"1cc2pgxrrasnhgndz1n6dls1w347rvbjfbz6lfbbhclqvr0cyail"},
 {"v":"2.0.0","e":"^1.80.0","h":"17y8zs7pgim1vdhbsyaj6yfxk6h5vp5jla6kqgc69kc0hhdh2g6f"},
@@ -4514,6 +4515,10 @@
 {"v":"0.1.1","e":"^1.60.0","h":"1rl8iy5n5sq1k52l3bplkxlpzp92bvvs6gliwvaym3vsz24wabca"},
 {"v":"0.1.0","e":"^1.60.0","h":"1c124w4knbxw8rfmjz0ynavcxqx164kdq39zx7kp4j40zcy0dblj"}
 ],
+"itstushar.timemachine":[
+{"v":"1.2.0","e":"^1.93.0","h":"1dprn5qhl82ik41hkc3z1mk0kcga61nww6jv1vl2yvzl9ifkncci"},
+{"v":"1.1.0","e":"^1.93.0","h":"072igg0bmvs3wqd8r0a4zmnhkl7162mfz4qqdv001brkgwn9qi3g"}
+],
 "ivangabriele.vscode-git-add-and-commit":[
 {"v":"2.1.1","e":"^1.36.0","h":"0hjw4cxiya2dkbbv4m12cg8y8v4w5y2amjdciybdh2kkmhv78gz7"},
 {"v":"2.1.0","e":"^1.36.0","h":"1f0xkc3wd90cas69q4xvmrpb91fwdxa8im5ycfgqck5pwwq3547w"},
@@ -5870,6 +5875,7 @@
 {"v":"0.0.1","e":"^1.120.0","h":"1i6kd9z0hlvjnpyb8k6j4xba56xk3bdmx8yfkq8yhaxv75cygfp3"}
 ],
 "lewie-lin.abap-smartfix":[
+{"v":"1.5.1","e":"^1.80.0","h":"091pwn4ab82hvkswsnywz2dlr6k4c01nlg85i7fjhj41vbdyjcsh"},
 {"v":"1.5.0","e":"^1.80.0","h":"0cv4hib0d59ac6raw202qqkzb693wr8x6krknn5wcr4j13v1b6l3"},
 {"v":"1.4.2","e":"^1.80.0","h":"08vxhy6k5s4jpvm7bpd3a6byy7bbc7dgjgxdvc046wvifzy1gzbr"},
 {"v":"1.4.1","e":"^1.80.0","h":"0ai1ifxa2jpbyc0r52fz54hpvd1l8xryd0jsxsinffv52hgvr2y8"},

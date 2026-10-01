@@ -1725,6 +1725,9 @@
 {"v":"0.1.0","e":"^1.81.0","h":"1f0ka9qahangq5mrn0qxnldakxsfjvf92zgbv1hxmwwijv9smm68"},
 {"v":"0.0.1","e":"^1.81.0","h":"05vyvpaaqjs4byzfrq2acpnk5lbw2vmpa8s32pmsb17h6bf67dgs"}
 ],
+"apesdev.wizards":[
+{"v":"1.0.0","e":"^1.60.0","h":"156bkr91aqcm4d0fgbdjki425hq97zjd6qgb42zj3p72gkq72nkh"}
+],
 "appcenterbeta.ivan-extension":[
 {"v":"0.0.1","e":"^1.71.0","h":"0k9vdj99gm8gqy27vf8xwi59i9hg10y93cm745w0gqfhs1x66hnp","r":true}
 ],
@@ -3597,6 +3600,7 @@
 {"v":"0.0.1","e":"^1.29.0","h":"1lq6cly96ck0azv4nv18b9i669mxpc6r6bmi758ffr3m24yvhxj4"}
 ],
 "dylscoop.codotchi":[
+{"v":"2.21.2","e":"^1.85.0","h":"1ra8p2flv68n0bvannisqs1xbbqicr5b0sjahsvhg5scixigf5nv"},
 {"v":"2.20.10","e":"^1.85.0","h":"061jr7p5lidskiv81xj1n9h08ygzybrhmlcsqql90jfwskjlf55y"},
 {"v":"2.20.9","e":"^1.85.0","h":"1x8d33xzzbjrdm1h1g7jjij83znr5s4p2a0ipyfbm4fbsym9lc26"},
 {"v":"2.20.8","e":"^1.85.0","h":"1l7ks8r3yhijvrbmlv0kqwj9bk4nqd8b9yc9qgrbifgfqvvfwx25"},
@@ -4314,6 +4318,7 @@
 {"v":"0.3.18","e":"^1.74.0","h":"0mrwbyi6mm4wx1xqdwaqqiw8bzv6h4abi32m2nf38dgaj9mgi51q"}
 ],
 "graphcal.graphcal":[
+{"v":"0.5.2","e":"^1.138.0","h":"1x31w15lnqq2vranlpq5r1lzarq88r7qnxfbk87dg6z6n1xl82br","r":true},
 {"v":"0.5.1","e":"^1.138.0","h":"0rmjhi712dnrqq4n2rm9y0jl7y9rg38pfvhsgab5di96bil5plw0","r":true},
 {"v":"0.5.0","e":"^1.137.0","h":"0cxgqs34b2w3ivsdy4sf33vjvylxn29rp99mni0f9ixc5y325kk7","r":true},
 {"v":"0.3.0","e":"^1.134.0","h":"042vbkvvsvldxva3pg4rpfxx1x0z39mii8wk1fb4apfwxs6l6qjx","r":true},
@@ -5380,6 +5385,8 @@
 {"v":"1.0.0","e":"^1.43.0","h":"027iwd8gi2j5ppqxhb8sqm25bcyddiz4d3vl8i0kb8av4bs0xzcv"}
 ],
 "kosher-code.kosher-ide":[
+{"v":"0.21.13","e":"^1.85.0","h":"1gms92xzcdmfzy73xkr21dkd2s67k30rfja8kn7fqm104jxbq8zm"},
+{"v":"0.21.12","e":"^1.85.0","h":"0qw5m6vaczch9a275d8mx351d6zza5pa69rzqqhly5c7p61qzb7f"},
 {"v":"0.21.11","e":"^1.85.0","h":"0cii422knakqdkhnpv2zyzs1d05m8zh8v0l7lf87s9xwx6pqzrjw"},
 {"v":"0.20.0","e":"^1.85.0","h":"06vpmzbah1b783fm4qcmngxbmk3z34p1syh4kz8axhn8smq5518m"},
 {"v":"0.16.0","e":"^1.85.0","h":"0lz6hgh8liki602qfbzi06jb786kcics0kvgp1pnqhgci4jz5vzk"},
@@ -7519,6 +7526,7 @@
 {"v":"0.1.0","e":"^1.118.0","h":"123fvaysy7fzxkl5lbmjjgqnd2ajgaixn4i853993nr9f7dapqjd"}
 ],
 "omoshiroyq.chat-model-provider-for-amazon-bedrock":[
+{"v":"1.1.0","e":"^1.106.0","h":"0h72m3vfmm1vv1lmlvii0vxj8g4l5lna7qlfrjc391h0qj1zcc4m"},
 {"v":"1.0.0","e":"^1.106.0","h":"01d1zjlv0dbnfymxaqmgwrj8s40fy7c9b511861p85qc1qpi56j8"}
 ],
 "onslowcollege.onslow-college-extension-pack":[
@@ -10642,6 +10650,9 @@
 {"v":"0.1.2","e":"^1.85.0","h":"0v3kin1d9ljjxqzdqyhwabwlcj4l2f1zhdrkyf4n1cydikvjasak"},
 {"v":"0.1.1","e":"^1.85.0","h":"0sh4k4b6pmlp3m2vdp3lv3xx9f7v61fp3s9lijk99gsdy9wcnd0h"},
 {"v":"0.1.0","e":"^1.85.0","h":"03g1n8a2yapghbdib7f71cn2xgs3wpx8098xcifiw198vr5dxh1i"}
+],
+"yxiaoa.replace-history":[
+{"v":"0.0.1","e":"^1.85.0","h":"0lgpwi5x1gxsfs5ff256d7idrpx1q4rcng248j5z85hn095fhqfv"}
 ],
 "yzyer.vs-code-pure-black":[
 {"v":"1.0.3","e":"^1.72.0","h":"0nx1nyywg9f6wdyvfsj50gas9hf8i4fv9d9shxjmyzdgdzby3bva"},
