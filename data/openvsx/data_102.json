@@ -1748,6 +1748,11 @@
 "ugreen-67.ug-claude-tool":[
 {"v":"0.0.1","e":"^1.90.0","h":"08l27l3179yfjh54pgd6rqyswlh7h2jq8kvz052m8kdmr9k9n26i"}
 ],
+"useblocks.ubcode":[
+{"v":"0.36.0","e":"^1.95.0","p":"darwin-arm64","h":"19767b3frwdgiis0jdcylgdq4yhk2926i8i9dmbfqhhbhbimpjh6"},
+{"v":"0.36.0","e":"^1.95.0","p":"linux-arm64","h":"0d38hy9v0m1sy33yivvlj18d67bixxkhf5bn90smaqbij0cssaxs"},
+{"v":"0.36.0","e":"^1.95.0","p":"linux-x64","h":"161agwd56ixh352ma6sa0kj8qp226w68d574xhxiba3gavqwh6k9"}
+],
 "vihuvac.material-theme-for-vscode":[
 {"v":"0.1.3","e":"^1.60.0","h":"09jk167qr0qj2g8qgj5rg12xhbf6pjw0bwq4sfbrxlgr7r8bbncf"},
 {"v":"0.1.2","e":"^1.60.0","h":"0ys7wg39y9m1dbz11lmahibd4bl3k262skvpx5pxx17nm2f81fbl"},

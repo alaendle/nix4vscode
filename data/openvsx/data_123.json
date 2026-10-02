@@ -391,6 +391,12 @@
 "elwardi.foam-language-client":[
 {"v":"0.1.3","e":"^1.63.0","h":"1i9rwpqd6ckvqlkpf7hzw83cc4d70jifjf2czmfr9v89bsiyc3d2"}
 ],
+"emanuelsaramago.commit-message":[
+{"v":"0.1.3","e":"^1.80.0","h":"1ijq4pvxmkahinyifh4xmzsvdq7m5yi9nmdycnpjg58za0jsz5wz"},
+{"v":"0.1.2","e":"^1.80.0","h":"1mv841m4c2ridlbwms0x9m2vmiikfx4cww0z9vj4r8195gnd3mnm"},
+{"v":"0.1.1","e":"^1.80.0","h":"1gpc4sss2nn66c63cj8awy403zixr73zwrwzmlnw8alfx0cx6s50"},
+{"v":"0.1.0","e":"^1.80.0","h":"192r5625cl67mm2f4qgsqsmpzg81qdzn6ll5wf5n017cx32chf8k"}
+],
 "emmess.emmess-periglaciar":[
 {"v":"1.0.2","e":"^1.2.0","h":"1lhxm5xlywsyp5m1wqq1069lfinrg168jrhbl5q4bipcbmx3bxfj"},
 {"v":"1.0.1","e":"^1.2.0","h":"00g4f0mvlcvz9la1qri5pw7bipl0iirn94xfy16cll9lh148qypa"},
@@ -4073,6 +4079,14 @@
 {"v":"1.0.5","e":"^1.74.0","h":"0qbyqbp0nz9bs6algb7xc1vsj6hpbxk742c6bw82c3ln07askjgr"},
 {"v":"1.0.4","e":"^1.74.0","h":"0razziq2qirv53b1ivx86k12hpilpma6ymdcnqfmr4hskd61kyqd"},
 {"v":"1.0.3","e":"^1.74.0","h":"034hqwhwqpskf8yz0wsdwm3896bf4vw6r72jyfp2m6mg3d4vs1i2"}
+],
+"shmr.clippings":[
+{"v":"0.1.0","e":"^1.91.0","h":"1vfw7i5wvw47nkcbz9sfb49cmqdrn9l6liknazr9cv83ibdyjcds","r":true},
+{"v":"0.1.0","e":"^1.91.0","p":"darwin-arm64","h":"0bc7brplrzgg9dmsj8xk2lkyq9204p8ds19jv86dga2qn2jg6c2w","r":true},
+{"v":"0.1.0","e":"^1.91.0","p":"darwin-x64","h":"07j0mx08ansrw57bvslyqx2xbh26kpa9lq2w21sqsgsgrgzrf35r","r":true},
+{"v":"0.1.0","e":"^1.91.0","p":"linux-arm64","h":"0d2svmyd2gilim2xbb3ypgilmnlhrmcj9h2f4n790dd4pvxwlww0","r":true},
+{"v":"0.1.0","e":"^1.91.0","p":"linux-armhf","h":"0a2mkzg37wnwwvibigk1hm1ggkhckrcc3vf1hymyksd8jhcv4550","r":true},
+{"v":"0.1.0","e":"^1.91.0","p":"linux-x64","h":"1z56p9q5r3abrhkckvhg1amk36v74z4wzaqxmab180nmy1syyqc4","r":true}
 ],
 "sidoniebouthors.l3-syntax":[
 {"v":"0.0.1","e":"^1.97.0","h":"0dl6ssyd0xxnirif6ak5436g16ab3kcfv26llsp44j8rnwyc4ln4"}
