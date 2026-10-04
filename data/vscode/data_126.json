@@ -2884,6 +2884,7 @@
 {"v":"0.1.7","e":"^1.85.0","h":"1qz7ywv0mvmkn5rvxlfnwjbi6k1z6xl8mfvxkr6wfyfsz5crvsqk"}
 ],
 "esperinnovations.deckard-notes":[
+{"v":"2.0.0","e":"^1.134.0","h":"0frqis9pk968bskwgirh7p7a6ml88m0pnbsmjq86374v4xpz8lma"},
 {"v":"1.23.1","e":"^1.134.0","h":"0dfqh0zw6mxfn8s0p1gxm5qpz7in22sz2zhnzbvdwvl9q4i3xzmf"}
 ],
 "etangleasm-labs.etangleasm-language":[
@@ -4784,6 +4785,9 @@
 {"v":"0.0.2","e":"^1.39.0","h":"1mrivm628niajz1bdjdiy81wzmni8mxvyfsv0sfz61jbany8fqkk"},
 {"v":"0.0.1","e":"^1.39.0","h":"0f3fccsdzqaxx5ljnh1l7wdx6syc11k80xblkal50wmx0vvx3lk3"}
 ],
+"lilinhuang.moss-lantern-theme":[
+{"v":"1.0.0","e":"^1.80.0","h":"1nbnd9kx96z27ri2xj63lil779ggpkbgxw57hkkl8pdgawrczzg6"}
+],
 "lilinhuang.olive-dream-theme":[
 {"v":"1.1.1","e":"^1.80.0","h":"06aiznfx9hd8b6n7800p5ayznx98nja8ac25xg73385jcib3ndmg"},
 {"v":"1.1.0","e":"^1.80.0","h":"0f63dwx9yjh5kg6154265cwp51x37pd02xy2mp4crqx82d5cn24p"}
@@ -4850,6 +4854,7 @@
 {"v":"1.0.0","e":"^1.64.0","h":"0a970xq41bn3ww84yxnlg7bh3y8icfzqlp3171s3zc4d80gdlp9z"}
 ],
 "loki05.loki-ai-agent":[
+{"v":"1.0.1","e":"^1.90.0","h":"1gdfczmq06qm41rqi4jkx3ymh9nrhc84dhclr8nf3kw6ph694fin"},
 {"v":"1.0.0","e":"^1.90.0","h":"07ng5d24vh3s119kcy6apz46c20lbg5xddhpc92rplf0isimk7l9"},
 {"v":"0.1.0","e":"^1.90.0","h":"198v10pvv6qiy87p9xnn68fls79jgwcd8ay26l1ihklg2cxghjwk"}
 ],
@@ -6350,6 +6355,7 @@
 {"v":"0.1.6","e":"^1.80.0","h":"0d9gm92ib7f3qhlxi0i4ckkxcpb82xr3ynz3y0n2x72ykggk902w"}
 ],
 "pedermunksgaard.advpl-tlpp-advpp":[
+{"v":"4.4.0","e":"^1.0.0","h":"11lnxdpihkd0nw1yc3g08rg6zynb00bp1d0gd4nmyjqx456cldsp"},
 {"v":"4.3.1","e":"^1.0.0","h":"1mf9ccbhwyjxa7n3x8q8nglxmph6fjzkgsfvj3spaamczxbfhxws"},
 {"v":"4.2.2","e":"^1.0.0","h":"13ja63jcq1qp7w5kz1134i97ym4rxk0s19hhmdh1z4kkfshmcsxc"},
 {"v":"4.2.1","e":"^1.0.0","h":"096fa9b23l27jmpc86bz5q5qxsvmb8hgp4qdzak54z2q1z55mfw8"},
@@ -8001,6 +8007,9 @@
 {"v":"1.0.11","e":"^1.77.0","h":"0pg6vs0nlv20x979kccfrqnkfh46yb0qxp3wkd5jx9m7b6l32m3n"},
 {"v":"1.0.10","e":"^1.77.0","h":"039sllw4pjwrhsgw1yp8j17h2gfmby7wacw0k3269qhz18whq90d"}
 ],
+"swipewalk.swipewalk-vscode":[
+{"v":"0.1.0","e":"^1.90.0","h":"00m37n6y3q1gjaywb3a08k6z0p0s3hnav28inf49h9bfxvim181q"}
+],
 "swoozeki.ngx-translate-helper":[
 {"v":"0.0.1","e":"^1.87.0","h":"118f96hxgh2yclkgmbnaaf0ggzs3am5bp4r9ikcy9460vw638blj"}
 ],
@@ -9223,6 +9232,8 @@
 {"v":"0.0.1","e":"^1.57.0","h":"1q63jz31k7ckmcyklwyahs45mhha3457khhmrpp2v7nhvshjgzzp"}
 ],
 "xndrjs.ziel-vscode":[
+{"v":"0.0.4","e":"^1.123.0","h":"0478d4lhs6x8hb2wp4pl987vwdcgh6qy8ymjfgqzzrfv9xh7smbf"},
+{"v":"0.0.3","e":"^1.123.0","h":"1xlc70qxr3z0w2mi329sjk7dp6r4x4m2cjnparqpjp4fbfwzas3c"},
 {"v":"0.0.2","e":"^1.123.0","h":"04rjvfa2z96mc72lms1aw5rwzcnl958wlkjgpb5hvrc7ddrdi8bx"},
 {"v":"0.0.1","e":"^1.123.0","h":"0a6hji9f3lc249p0mwp94c7afwrwnnshwpr7hijivqkmhd533p6q"}
 ],
