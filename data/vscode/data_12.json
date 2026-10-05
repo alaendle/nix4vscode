@@ -294,6 +294,8 @@
 {"v":"0.1.0","e":"^1.87.0","h":"18iaq3dax3ch19sdii23nlyns9y7pwrj6rq29clmbk3jvrzqchhl"}
 ],
 "acedatacloud.mcp-seedream":[
+{"v":"2026.1004.1","e":"^1.101.0","h":"0yw9d0xc3yazcaxpxinfn09sgyz8jsfi581165yd964skricl4py"},
+{"v":"2026.1004.0","e":"^1.101.0","h":"1bql70491kk4apvkls2jff3hdbdn6f37ydv2f33r7cfmqvvld5cm"},
 {"v":"2026.930.0","e":"^1.101.0","h":"1fn3jd1ab1x324ac50npapnfl5d6f211f7v4fhs0qyvmyls3k51l"},
 {"v":"2026.929.0","e":"^1.101.0","h":"07y094gwjxghwhv7sw9prfqzp2hjjr7kmy4sah6aj1rzm8id7sg1"},
 {"v":"2026.910.0","e":"^1.101.0","h":"1acn6jn7vqdc2nf9jyf6n72pc1rafs6cx5wb222vg7m9x9srp21z"},
@@ -408,6 +410,10 @@
 ],
 "afkdev.wbx-editor":[
 {"v":"0.0.1","e":"^1.109.0","h":"10ymfnn85bnkl6iqi11y4c31rnl9k51fh8m1pixsrlv8d0hmih1l"}
+],
+"agrlabs.agr-theme":[
+{"v":"1.0.1","e":"^1.90.0","h":"18vazhhq6mjrf02bi9h2xgkmv1zbdjyif6pma3ixa3s7m0i84b8z"},
+{"v":"1.0.0","e":"^1.90.0","h":"1282jx4icqmykj7l6q0mz1d9gvm5r2xzsm1db46qx58y1p3avxrf"}
 ],
 "ahmadrusadimuslim.masdul-gen":[
 {"v":"1.0.0","e":"^1.92.0","h":"08zfj1bwrvpq80b3afbrig0ynr0bxl2ljwh22xzmrkqgqwb542ss"}
@@ -2773,6 +2779,7 @@
 {"v":"0.1.0","e":"^1.96.0","h":"0f3hfv0k7ksxcj65cid6zr4bg2nd02b02msm1w739p76mkd3c31k"}
 ],
 "digitallab.digitallab-vscode-extension":[
+{"v":"0.0.4","e":"^1.110.0","h":"0x1j61781yhm371dl85pmsk2hcqlw7rwy7f41wr9dy7sdpyfinjm"},
 {"v":"0.0.3","e":"^1.110.0","h":"09mngcaf9z7ylvi2mn0yigbzcyh5ma9hbyly99yqdkxpzafsbgjm"}
 ],
 "digitarald.agent-memory":[
@@ -3223,6 +3230,8 @@
 {"v":"0.0.1","e":"^1.33.0","h":"0kf70lk0ngxj8ffw01i006l650sbqyvy9kwclrg40dhyhrf6al2d"}
 ],
 "flotic.minitok-extension":[
+{"v":"0.3.27","e":">=1.90.0","h":"1ccjfqdr40nkxaz5hap79fihrwakqxd78ak39amdlqafcjx1dbs7"},
+{"v":"0.3.26","e":">=1.90.0","h":"1yrcd88gan00q09x1mavnabw0dmz9kl1zmr7k6v058hpwwmqfldl"},
 {"v":"0.3.25","e":">=1.90.0","h":"040j4ag4gq50gvvkj5kwalwjyda25ncf7vd0jx9w8g5zh5a589cz"},
 {"v":"0.3.24","e":">=1.90.0","h":"0639nwlj794524w300ywhi4kz5i9khb06cwfmznim731mh6wl0jj"},
 {"v":"0.3.22","e":">=1.90.0","h":"0r2sd3qr4f08l9bfvpv7p8c1f5zc16b9bzcm66dbyjwc6c13a8is"},
@@ -4884,6 +4893,7 @@
 {"v":"1.0.0","e":"^1.80.0","h":"10pzqpx52vraxq0kb7ppdbnrpv955b6mn768n3z4x0jfm7fd228r"}
 ],
 "junxi.sage-paper-light":[
+{"v":"0.2.5","e":"^1.85.0","h":"17014ijviz8ggd7fvsb8z918abdwzvyvd05bj1vx4n15xrvz8457"},
 {"v":"0.2.4","e":"^1.85.0","h":"1rdzy9c9xvqf2zrwr9hkqqqkwahks4ijjp2hpxvfbvhmav7b47n8"},
 {"v":"0.2.3","e":"^1.85.0","h":"0vnfsl9q6c7hb7f1d8fyv6sdb1bdddxbwwpwqg9crdnjmmqv3idw"},
 {"v":"0.2.2","e":"^1.85.0","h":"037s0m5rd5kk6l1kp9ifzqk8qa6dwq4pp37kkxj0y2ql3kdzsnwv"},
@@ -6219,6 +6229,7 @@
 {"v":"1.0.0","e":"^1.85.0","h":"0qnrvi0blggpq4g9qrahj81lbljdm8whm3sfnggxdzc6cv12yqj4"}
 ],
 "mecorelabs.claude-auto-shutdown":[
+{"v":"0.2.0","e":"^1.90.0","h":"19s38nk5ilpx6ylai5ckw0lz6ib67hhllvyyzkspnsaa874k8fkx"},
 {"v":"0.1.0","e":"^1.90.0","h":"0jcp0jhfq40a524inppmgf3pc34nlh942vl03ybsjibvxp9zl0bl"}
 ],
 "menelbot.fdscript":[
@@ -6287,6 +6298,9 @@
 {"v":"1.2.0","e":"^1.54.0","h":"1naqc490fp7n1zhvzz9nv1ls36i1drjiycn03c1y7m1g4vw1hmvv"},
 {"v":"1.1.0","e":"^1.54.0","h":"166ql3vgr7y3psnbgv947ipa105k7dki1ik8wvr3615i7pa2avnz"},
 {"v":"1.0.0","e":"^1.54.0","h":"1h72qzh0pmwkp8znz6qbnbilcv0d8ja3mmla8z38r2sbcg93rwwk"}
+],
+"mieweb.artipod":[
+{"v":"0.1.0","e":"^1.101.0","h":"0r8sgl4vwi5qklzcvqyljq6rg34lwyc4g13byx1b28p4x1h0aiiz","r":true}
 ],
 "migueldraws.migscript":[
 {"v":"0.0.1","e":"^1.86.0","h":"0yznxrn151bgnwi8gk25j9pzfv4hlfz8v4rpjax82bqav5z7408g"}
@@ -7986,6 +8000,8 @@
 {"v":"0.0.1","e":"^1.67.0","h":"1samr408mjljwcq75h1vd17zs9mrkm19zw5pxp9j6mv2rlrp1kwr"}
 ],
 "safe-c-ai.c-repair":[
+{"v":"0.2.0","e":"^1.85.0","p":"darwin-arm64","h":"00i4l0cv2sbnmy521xk3gz6xz0mbgv7q7jjsr5wvrh5izlsb8l9d"},
+{"v":"0.2.0","e":"^1.85.0","p":"linux-x64","h":"0lssz9v47s2j0415x940qpjydcvsnwls02jn6y0l47kc9y0g9017"},
 {"v":"0.1.1","e":"^1.85.0","h":"1w3iigbzvswpadn90sisbv4jf96n8y2h21a38pmg3rmb49lsriwn"},
 {"v":"0.1.0","e":"^1.85.0","h":"0nc8b2yszs9pg3akm8c1lydmp3vhjs9di9v3p0ci6v7583x1if1z"}
 ],
@@ -10201,6 +10217,7 @@
 {"v":"0.1.0","e":"^1.75.0","h":"0pgb9v314kx3l6k0b7fj3wx39vcvc8ybvdnjj1j9vq7dc5hhr52f"}
 ],
 "zeshuaro.vscode-python-poetry":[
+{"v":"0.19.31","e":"^1.999.0","h":"1dwx63z5xcdsnfbgzgbrn3j948mb54hj50afb6k3g3rdrbsxqrw0"},
 {"v":"0.19.30","e":"^1.999.0","h":"1cc2javhxb58zlqhbqn85wpz6w73y0pgicxfn5l13hqig2hcq43k"},
 {"v":"0.19.29","e":"^1.999.0","h":"1mwcmnvjyg1njjidw2vssr49jhw6dz96s7bi7p3hhci82akip9cb"},
 {"v":"0.19.28","e":"^1.999.0","h":"1ma9jm2yhyhbq0k3r7b6mcssv4xims8dakp35yakyq4spakbh766"},

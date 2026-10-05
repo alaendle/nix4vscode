@@ -9135,6 +9135,13 @@
 "truqu.tqformat":[
 {"v":"0.0.1","e":"^1.55.0","h":"06pli45174dgs259v7vffm4hm8z57fgb21kbz5fvki9rijlbc8ay"}
 ],
+"tutory.stylet":[
+{"v":"0.1.0","e":"^1.90.0","h":"0f5ihpc5pic99qrn6awhl93hp1jcbmi62w2vdskqf9m78l2yassq"},
+{"v":"0.1.0","e":"^1.90.0","p":"darwin-arm64","h":"1i32jcll1z3ix4vx9mw1x5awfn6afiidnpwsi68b4lrg7pk03w9c"},
+{"v":"0.1.0","e":"^1.90.0","p":"darwin-x64","h":"1w80nagapy609g67q1khxp3vffwiihx0zwgvi0kc3zvszdql2zah"},
+{"v":"0.1.0","e":"^1.90.0","p":"linux-arm64","h":"1sfc6xqygiz7r90mvnarcg9hm8nqvh1wrvvqnvj7w1wdsshy78s6"},
+{"v":"0.1.0","e":"^1.90.0","p":"linux-x64","h":"1g4qysy4ak657ihrz96r33das5d1pzaqiisljc5zr6kyfmx47by0"}
+],
 "tutti.purple-world":[
 {"v":"0.1.0","e":"^1.83.0","h":"1nws9xnv4vfqg8406b04jpkyxm2yfl4ng89v7njmkgi668bgk5pd"},
 {"v":"0.0.1","e":"^1.83.0","h":"0hfvvr94pc6w7sa5pppvdigbbnnqv224hvdw1ji2yrahvrp7s17n"}
@@ -9789,6 +9796,7 @@
 {"v":"0.1.5","e":"^1.74.0","h":"0q5qvbs1m5yzgk40ah4niv1rwgvc78vgcm2j36s57ck8ssqbycxw"}
 ],
 "wmzy.nudo-vscode":[
+{"v":"0.3.23","e":"^1.85.0","h":"0mmbz2pwxq607p1nwjxgx809sbj7jsvjzifmgnspskr4sqcxgs7s"},
 {"v":"0.3.22","e":"^1.85.0","h":"0jmjrwdg3qwzwsxipbk149hq9r9djz06ry9l4jlsfvx4q65wv1nw"},
 {"v":"0.3.19","e":"^1.85.0","h":"0cakshavnw5y1xd1xwp1xjwcj6043n3c788v7r4zjmjxvsr1fxhp"},
 {"v":"0.3.18","e":"^1.85.0","h":"1rk6sxnf4ywg57pxk7yk880i44bylp1l0dw3d614r339jx4nrx2x"},
@@ -10121,6 +10129,7 @@
 {"v":"0.1.0","e":"^1.95.0","h":"0jwzfrkz5fbb8raflbhlag8lzmal3rai5bmf2lglag2zqs9c1r7c"}
 ],
 "zrk222.factoryline-vscode":[
+{"v":"1.1.0","e":"^1.85.0","h":"0icq0pm1yjqndg90b0z9abz61vanzf2x9cs44ikd81xzzj9rx9wz"},
 {"v":"1.0.2","e":"^1.85.0","h":"0ybxrhyi2hbav3nvzppkq0mibnw2gdb84glydch1q2i79dffryzd"},
 {"v":"1.0.1","e":"^1.85.0","h":"10qz1bqf4grijd0krd6pj3iklwi2090fdyyy8qvgwr1xkan9n2kq"},
 {"v":"0.9.9","e":"^1.85.0","h":"0kd01zp0s1rhgmadx9n1ahdm20npccmn7db96c30am48kixmachb"},
