@@ -7143,7 +7143,11 @@
 {"v":"1.1.1","e":"^1.85.0","h":"1sv8kpvsfmw6kh0gwg09jxh30j02iv5miv1nkv00pn00xlwnzp2b"}
 ],
 "nifty.nifty-git-graph":[
+{"v":"0.1.1","e":"^1.90.0","h":"17xmffwyik7fn6a1cgnlyacahmbraxigaf7js408mrhy1k60cm3x"},
 {"v":"0.1.0","e":"^1.90.0","h":"09jn5c6n01rx99r3hf4mhpkzf2nmbf5h9yvan963ipys3jdgc1xx"}
+],
+"nifty.nifty-i18n":[
+{"v":"0.1.0","e":"^1.90.0","h":"00gbh2fwyj18jmv7ghzdsrk9s4pjhjj2h2yl7hxarbm00hg2rc5x"}
 ],
 "nifty.nifty-replace":[
 {"v":"0.1.0","e":"^1.90.0","h":"1nl9zbfflh1g4np3z2pd78vwb73czslh9pi4wjx5h2lci49x37k5"}
@@ -7253,6 +7257,7 @@
 {"v":"0.0.15","e":"^1.90.0","h":"0cb8v2rdv71ygagiclmfskczb6wyj5lmp0s5v0al9y7hif58habd"}
 ],
 "nomain.nomain-chat":[
+{"v":"1.5.5","e":"^1.100.0","h":"0n4s67y3sbiivmi7d8lbwr54ld73j7pmdilpfvxj7q9pkpsn12yh","r":true},
 {"v":"1.5.4","e":"^1.100.0","h":"07c6lqxmqc5lzdn2j2ywncwzggcx3i0vqg8i36ww4fz0xhg420cy"},
 {"v":"1.5.3","e":"^1.100.0","h":"0s3rag10qmwxrp8v8jc2m25pll31cwkjb92d4rvln17zhii61009","r":true},
 {"v":"1.5.2","e":"^1.100.0","h":"0rdx9rv1psc0igh6s3aq84wnnwzy9sr2cva91yvppkx0hz8i4b71","r":true},

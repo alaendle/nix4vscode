@@ -5242,6 +5242,9 @@
 "megamanics.readme-preview-on-startup":[
 {"v":"0.0.1","e":"^1.84.0","h":"1g7ykbx8mnyn35jhs60z4p17x8vml6fjwjk6lrzyl4md8m45qq4q"}
 ],
+"mel.openmel":[
+{"v":"0.1.1","e":"^1.90.0","h":"1x4aaiqr48wdp7ayx7l1x5v2i4qlgh2gbrfvsvmbyskyl3pq81s4"}
+],
 "melissagutierrez.jerrys-pixel-icons":[
 {"v":"0.3.0","e":"^1.105.0","h":"1g9jhwqz6f4siizrp6nl17xrvzsvh17mlky1gqgdap443w41lqwa"},
 {"v":"0.2.0","e":"^1.105.0","h":"07cqin6w27wsyhrf2iib85h4hj7sv61fs2nb33cvpwrbz8x9z972"},
@@ -5695,6 +5698,9 @@
 {"v":"1.2.0","e":"^1.40.0","h":"1k16aqs1r9hh8g4d432rz15hbyklrm6q01vk0jv0lvs81ng8ipi7"},
 {"v":"1.1.0","e":"^1.97.0","h":"1rxhm9g7cwmw4x1b205v5nav08w1pkl2ggz4qb8qf0a6rzajndvx"},
 {"v":"1.0.0","e":"^1.97.0","h":"1y0q0six9c368n05d250xxviyi3fvd90l24pmj91f6hjc9v1r0mv"}
+],
+"nifty.nifty-markdown":[
+{"v":"0.1.0","e":"^1.90.0","h":"11y1zn0zss9iaqrhhzhc3n9c9qwn1swah4nv27yw7zcf4fkhln0z"}
 ],
 "nifty.nifty-problems":[
 {"v":"0.1.0","e":"^1.90.0","h":"10aarrh5bs5iqzyz7qkxbrb03vjqb0m960z6x8hnxcias54wa2s2"}
@@ -6874,6 +6880,7 @@
 {"v":"0.0.1","e":"^1.58.0","h":"12zabd6lz9mlmbyzsrx2vs325fhp9vfpf4wvdm654nyi4rf8jv4r"}
 ],
 "rog-stdioh.graphite-md":[
+{"v":"0.3.0","e":"^1.134.0","h":"0jn5f875xrx4h8rd7770alrg2sv47vwn5hv7pdbfn1vn1chkh3y1"},
 {"v":"0.2.0","e":"^1.134.0","h":"0mfwfbif3460k4nxpa72lbhznxaljaxsl2qxxrx17bxrs1pq8n8r"},
 {"v":"0.1.0","e":"^1.134.0","h":"16rj6344kndzgrj5235gmwinsksxkpm2h2n26lq52my8zx5jdf4w"},
 {"v":"0.0.2","e":"^1.134.0","h":"1dzb2xrbgpngppmcdsmmlyzk78k5c7l11gwbzbbs18gx2y5azj1h"},
@@ -9125,6 +9132,7 @@
 {"v":"1.0.0","e":"^1.56.0","h":"1b43crdhpxslw587aj9n7z3jiwcl4d4ia1sd0m28cjhc5slgmn5c"}
 ],
 "uone.personal-knowledge":[
+{"v":"3.2.13","e":"^1.90.0","h":"1i2wgpmjlip6s96rgqrakjaqh2sf0nnlci6xli0nwqz8s01igxnn","r":true},
 {"v":"3.2.11","e":"^1.90.0","h":"19j4wx2c72il577k4l8m7dk2k49qkr9xdvnlgi71gpxxwlbv2shk","r":true},
 {"v":"3.2.7","e":"^1.90.0","h":"07d08a0lf2m8jm4k0hwa2l6gaxwvqmk2h4f4msg4zzkmp76n25az","r":true},
 {"v":"3.2.2","e":"^1.90.0","h":"1ild60jxgk2z2g9902sypnkx01x8jxb7j2wk8x2nwyr4a5z8gpi8"},
@@ -9939,6 +9947,7 @@
 {"v":"0.0.1","e":"^1.96.0","h":"1542kz56ljrv0drrs6sxsna98h7qxgnisx1pb809xqhwdgy4f56n"}
 ],
 "zonble.tmd-vscode":[
+{"v":"0.2.3","e":"^1.90.0","h":"1d7m3yfbsymcfw03g2fcyg53ki4c11ppmyzl5fmw0vc3bg829ax9"},
 {"v":"0.2.1","e":"^1.90.0","h":"0iybswjnjnlsz6lcmj21da5568qyh624bj9l5825kw4jlsb7wibx"}
 ],
 "zqchen.blender-development-no-auto-install":[

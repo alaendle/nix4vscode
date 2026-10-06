@@ -3122,6 +3122,7 @@
 {"v":"0.0.1","e":"^1.86.0","h":"0p9b5dc9v7k9qc8xkpgj5iq0zyc2qd4afjacgg9k2jm7i7p9smx2"}
 ],
 "gmsy.md-toolkit":[
+{"v":"0.2.0","e":"^1.84.0","h":"0k9b3m2pk7c7yy3ngddfdjfhyygyq3jplpxrmhn8ql0p86kj80vi"},
 {"v":"0.1.8","e":"^1.84.0","h":"0348z7dvarfyny4m8qc2d95qhmj1yhrvv8adws37wba6wjxh5bcy"},
 {"v":"0.1.3","e":"^1.84.0","h":"15vkmvqspzrafw98mklmgklgr4sd81m917n9c1wp9yixs1nvj5wm"},
 {"v":"0.1.2","e":"^1.84.0","h":"0xpbd22yb8xdbhq3mfr0j77wc1hwra3ap5mr0m0694i3pzl44b7p"},
@@ -3510,6 +3511,12 @@
 ],
 "hl.svn-link-push":[
 {"v":"1.0.0","e":"^1.90.0","h":"14kjzs786ha48mgdm2h2waimr6vwcyqf4dp6y4m6q3qv9n3wnh80"}
+],
+"hoanghuy.terra-expedition-3d":[
+{"v":"1.0.3","e":"^1.85.0","h":"0rj616143z1gvhc0ppl6jzijsxfg12kj641gjbs67kn1y2rdzcnr"},
+{"v":"1.0.2","e":"^1.85.0","h":"0kx1w8ns0l3bq31mrawbdka0g3mbp75fchv8mzsb1ch1s0izski3"},
+{"v":"1.0.1","e":"^1.85.0","h":"00ca4vvg12bmpsx19b765r8hxd8ncw0hisinqvjhzkrfbdvascqq"},
+{"v":"1.0.0","e":"^1.85.0","h":"0fgsfk4gxz4a70004368nk554w6padvfw4b39jw6fzjhgs262nrh"}
 ],
 "hongtrapt.pink-angel-themes":[
 {"v":"0.0.2","e":"^1.100.0","h":"0g4zpk615ixnpbbqy8g8nz02sf2asn757srjy2lw5aj8a8spqf0j"},
@@ -7438,6 +7445,9 @@
 {"v":"0.0.2","e":"^1.75.0","h":"17zwgg01v0658iqwidym17hnaf5rvkdhlcxxnxnzxqjjjhbaxn02"},
 {"v":"0.0.1","e":"^1.75.0","h":"178i9lnk1qsmcd2zxpmj0p74q17wss3vqsbx942n6x9dir9a8l76"}
 ],
+"readystack.chart-yaml-release-gate":[
+{"v":"1.0.1","e":"^1.75.0","h":"0k6gk2m4lmmr54zwbimnn09ywpakaqf2zx212z5z7qxj2i034fix"}
+],
 "readystack.denchoho-sakuinbo-lint-jp":[
 {"v":"1.0.11","e":"^1.75.0","h":"101rr47w0f17hxml9akck6xwp7v1517cai34jwf3q80ypv56hlq0"},
 {"v":"1.0.10","e":"^1.75.0","h":"0b4vx8xf4lip8ahlapqnpnqry0yxyb35ygk6v2hxfc5072ml9yjz"},
@@ -7592,6 +7602,9 @@
 ],
 "romanbolovintsev.go-php2go-snippets":[
 {"v":"1.0.0","e":">=1.40.0","h":"15p62h5iyz2nj62n1vhgicd3j6m3cnyjg1kvghw94rw28ibp7748"}
+],
+"rowstile.rowstile":[
+{"v":"0.1.0","e":"^1.75.0","h":"1hlczls1y4hamk1ljinfm3nlp1i9p1k473gymj403ysyab3b1maz"}
 ],
 "royaction.toggle-hover":[
 {"v":"0.3.0","e":"^1.32.3","h":"1k572jp2knxqcz5z0ib19l4qpb2r0xcxgrlh2w532axi9jq9jxj1"},

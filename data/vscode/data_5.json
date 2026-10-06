@@ -1346,6 +1346,7 @@
 {"v":"0.0.1","e":"^1.62.0","h":"0b0354pqwnvpq6q2afk0c1vq3d9wxhkzf0pcmnnjjld1qv9i5i96"}
 ],
 "brahmabyte.devdashboardv1":[
+{"v":"0.1.6","e":"^1.95.0","h":"0lbyp42ryav9azdx0nmqwr9956ml6q4r5zag1sqsg85cqdarr9s4"},
 {"v":"0.1.5","e":"^1.95.0","h":"0pczvys9qijlls9y47hqdg4na8xz5is59pccvqrwvingcxc3qp5l"},
 {"v":"0.1.4","e":"^1.95.0","h":"1w0nirvrlmxmjcwrxsy5q6hlkcnk9phz6d91f1l6n8rzp2dblmdw"},
 {"v":"0.1.3","e":"^1.95.0","h":"1sc34v2b81jyl9xk9s6c6w2npx8707m8jzi3vm2kflvydbniyl95"},
@@ -2225,6 +2226,8 @@
 {"v":"0.0.1","e":"^1.94.0","h":"11c7xla4ix06nhrvkcfdarlpx1681xj1596m6ry2dxynxfpw7ww0"}
 ],
 "devseccode.deva-security":[
+{"v":"0.3.0","e":"^1.101.0","p":"darwin-arm64","h":"0lrszlk42mvskq5v05aarck1j4r5l0y4f7svg38ckp2660plivx5"},
+{"v":"0.3.0","e":"^1.101.0","p":"linux-x64","h":"0vpsz24q3p3006nfgps4f6m5q3kw61cf66vp6400nrh8am79rgaz"},
 {"v":"0.2.6","e":"^1.101.0","p":"darwin-arm64","h":"11zlg3zihhyjnkm9rgpkpqdrmpja0fh53bvcif0dg8sdxxba4hrs"},
 {"v":"0.2.6","e":"^1.101.0","p":"linux-x64","h":"09dg5d73swb6vy3hymn01r73945dcpka18n7pnrq4hxcxk3jlx6m"},
 {"v":"0.2.5","e":"^1.85.0","h":"16w9cy0ir80abpx08nlbywvqlfzxyxix6flb0aivr63dxa0hjray"},
@@ -4127,6 +4130,8 @@
 {"v":"0.1.2","e":"^1.80.0","h":"0snz7r2xym4srhazripa4mvf4j822cdw8bim0ifhadhs1dn1sla7"}
 ],
 "incursa.csv-contract-vsce":[
+{"v":"0.24.0","e":"^1.110.0","h":"0jihcbgzgl49abdxxbcjwz0c0xw426xrkfbc61qgcccnmwal5zki"},
+{"v":"0.23.0","e":"^1.110.0","h":"07kn0s9sq2phd2wj6rs2b36az9l5a6ivazi1wl0wxv68pi6mnvpm"},
 {"v":"0.21.0","e":"^1.110.0","h":"1b9haxkwn791rh9bbps53sgh7462n7nkl7hnc396l1iplzqd9d5n"},
 {"v":"0.20.0","e":"^1.110.0","h":"1clfsg0l1ygf8pa7xhfp13dqlhx2vpagi3mp229zw6r6yxrhj7bf"},
 {"v":"0.19.2","e":"^1.110.0","h":"0wajvpjhzs6r524xv18vyyxl1k5y16v3xfgscq08l8lv4xc9mmz1"},

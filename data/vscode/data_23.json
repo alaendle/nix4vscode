@@ -402,6 +402,9 @@
 {"v":"2023.3.518","e":"^1.72.0","h":"1j156x247723xki5hmx5ndnvs3y8jj4d1lr0xig0vib7idlwczkn","r":true},
 {"v":"2.0.0","e":"^1.72.0","h":"0dwlrlf977asy1r9nx75svs7k9lyvj4c4j2m3h08db2jnvd9p1ks"}
 ],
+"anandsundaramoorthysa.sql-file-explainer":[
+{"v":"0.1.0","e":"^1.95.0","h":"1nkxxs2ndivwkngwxh0psc29h6zp9rw2xqx926w28cdp70k9kbmn"}
+],
 "anchao.erp-comp-helper":[
 {"v":"0.0.3","e":"^1.21.0","h":"0dm9528rrsbiz0jkm1s1n3dxdbpxy92v5k2w1jsg3gwhn3m7xsp5"},
 {"v":"0.0.2","e":"^1.21.0","h":"1iy7vkailzp1328418s9w7l2imh8q7msjrvxygq0k8hr1k9v1bv1"},
@@ -2612,6 +2615,7 @@
 {"v":"0.0.1","e":"^1.85.0","h":"0084d3ydx9vzv9xsxq8c21byv9x3jfnjd4hinhs1qcfn5f49mg0b"}
 ],
 "dforge.dforge-vscode":[
+{"v":"0.4.12","e":"^1.134.0","h":"1gxgfsz88n2hs801nqqf3qa8ddgh7s9np61zl90ckrkzcv080v1j"},
 {"v":"0.4.11","e":"^1.134.0","h":"0afr9rvljyc1mf2z8s27nimiys7r5d5mjs5imf7vsqr510wrxxd5"},
 {"v":"0.4.10","e":"^1.134.0","h":"0m1k69m2kn65cg3pk1gmm9ldhbrzf2zj7gwrlb9j5y42md10dbjv"},
 {"v":"0.4.9","e":"^1.134.0","h":"1l3hnxc6a9vq2zhcy3d8n9nki24nzwvsakcr3d3qhrlq3s6qjsxw"},
@@ -3089,6 +3093,8 @@
 {"v":"0.0.1","e":"^1.41.0","h":"1mskl7dmgx88cjq31imyqswfwsd5x4vmqg2gmklw67qlhaw9n7fc"}
 ],
 "ethansk.better-git-vscode":[
+{"v":"1.2.120","e":"^1.83.0","h":"1yivhhzv9xzr7pwg8p8rd39n1012crcv2ycjm536lrv25vkxhzvh"},
+{"v":"1.2.119","e":"^1.83.0","h":"0lwfkhxmglsshjw3kjsrxk66x1s9i2xai1b791j3ddzbvzdsd39i"},
 {"v":"1.2.118","e":"^1.83.0","h":"17k05jpvg2l78kvjry7nalnl67ryrnk0jj1cyda7qabha5ah5c0m"},
 {"v":"1.2.117","e":"^1.83.0","h":"19k0kqj5hyafp220pdwhgdmypsv1jv946qnf8gcnbwc2iav1l2aw"},
 {"v":"1.2.116","e":"^1.83.0","h":"1m6ddksw4qm5d2b7vsjz92z29mwpfxyisafc5f937ls8ksxmly2k"},
@@ -5862,6 +5868,9 @@
 "micha-medici.mica-language2026":[
 {"v":"1.0.0","e":"^1.85.0","h":"0ryhdvlxbf7j0nxblql2mk08pv9w1il2h9ggyklhr48gwnrfvry7"}
 ],
+"michalstrba.ai-pair":[
+{"v":"0.1.0","e":"^1.105.0","h":"10zfna9jl3rixswabb7s3akhiz9jqy88scrnjwiys038h4xkz6sy"}
+],
 "mikepanitz.multisearch":[
 {"v":"2.0.0","e":"^1.48.0","h":"03cqkbdzg14vdzf792vcy820bii7asi4x9jd86g86z9qsqj320jn"},
 {"v":"1.0.10","e":"^1.48.0","h":"0r2lvksa7mzrrqnjkag5qhcc6mmqs6i0yl31f0i6mbkgmm2g8frl"},
@@ -7416,6 +7425,9 @@
 {"v":"1.0.10","e":"^1.75.0","h":"1gf8233w3z03l0jxhgjk8n7zmc5z7rk5h9myk44yjy40bkwyhmq8"},
 {"v":"1.0.9","e":"^1.75.0","h":"1p163bfp5v20mgli7gnnm3c4vmb4jsbxc1p6qa6v5mlhhcg9k7la"},
 {"v":"1.0.0","e":"^1.75.0","h":"01q284225xs43i8zg2s85mwrgspklsxjq7s1az0c4bk8f73awl4d"}
+],
+"readystack.lambda-package-budget":[
+{"v":"1.0.0","e":"^1.75.0","h":"17lwl7sdi4qq1alwswj9882hx19j29zv8hlnqq9nzgb4jp553mir"}
 ],
 "realgecko.vscode-rapydscript":[
 {"v":"0.1.0","e":"^1.67.0","h":"01c97j314a1b254m2bf75rx1k49vd45qqk0srhk8lqmx5am17iqn"}

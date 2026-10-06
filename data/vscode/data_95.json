@@ -3374,6 +3374,10 @@
 {"v":"0.0.2","e":"^1.40.0","h":"03nz4bv8v6a1c91mjmhgk50c9pikxzm3sfa3sbm5ddywcn4861a2"},
 {"v":"0.0.1","e":"^1.40.0","h":"137jp7hf3q2k3w54dlllaw5rinkd47b64nqnrf7qdbjjv5z1c5gb"}
 ],
+"evanisme.evan-file-activity":[
+{"v":"0.2.2","e":"^1.90.0","h":"11l4z3rjjbr3mad14w22ss2c35l6hlcy6zll8gbbljh4aw3x6vrs"},
+{"v":"0.2.1","e":"^1.90.0","h":"0x2hy16f5vyrh1hzsrs1isjhmlis86s7gg7vnpy5iqv7vzfnbr5k"}
+],
 "everbright-it.sbomlens":[
 {"v":"0.29.3","e":"^1.90.0","h":"0gqrvysays5yxzn938xlqd0drzw7fk90xiz4b25v78iyrwvzq08z"},
 {"v":"0.27.1","e":"^1.90.0","h":"16jp4h0zhkjxn7mmj4dz0iic5b86a981iqlk8djlh07n5gw56lzg"},
@@ -5438,6 +5442,7 @@
 {"v":"1.1.0","e":"^1.87.0","h":"0q5w5hhnylhfvy0jgidfvp8vvcy3mqpfi5p0gz0lg3smz1xggixs"}
 ],
 "leeannong.session-manager-for-claude-code":[
+{"v":"0.2.10","e":"^1.85.0","h":"1hmndp5j10hgpya1rsh2h5swmqndr70049fzrzcidf84xgpq9sp3"},
 {"v":"0.2.9","e":"^1.85.0","h":"1f1k56hbmhlbqwbxx3zcpycd4nmi3xzhcmr8z2akhvg1lvrbcshz"},
 {"v":"0.2.8","e":"^1.85.0","h":"09s3v1plprf1kvh6rgfvb2hdzna7dwbcn3wf1fa7mnmz5cahshsi"},
 {"v":"0.2.7","e":"^1.85.0","h":"076qmzgn9a2gngxvd9crl3nisqshrmpwbsw38zmrf0vlqd7kxyjm"},
@@ -11859,6 +11864,7 @@
 {"v":"0.0.1","e":"^1.60.0","h":"1r99aasaylx1gni9rxbzs40b97hw6km1aicccap74zvsvz1mpz95"}
 ],
 "nolindnaidoo.unicode-le":[
+{"v":"1.0.1","e":"^1.101.0","h":"1fxl78xxfmvpmblasa0fc1pqhb1sn1iyxbq7bsrb2idylxriz5z8"},
 {"v":"1.0.0","e":"^1.101.0","h":"1mq1d60wic6f6gmqfbhjmcq7lbvx53xn55bgwvsbssb5wn1dlw50"}
 ],
 "noname.clang-extern-variable-highlight":[
@@ -13372,6 +13378,7 @@
 {"v":"0.0.1","e":"^1.107.0","h":"1aywc03w37lvq0x57lq8pv5czwzwklbbgpjrg29g419zvldr5ff7"}
 ],
 "scopelockai.scopelock-ai":[
+{"v":"1.0.5","e":"^1.75.0","h":"11w3gji3jmzbd39z6j3szr2xmfw5xcymzg35rcnrv24khzhxchhw"},
 {"v":"1.0.4","e":"^1.75.0","h":"0dg2p2rlc5zafdilmim1b3mndzifdrh95i16ahqbwkv6di50k81q"},
 {"v":"1.0.3","e":"^1.75.0","h":"1jmydrrmhijgqqahnbqzgikjx1m2fdp9ah1fhds1hyqf8m55iq1b"},
 {"v":"1.0.1","e":"^1.75.0","h":"1xk57xbbs5zf5nqw7wq841z7cifblwnxbhv838lyki5pw7kcirrl"},
@@ -13618,6 +13625,9 @@
 "simonmosesonazi.quasar-v1-snippets":[
 {"v":"1.0.2","e":"^1.35.0","h":"0ccy4a4l0h11z9vwmppfs2n6lchn1bqsrfbkx547acqkxis0akgk"},
 {"v":"0.0.1","e":"^1.35.0","h":"0b0w6g5n5a0rzgzbp17xhc95w4d89hmb0yvmjwgizcczzk872kb4"}
+],
+"simonsontechnicalllc.g-code-multi-channel":[
+{"v":"0.1.0","e":"^1.139.0","h":"1iyjv5a8zfa5lbmb8bfq650hc66napfr8rs49m7bi29f7779yw62"}
 ],
 "singlestore.sqltools-singlestore-driver":[
 {"v":"0.1.6","e":"^1.42.0","h":"1qks4j4ilmjxpl2qd9cvr7h3bcq9vyk5ni7mfw4yvaicqq0rx341"},
@@ -14360,6 +14370,7 @@
 {"v":"0.0.1","e":"^1.69.0","h":"1f2ppz00xawjn8pw8px5hc98bvv9dhwhwsg8jbiyjcn5fbbag50g"}
 ],
 "vietinfo-technology-corp.vmp-miniapp-devtools":[
+{"v":"0.0.14","e":"^1.85.0","h":"002fjcicrnp3k3v2wzcp02i3lxws1cpgnclfxdf0f7iz3lzdyqmx"},
 {"v":"0.0.13","e":"^1.85.0","h":"1mzw65vqa7yhhkki8dlax6yhhl4jy57gw6ab3mc2a7r6l6ix2hdg"},
 {"v":"0.0.12","e":"^1.85.0","h":"0s6d6ihswzr6gc4wfazdky9dk7cvq18s1wxkc2dj2qsbyzw15r8c"},
 {"v":"0.0.11","e":"^1.85.0","h":"1dhmdq38x9c06zj105mk9m3qxsgcdynizq06c37nsglyrjvh5zgw"},

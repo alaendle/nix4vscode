@@ -3207,6 +3207,7 @@
 {"v":"0.0.1","e":"^1.93.0","h":"093idikmgg9qvdl5gy8k2wya55agd8d2h5g2a94ga6xcvb3im8dh"}
 ],
 "dmoreano-dev.service-bus-workbench":[
+{"v":"0.10.0","e":"^1.90.0","h":"1mniplcwcvgaki584amk7rdwq771ss73py1gli3r49n1zn1grr6g"},
 {"v":"0.8.0","e":"^1.90.0","h":"0b12xsgzpiqbhin8zfimlsbjspsdqha35fc7ifcwcvjm6m7pjg0m"},
 {"v":"0.7.3","e":"^1.90.0","h":"06680lx735v9vlspvpmi7xjzvqdsa9zr003l5adnzd09s5p8dc92","r":true},
 {"v":"0.7.2","e":"^1.90.0","h":"001f830n81b0yfb5rpjigrwz9xvxqrxyk7l8vmdpr2n71nm4szis","r":true},
@@ -7268,6 +7269,10 @@
 {"v":"1.0.0","e":"^1.99.0","h":"10bsavi4h69l6yb736q5kxjh2gxpzc51fv9a5i2f7v7srw29i5gb"}
 ],
 "nimblesite.deslop-live":[
+{"v":"0.37.0","e":"^1.134.0","p":"darwin-arm64","h":"1nr1zdsdm29jdvhcif7h81anq9rwyrfv26z532psa9fqs0wiivk9"},
+{"v":"0.37.0","e":"^1.134.0","p":"darwin-x64","h":"16xj0fnhnvnzxz53xn4zabilmf9wnymwy11h05a2hixnhnh7y4sn"},
+{"v":"0.37.0","e":"^1.134.0","p":"linux-arm64","h":"06jcshnl0jlvrhgdq9qgqpiw7843c95q049gj3vnwipp4rrjai0z"},
+{"v":"0.37.0","e":"^1.134.0","p":"linux-x64","h":"1vgmylm8s7y0x2pwc4kw9dhdf3j5wfr9fhjjzygj10z3fjxp2jwj"},
 {"v":"0.36.0","e":"^1.134.0","p":"darwin-arm64","h":"0v0cqs24yw0w75wli7hir9jw4cx7n7c4gvn41yv0xv7zzmkkns2i"},
 {"v":"0.36.0","e":"^1.134.0","p":"darwin-x64","h":"0529ad8wgp3nr8x6vdxn8dvihqakgbjjpvqilc3fxrmvq8vhvqrn"},
 {"v":"0.36.0","e":"^1.134.0","p":"linux-arm64","h":"0ijfkkh17y1gxx2a44imi28p8hshfk8scghaxadm5cnp0ac9cfg6"},
@@ -10906,6 +10911,8 @@
 {"v":"0.0.1","e":"^1.70.0","h":"197nalpskwp11lkl4nhfc85bgbqi5slghpcbdipy1cfxwbwdkwzp"}
 ],
 "utilitydelta.human-replay":[
+{"v":"2.4.0","e":"^1.85.0","p":"darwin-arm64","h":"1mdkg9nwzbbjhb78lqzibiaiphkcdchmy82by5m7pd6xr6msp7vv"},
+{"v":"2.4.0","e":"^1.85.0","p":"linux-x64","h":"0d1i3vrh246lm559k0ic2x739c1z26cf2k40hwbf926zg8d6r65g"},
 {"v":"2.3.0","e":"^1.85.0","p":"darwin-arm64","h":"1rssva7x4bxca60i38mpz774x1lqbahdqppl832qqjy1wakgvpv1"},
 {"v":"2.3.0","e":"^1.85.0","p":"linux-x64","h":"1qdhnyl94226zx748q8ja298wkgi2fn934q89qf2wdr4qmbh1a4a"},
 {"v":"2.2.0","e":"^1.85.0","p":"darwin-arm64","h":"0jv729za5f4iqi46r5b7n27v7wwkspmikvlsiqzxrl17raxrvs7c"},

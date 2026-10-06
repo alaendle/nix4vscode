@@ -2821,6 +2821,9 @@
 {"v":"1.0.0","e":"^1.95.0","h":"02c2b9365n6isqpj984b4lbdvnhdj6djc2ki342s9q6x8ryqyaih"}
 ],
 "fintechstory.codo-agent":[
+{"v":"0.76.0","e":"^1.90.0","h":"07nw0ya023yqsy32xm61f8sqq3ia5ciz458n3hb2h10ma25jkqy1"},
+{"v":"0.75.1","e":"^1.90.0","h":"0dag7fzg3a2r9myfj37wmyln2z166z279k8jizr33hcqfr26ivid"},
+{"v":"0.75.0","e":"^1.90.0","h":"08h51s8p6lyr484wiw9hzhrzk93h5l2qar6a82kg814jd5h93z6v"},
 {"v":"0.74.1","e":"^1.90.0","h":"1k9ay69ns4iwgczfpfp1jpk5n6c0jzb0fmapq2mlfnq168pz58sk"},
 {"v":"0.74.0","e":"^1.90.0","h":"08dv1qlyj1my8d0scqna831cvr548q59vrn9548yibafqydq92s3"},
 {"v":"0.72.0","e":"^1.90.0","h":"16dhjqqg1a0cv83z6kxc08rb34isp23bx0r78696lp37alfnj6gj"},
@@ -3701,6 +3704,9 @@
 {"v":"0.0.2","e":"^1.4.0","h":"0vp2pxa4xbawh41gixyrikhi8pm3i4ppnjjh3l0kzwjgg424cni8"},
 {"v":"0.0.1","e":"^1.4.0","h":"10fnc99ja86bpxrfdvbc5qwfcng1drjz41jch57b24qsvwv506yq"}
 ],
+"iliazeus.vscode-quilt":[
+{"v":"1.0.0","e":"^1.135.0","h":"1wc9a6sa8yd73rf9lldf43xx0mml24qf1g5sxwmrqkqncm6rzkq9"}
+],
 "imcrinecat.live-promt-coder":[
 {"v":"1.0.0","e":"^1.90.0","h":"1c54jnb7xkca7nrfhckvmbrxcpm0g9z5ws5rg0gmpip739qcr7bf"}
 ],
@@ -4452,6 +4458,10 @@
 {"v":"0.1.0","e":"^1.30.0","h":"11yydm5hbiajvwcaj4w4hlw2hq96zh0rsxmxq1ffzyb1hx85wyj7"}
 ],
 "jolars.arity":[
+{"v":"0.25.0","e":"^1.91.0","p":"darwin-arm64","h":"1qsx69c2da8x3zv3m62xzx41m997s16vafzn5y3wabxwc6c7lzlj"},
+{"v":"0.25.0","e":"^1.91.0","p":"darwin-x64","h":"0wmnl0j9acgma75l9f58p8n1qm7wf1avl2jg1s6q8qs92syp04r0"},
+{"v":"0.25.0","e":"^1.91.0","p":"linux-arm64","h":"07z01bn0wdjhxvdxhh31v5pf52zdksbbl3qgxn7pw2yrxd9adhc1"},
+{"v":"0.25.0","e":"^1.91.0","p":"linux-x64","h":"0fhrvkg0rgvifqa8489y6fd2bicd43sk2j0f3fgs2lrnrbx6nhww"},
 {"v":"0.24.0","e":"^1.91.0","p":"darwin-arm64","h":"1cbci7ywaf5mrkqd4j027fpksb8a9sb472mv53nd1qfzpgz82g24"},
 {"v":"0.24.0","e":"^1.91.0","p":"darwin-x64","h":"1qkc2gcanqmin07c4rfzwzbcj6h6pikz406mf69r497lq529k14d"},
 {"v":"0.24.0","e":"^1.91.0","p":"linux-arm64","h":"15z0mfdcfmpffr2zya54b4xnjz28j9hyx6x4vxxdsimzwlc1ad0k"},
@@ -5291,6 +5301,9 @@
 ],
 "leonwong282.mdimgup":[
 {"v":"0.1.0","e":"^1.105.0","h":"0fcripy0y8d8w62yhk9rqifz1psvm62c76hlx4gvn0n0vkv2c5jm"}
+],
+"leovvvx.grain-theme":[
+{"v":"1.0.0","e":"^1.75.0","h":"08wwav8x3zaiyqca11zx751sajr4c784hbq8iqrs261pwmgxchdf"}
 ],
 "lernerg.vortex-developer-assistant":[
 {"v":"0.3.0","e":"^1.74.0","h":"1rc9s77zw83gy628g0nqafcjk00nyvqwdv0vni2109qr8d8cz9ij"}
