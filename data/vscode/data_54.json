@@ -2205,6 +2205,7 @@
 {"v":"0.0.1","e":"^1.20.0","h":"14h7r89jkh6i8kf1p5pln8ndjqym3way1dqm1s09i3sskbyw43ki"}
 ],
 "benranford.vscode-lopper":[
+{"v":"1.8.9","e":"^1.101.0","h":"0dq15rrhkm4ihym2by6nfmsjx1jq4zd9xnvjacw78i3vmwjj40cn"},
 {"v":"1.8.6","e":"^1.90.0","h":"1bngjqj3nl0czdnvmsy5ip918s4lyv5qbvx9zpy4khch96cljvg4"},
 {"v":"1.8.5","e":"^1.90.0","h":"16dc0sb7gg2yp4kgc0z6p0iszam4nwddw7zv7xycxbfmcy07i1by"},
 {"v":"1.8.4","e":"^1.90.0","h":"1x361yilfrq2f53xgs6vnp9zcsv6izz0aqfrmpgdmrhgkm9mwavb"},
@@ -3396,6 +3397,7 @@
 {"v":"0.0.1","e":"0.10.x","h":"1smqxbhpizgzjv0bygff5mfa8zpjrx849nf7gqdws9s8kizimwn0"}
 ],
 "dn9uy3n.lazy-skill-ai-agent":[
+{"v":"0.9.0","e":"^1.85.0","h":"0xmgfchq61ap4wcsz1gry2g1iqx264wwccpi4ng0wk5klfz1y0hr"},
 {"v":"0.8.1","e":"^1.85.0","h":"07lzb24imqfb3spflz08giyx62xj7plyph354r47mnm5w75ls6i8"},
 {"v":"0.7.1","e":"^1.85.0","h":"0vs1v0qv40a1k5x8zq9zbanbg86f3qbh1s0096zb4vl412fscfjc"},
 {"v":"0.7.0","e":"^1.85.0","h":"0ff658jxv6j8izwyy2hxayvx0znrxrkanby9fsj96nsspydk3nad"},
@@ -7358,6 +7360,7 @@
 {"v":"2021.9.1","e":"^1.60.0","h":"11rnwh0xymaqj21s8708a1c0pf7hfrigrrnhly54yna9m48afxrr"}
 ],
 "noriabits.force-cockpit":[
+{"v":"1.0.11","e":"^1.120.0","h":"1jv59vza9xs04lyzxyi1ibgd81ybkv1db90bymzpmng663cc77yx"},
 {"v":"1.0.10","e":"^1.120.0","h":"088zxvkqx7h8yqbjjmhklqfyp6kaqmccpy9qh8ggpq7j8khml0cl"},
 {"v":"1.0.9","e":"^1.120.0","h":"1q3fmd4gqhispy3qf25hs24d50cx5kdvminrfbsyz3vn1l097imd"},
 {"v":"1.0.8","e":"^1.120.0","h":"0fki7lvgf3jcilgagv6hnv6jkar673357c71hcb4lsf485fq3wcl"},
@@ -8748,6 +8751,9 @@
 {"v":"0.0.3","e":"^1.54.0","h":"08fs03g13rnrwrkpkw15qc9q2bcqc2gy94hs3sdrav6gdy5s7idi"},
 {"v":"0.0.2","e":"^1.54.0","h":"1kypvqmbgqxa404g0h28azf7vidw3z0ryhd38qp5wa55va9i85nv"},
 {"v":"0.0.1","e":"^1.54.0","h":"1qxifx6dpiks1m2bm1w397zqp7gpxpm5vy8imjwimwdapbdjpx0g"}
+],
+"sarthikkhanna.redline-dark":[
+{"v":"0.0.1","e":"^1.60.0","h":"1110zz6z4l425a4124nk6hsqhpa57gnk9h3ql563g1sqxfxjxwag"}
 ],
 "satoren.lrdb":[
 {"v":"1.0.1","e":"^1.52.0","h":"0mq7iv3znlklf55c3x677xg5m16jvdmv7zb5n4vw0imqz169rav6"},
@@ -10332,6 +10338,10 @@
 {"v":"0.1.0","e":"^1.106.0","h":"1fiqd91v6dks2ay6d99gg3xsqmzkfl5qvhvvmcgxv1vdpvmmpgig"}
 ],
 "wherobots.wherobotsjobsubmit":[
+{"v":"1.9.412","e":"^1.93.0","h":"13yff96wfgn9bamp7hb2l502llikj6j9i8d1jh83p8yq21cg7wvp","r":true},
+{"v":"1.9.409","e":"^1.93.0","h":"0z6pfwavl8ba3maqjkblwrnpgcr2gxkwg6qi926lq0v35m4nrqqa","r":true},
+{"v":"1.9.406","e":"^1.93.0","h":"1vcq13h5myl7gx665x6b0h96h83238y120yzcvnwhgz31x9i2iq8","r":true},
+{"v":"1.9.405","e":"^1.93.0","h":"18919i7dnlxbcc90a14qmgjinyiwz8r2bqpsjxlc18hkrqkgcqpf","r":true},
 {"v":"1.9.402","e":"^1.93.0","h":"0wqi14ql3i53lkdasr7wgmdw7iban4srpwwx7aq4vsx74w58j7pm","r":true},
 {"v":"1.9.390","e":"^1.93.0","h":"1930az7hgw5h430znib5yxfi81smq4gr00fd0b4j48hz3yp6igdh","r":true},
 {"v":"1.9.385","e":"^1.93.0","h":"08da3kv8i42jdd5ldl4s2k476qsklv3qj21vhahxf0gmm5ya35jd","r":true},

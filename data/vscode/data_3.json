@@ -1161,6 +1161,9 @@
 "avs.ompext":[
 {"v":"0.0.1","e":"^1.30.0","h":"0anqnyyx0qmn106bckj57i6cd8577lgpc1vvnhfi4dk2v0ns6405"}
 ],
+"axrydestudio.codexia-archaeologist":[
+{"v":"0.1.1","e":"^1.85.0","h":"01mp1nzyz4jszca5fkyrlc9rb2hyzlv0qgpq55gxflxbzlpfv7i2"}
+],
 "aziz-abdullaev.heex-snippets":[
 {"v":"1.2.0","e":"^1.78.0","h":"1w1kafs5d470rb2vnkxym3idx2qykxvjsp1hvxfs5mfd5c8lkz4g"},
 {"v":"1.1.1","e":"^1.78.0","h":"1awwmyyhakm6z8ndd8j7xirznxb52gppcx4v5drcr9mbdzcsw5cs"},
@@ -3178,6 +3181,8 @@
 {"v":"0.0.1","e":"^1.38.0","h":"1lvll0awxs652h3vlwmw36l4sjx19iymlwb5rrl13i4jp5rq3yh4"}
 ],
 "gmm.gmm-haproxy-vscode":[
+{"v":"0.6.0","e":"^1.110.0","h":"1fybpwnpfjb7z825mvjsy80mr0jfq7d33rf9d20kayspkj3h9gqj"},
+{"v":"0.5.0","e":"^1.110.0","h":"15k6gyhknd2r9a62rl3i7z2qr79m8c6p1jpi6rjr1r4a5zxbfbhb"},
 {"v":"0.4.0","e":"^1.110.0","h":"11vvbsh7nj23wqllskx0f4ssws7sl2fg8fw04fgq78v02qgcyn19"},
 {"v":"0.3.0","e":"^1.110.0","h":"1kmbkp5mpwslfsdqjj149mr42fxv8w12rmcv246vy08wg5bsajn1"},
 {"v":"0.2.1","e":"^1.110.0","h":"068nprdpqgfvdp5r5gjjcz3v3x1w407s87sh8n99x4s18yr3zzic"},
@@ -5655,6 +5660,11 @@
 {"v":"0.3.2022013116","e":"^1.63.1","h":"1iwhrd8yyx202c04q020ai7lj78j7sqjl4x4liz06mmjcad1ik6n","r":true}
 ],
 "ms-vscode.vscode-team-tools":[
+{"v":"0.1.2026100605","e":"^1.100.0","h":"1b7xd2pa2bcpdg3xvhpxlmknni32mgx7l6s2cp9pzaps8mbc1nzm","r":true},
+{"v":"0.1.2026100604","e":"^1.100.0","h":"0jq6zccsgxih570fkxvwiz95mfdzch954lphmp2zyv2068j5vph9","r":true},
+{"v":"0.1.2026100603","e":"^1.100.0","h":"1d1imh0h3jw373rfmh58ff74cb987vr3g07cnir9bf0z8cbcg4c4","r":true},
+{"v":"0.1.2026100602","e":"^1.100.0","h":"05m1av81qdj5xx3xgwyq554v4789hg1qvfra95drcijjkv8f2ssi","r":true},
+{"v":"0.1.2026100601","e":"^1.100.0","h":"15ghaf5hd2vgvryiyjd5nz3490kfaf808sf661pp1gw1l3dqyhjg","r":true},
 {"v":"0.1.2026100401","e":"^1.100.0","h":"0y1zn5dgk4izigplnycdhynxlnn7yv24z4vipmw73j7gp2nk5iy2","r":true},
 {"v":"0.1.2026092802","e":"^1.100.0","h":"0808s1j6llr76vz8a7c89nwc9gi6qiw35ns7z4lsyiphk4arhbw3","r":true},
 {"v":"0.1.2026092801","e":"^1.100.0","h":"0w6jq7rgf2j1dn4sbkfn0aqmsgsq1390bkl5mr49vs40ljpzc3sl","r":true},
