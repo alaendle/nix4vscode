@@ -718,6 +718,7 @@
 {"v":"1.0.1","e":"^1.80.0","h":"1yfvs1lsaf8qavpm73wj76mxisr8xjhjbx2cicr3hdgzfngl3zvn"}
 ],
 "alnuzaili.horizonstek-report-studio":[
+{"v":"2.6.4","e":"^1.85.0","h":"0iz4p9j0iz1lxgcsm14a71nvk3mhmk0jg5rsn2wjc13fv17h8s9f"},
 {"v":"2.6.2","e":"^1.85.0","h":"1dflaf09n4nkbz98xhy66l0gkvwmxgvhbcrwc2s9irxz0ly8jjxc"},
 {"v":"2.6.1","e":"^1.85.0","h":"03mp04f7q4gjbp40kph0pblgzgk1fsh565vi36sxp9p7vyd34dky"},
 {"v":"2.6.0","e":"^1.85.0","h":"1v2jnfv0dimc0c8nghd7z5vc4vsh7wmdfysri4y8a667kc3r904a"},
@@ -2962,6 +2963,12 @@
 {"v":"0.1.2","e":"^1.80.0","h":"10c1y0mgrhlv1nb02dlzcqy8157kpq5anxd7imx0zpz4lqkvmzlw"}
 ],
 "fefeding.vscode-fdb2":[
+{"v":"1.2.15","e":"^1.75.0","h":"0is9qcp7lkpc3d5mjyd7zz0ij3ggahxli8hn41r62s1j866cpil9"},
+{"v":"1.2.14","e":"^1.75.0","h":"0444brvigkrzbpdlbvlzyr1alv1fnqmwzvzdqy6prgi526ism0fr"},
+{"v":"1.2.13","e":"^1.75.0","h":"0xgamnmqh4l9dja5vmbz68558rzvpwysqfx1p892v7zzfm16j0sk"},
+{"v":"1.2.12","e":"^1.75.0","h":"0c79ns2m179paf1pd14yq1yfiv700hwvlscl20jzm66l84rd7vw7"},
+{"v":"1.2.11","e":"^1.75.0","h":"1fj7ssc6dygl813sj2nhhm8bnm1bl8vax94zbxp74sk3075sjp1z"},
+{"v":"1.2.10","e":"^1.75.0","h":"1hvn3rbgyaxxkgzmlqv0rlvnrl7zg8b1xp56460828rhvwf5l95z"},
 {"v":"1.2.9","e":"^1.75.0","h":"0cy0dcq7mllizgpgmw5gwzp4mfdhyrb004ni5a9n62bmq5fka414"},
 {"v":"1.2.8","e":"^1.75.0","h":"0snigy5z35cj1llds7849fm8sallcdhi09i1059dlnndrqsmxpdx"},
 {"v":"1.2.7","e":"^1.75.0","h":"1i66mf0his6n4vd5ldvmpq138rnilc88xfrx96g2bzd9ap9b4bnf"},
@@ -3365,6 +3372,7 @@
 {"v":"0.0.1","e":"^1.26.0","h":"1d1z86zq4l16g4db5rfvv1wr00immx5bxk7fazda9pqp386y0yxf"}
 ],
 "hakimi.hakimi-deutan-theme":[
+{"v":"2.0.0","e":"^1.80.0","h":"1vkz4vx73l0f4acjnxzwy2ddf170v65r7j8dpq59fq5bqic84f7y"},
 {"v":"1.2.2","e":"^1.80.0","h":"0l2dzdw53kdmwl0sjlrlpp39ph1r2y8jhnk6fabzd10mlpr4jfcr"},
 {"v":"1.2.1","e":"^1.80.0","h":"02bjw2nwsgcfcyv3jyf20q5xkh32kx80lfzlj8wn3pzr1ljn34sd"}
 ],
@@ -5220,6 +5228,11 @@
 {"v":"0.0.1","e":"^1.61.0","h":"0z8zdln9s7dqilnhqp7laiyhh8rjzmnndf2a29kirsqhm8sm04bz"}
 ],
 "mimas.mimas":[
+{"v":"0.4.0","e":"^1.91.0","h":"0h80pmigli5cvwg72lfmdahyn0s00k71674wq3q7184jc2pqnbnp"},
+{"v":"0.4.0","e":"^1.91.0","p":"darwin-arm64","h":"154xiqfl201nk6kzi21y8ia7vfvrzvi116qw44xkhnk71c9vm0qp"},
+{"v":"0.4.0","e":"^1.91.0","p":"darwin-x64","h":"0286d5m2902rkyq2cq0wv2qkvqy5xxmxnxsx21lv7la1lgnxwbah"},
+{"v":"0.4.0","e":"^1.91.0","p":"linux-arm64","h":"0j01vcp0vdjk4nmblvydcvydhf0l4bjyjgjanfzrx838qi8rqqim"},
+{"v":"0.4.0","e":"^1.91.0","p":"linux-x64","h":"1sbd2whlbcnn5i4klsliwqkj9n8hjqgdl9j1d5lv7pji8dxahmfs"},
 {"v":"0.3.0","e":"^1.91.0","h":"1s59z0f7nhybqfy8fgw5jvx3777bjgn1ks3nlmw41rp9bvrxl6qn"},
 {"v":"0.3.0","e":"^1.91.0","p":"darwin-arm64","h":"0f0dzr2s7840i6ly66fv3g18dv4wdw9ms6g0qaaxr32iyhfqyqb1"},
 {"v":"0.3.0","e":"^1.91.0","p":"darwin-x64","h":"08x0y4j44lmdaw4wgz05hm1p9wgd509flc0z60xyass8dvh67x59"},
@@ -6973,6 +6986,9 @@
 {"v":"0.1.2","e":"^1.32.0","h":"0g2f49jfz9p9h0bag0m5vcabphgvd7am4sqx4l2vdnmy652bpv3r"},
 {"v":"0.1.0","e":"^1.32.0","h":"0ch4814s490zrpplrb7rh81zhdiakg327ynykffsn2z7p06fky91"}
 ],
+"readystack.swift-package-manager-migration-check":[
+{"v":"1.0.0","e":"^1.75.0","h":"0qjlgmndf9w163608114iyq64bkg51abinwscqyvdh26l5xapyl0"}
+],
 "redcmd.lag-syntax-highlighter":[
 {"v":"6.6.11","e":"^1.92.0","h":"0vh21n2lhcxj5id6g8f8pvx4qs0y3mlpypbd8h2pqs3girx5wdyw","r":true},
 {"v":"6.6.10","e":"^1.92.0","h":"0ivlpv2y7cbsrhkbbvdfg6wzzvjr6wgs0a20l19r31c5hkwmr3kr"},
@@ -7381,6 +7397,7 @@
 {"v":"0.0.1","e":"^1.80.0","h":"1z3j8r6irrkkvj0j3cwdasih6z99syw452n7z1nyi1h6zq5ri0q2"}
 ],
 "royberris.devbox-agents":[
+{"v":"1.1.0","e":"^1.90.0","h":"1sj18qnqbnvb3inkgsqmracmp1x45mwq10q9iadk0q0r80lwcj8k"},
 {"v":"1.0.0","e":"^1.90.0","h":"1hrps4vx8s4a8mdm3m7l9jf43zswl9dj37vfnmyw0yrywpk1arqm"},
 {"v":"0.2.0","e":"^1.90.0","h":"0lv231az88i9zpm3m1d9vbkr3bc129vhdbsq2lcqrk4bij0ajlyj"},
 {"v":"0.1.0","e":"^1.90.0","h":"162wzx1qfv6jkrda7gh1vcxw3zbdzb7qw1wm6sx9v8lv9k6mwqzh"}
@@ -7494,6 +7511,10 @@
 ],
 "saeris.markdown-sectionize":[
 {"v":"0.1.0","e":"^1.125.0","h":"1cvjlzpwv5dn7hmj4fhj1nvb5bikzf1m7d1xm5b3amqivkz3p5vq"}
+],
+"safira-moraes.sleepwalker":[
+{"v":"0.1.3","e":"^1.93.0","h":"0wzldznv1j16b8jf95jbbfjqp638irg1cqlrld830wiiy9ywscar"},
+{"v":"0.1.2","e":"^1.93.0","h":"1w2nrq8ig0hdaqvfq4syqmpn63ik2lficz904s49q55yvdc4hwxx"}
 ],
 "sagahime.filesyncer":[
 {"v":"0.2.8","e":"^1.85.0","h":"0sihrdfzvzky2p6fqxplhv4z9spd1ilnzm0v4hv8hq98cs02xb9b"},
@@ -9178,6 +9199,10 @@
 {"v":"1.0.0","e":"^1.28.0","h":"1y8k2xpfac65qy9xh0hhc4iz2ipwfg69xjbi5vkrqz92dpswxnbp"}
 ],
 "twsc.afs-mycoder":[
+{"v":"3.2.4","e":"^1.105.1","p":"darwin-arm64","h":"10rb97pv4c9711sn41iny05k3lnzp35mzr7w5hyq7m5b3lb3ggc9","r":true},
+{"v":"3.2.4","e":"^1.105.1","p":"darwin-x64","h":"0k2d2gzig5dyjvvyc01qyjdhkgkl97jpz58bns1vpwqsxx7mbcqz","r":true},
+{"v":"3.2.4","e":"^1.105.1","p":"linux-arm64","h":"1jy57zhc830chn420f2za1ymsjns1vr7i016jwmp8256m99xn9g1","r":true},
+{"v":"3.2.4","e":"^1.105.1","p":"linux-x64","h":"0vjsfc23i9v82p6lbnsjbkb4wsk9xj7zybcsw4jac39p8n0fkhk0","r":true},
 {"v":"3.2.3","e":"^1.105.1","p":"darwin-arm64","h":"1nj3j6k0pqb4jd51p12mwvacanxpc65n464jxyssxd5a64qv5yla","r":true},
 {"v":"3.2.3","e":"^1.105.1","p":"darwin-x64","h":"1ydmlj5dywkvs2imsgwd6czd47bmylz9iwvqwars118c17inl9ww","r":true},
 {"v":"3.2.3","e":"^1.105.1","p":"linux-arm64","h":"0nlx7qnr91j4h399s5aapmf025n4zhbc67jwa36l460jl061mn5c","r":true},
@@ -9194,6 +9219,10 @@
 {"v":"3.2.0","e":"^1.105.1","p":"darwin-x64","h":"0j7zkzabcrg4nw85m9jyg1vjmvrii39ji03kgv60zq4vfmpk7f1l","r":true},
 {"v":"3.2.0","e":"^1.105.1","p":"linux-arm64","h":"1y0dr19918rzdg2k1x7r5cqgf98wvbnn68blkmdxp7i2g719yvbj","r":true},
 {"v":"3.2.0","e":"^1.105.1","p":"linux-x64","h":"1lab6qf3rn1win1x5d4qnp2z15hjphnmwsrszkaik7ipywx5namf","r":true},
+{"v":"3.1.5","e":"^1.105.1","p":"darwin-arm64","h":"1bafkbhfr82v233him7z095sdrykcf56c7awx18363pv6r6g71rb"},
+{"v":"3.1.5","e":"^1.105.1","p":"darwin-x64","h":"18f9bhgj5nl3wvsfagszgwrapsasyg4bga0prlix87712b3wfb3g"},
+{"v":"3.1.5","e":"^1.105.1","p":"linux-arm64","h":"155in80sl81h33agjd4w6bm1fmr0zd9qiq70mr5v5ha7s2hxjj4n"},
+{"v":"3.1.5","e":"^1.105.1","p":"linux-x64","h":"1xzx2rbl2idkhrg6hjw3kywnl8x4ix1mks0r0iwpimabm5m7x6bf"},
 {"v":"3.1.4","e":"^1.105.1","p":"darwin-arm64","h":"059xznqzgk4pgf3hrmrdls9pcnkzmsr3pw4yih22h0i711cyqd4j"},
 {"v":"3.1.4","e":"^1.105.1","p":"darwin-x64","h":"0g3yralvch1vz1l7rv49kmy9wx7cwrhva181shxk8xlvwvqkdk7f"},
 {"v":"3.1.4","e":"^1.105.1","p":"linux-arm64","h":"0kf9bwd5yxsjckgrnd73083li1wc1jzay2nhjj6gz1y6c7c6zbaf"},
@@ -9862,6 +9891,7 @@
 {"v":"1.0.0","e":"^1.42.1","h":"0xb9kcwxd6s90k79ad90h7sa7p6cz7mrbnw8b4gnm87p78c9g5nb"}
 ],
 "wyu.ai-provider-manager":[
+{"v":"0.8.9","e":"^1.85.0","h":"0qfk9l4rp1s4m9g4n34343dra509s3jwizz4rq0az4sbx4762fqd"},
 {"v":"0.8.8","e":"^1.85.0","h":"0rqx46dmnbjq8ravmcixf9z0vj2wnhh992x5h9fannrg2a5vl5rg"},
 {"v":"0.8.7","e":"^1.85.0","h":"1ny3jflyyhf7jmpgzm5cnqnxs6rbwwq767i3k83w01z3bb0lmwpl"},
 {"v":"0.8.6","e":"^1.85.0","h":"1m3cgm88576nkzsnfw9jdmv5nwgdsk0h31mp409jvmgywwax3wqd"},
@@ -10038,6 +10068,8 @@
 {"v":"1.0.0","e":"^1.100.0","h":"07jrikvgh56nzrsa8qznnp71fg9fzkn5dacda2d9cphs1gxvpgyn"}
 ],
 "xnervwang.claude-code-extras":[
+{"v":"1.0.12","e":"^1.94.0","h":"1xk5k6s2vmrxnclpppn29nd44n6hb6nrvnnjll6rr3rpxqsrjjnf"},
+{"v":"1.0.11","e":"^1.94.0","h":"04wcmak54g70z2ifkdrvma2q3d1g0k8q5ymsfpz42pgiihn5igqb"},
 {"v":"1.0.10","e":"^1.94.0","h":"0bmhbci6451mrrkpl3qmxh3496xdf6r28p323y8x2bbms752pg3w"},
 {"v":"1.0.9","e":"^1.94.0","h":"134c4li5mjkj5j9vcqk511g9yi8wkj0h7j0zrr27j86q4007ry4c"},
 {"v":"1.0.8","e":"^1.94.0","h":"1m5050y40g2a77kcqxh3qhag77bykp7py8b0jw19fsyav58g54zr"},
