@@ -1094,6 +1094,8 @@
 {"v":"0.0.1","e":"^1.53.0","h":"0jxir4gwxclmrg6m75j6867zmwbldaz88n38a0cx8i6xirasfwyj"}
 ],
 "browserstackcom.test-companion":[
+{"v":"1.38.2","e":"^1.95.1","h":"119s7zxdzx2ylbx6li50q6jljfnya5jv92k7c72x5wvphaxnp1ki"},
+{"v":"1.38.1","e":"^1.95.1","h":"1ayq8426cl82r1088bjmhzkihz8xqx4w6q747xy3qij0splqd5sz"},
 {"v":"1.38.0","e":"^1.95.1","h":"184piz7n3zjnj0ds6dv7ddf2bz927267hmsvjgxqm3x9mspb3wgn"},
 {"v":"1.37.1","e":"^1.95.1","h":"11qxq0n9br8qmzj8akwmln30bj2qnw4ib05l55nn2csk1xmq5vsv"},
 {"v":"1.37.0","e":"^1.95.1","h":"0jp9qjc4rrvlbg943lv2qa2kgyqw6p947aydssk4h8qhb49kwbij"},
@@ -2062,6 +2064,10 @@
 ],
 "cristianobattini.maui-view-generator":[
 {"v":"0.0.1","e":"^1.87.0","h":"0skycnahrax32wcf7wa74wia29kr4mdmbhakfn30pmqx9wha7pwk"}
+],
+"cristianpaulo4.flow-tracer":[
+{"v":"1.0.1","e":"^1.85.0","h":"06sxziqmf28mbdq74apvm0aaxklh0mia3c5mrddhb702jl7h9jra"},
+{"v":"1.0.0","e":"^1.85.0","h":"01h369iwhd966lymazxcrhdli58pcaws2xh4452kcpzk3p4rn60g"}
 ],
 "crzstacoder.bongo-cat":[
 {"v":"1.0.0","e":"^1.32.0","h":"14kfz6bj3w9npgrr6ps0j7pp25nlhx0dl85wfvgvdrsh0kxf43if"}
@@ -9121,6 +9127,9 @@
 {"v":"0.1.0","e":"^1.90.0","h":"0nfgf1zhr3ybf8gj69fsb938zh8hbr358iz0yvwi8k164pfkk5jx"},
 {"v":"0.0.1","e":"^1.90.0","h":"11my54baghncf1m8lg2wpyiygfaxzkv1w6skac1iwiyng2dxx15l"}
 ],
+"tajikgpt.tajikgpt-agent":[
+{"v":"0.1.0","e":"^1.90.0","h":"0imdhxmxyyyjyj6sjz779znvsziky5p7n4f7gd1x82031vw4irld"}
+],
 "tallesvini.talles-theme":[
 {"v":"0.0.0","e":"^1.22.0","h":"0ylf5lh0y7pzdzzjqip4dlvazj4m0yrdw49r681jgkibi2icijys"}
 ],
@@ -9557,6 +9566,7 @@
 {"v":"0.9.3","e":"^1.134.0","h":"1wvj61yjqjkis0xxkqg781nirqvbc24x02yijf5y7v70pc5q26f8"}
 ],
 "twilightventures.log-lens-viewer":[
+{"v":"0.2.12","e":"^1.90.0","h":"1713rrgpsdyizv9ljk4liklfcfm3y3x8qhbglmq06nxn7j3a43zg"},
 {"v":"0.2.10","e":"^1.90.0","h":"0dxvn73w84y0xznqizql4grlxzn0wzn61v0kwbg0538yxsa09g51"},
 {"v":"0.2.9","e":"^1.90.0","h":"0jpga3n38rwjn42dgx567xc0bph0c7k9ns0hkxrc4kf8rzyl3gix"},
 {"v":"0.2.8","e":"^1.90.0","h":"076mp22im55mxanhskkhpzvbr9malhsadivj6v6cpp9dilg4mf9j"},
