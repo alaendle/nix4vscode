@@ -2238,6 +2238,10 @@
 "mysamparkmcp.mysampark-mcp":[
 {"v":"1.0.2","e":"^1.99.0","h":"0zxfd30778xhfiwl03433l8ss22baxnqw4argara5r4wgng4ckzb"}
 ],
+"nifty.nifty-svn":[
+{"v":"0.1.1","e":"^1.90.0","h":"1998kj0h862b5jzxy20bfb2ma02xcy26l14qalxv3rzmrb965wf3"},
+{"v":"0.1.0","e":"^1.90.0","h":"19vwarcf4vc73dc794s300lz2vsw7gx7sggllrhfmycnqssvc5b8"}
+],
 "nilssoderman.mobu-utils":[
 {"v":"2027.0.4","e":"^1.131.0","h":"1ylh41wnzvikv5sl003g9qs2lsifg1rbhvfdcqmxqasc2prznj7y"},
 {"v":"2027.0.3","e":"^1.114.0","h":"115xa7l9z0zx5k6akxma4lnxb52wi4ky4zz6icwrm9xa5869nspf"},
@@ -2548,6 +2552,13 @@
 "rahuldhole.context-bar-rd":[
 {"v":"0.2.0","e":"^1.75.0","h":"1r42zgpk0gnmkpq792j5nidmgz3y9hs4amz2l7jxg25qjla5ifnx"},
 {"v":"0.1.0","e":"^1.75.0","h":"0vma0mrdc5rksxjxbjrxvysr52r5lmpl82my4i2c970x53q59479"}
+],
+"readystack.dienstplan-ruhezeit-check":[
+{"v":"1.0.5","e":"^1.75.0","h":"1ggdy181q5hk1ai4x5mwkyc30n0qpxbpq0i47wkcy26c2hvqcjnn"},
+{"v":"1.0.3","e":"^1.75.0","h":"1bmg9i9dws4941k6z5zf0zvbn2hmplwcdss8j7gs44sbqrp3z50y"},
+{"v":"1.0.2","e":"^1.75.0","h":"0ywg33mf0xa8q4fmss39di7rnawk0qs7fhwjjz2snj6zinmw0ps0"},
+{"v":"1.0.1","e":"^1.75.0","h":"0cz56scbqfxfbnx5kw4yiw922nfwyii9jiv87g90a38cgn6lkc9j"},
+{"v":"1.0.0","e":"^1.75.0","h":"0ngpq4swkdzxgrp0chm2x8qp9ymwfynhdrzm6w7qn6bqx490s104"}
 ],
 "readystack.readystack-mono-slate":[
 {"v":"1.6.3","e":"^1.75.0","h":"10310h351pf98cbamrnlvjfhfn1nlcq7bz9iw5f2hws973wvij63"},
