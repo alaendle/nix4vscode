@@ -8403,6 +8403,7 @@
 {"v":"0.0.1","e":"^1.73.0","h":"1s4yhid2fq7gbwba1n0x06c5nyc7ca7za5h2wfwhxn60rslbipqc"}
 ],
 "renesaselectronicscorporation.renesas-memory-usage-view":[
+{"v":"1.38.0","e":">=1.95.0","h":"12dnakf48c9y36ckgrg1az9qcjxiq1w1mlz6vp0b407yfvr4qdnq"},
 {"v":"1.36.1","e":">=1.95.0","h":"1hmd349chcq699ifm2ibc0pzabynzihkh4cvpshz8sdmm3kzwiap"},
 {"v":"1.36.0","e":">=1.95.0","h":"1yc8hhfra26qs2s5xg63lxws2bfw91qj29c4mcfgyii6wzas37np"},
 {"v":"1.27.0","e":">=1.95.0","h":"1vn3wf164wxambwgaq6cw39zmr2njkx2x5sydx25b9fkdfpgwa75"},
@@ -10713,6 +10714,15 @@
 "younggglcy.simple-routine-reminder":[
 {"v":"0.2.5","e":"^1.81.0","h":"1fdsrpsc0vm5xg5xlq6a4rj8w4vdjf8d0lkia9p1hw8i56gxarfp"},
 {"v":"0.2.4","e":"^1.81.0","h":"0066nn5j70hm02vdbsm4naw1jz1hlmkrdmjnd0iw1r98a00h9mnv"}
+],
+"youngminseo.inhouse-code-agent-fr":[
+{"v":"0.7.10","e":"^1.106.0","h":"0401cidnpafk8s2kb4hpqrpf0ws14qh4g96wfz1ixa6xr87jscvz"},
+{"v":"0.7.9","e":"^1.106.0","h":"0ri4ih4yqf44lhmrbm1wqj91z96zs1qiibkv7ivzlagfmbb2jv2b"},
+{"v":"0.7.8","e":"^1.106.0","h":"10i7fr2k49x2a8md23micyx3l8dz7fsx8mpmcnsj3355qhzabz3d"},
+{"v":"0.7.5","e":"^1.106.0","h":"1xvf1jm2ki6zc8r5081zihsvjgcgr5bq9yym0bpmv483dggdxj98"},
+{"v":"0.7.3","e":"^1.106.0","h":"00hl0k94q1rll6md3q9hnf40vm5fax1dcqppcncg4hbx8590wa1s"},
+{"v":"0.7.1","e":"^1.106.0","h":"11jsxdgrriacwqqgxqh07dy3r8zrhfyiibh97595hk7dsv85cc08"},
+{"v":"0.7.0","e":"^1.106.0","h":"1vz25bdpkyry2msyijzarxdsdairibxjr62msxy9bfq481bfmhxh"}
 ],
 "youtomihara.markdown-diff-for-ai":[
 {"v":"1.0.6","e":"^1.85.0","h":"0i7gf520xm9mwmzxwnd4bfaf2d2nyr1bz8yi2r3hpwk3grmk7dj1"},

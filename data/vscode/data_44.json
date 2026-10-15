@@ -329,6 +329,7 @@
 {"v":"0.0.1","e":"^1.64.0","h":"10yfhpcr9s4rja99kkwhhdmr8ibi0nhipsgawx6wynaxyssa0cs7"}
 ],
 "aikidosecurity.aikido":[
+{"v":"1.0.121","e":"^1.83.0","h":"0iyvxchqchgyskh45q9bm83czdpgqazr0955jc6hxg5l3sypgda6"},
 {"v":"1.0.120","e":"^1.83.0","h":"0mmywja8fxf6p0smb7cm7x260virvbnljab5mk6q2v4zirpzxn1n"},
 {"v":"1.0.119","e":"^1.83.0","h":"12bhkj9rs8rpz211vdizvymqyxmn5si7lfi27q3kfd98nfxvmkig"},
 {"v":"1.0.118","e":"^1.83.0","h":"1c9kgl86ycrad662kmdcr1f1mx106dc75r5hml0994rxvyq6nrjc"},
@@ -5081,6 +5082,7 @@
 {"v":"1.0.0","e":"^1.125.0","h":"1i8x3sdzxgjxrhmfd16y3vpicdwkkwh43h9sph6rckbabpaakifx"}
 ],
 "jaycevane.svtools":[
+{"v":"3.5.0","e":"^1.74.0","h":"04fgwlgxpp4sbkkgndhd9g007gfqxl4gqa4m2ynd6nlkrx1m03z5"},
 {"v":"3.4.8","e":"^1.74.0","h":"01khhlq0xyr5yc7ykh7ab0l719zq9vn6d7gvkmiajh0kvgaf94hp"},
 {"v":"3.4.7","e":"^1.74.0","h":"0liavqzdx3c9ac9lf045v90ga37d8j3aax7zlbkd0hqagypzsk5r"},
 {"v":"3.4.6","e":"^1.74.0","h":"1q7nxm3kc254wr9al1p7m5nddsaqrrlbn6pnp6sw7krc5wy7dq0f"},
@@ -9234,6 +9236,9 @@
 {"v":"1.1.0","e":"^1.14.0","h":"1hg24z678x2jw8y2kqj7q6ikh2fl8qrqq9a4mwkda257x4q5g79n"},
 {"v":"1.0.1","e":"^1.14.0","h":"0h6292pq94la8gpyf1smqrfhnv1zkkqi32z1bmdq9ly0nrfwdj8a"},
 {"v":"1.0.0","e":"^1.14.0","h":"10c57m46gy74nhf5npbgyw9bqrbn3qvzhr2k5mazrvs5qbn4zmq7"}
+],
+"sosyphe.vscode-wdl-vis":[
+{"v":"0.1.0","e":"^1.84.0","h":"0839b69m8y6mqzadk395bkv5hjfsn0snssq81hsa1m4bzdsskqmi"}
 ],
 "soterai.soterai-ide-guard":[
 {"v":"0.6.2","e":"^1.85.0","h":"0m140kx07zyngnq7ifmchrwxsdxaj7az3q2qphcv01vvgmcz4km7"},
