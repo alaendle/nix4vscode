@@ -143,6 +143,9 @@
 {"v":"0.0.1","e":"^1.87.0","h":"1mzrxsh5cad52w4gswxxpx2i5xvimqxrv3zmc77q1q1p0gdwh79c"}
 ],
 "adronite.adronite-agent":[
+{"v":"1.2.1","e":"^1.101.0","p":"darwin-arm64","h":"1xyrvsq8812shg1gd03s7fkgpwikl5s4gkc93w3n4j74mxibmmnw"},
+{"v":"1.2.1","e":"^1.101.0","p":"linux-arm64","h":"17w31w8hjw9gqfnzqyv11lmbd0yh69jz2pjq4c0iln67yhn7kcm1"},
+{"v":"1.2.1","e":"^1.101.0","p":"linux-x64","h":"0sl9cvphxmf975c46c2ysj033629w042321mwbif3im5s54fq7nm"},
 {"v":"1.2.0","e":"^1.101.0","p":"darwin-arm64","h":"09wkilv06yby1j8p4v75xlpdwzzpdj446zx9k7fy5mlck47bwx13"},
 {"v":"1.2.0","e":"^1.101.0","p":"linux-arm64","h":"0073wn56qyq213zmxi6yh86d3ds92mlqrhmcfkyn7h16nzpnbjgr"},
 {"v":"1.2.0","e":"^1.101.0","p":"linux-x64","h":"0vr3yf5pb8xi2id8bw7yy1siy8jyr9k7j6qbw89lcxzl9cx7fha4"},
@@ -4348,6 +4351,7 @@
 {"v":"0.3.18","e":"^1.74.0","h":"0mrwbyi6mm4wx1xqdwaqqiw8bzv6h4abi32m2nf38dgaj9mgi51q"}
 ],
 "graphcal.graphcal":[
+{"v":"0.5.4","e":"^1.140.0","h":"0mzjikar5a18769cw05cxflh4vr97f77avh0bsx62d2afqng102w","r":true},
 {"v":"0.5.3","e":"^1.140.0","h":"1nkzfa61zsm1x8viaagjvdc7a2wkbk7hgy9c8259hprqg1smi6ca","r":true},
 {"v":"0.5.2","e":"^1.138.0","h":"1x31w15lnqq2vranlpq5r1lzarq88r7qnxfbk87dg6z6n1xl82br","r":true},
 {"v":"0.5.1","e":"^1.138.0","h":"0rmjhi712dnrqq4n2rm9y0jl7y9rg38pfvhsgab5di96bil5plw0","r":true},
@@ -5592,6 +5596,9 @@
 {"v":"0.1.6","e":"^1.85.0","h":"0ia72hdvnxgf8y8xbyz3xsbcfgwpp3z3wyz79p3xrwxi93iarv2y"},
 {"v":"0.1.5","e":"^1.85.0","h":"0cv4z6064ni9imza1378ydayykqywgcfc94vbgfnmzzb0ismbfqk"},
 {"v":"0.1.3","e":"^1.85.0","h":"056ac8f05y01sp8rp8ymga7x34wbiscyy37fdwgbjs8wg0069ca1"}
+],
+"lamoonagi.memflow":[
+{"v":"0.1.0","e":"^1.85.0","h":"048zsfkmbgiasv641sq7g3w89k0lxmvk9rzffnvmy95i0b2q301a"}
 ],
 "lanthaler.translation-manager":[
 {"v":"1.0.0","e":"^1.17.0","h":"0zv0ypskq53jbhqjh0bdr4lk0w26mrdqj140rbjaqkxafjs3swb8"}
@@ -10343,6 +10350,9 @@
 {"v":"0.0.3","e":"^1.80.0","h":"1hgqdpzb5qx9802q7r5qz6y1k6n2al3kw8kq3kgc75pd9pivkzlz"},
 {"v":"0.0.2","e":"^1.80.0","h":"0j0p493gfghmpkpwn4zs4hmzr0vcac5kfbds99j4rmgg53q7p3ii"},
 {"v":"0.0.1","e":"^1.80.0","h":"0p34h1s30bgh0nc2z766b14fdfyvawr4zayrcj9q1jxqv1l0si63"}
+],
+"wald764.rdlc-code":[
+{"v":"0.1.0","e":"^1.142.0","h":"1xi7a4xm0cazn2rzhzxkpnrrdd9fw92qp60m0rh823qiw85yvmqk"}
 ],
 "wallabyjs.wallaby-extension-pack":[
 {"v":"1.0.1","e":"^1.75.0","h":"19spxljvx1s3z2qzkvy7nwihcwh144jk8avcdacajwghya2gy7hi"},

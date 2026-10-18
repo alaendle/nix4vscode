@@ -1128,6 +1128,10 @@
 "ch4nkyy.ch4nkyys-theme":[
 {"v":"1.0.0","e":"^1.47.0","h":"1d1280sk85kmlcyzdf5ypyi04vijg53qcy9kkblmvdikzmgy8ibz"}
 ],
+"changeradar.change-radar-devtools":[
+{"v":"0.0.2","e":"^1.140.0","h":"0gplpsrxggbvsp51wyz3bpmmyy8sjx777l92i5n8bz9qmf6zhgyj"},
+{"v":"0.0.1","e":"^1.140.0","h":"1sl4h1lvj3fpph4qk7ly21s8ab1bik25dnjx5gn3qg2mjwkpkhhz"}
+],
 "chenyihou.autotestframeworkhelper":[
 {"v":"0.0.10","e":"^1.89.1","h":"1a5pbrg02kp6jy2icyqvzl8712bzc59kf3i995xdxckikhkk2gdf"},
 {"v":"0.0.9","e":"^1.89.1","h":"0wvbpf8w68y32cjlg4l8qmdfw1i6ys4czl7z7j3v6q7zyz00plx4"},
@@ -4090,6 +4094,7 @@
 {"v":"0.5.0","e":"^1.74.0","h":"09wfz1s7vmn7pnbgf9iqdafxhkbafdz0rwd0w4gy1fk3nqd12qga"}
 ],
 "kishordatar.vscode-cp-proxy":[
+{"v":"0.0.13","e":">=1.80.0","h":"0hyiidql0s6qv0fzhglj06mvlqr09zfc3i2gyjc1qny723pbl5xm"},
 {"v":"0.0.12","e":">=1.80.0","h":"08f0gadk4jgvq68kflbds57y23niah4jmizjz57n2p4rzqwifz46"},
 {"v":"0.0.11","e":">=1.80.0","h":"1yh1kminyal81d06xv6l0kgmz9ijm0x7vlm1k611pa38brdfv791"},
 {"v":"0.0.10","e":">=1.80.0","h":"0zlyw3wpgjz7bgiy7ljq90k0wawkw2agm4zvp5nnpngjydy75sir"},
@@ -5799,6 +5804,9 @@
 {"v":"0.0.2","e":"^1.0.0","h":"09ms6hml1w9qc7gw6hsg2gcpvlgilslm5zqbv2pwjzibciikhr9s"},
 {"v":"0.0.1","e":"^1.0.0","h":"0c4rqap35ac375mirbzbxajkb48vgw99bnvmcpw2ar00y2zwk8kd"}
 ],
+"nickykim.nitl":[
+{"v":"0.1.0","e":"^1.96.0","h":"0nxv2jahqfm0bz8xhihii66nlbnsr97l7yxysy7dq7s20jpr9a03"}
+],
 "nidu.copy-json-path":[
 {"v":"0.4.0","e":"^1.5.0","h":"080gai2wlqhyyfgzj5kn3q93w5w0cka3n4dsvh46wls1n9443wxj"},
 {"v":"0.3.0","e":"^1.5.0","h":"1q3mamlb8a9lzyc92091kzh2ssc6r8ffhpjsikq1aqn4lks981yf"},
@@ -6175,6 +6183,12 @@
 {"v":"0.1.2","e":"^1.25.0","h":"0ljwpisqg1xaw2pqjv1rdd579hyk1m23hi8kk39zs2zvksk7nyb4"}
 ],
 "pfbuxton.xml-form-editor":[
+{"v":"0.1.11","e":"^1.90.0","h":"1blh4y13v1pcbisbgbg0fjb3i74z386byy0dg63yzwff7qmljgd0"},
+{"v":"0.1.10","e":"^1.90.0","h":"030ydaiv8gn5jrgcwcj77kfjpkzk6i05nly3rgy47bw3plzrpgb1"},
+{"v":"0.1.9","e":"^1.90.0","h":"0x7ikznmx2ry6w8sjcqcfa9ddw5h5ssj3axfj15zd675mcag3xzm"},
+{"v":"0.1.8","e":"^1.90.0","h":"02lwr6fvzzyihpy84hr943w9vm82q4zfp59vp47vj3vfrmzyc3gc"},
+{"v":"0.1.7","e":"^1.90.0","h":"1q60vn18mww8zwa7r9zfsjj6yra224fwisa6dh3cszv9a278pbj5"},
+{"v":"0.1.6","e":"^1.90.0","h":"0mksjvy87849z7jvfqfhq00pi5p8hm9329mripx6l7wdni46qyyr"},
 {"v":"0.1.5","e":"^1.90.0","h":"0lhrmc6lan9wznaw1a85wwj5qnpv0mnd54zf1dkml8jb4zibazgj"},
 {"v":"0.1.4","e":"^1.90.0","h":"15gq44gg2isy7alz3klw9haa9b22159kbdsv4hyag058lv0j1r72"},
 {"v":"0.1.3","e":"^1.90.0","h":"08m3i0rzzqkmrfv954n4pdczwsp01rwz3ww1lghzfp2j6d5xy144"},
@@ -8008,6 +8022,8 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0ssfaj2dbdl91w2sp6612140ahzn9bfnvp3y74qw6jf5dcfdgfpq"}
 ],
 "snippetflow-app.snippetcode":[
+{"v":"1.0.0","e":"^1.85.0","h":"00sxlm7gdn1pni8caidrx4hni4nz0n8l9lrbamg7f47jcmda8mv1"},
+{"v":"0.0.9","e":"^1.85.0","h":"01qhf01anzs5wsykfrxjsdssk51fz90spak3wgip2fvlf8fyri4k"},
 {"v":"0.0.8","e":"^1.85.0","h":"1wiqb5fawjnnsi8s1mn4bd64v3wjlhlajd80rgvs57iyzi5bfcpq"},
 {"v":"0.0.7","e":"^1.85.0","h":"00nwicz8s9xkn5jvap6si1mnw8fy4nz37i2042lk60r5j8qn7icj"},
 {"v":"0.0.6","e":"^1.85.0","h":"0yvl20ncqda5h7awj4mx29p1f4f758jb3hpavyd284q5kf53yml9"}
@@ -11111,6 +11127,9 @@
 {"v":"0.1.0","e":"^1.55.0","h":"0pyi4crcmdxvh5gxx4fv5qs0kmh3gdcr4by7rzpp44miqa6r3vf5"},
 {"v":"0.0.1","e":"^1.55.0","h":"15v867m7cbxdyhk782d5byyhkxq2v298ix4iyz31mzr71d3aydmb"}
 ],
+"tsquare-js.tsquare-vscode":[
+{"v":"0.1.0","e":"^1.90.0","h":"1y9qkpli1aba8nh9qvva0rizf276ysbx71cz3w7gw4zk2wkbwrsq"}
+],
 "tuftsbcb.medford-vscode":[
 {"v":"0.1.5","e":"^1.68.0","h":"030iv55s6jnds694gb4zys0f8ys7dy7xxrjq6x0rrvif7q3vrm44"},
 {"v":"0.1.4","e":"^1.68.0","h":"11q9yazf1xdw56lxa957jx5m1pzfj3si79a2vdn94dz5m7ln75zg"},
@@ -11774,6 +11793,9 @@
 {"v":"0.0.3","e":"^1.71.0","h":"12fnrn7hvykbxbhiw43a7l8hsfb2k6jfq6ps32k7llmcpf98nqf3"},
 {"v":"0.0.2","e":"^1.71.0","h":"0ibyl9vmqk6hnrx62l3a8mqv3nl8a58ncrvdazm5qcd8m1b6b6ml"},
 {"v":"0.0.1","e":"^1.71.0","h":"17yqcwn8c2kx3rp3gcy8axpb5zq2lrgf967xmjc2wlbprknz53k6"}
+],
+"yamlr.yamlr-vscode":[
+{"v":"0.1.0","e":"^1.75.0","h":"1cmi8rm0ah7khlrg19cxgbcyghvp8sgp0p8s6a53k7y0x0g0rcg2"}
 ],
 "yangjianvs.simple-code-snippet":[
 {"v":"1.3.0","e":"^1.36.0","h":"0yp8s5023g17xswz6sb9hy71w9403qd07wwdlapnlvrpka91d0y3"},
