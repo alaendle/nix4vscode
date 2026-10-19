@@ -44,6 +44,8 @@
 {"v":"2.0.14","e":"^1.96.0","h":"0x67rihdcy7yy38w81nv0qfchcbim35bfm6l1pr4hjdljg4x99hk"}
 ],
 "agentself.codex-workspace-chats":[
+{"v":"2.6.6","e":"^1.95.0","h":"196nnd6i41si80q637ywx9kghs7avybzs9784sxvciw33xim9b3y"},
+{"v":"2.6.5","e":"^1.95.0","h":"1dvx12fx8dyxypfff51vj2xxqzchgc8lkrxgcz8n012wlikvdvsy"},
 {"v":"2.4.0","e":"^1.95.0","h":"1jv4xcc36ni8knhjgggq169l4ii2zdsi7z7x2ahamsf2yyr377iz"}
 ],
 "ahmedalgzery.prayer-times-reminder":[
@@ -630,6 +632,7 @@
 {"v":"1.7.5","e":"^1.38.0","h":"1yrr1fbdl0dkgv2bnkz6kphg71ckkjrbw8q9wxc3r37c8ml35pxl"}
 ],
 "danisss9.guito":[
+{"v":"1.0.12","e":"^1.96.0","h":"026h2ic4wsrh39wjz3nfbklv26d50mi4kr8yik046axm8wkwsi5l"},
 {"v":"1.0.11","e":"^1.96.0","h":"1wmkqxkzrnai8zf3kjl9i06gpgm207kzi5hbbk63fqhmp2imm6k8"},
 {"v":"1.0.10","e":"^1.96.0","h":"0zqjplpv0a2fy57y859lbi47y458mvirzkx5lxrqfl6xqv72r1sb"},
 {"v":"1.0.9","e":"^1.96.0","h":"180ipigpzlfk1kwa6kdziravm9aqp2cbccyzm5sfprm0kqyabam5"},
@@ -1662,6 +1665,12 @@
 ],
 "readystack.podman-desktop-laptop-check":[
 {"v":"1.0.0","e":"^1.75.0","h":"1lj83r92ab460aiwbgf6cb3frlzh0q0v51hf7s1l9nyd39kqwn83"}
+],
+"readystack.resilience-plan-lint":[
+{"v":"1.0.4","e":"^1.75.0","h":"0yki3kaxjabm7bb5h0l0nq2jh1bsqnx5rv4bkcmw3swix23fhp5s"},
+{"v":"1.0.2","e":"^1.75.0","h":"1mxf6qwnpmk00ixbqrxnz7bh58lgi7vyb1n9f16kv7awcg3s1b8f"},
+{"v":"1.0.1","e":"^1.75.0","h":"170d014dzlxgplaa67zba1ripbwqzpcdql6cfk6ipfr1q182sj6x"},
+{"v":"1.0.0","e":"^1.75.0","h":"06h2xsya9bip6vf9ja1jgr8gmgg9kwkrig99l7v8lycc1598sshx"}
 ],
 "rebeca8315.cody-testing":[
 {"v":"1.149.1773708333","e":"^1.79.0","h":"0kd41qy0x9cg5kf8wdqzpllb2xqnsqr24x1lil6p7hwa5iqbhly9","r":true}
