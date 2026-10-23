@@ -1362,6 +1362,8 @@
 {"v":"2.2.0","e":"^1.88.0","h":"0vq816mpyff0szvz5yldhll24lkgjhaa2n96vmmcvxa1xx8ydbml"}
 ],
 "cogniztech.stateroot":[
+{"v":"0.2.23","e":"^1.85.0","h":"1wks04mn3qx11kjkqf4i227vic4pm768i0ad4vcrlkpqvxgccnzf"},
+{"v":"0.2.22","e":"^1.85.0","h":"1r1q81lg34g4hzqplayxlfg7c71mrnpm6r9hi9d2lri9qj2g3ryi"},
 {"v":"0.2.21","e":"^1.85.0","h":"166jnfq8vgivr5w72yfbm64rbg460rlp609yqhpvha5i6a0gxniy"},
 {"v":"0.2.20","e":"^1.85.0","h":"0vj2iml1zqrvbk8b5p1zjzlzk2fqivbsmpf58vnhx6njpm4p66x1"},
 {"v":"0.2.19","e":"^1.85.0","h":"084jmf36pg77xx0i5nd0kcj0m12ifb8k5izamlyz9azw50c6i230"},
@@ -2253,6 +2255,11 @@
 "nexdeteam.nexde":[
 {"v":"0.0.2","e":"^1.99.0","h":"0g8izs583g3x6jbknrlbhm1z3wgj701khajqsh108a6yh5mlc7r4"}
 ],
+"nimrod-teich.lookout":[
+{"v":"0.1.2","e":"^1.94.0","h":"1756w0asr065000fpk103j90srcca8zg3y482jfhyz93855ygsg4"},
+{"v":"0.1.1","e":"^1.94.0","h":"1ad6ary2nsnga9vm9kjfklilh84vkx7dqsi4abcm1hs2fwnigjqm"},
+{"v":"0.1.0","e":"^1.94.0","h":"0gx3xgypp7r1nqm4h0w5g0m9vbwcn3ckj1y3wp1q26an7f28rbf0"}
+],
 "nothingnothings.nosferatu-theme":[
 {"v":"1.0.4","e":"^1.56.0","h":"0n4yigfx3spbs41qv82q0g75nqcpakjls79p1lzdwrmggxdwhap3"},
 {"v":"1.0.3","e":"^1.56.0","h":"0xy8jk49mic94f4dwhfa6v5vp2siq2gbbxm7s009cjs8qln86dgm"},
@@ -2368,6 +2375,9 @@
 {"v":"1.0.0","e":"^1.75.0","h":"08007ka3ixz1myfwydwqszwzz5lz7ai4qvrcn2zmwssqd4zb3ird"}
 ],
 "readystack.mcp-2026-migration-lint":[
+{"v":"0.1.17","e":"^1.75.0","h":"0pfi9y6fyjh2h94v6ac9glzbs6z7h29vq38zk4lakz4c1kccyvqx"},
+{"v":"0.1.15","e":"^1.75.0","h":"0m21l1xhzzr3250dzkg51w0767zzswfjp32m9pjlvv7bkf16isyz"},
+{"v":"0.1.14","e":"^1.75.0","h":"1pgw7kbhr262jyvsr7hndafn45ha2h0qhsak91dsblc13d5wfx92"},
 {"v":"0.1.13","e":"^1.75.0","h":"1w4khnkhjswa8q193j02id4rjhijv93x2imhixix6v77i7x38p8z"},
 {"v":"0.1.12","e":"^1.75.0","h":"0gkhw1q8qv3p8jlsrz702ssnl597l7xgj16jf03wzwn7vxawlq15"},
 {"v":"0.1.11","e":"^1.75.0","h":"0wc076yyj0449kz6qplpsj7sb23934nm2ixk929lwl3kdzx8dfvl"},
@@ -2710,6 +2720,10 @@
 {"v":"0.1.0","e":"^1.96.0","h":"1dlbg77q2b0f7q31iqig7dwfkcpam5x1l7q3s3ggaaajfcdsjapz"}
 ],
 "willbot.tunnelfy":[
+{"v":"0.2.3","e":"^1.85.0","h":"0sysigj7kanciyvsndcccwv4qv31halpil4n0k02di5jjjzmywc6"},
+{"v":"0.2.2","e":"^1.85.0","h":"1zs4fhr6y5hldc8lqpi7pmvy1awdb9fpwysx6yzidsp8ja7xzkj0"},
+{"v":"0.2.1","e":"^1.85.0","h":"1qfj5ny3wk3ykjxs795ycxl579nabhmc4r6nad71hfl2vwbk9fsy"},
+{"v":"0.2.0","e":"^1.85.0","h":"14blnkdljq9f5s6dvypn4hilsdlhdgzifylk88mm6j9s6sxjbizj"},
 {"v":"0.1.92","e":"^1.85.0","h":"0gaagsw9gzilih2zabkz1a1mwfw7jz8lk4dklvxrdshmmiwv37w0"},
 {"v":"0.1.91","e":"^1.85.0","h":"1y0widbrghr95ff3vvf5ir3hdymrhhfbha8dd7zbnk1gsh6nzmqr"},
 {"v":"0.0.9","e":"^1.85.0","h":"1b4br23bgibn4hz7jili5d0ysxdwrmd6f3qnqb0qfcj554zbcgyd"},
