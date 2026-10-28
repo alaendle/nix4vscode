@@ -1243,6 +1243,10 @@
 {"v":"0.0.1","e":"^1.97.0","h":"0iw6sj1sj89k3n0m9jx43lqs6zy0vfsmbhpyxnm00ls3b2hiwz3s"}
 ],
 "bumbleb.bumbleb-acorn":[
+{"v":"0.1.1","e":"^1.90.0","p":"darwin-arm64","h":"1li7104s4ipdvls7zxbq3xx5jv5hb882fg2xgd2a8i83n1xiw1yc"},
+{"v":"0.1.1","e":"^1.90.0","p":"darwin-x64","h":"1d07bvggkqxc3x768krzcqxzj8xh8p9h1p27jqcyp2zlz3qssvjr"},
+{"v":"0.1.1","e":"^1.90.0","p":"linux-arm64","h":"0x31cp5jyy53fyf4ydl0hrx87hvahqn4kpjbr4ljm40fvmyg5mhi"},
+{"v":"0.1.1","e":"^1.90.0","p":"linux-x64","h":"051d6cm0yl6jvc3p6w130vxg5llyndjwyn0fhjavg13s74wvrkih"},
 {"v":"0.1.0","e":"^1.90.0","p":"darwin-arm64","h":"1idj72i5776fqp8ban0bklif188k1vvwndx3v43pvlcpvkrz7167"}
 ],
 "bwalter.aidl-vscode-extension":[
@@ -3582,6 +3586,10 @@
 {"v":"0.0.1","e":"^1.27.0","h":"1jsdi895a2c1k1agfpsalfyvap0yyngxwymax0yijhz7cfyzfrg9"}
 ],
 "jbaehova.markhov":[
+{"v":"0.5.0","e":"^1.90.0","h":"1s674rx5gnpcmqmjs816349zdngnc1saz4xsgkhw3n0xkq97ps1m"},
+{"v":"0.4.0","e":"^1.90.0","h":"03n9qndr93p6mhgjrdf7l57w14vj75iviy522i9pb13vnxr6lg0j"},
+{"v":"0.3.0","e":"^1.90.0","h":"00zsgjrz1g7xa3xd4vmlcgil36v1zf38s8z9a5rdh5g1iamks2hm"},
+{"v":"0.2.0","e":"^1.90.0","h":"0597lwxgqrnvi81lhn35fmrlm2cy823d0p685j1qa9bw8qd9yssv"},
 {"v":"0.1.0","e":"^1.90.0","h":"0rrc2ma0qh66ggcqq80a6hzr42jf6vl4fg492f98cscb6w9m20h9"}
 ],
 "jccoder.myscratchpad":[
@@ -7648,6 +7656,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"1zdi3wvmj2m5vx772iyn6dfmp7ch2rkr5wdbxdbg1c4pg0438v4x"}
 ],
 "stll.stella-folio":[
+{"v":"0.5.6","e":"^1.86.0","h":"006r47alfsw1ryvlcsgwkyci909gm0kqyv6wcx4imm6ym25y8s8v"},
 {"v":"0.5.5","e":"^1.86.0","h":"1pc5190z0yjg2pndavwrcp1yfaxn7d9l1fpgg2m3fgc3dka2wnm9"},
 {"v":"0.5.4","e":"^1.86.0","h":"0jvmkb3ra1rkv573ng676m7qm8bwzm6g24g31x1qp9kc3kx1wlf9"},
 {"v":"0.5.3","e":"^1.86.0","h":"10x1c83z67iyj6ynzhsrvxxlk3dng7w59g2cwi20yzypn7kbdhbn"},
