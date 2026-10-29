@@ -3329,6 +3329,9 @@
 {"v":"0.0.2","e":"^1.80.0","h":"1qmzg6ny8zacm5lrjrlbl49ii1vxpf4kmfqz18hqsx8qjcayy9l4"},
 {"v":"0.0.1","e":"^1.80.0","h":"1x6kmrcqxp8b51cg2bjl5p5kz6gzs9yknwwa7371yvzm10c78fw8"}
 ],
+"harish-chirati.coderelay":[
+{"v":"0.1.0","e":"^1.106.0","h":"0s35ga7sgn72spviszrqvmdgix4zva1ybsazyb2jsyvx4brhf738"}
+],
 "haritha-m.bento-containers":[
 {"v":"0.1.0","e":"^1.90.0","h":"04ka0f0ghv9z78x52srsvg01q7421lx6f3ywjdhiyij2p18qxx0l"}
 ],
@@ -4666,6 +4669,7 @@
 {"v":"1.1.3","e":"^1.33.0","h":"0z4nmbz4r2ccf5nb52ppccml0rz6kfln4rzylvhzy9gf22m55f55"}
 ],
 "konstantinsofeikov.nbreview":[
+{"v":"0.14.1","e":"^1.95.0","h":"02ik79wxc5qs1a4l41gsz04fas5381lds9365cr4vbir2xb1k5gf"},
 {"v":"0.14.0","e":"^1.95.0","h":"18x30cyxpcq994zf7h0mrhmj716h0yc6q113l36nzryidrpak9gj"},
 {"v":"0.13.1","e":"^1.95.0","h":"1sn62814c3l4m1ix3wy2rz9626ja4fyzxi16mk9f90q99qbbb1fr"},
 {"v":"0.13.0","e":"^1.95.0","h":"1mw78k3rqb1bc0glwinag6s00m1wvg6phsyl6icmi944s9kd7vdf"},
@@ -4993,6 +4997,9 @@
 {"v":"1.0.0","e":"^1.70.0","h":"12s4fij1yjhhm0n1my8c5v0vqlgqqbkh4sj35lkcj1z0nh6g1x9l"}
 ],
 "liamwynne.erd-studio":[
+{"v":"1.9.2","e":"^1.85.0","h":"0vi5x01mhm7r7ngf2mh00vjvvna5g91gbaig1nplgdz267dngfam","r":true},
+{"v":"1.9.1","e":"^1.85.0","h":"1bmga2hrqr7vxc93ydl24qwwvfpsdfgbnb07fq0yrzxwsizyh7qv","r":true},
+{"v":"1.9.0","e":"^1.85.0","h":"0v4drxcrkdz5741pc9cnc4c691vmch3i99gzlzy0nj23xbi3v859","r":true},
 {"v":"1.7.2","e":"^1.85.0","h":"00x972599qhmd7ndvrwkqj5agwdcrwk7svcbvfsakqrxgv3vvg4f"},
 {"v":"1.7.1","e":"^1.85.0","h":"1f9xs518ff4y1q0wdb4lxinl53sw6cn3fv32l96pfsnz1hak14ld"},
 {"v":"1.7.0","e":"^1.85.0","h":"0rps7fpi5hkbwz1n1yg3ry0wqba73c9z3lpx4a9npplvkch5s0v4"},
@@ -6537,6 +6544,7 @@
 {"v":"0.0.1","e":"^1.107.0","h":"01hwbw4qh418nvkacswr145q99ngpj7w30kxnpiikcdkq18ax4y2"}
 ],
 "nova-solutions.cell-cli-vscode-ide-companion":[
+{"v":"1.66.0","e":"^1.99.0","h":"0g5vbq8fd7089z0b5l68j0h3zf2h8s1lixpaa3v74wapwwjkh89w"},
 {"v":"1.64.0","e":"^1.99.0","h":"1hwk099z4g2krprssn8d355pngq6fa82rlsk4hv70h4l00ajpwak"},
 {"v":"1.60.0","e":"^1.99.0","h":"0nl761jyklkh01gg48nvkyb8aw84hqv16yck2k0rzlwz0i6vn69c"},
 {"v":"1.59.0","e":"^1.99.0","h":"1mparc3h4zp54pzz362mp3x7mvnj738c852x3zw9gymcn5lida9f"},
