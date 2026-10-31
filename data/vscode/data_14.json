@@ -3315,6 +3315,9 @@
 {"v":"1.0.0","e":"^1.74.0","h":"09gj5w9wy6fvlzlcwgz4ssgrc692z4pvgn7pwbk4bxsp1h9m0y9l"}
 ],
 "exeltarkus.lemari":[
+{"v":"1.11.3","e":"^1.78.0","h":"1gwmx61mn7zkh6lknnd0xmy14apm92h7fqdhxc7bvj7k9m17dxbl"},
+{"v":"1.11.2","e":"^1.78.0","h":"1ga7wh9i8fhw3w2kfrnqyvf41r9g1wadsqmlkilp9fgzzw9ybdg6"},
+{"v":"1.11.1","e":"^1.78.0","h":"0g1qdqdhd5m5hwq5x0x3if67zwhpm337wal9bf1b136x4zqkv4bd"},
 {"v":"1.10.4","e":"^1.78.0","h":"1csha1h4sq9p1q075h87476qzr1gns6xy9i043i52k1kxwlkflbq"}
 ],
 "faberrelleza.wrafjs-md-vscode":[
@@ -3917,6 +3920,11 @@
 {"v":"0.0.1","e":"^1.108.2","h":"1zrfqhfqbm038lmmnpf18d5d00gx16hrhg5l07fqsqkkmm6g7isf"}
 ],
 "gplane.wasm-language-tools":[
+{"v":"1.22.2","e":"^1.90.0","h":"18wkry20xdrm9q3ry4i3c4xnybbzhmc1ks7fhmdqh2r6wsmlw6p4"},
+{"v":"1.22.2","e":"^1.90.0","p":"darwin-arm64","h":"0gpdx7i0s5gysyrfg842alqh8qw5ka4lc8k7svywyjxiv7x3ngj6"},
+{"v":"1.22.2","e":"^1.90.0","p":"darwin-x64","h":"0xx75c5paqk53gksipmaan5b4fwl365xhnhqf9mi1rynmi3jysix"},
+{"v":"1.22.2","e":"^1.90.0","p":"linux-arm64","h":"0x4s7f83lngz2dlaq2n60iin50giiqk201p0swvslgvb57fk2yyj"},
+{"v":"1.22.2","e":"^1.90.0","p":"linux-x64","h":"1w1c4gji7mykyqbfp3ld5nn0nh0pkhk7a9ivc1lrli0vwq33ldnj"},
 {"v":"1.21.0","e":"^1.90.0","h":"00jvxdhq7vw228lksmd9b0fznxhgs1m9wzxysxqx7zlfbnmjfn5g"},
 {"v":"1.21.0","e":"^1.90.0","p":"darwin-arm64","h":"05d0k72j7iakcz8rkh8gqww5p3igvi7m33cp5b860r5jf639adxp"},
 {"v":"1.21.0","e":"^1.90.0","p":"darwin-x64","h":"063p1skrc6cfj91sczkm3cbl3xr0wcghay9aqff8ymlnckzx64j0"},
@@ -8063,6 +8071,8 @@
 {"v":"1.5.0","e":"^1.84.0","h":"1vj0zd73a584ppaw5gnldh2p9al561mbv3n4z20bynjqlj9i46qv"}
 ],
 "redocly.openapi-vs-code":[
+{"v":"0.15.25","e":"^1.82.0","h":"1k8zml700h5rl5685azv8r8hn3dgl4wc4z7h10jzrvcxhmcncf7z"},
+{"v":"0.15.24","e":"^1.82.0","h":"1b8253zixiqc0mhcanjjhsnl9zykg22ldzpy9x4n7n7anw2776y6"},
 {"v":"0.15.23","e":"^1.82.0","h":"09m31nlz3sw4bmgsyb431615sparhijlvdi4kip3zp2lz2i1nha4"},
 {"v":"0.15.22","e":"^1.82.0","h":"18blzi658dy41acpjwd77hwv0jgk6by31drzp4gbbdi7z8m0rfnn"},
 {"v":"0.15.21","e":"^1.82.0","h":"1pqf6fq0wdp0ki9hhz09nbk7rn7b4q586asaxp7l0lxr2fqmk6z6"},

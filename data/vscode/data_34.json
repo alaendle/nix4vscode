@@ -1108,6 +1108,7 @@
 {"v":"0.0.1","e":"^1.60.0","h":"119d0pwvk8kjrc2zcv242v7wd4znl2cn1vpl9jvrw1gifi1i1cwf"}
 ],
 "bigyap.vibalytics":[
+{"v":"2.0.0","e":"^1.85.0","h":"1r48xshdrlkmkkbwj9hcc3i6ngm0303ajz41mam4rhrd10zww4mh"},
 {"v":"1.4.2","e":"^1.85.0","h":"1pibvqaz811dixml3kckm42msgip0r4jvfyjm532cpms97f8v3sx"},
 {"v":"1.4.1","e":"^1.85.0","h":"1v4w76fx7bl7bc90kk7ylzw7k1pggpfg5qs7r2afbv3j41gk447y"},
 {"v":"1.4.0","e":"^1.85.0","h":"0vrfmi39hjabl359y539l63z36i8j07x3hqzqcnphf502x08bs0f"},
@@ -2023,6 +2024,9 @@
 {"v":"1.2.1","e":"^1.75.0","h":"11y1sk00vqpxkrdspwk1295in8bi82hna38j0d89phxrllm80g6q"},
 {"v":"1.2.0","e":"^1.75.0","h":"0kys7gpawnhxn1ikd5y6lkvpqfl83bsp7007d412hgjpm8ihgj81"}
 ],
+"dawson.local-reader":[
+{"v":"0.5.1","e":"^1.95.0","h":"1s94jbm0aj9wsbflnhv9jwnn02irrvwdql8hpsv1g1cq2whsw3fx"}
+],
 "daybotsolutionsinc.edgar-vibe-coding-ai":[
 {"v":"3.21.8","e":"^1.84.0","h":"0xcx65j1vnb4fz7mrk80z2kra2r4zbgbvx3r2x7i989ynwdpbd1g"},
 {"v":"3.21.7","e":"^1.84.0","h":"1v066z9z3r8v65wlfiv8pxmaa1pkxijajdm5k7q52bjfprdgdcgf"},
@@ -2800,6 +2804,7 @@
 {"v":"1.0.0","e":"^1.82.0","h":"1j0pnz7mw4pm83w34dc9d8hx9l88m78k8asifl4ihrs0l5fkq1if"}
 ],
 "fredrikvinkvist.the-downside-up":[
+{"v":"0.59.2","e":"^1.90.0","h":"0ipf0pl38a12vb0z8lxmrz489zczyhbv3a65s03n5zy7bdpirg78"},
 {"v":"0.56.2","e":"^1.90.0","h":"1bandpvjq5y3hqyrgslvc84y4ya8dc3y0mpqz36nk7q76b0n8c1v"},
 {"v":"0.56.1","e":"^1.90.0","h":"11ifnnvk2b2cnbhkrwqmh6yi42giiy5kxdn6zdi4im3rvs5pj2n6"},
 {"v":"0.56.0","e":"^1.90.0","h":"18chk1zrz4v42schmppv1sq24lvk7inpn9g5nfb66g663vbffda6"},
@@ -5098,6 +5103,7 @@
 {"v":"0.0.1","e":"^1.38.0","h":"1gqx42i25bd5ac2s3l0mh3s3mcv6dapg220m13njfdxhbcll82dz"}
 ],
 "microchip.mplab-clangd":[
+{"v":"2.1.0","e":"^1.113.0","h":"1dc4sxiz9fix2yqz2rqxz5mrgfhyvs2zwhx2hcbr0v96dkbz7gnx"},
 {"v":"2.0.0","e":"^1.88.0","h":"0dpll91jqsaxa1q2ww6g080s64208wq5hq6ms0j7596z6bsmwvag"},
 {"v":"1.9.0","e":"^1.88.0","h":"0kpvz9xm5irm8s46x55qkhwzhfjahy088gx21g9n3m17fl07j196"},
 {"v":"1.8.3","e":"^1.88.0","h":"1l8yb38qj29w0hil0aiv1rbkvmdyjc2dj5rh7zim8yz9iqyiyq33"},
@@ -5242,6 +5248,7 @@
 {"v":"0.2.0","e":"^1.81.0","h":"1h1yxdf51y814w6wsypzgqbsgl5h8hbzjfw1bb2c10a7za73sf7g"}
 ],
 "ms-python.flake8":[
+{"v":"2026.7.13031009","e":"^1.74.0","h":"14qc2hm5vqxyyvvz826sbj3p3rln7lry8yib5blranhf9dwb34qi","r":true},
 {"v":"2026.7.13021004","e":"^1.74.0","h":"1pcspz1961zvcjmn5ixf9mqbwv217q0xnk066cmrw42pm0098gbz","r":true},
 {"v":"2026.7.13011008","e":"^1.74.0","h":"1d979xjdzz1mnxk440hdrp7b72psinpkgff7f7ai6sq3d3fmdhmd","r":true},
 {"v":"2026.7.12881005","e":"^1.74.0","h":"0d13kpw9ibhgj6nva12wz4a6s75nxsy6m8g42a56ml9z2ch589sq","r":true},
@@ -8077,6 +8084,9 @@
 ],
 "skogrine.skogrine-theme":[
 {"v":"0.0.1","e":"^1.63.0","h":"1h65pnvzf6qqsxnnq9g7fbwifgrwb6ymgbkay3a025s3fimn494h"}
+],
+"skravciv.auto-bookmarks":[
+{"v":"2.3.0","e":"^1.90.0","h":"02q5ffay7kfa62j4d1p3s8mravg5ngb0rj4c3knyf21ayrlvyv8n"}
 ],
 "skrypt.skrypt-language":[
 {"v":"0.1.2","e":"^1.30.1","h":"0mxccbbwx30mxyfga3v7h9rl21n2izagnpr254zarfqa4dnmpwmy"},
