@@ -2498,6 +2498,7 @@
 {"v":"0.0.1","e":"^1.99.0","h":"13fizaqb9ib4zwrzh8lniwd4677j2cxfhxs7gxpv8h2id4c7qc0r"}
 ],
 "distronode.worldinmotion":[
+{"v":"0.1.7","e":"^1.140.0","h":"1aq8s4vlnc1sh8fchvvqkbn14hir17x50xx024dvdx7192dap4va","r":true},
 {"v":"0.1.6","e":"^1.140.0","h":"1jyn5wyqd8v8k00w47xb9yz7cp28qf8c22m7x5y8bai02hh5w3j1","r":true},
 {"v":"0.1.5","e":"^1.140.0","h":"0y421ysp5g8vfqsi5nlr7nc8pi94zmmcaa4m60idg87d7pw7rl5v","r":true},
 {"v":"0.1.4","e":"^1.140.0","h":"0m3icrrjx53kv6mfqblzrrisklgfv8w8dmjrjpqaqxk8k5qlhkax","r":true},
@@ -2894,6 +2895,9 @@
 {"v":"0.0.1","e":"^1.57.0","h":"0gy08nwaf02fabkdzxwzss4s59pc249vp58jx1nmlggkkfzdb9bk"}
 ],
 "expiracy.search-plus-plus":[
+{"v":"3.1.2","e":"^1.96.0","h":"0ss90v9sjzm96wxjxmqvvhpwag4270ba3wdcyid2qdr6vi6a6al3"},
+{"v":"3.1.1","e":"^1.96.0","h":"0xl46jkwv0vbh79k3b297f3r3gzsynvmka5zqys3ai9fap1h8awp"},
+{"v":"3.1.0","e":"^1.96.0","h":"1bfswczzrq906732gkiiqvv5birz8smcm0rza16rmq7aw74qpwlh"},
 {"v":"3.0.4","e":"^1.96.0","h":"04p78bpi9kcjznc2d5br8h7vx8gw0azi6g7b2sr2w8n9kak8njnv"},
 {"v":"3.0.3","e":"^1.96.0","h":"0lr7wbbv34177hi66a4zga2d4dg2zh0hs9y2ki3fch5d2chchbhg"},
 {"v":"3.0.2","e":"^1.96.0","h":"13i6yfy9aw3mrk8g4g5r5pm86cyw6idybs3gps2hcbg5npfzns5x"},
@@ -10327,6 +10331,9 @@
 {"v":"0.1.3","e":"^1.75.0","h":"156a3x9607vmnxxz3y6m29h2zgwcdl6rvvlyjhin3bzjji0bwggc"},
 {"v":"0.1.2","e":"^1.75.0","h":"1pkjssjfhhklq224gjxjlyb8k1kh3l77dyccpyna1yd18whg5b98"}
 ],
+"velstudio.learn-rust":[
+{"v":"0.1.0","e":"^1.95.0","h":"0skgyxnm2lr2h0f27b42jnxjzxdh451b4yzfliv66iyadk4ck1wq"}
+],
 "vikashsinha.blocknote-editor":[
 {"v":"0.0.13","e":"^1.85.0","h":"033zx0nk0s1a0ikzfcxnwk8g0xjz9wql0vn6aakvcyzj0vj7r333"},
 {"v":"0.0.12","e":"^1.85.0","h":"0l4md1g2hhd7ngip42m27plqmbgba8mc35majsnd4walbmk2zrcm"},
@@ -10862,6 +10869,7 @@
 {"v":"0.0.2","e":"^1.32.0","h":"0jc9m8svahsppzza6wqyvx3ywp58l7s0lgh1m1hgcs006z035w6w"}
 ],
 "xingmasoft.aiboter-bridge":[
+{"v":"0.0.162","e":"^1.85.0","h":"1xrnq4vws04ibxgjaix13raf12vnf21nvjj2v5al3z02k7qpzcab"},
 {"v":"0.0.161","e":"^1.85.0","h":"0a0yb81p3xx04d7nxagw5c9kqbijq1hdfmj05n7qbnsjgn0why8q"},
 {"v":"0.0.160","e":"^1.85.0","h":"07506hklkq6bq4fh82iwg5azhm7k77av09x67qilhdbc56m2mi0f"},
 {"v":"0.0.159","e":"^1.85.0","h":"19n4cy8ba7yw5vih52mg8vvmc4lxjj1hrrpc61pqv4plfinqzrkq"},
