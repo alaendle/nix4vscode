@@ -4305,6 +4305,7 @@
 {"v":"1.0.0","e":"^1.30.0","h":"1mmykinh7cm21062yw3mb8d520p65d45y04j3c0sp0xa93skjrv2"}
 ],
 "lawaty.lalog":[
+{"v":"0.7.9","e":"^1.93.0","h":"0ijh7b9nhzd0ljg7pzmwab94vjznkp6wyslnsb21jm5m5r5df15y"},
 {"v":"0.7.8","e":"^1.93.0","h":"1c48ky2kfcrif8jn45gajfzffrcj75531a8m1d08fi1k8061z1mz"},
 {"v":"0.7.7","e":"^1.93.0","h":"0kqf3fxhlq1lj4zn6hx9yc86wfv8n7ykaqw6fjk9v1rcnkix0pws"},
 {"v":"0.7.6","e":"^1.93.0","h":"1kgz00zpcap7myfz1m4h4kiajnsfqbgp4awhici87xf88zqlq51a"},
@@ -4836,6 +4837,13 @@
 {"v":"0.0.1","e":"^1.102.0","h":"0gj2ndqrlx6i972m0m2s6b3ywba1wq9bpk8iy4v27b4m8svyjyws"}
 ],
 "menihillel.bullseye-backlog":[
+{"v":"0.4.605","e":"^1.101.0","h":"13hks35nmrjs1da6gyc4xvn2x0fv4j9x3k503inzplwbk5hr5pjc"},
+{"v":"0.4.604","e":"^1.101.0","h":"07bhxaqmfbn56xjak44xa41qc7shvhhxbg3269j3169hsck77clw"},
+{"v":"0.4.603","e":"^1.101.0","h":"1i985202ira5ss7zyvq4fnpywas93dcv715jkbv6yvkyqvabi989"},
+{"v":"0.4.602","e":"^1.101.0","h":"0xfqaxz26skw2i40fd7qsq5gwm93b51k8r3s57fnzkgi47rvc822"},
+{"v":"0.4.601","e":"^1.101.0","h":"03slmwc127y6br24305dnv0s9c2q23waddd8cwb2256hs5715kyc"},
+{"v":"0.4.600","e":"^1.101.0","h":"1p46giag3jna4vlpmsvzsz7218c1rig7wl7cdka69d4wgj3y4bg6"},
+{"v":"0.4.599","e":"^1.101.0","h":"1pd7r2f7wj88fkbjn3c2f1z6isig224j3xzy4nwbwssbcx0jz93k"},
 {"v":"0.4.598","e":"^1.101.0","h":"12vsr6kbralffanikz6f8aw5aijd2b94ya7nynrp0nhgbnglsbh1"},
 {"v":"0.4.597","e":"^1.101.0","h":"1lnqnm973dmgmz1kmlc64xbbx5jwyval7x0b9ar97w09shks2bgp"},
 {"v":"0.4.596","e":"^1.101.0","h":"1qadggakzk493m3n7zkhiay6w6lywi5ss1pn01jkb51q0q6a76f9"},
@@ -5881,6 +5889,7 @@
 {"v":"0.1.0","e":"^1.0.0","h":"1fm73hq91bqpi2qvl6wvx2m07mmdmcyd28fj4zv34bvs7njll145"}
 ],
 "netclaw.netclaw":[
+{"v":"1.5.0","e":"^1.109.0","h":"1iw4qpw3a71dp9a5xq7waaz7xl0gpssnin8jhj0r4bh69hiaq87a"},
 {"v":"1.4.0","e":"^1.109.0","h":"1yfzwchsfjqma65z09qjyxmnacn9ragzayasq1mdwnk6j93753zy"},
 {"v":"1.3.0","e":"^1.109.0","h":"18k26y3q78i3wyhlrc8bj9gy5jrm4pq6g8009a2d5s7j1pky7ixp"},
 {"v":"1.2.0","e":"^1.109.0","h":"1hk3akbg61wrzmvqszviifz2pkmakyas1bn13rg4xpc3fpx03kv1"},
@@ -6580,6 +6589,10 @@
 {"v":"0.0.3","e":"^1.20.0","h":"1pcwcnh6gyhagsmnqcv6d25p6bagc0i7l2dlpzw15nw9ssng98hj"},
 {"v":"0.0.2","e":"^1.20.0","h":"0gnmcrj8q5zzp2zjllnbmqc0hf5py34yxw90i1vc37xcvfl9sl2g"},
 {"v":"0.0.1","e":"^1.20.0","h":"0c3a0xm0m7fbsa2m89h0ph33gflj9azjnqhmkirmmmhzf6sfp3ng"}
+],
+"ptyrig.ptyrig":[
+{"v":"0.1.1","e":"^1.95.3","p":"darwin-arm64","h":"1n1v5kr2xrfjx5k1b6pdcz8w6hqkazxa6i2gw3kciyxvi2ahmima"},
+{"v":"0.1.0","e":"^1.95.3","p":"darwin-arm64","h":"0jwn4d22l5kzxl289gqszy74xvdjpi7naz1338b48mm0r0j5jimb"}
 ],
 "qfilip.qbasics":[
 {"v":"0.0.4","e":"^1.42.0","h":"0c7b3wnf96zqj3hb10jyw251wr7pj35mbwwsyvzv7sypsqcjc81r"},
@@ -7352,6 +7365,7 @@
 {"v":"1.0.0","e":"^1.50.0","h":"1q9c3ffnyi5arb0vrbsq9xf9mjp3dn6mr3rjwd31y7s6b2x0l4zz"}
 ],
 "shanitiwari.pkg-installer":[
+{"v":"1.0.2","e":"^1.107.0","h":"0kagb9rhvz0d7w88f9sqc4675knpx8p9kbyrgi9ycfswmndx03lz"},
 {"v":"1.0.1","e":"^1.107.0","h":"0xg3z8pgk991md5hn99fkkj6nf2f0hh2h9r3blv7an0182ns751w"},
 {"v":"1.0.0","e":"^1.107.0","h":"1j3yrb3qfpph1bwizysz5lja9bhy4shlph0mvi2yxyn90gwdrm5m"}
 ],
