@@ -414,6 +414,14 @@
 {"v":"0.0.70","e":"^1.63.2","h":"16fig1mnrgap6s75ilgvcya88snbcdd37j0lq62ajwci35kf12w5"}
 ],
 "devseccode.deva-security":[
+{"v":"0.3.9","e":"^1.101.0","p":"darwin-arm64","h":"09dac9j1mzlwfpn4gjsvhlah9syiyigkpvbwhlwjc8iwbm3ka2zr"},
+{"v":"0.3.9","e":"^1.101.0","p":"linux-x64","h":"1k9z6bkqnc35plwnl8l1mmwbafsii9kavhc747293cvraf2b68lx"},
+{"v":"0.3.8","e":"^1.101.0","p":"darwin-arm64","h":"0ig5f32ny465wpmfi4g48panxyjifrf6g7pgm89jmcnndmz2zd8x"},
+{"v":"0.3.8","e":"^1.101.0","p":"linux-x64","h":"0s9506hgj0v2cjs8f4p2ij9cbl8zbr0w15p5i5wl4n5y367gckap"},
+{"v":"0.3.7","e":"^1.101.0","p":"darwin-arm64","h":"092vyyvn87x6az9k64p45sbqckmjgg1i4fkgglvyx4bns6s54xd2"},
+{"v":"0.3.7","e":"^1.101.0","p":"linux-x64","h":"01m967ad6ri6nnkxn5wwid46x5acq92dk1y0pms6ha0makyinwrp"},
+{"v":"0.3.6","e":"^1.101.0","p":"darwin-arm64","h":"0jrw43ayhcqz7hqpzldfyraiaj9zdrid7bfmdq244i3vhniawbsz"},
+{"v":"0.3.6","e":"^1.101.0","p":"linux-x64","h":"0pb2ly5gxaxi163mcr6nqmmdvbpxmxr5ficd5zw8479dglw0bkgs"},
 {"v":"0.3.5","e":"^1.101.0","p":"darwin-arm64","h":"01qghmzzh951ay7ay6n5xjl95br8qhhj2rlp7q3qkaas593lz8dh"},
 {"v":"0.3.5","e":"^1.101.0","p":"linux-x64","h":"0m04db8lb1im3np856gwp2hhrm0g8ax68awlrddsjm8srw3i1gfr"},
 {"v":"0.3.4","e":"^1.101.0","p":"darwin-arm64","h":"0yvmd294ar11rkh945iam9a8lv5afc3rwz6qsm7z5pp6fh8lm706"},
@@ -458,6 +466,7 @@
 {"v":"0.1.0","e":"^1.90.0","h":"0mc4vblcgan8hx0iiw4b7js0v4vgg2lz3l3zk7dh923g0lkl5k77"}
 ],
 "eldiyar-dev.simpler-flutter-tasks":[
+{"v":"4.0.6","e":"^1.80.0","h":"1yvi4425k07v94s34r9bwv5bmxvvkdka1q1j0bwzx5rcg5sl9wl3"},
 {"v":"4.0.5","e":"^1.80.0","h":"19c0zpx4d9i3iz76chnp7igbvsywidsxcp88y8bnns8b0jbw42r7"},
 {"v":"4.0.4","e":"^1.80.0","h":"14pqrr43kq2bf90dqmh1gaynsq7zah800b9vz9mmj6njfhapzvzi"},
 {"v":"4.0.3","e":"^1.80.0","h":"0j4j247j1c8bsqpan0z945spi0wawf8ppdn0a6fdc9wccmrc7bpd"},
@@ -1796,6 +1805,7 @@
 {"v":"1.0.6","e":"^1.36.1","h":"1lb7xphr67kpr9zkqglxa77r1affbv7m805hp41jw9rqysnwx56l"}
 ],
 "swirlsai.vscode-swirls":[
+{"v":"0.0.111","e":"^1.85.0","h":"1cp16bar7fmv78dkajfnb3x5jqifhjf7hinifsdfsfn4ykvj00cl"},
 {"v":"0.0.110","e":"^1.85.0","h":"10apnz9fj6039ci7w01k4mx9q5f4ppmw1grhb1m460d6pb9y6fl2"},
 {"v":"0.0.109","e":"^1.85.0","h":"17sqvg23c34qhj7x2xd9x9dwwmrmvd0zg8a865kv07m3g89vidj3"},
 {"v":"0.0.108","e":"^1.85.0","h":"1z4xh6336p9rzqqwghq8d3g54lnvrfybh5c3r0f0k0ha84qx65cj"},
