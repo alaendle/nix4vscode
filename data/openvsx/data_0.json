@@ -497,6 +497,9 @@
 "ikaros.glm-for-copilot":[
 {"v":"0.1.0","e":"^1.116.0","h":"1nkz1079i7r3c8bbdp053yfjm81ggq0vq25zj6gr7ccpcmfq9lp6"}
 ],
+"irwinarruda.barro-theme":[
+{"v":"0.1.0","e":"^1.70.0","h":"1sj1s9ly7n3l5hn24vl12vcg23973wazk5b84sy3h5pq1c7jnmp3"}
+],
 "itcode.git-workbench":[
 {"v":"0.1.3","e":"^1.90.0","h":"0q1b7w79hw6fky8jgb08i6rkgrafps8q92q11ccl7z49q0h4qyak"},
 {"v":"0.1.2","e":"^1.90.0","h":"1rirnq3zqqbn2lnhc8bjq9vxrf68gdr0259amlgrj5825fkj1v8v"},
@@ -906,6 +909,10 @@
 {"v":"0.10.0","e":"^1.85.0","h":"00kh3w9pc8gmc1yahz2vs6p8ai5igx9pbzk7ynf0ybw8w0qhxgfj"}
 ],
 "nx-lang.nx-language":[
+{"v":"0.11.0","e":"^1.90.0","p":"darwin-arm64","h":"0vcdf0g0abcvsaqjkj998lcjwk9lq7by90sb11d8dg0yb1k4pmya"},
+{"v":"0.11.0","e":"^1.90.0","p":"linux-x64","h":"0551n7pa3cgh1hx3ragsvgyym2rbmm4finj0xsf60ccg94xd64id"},
+{"v":"0.10.0","e":"^1.90.0","p":"darwin-arm64","h":"04r9w2f83xzcnpcvnx8q8pym4ifm6xx7q4vpss5pf78symr5dxpj"},
+{"v":"0.10.0","e":"^1.90.0","p":"linux-x64","h":"0072qy7bib99z7mdnifl2drcnayqn2zvjbmipyfkl57x04n67r3r"},
 {"v":"0.9.0","e":"^1.90.0","p":"darwin-arm64","h":"082lfi7s17rwyr3syqmy883q7y4vw0zdm69cr616lbz6nivnw8a9"},
 {"v":"0.9.0","e":"^1.90.0","p":"linux-x64","h":"11wf2ajyr81v3nfnvjpl3vbd9ifhn5layk0rbcry0nrirslfj3jj"},
 {"v":"0.8.0","e":"^1.90.0","p":"darwin-arm64","h":"1p5qinvv9c2k1dnfyf8gn6329nq49s9kii5j3gjbm8r281i5vj4i"},
