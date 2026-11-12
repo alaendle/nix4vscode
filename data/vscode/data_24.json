@@ -458,6 +458,11 @@
 {"v":"0.4.6","e":"^1.85.0","h":"05gd756z72c6rx03wf07gjhylkr1d2skhy2xldjr7a89n5ll6yg4"},
 {"v":"0.4.5","e":"^1.85.0","h":"1vk2k74gv7jm6m6fmx5iifxl1pa1r5y5bw0mmnbqm46jpya2kg16"}
 ],
+"andreashuthe.intellij-islands-theme":[
+{"v":"1.0.3","e":"^1.85.0","h":"1y3fndgvbxivaxncdwvihscmn659vkcddm57ph3r4vy141vxyinx"},
+{"v":"1.0.2","e":"^1.85.0","h":"1synixp4i136qhf5igx4364861qshgv38dbm5ggfiayyvwclibwi"},
+{"v":"0.1.0","e":"^1.85.0","h":"1rh76bkmxax5p9jnw5d8l5bdkgghzwb3vzg33jsz6pv5sghy7bzx"}
+],
 "andres-munoz.html-selection":[
 {"v":"1.0.0","e":"^1.100.0","h":"0vdpp1y93glq6d7xwr6h2ipmdcpdil9vczqadw9k016n329dn9z7"}
 ],
@@ -6675,6 +6680,8 @@
 {"v":"1.0.1","e":"^1.104.0","h":"0a8zfz4fqfbh6nfk3riz3pfi26a1anzgic076xh0bb3pyrw3z8rd"}
 ],
 "nexotecklabs.nexoteck-ai":[
+{"v":"2.1.0","e":"^1.93.0","h":"1f0fjyavhh7b7339dn1wmdmnzlzz3il1kklj0y6vc97kllm2s1fj"},
+{"v":"2.0.3","e":"^1.93.0","h":"0192cnp1gjws4whf19f37hyys44mr4k96b2xc76v0m62z1x12qj5"},
 {"v":"2.0.2","e":"^1.93.0","h":"1mvjws9kxy1w43rxck7g3vh31yiamx54760mqa2x3prqc84r4lqm"},
 {"v":"2.0.1","e":"^1.93.0","h":"0yqsxnhsr10xbzjclk5zr4x3dlmfgncax2abjq21327wh4dv724g"},
 {"v":"2.0.0","e":"^1.140.0","h":"06nkvmpkmd860rg37g94k6zkqa735pmz7wk6d85x6slmhx7766bj"},
@@ -9157,6 +9164,9 @@
 {"v":"0.0.1","e":"^1.67.0","h":"19isrm21sshncwllck4b0g6p8l63hbw40vbzansj0zz667kfm01c"}
 ],
 "touba.touba-tools":[
+{"v":"1.0.6","e":"^1.143.1","p":"darwin-arm64","h":"0sq2w2wvjwdkiq9nglcg6mndx6rhlaa82cskrs67m31fknnhrg1n"},
+{"v":"1.0.6","e":"^1.143.1","p":"darwin-x64","h":"14m93a0irdv242cfhjqpgpfg6k5gmgv9y926b1h5aqvdva9jb6gd"},
+{"v":"1.0.6","e":"^1.143.1","p":"linux-x64","h":"057l3mca3p50k0wyqxw47g09jy05nvjxmksvkv8iiml7haw7zm3w"},
 {"v":"1.0.5","e":"^1.143.1","p":"darwin-arm64","h":"1p1qa5ghwrzjpvgdansn8yr97dvimvg6d7vnwdjbhfjm40xw73bg"},
 {"v":"1.0.5","e":"^1.143.1","p":"darwin-x64","h":"0kbl99rj5wa51ayjc6mg6c9gcphhl0z8lzigdd999idymrkny7lz"},
 {"v":"1.0.5","e":"^1.143.1","p":"linux-x64","h":"04mhpk0pzansfgml79j76yrqggd7hrc5yb2gq0kp4dppznkpigxn"},
@@ -9762,6 +9772,7 @@
 {"v":"0.0.1","e":"^1.31.0","h":"0pqwj187yf3wy2aj345zw597hmwxn5mmb8x937q607mz25pmvgi2"}
 ],
 "yangmzh.xorcore-bmc-devstudio":[
+{"v":"0.0.7","e":"^1.114.0","h":"0ba1lf521k4wkdhgrvgi9ch4xykx6680jqs9l92cs89nsqr19v1g"},
 {"v":"0.0.6","e":"^1.114.0","h":"1f0q9xjrw79gwmiihxkc162ad5v9asrwm9fj7smnnmp15d81bvi1"},
 {"v":"0.0.5","e":"^1.114.0","h":"162vpdwgvgl3znfrkxigslfnrnivy66x87b5arikbwp1ial40ggd"},
 {"v":"0.0.4","e":"^1.114.0","h":"1pb41jxlf496kzigndm2pm2sj2sjbf33bnshxk58r4pbsjxfg5f4"},
