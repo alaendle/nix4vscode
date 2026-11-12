@@ -227,6 +227,11 @@
 {"v":"1.0.1","e":"^1.99.1","h":"0m3j4q82wqf362kh1ij9kh292z3fkj406wfp9mj3n5vlnlrbs4vy"},
 {"v":"1.0.0","e":"^1.99.1","h":"1gw40fbngp0f22k9hnkyyhw287j9xvwfykazw6fymygfdpsvy74m"}
 ],
+"corentin-gautier.source-control-graph-plus":[
+{"v":"0.8.2","e":"^1.100.0","h":"1d5hy047f0bmcw22wadzvw014nq7lxjsa4xnxsc9qlklm86gnh43"},
+{"v":"0.8.1","e":"^1.100.0","h":"00lkb2arw8pm8sf892i5y7vpcrylfsin2y78vzqbmwfaw3wfr8w8"},
+{"v":"0.8.0","e":"^1.100.0","h":"140s0w2zhylgafmv8yg64c47yxnmjyj2hczmypkhjzm407blag45"}
+],
 "crazywook.probe":[
 {"v":"0.0.6","e":"^1.75.0","h":"1p1qgdp10405134k13qshy6vfs84xnamymls8s14q8nsp9zn5zaz"},
 {"v":"0.0.5","e":"^1.75.0","h":"1daq1sd7fg72jq8hmzkkxmsd64gqf0dpxp296x1x4rdhgfp2wa9c"},
@@ -1217,6 +1222,7 @@
 {"v":"2025.8.652","e":"^1.90.0","p":"linux-x64","h":"189c3ddxyan8h9pxn4lh6y02pixbizaci218v5367fdhpxri1a5h","r":true}
 ],
 "novair.ai-cost-per-client":[
+{"v":"1.1.0","e":"^1.85.0","h":"05ylvgg02xljnzmnaz15l9qm6b011gg5lp71z6fplwhi29wka8xi"},
 {"v":"1.0.1","e":"^1.85.0","h":"063ki01k9h3zd6m3i6qrwpz66l71pm3yxhavcd6an4f5xy51r7xg"},
 {"v":"1.0.0","e":"^1.85.0","h":"17n662kky3lm89sbw4lngdzwx76bqi6si6caqdv7hxfxfw20c9g4"}
 ],
