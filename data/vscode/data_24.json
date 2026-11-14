@@ -895,6 +895,10 @@
 {"v":"2.1.0","e":"^1.80.0","h":"1gg2cncjpym3fjh1ga5bgm8xpn8pjqamvb84h8gsxp1m4qnd2958","r":true},
 {"v":"2.0.0","e":"^1.80.0","h":"04hgylbg5pd11naca66ammql154ywwj8g5d7q7c8jgr5lar0s8w3","r":true}
 ],
+"biomotum.biomotum-developer":[
+{"v":"0.0.2","e":"^1.74.0","h":"1b3sjx8pxnf41kxx2pg78x32jjarsjhqmiv9lj20dyq7virr29j4"},
+{"v":"0.0.1","e":"^1.74.0","h":"1258qr7c7p8pw3smwb4fqnqg0nm7mvlhrjdxjg5400pw88xmwl8h"}
+],
 "bishopcotech.nunchucks-syntax":[
 {"v":"0.0.2","e":"^1.85.0","h":"0c0s6lna6lzc4n3q5rcqidpraqfbjgfjxhrhk68l5ivm9sksmzwk"},
 {"v":"0.0.1","e":"^1.85.0","h":"0231yz5r8j884729zi0y70xxa36r987aqs6q4dyqw19clqlmmsdn"}
@@ -1823,6 +1827,7 @@
 {"v":"1.0.0","e":"^1.98.0","h":"04bk46sg9jr1x0ad8j9r259h9rymchhr2jp5fhb9fm6klbw39pwl"}
 ],
 "daynizm2000.dark-purple-theme":[
+{"v":"0.0.6","e":"1.121.0","h":"0jk9s0m2sfdn551wbhlqljsshw6aifbbm935cwzyz0k84rddf327"},
 {"v":"0.0.5","e":"1.121.0","h":"19j1idx63mfj0kzvh9nkxs8jv3jg1y0p2gc1rr69l063dvigwp9p"},
 {"v":"0.0.4","e":"^1.108.1","h":"1pizj3v98ajzn2q8g9065ghqblqdmqsj2s628ws2mj4hvxa9szxi"},
 {"v":"0.0.3","e":"^1.108.1","h":"1z4v4dck4kc3xh92fjy6j76sik7lvjllbg539l5rjb9kilrmvnjw"},
@@ -5730,6 +5735,7 @@
 {"v":"0.1.0","e":"^1.56.0","h":"1fc4fbi6ry5xp22kzfb7567wwp68vy4vzdzb832byqbc2b2ffzgg"}
 ],
 "lucianodileonardo.aap-vscode":[
+{"v":"1.0.2","e":"^1.85.0","h":"0fkva2937yc6dvwj3y1vc2jizckc4x09sgrfnvskyf16jzgkz1jk"},
 {"v":"1.0.1","e":"^1.85.0","h":"1wl2f1h5zlwpm5f478nagzrygggh0nnsfk59q2nm3bfhw0fks069"}
 ],
 "lucidian.mojicode":[
@@ -6103,6 +6109,7 @@
 {"v":"0.1.0","e":"^1.85.0","h":"0n38kl6z6h22rz9h3288jpb8qisnvpn1gqbq638r0pq0ckgji7v7"}
 ],
 "mianliwang.pietto-vscode-extension":[
+{"v":"0.4.0","e":"^1.90.0","h":"1h1b81cxrn4pyh92502p4hphqy53f60fv9vd3gp2yp2irqdhixmq"},
 {"v":"0.2.1","e":"^1.90.0","h":"1sqqd6hmjbw6w56df2fgwf10zniikjn9qlav7fg2smcmx1nji74w"},
 {"v":"0.2.0","e":"^1.90.0","h":"1lpivq28yp2bsnmrg6shnyb60pk21lk21sj6ghhfnch2xpx85w4b"},
 {"v":"0.1.1","e":"^1.90.0","h":"18li3wph6i2ljkxw1dr06fxhl8l9ipdqiknpiiq65fq9j9ygnxsl"},
